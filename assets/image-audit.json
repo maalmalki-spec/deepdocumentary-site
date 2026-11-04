@@ -1,0 +1,87 @@
+[
+  {
+    "page": "articles/mary-celeste.html",
+    "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/chernobyl.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA%2002790015%20(5613115146).jpg?width=1200",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/chernobyl.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA%2002790036%20(5613126700).jpg?width=1200",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/apollo-8.html",
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/apollo8_earthrise.jpg?fit=contain&w=1200&h=800",
+    "local": "assets/images/apollo-8/a2627f32ef56.webp",
+    "status": "archived",
+    "credit": "NASA"
+  },
+  {
+    "page": "articles/apollo-8.html",
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/apollo8_earthrise.jpg?crop=faces%2Cfocalpoint&fit=crop&h=150&w=150",
+    "status": "download_failed",
+    "error": "Image too small"
+  },
+  {
+    "page": "articles/apollo-8.html",
+    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/black-holes.html",
+    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1500&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=960",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=900&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=900&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=900&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=900&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=900&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
+    "url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  }
+]
