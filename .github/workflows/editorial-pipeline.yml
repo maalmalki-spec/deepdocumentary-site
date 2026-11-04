@@ -18,6 +18,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Discover candidate scholarly sources (no AI charges)
+        run: python scripts/editorial_research.py
       - name: Generate bilingual editorial drafts (manual test only)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -34,7 +36,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -z "$(git status --porcelain editorial/generated)" ]; then
+          if [ -z "$(git status --porcelain editorial/generated editorial/research)" ]; then
             echo "No new drafts; nothing to submit."
             exit 0
           fi
@@ -42,7 +44,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
-          git add editorial/generated
+          git add editorial/generated editorial/research
           git commit -m "Add bilingual documentary drafts for editorial review"
           git push origin "$BRANCH"
-          gh pr create --title "Editorial review: documentary drafts #${GITHUB_RUN_NUMBER}" --body "Automatically generated **drafts only**. DO NOT merge/publish before factual verification, source and image rights review, Arabic/English copyediting and visual QA." --base "${GITHUB_REF_NAME}" --head "$BRANCH"
+          gh pr create --title "Editorial review: documentary drafts #${GITHUB_RUN_NUMBER}" --body "Automatically generated **drafts and scholarly research candidates only**. Sources are not fact-checked. DO NOT merge/publish before factual verification, source and image rights review, Arabic/English copyediting and visual QA." --base "${GITHUB_REF_NAME}" --head "$BRANCH"
