@@ -5,7 +5,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 QUEUE=ROOT/"editorial/production-queue.json"
 OUT=ROOT/"editorial/generated"
 MODEL=os.getenv("OPENAI_MODEL","gpt-4.1-mini")
-MAX_CALLS=int(os.getenv("MAX_API_CALLS_PER_RUN","3"))
+MAX_CALLS=int(os.getenv("MAX_API_CALLS_PER_RUN","7"))
 MAX_DRAFTS=int(os.getenv("MAX_DRAFTS_PER_RUN","1"))
 calls=0
 
@@ -29,23 +29,46 @@ def valid_language(obj,lang):
     if not isinstance(sections,list) or len(sections)<10: return False
     return words(obj.get("lead"))+sum(words(x.get("body")) for x in sections)>=1500
 
+def ask_lead_from_sections(sections,lang):
+    # Extract an opening passage from the first section without an additional paid request.
+    first=sections[0]["body"].strip()
+    return first[:350].rsplit(" ",1)[0]+"…" if len(first)>350 else first
+
 def produce(item):
     title=item["title_en"]+" / "+item["title_ar"]
     research=ask(
         "You are a careful documentary research planner. No web access. Never claim to have verified a source, link, quotation, image or fact. Output JSON.",
         f"""Build a rigorous research and narrative plan for {title}. JSON fields: timeline (array of dated event descriptions), evidence (array of facts with confidence and verification_needed), disputed_claims (array), source_research (array of institution/publication search targets, not invented URLs), suggested_visuals (array of archival image/map/document search instructions with rights_to_verify=true), sections (array of 10-12 paired heading_ar/heading_en and evidence notes). Do not invent citations. Label uncertain facts VERIFY.""",
         3500)
-    common="""You write a compelling, accurate documentary narrative, not a generic encyclopedia entry. Start with an arresting *documented* moment, sustain narrative tension with evidence, reveal competing explanations fairly, and end with a meaningful resolution or open question. Never invent dialogue, feelings, quotations, source links or scenes. Mark uncertainty explicitly. In EVERY article weave in at least two vivid, verifiable real-world anecdotes or micro-stories involving documented people/events, plus two concrete explanatory examples that help readers grasp the stakes. Integrate them naturally into the narrative rather than as disconnected lists. Do not invent characters, conversations or anecdotal details; if a story cannot be supported by research, flag it VERIFY and do not assert it as fact. No filler, repetition, or exaggerated claims. Return JSON only with fields title, lead, sections (array of 10-12 objects each with heading, body), claims_to_verify (array). Each language must have 1500-2500 meaningful words TOTAL; each section must be substantial. Draft only, NOT fact-checked."""
-    plan=json.dumps(research,ensure_ascii=False)
-    ar=ask(common+" Write original idiomatic Modern Standard Arabic, not a translation.",f"Arabic article: {item['title_ar']}. Follow research plan (unverified; do not treat as verified): {plan}. 1500+ Arabic words. JSON only.",7600)
-    en=ask(common+" Write natural original English, not a literal translation.",f"English article: {item['title_en']}. Follow same research plan (unverified): {plan}. 1500+ English words. JSON only.",7600)
+    # Three separately bounded parts per language prevent short single-response drafts.
+    outlines=research.get("sections",[])
+    if len(outlines)<10: raise RuntimeError("Research outline has fewer than ten sections")
+    groups=[outlines[i:i+4] for i in range(0,len(outlines),4)]
+    if len(groups)!=3: raise RuntimeError("Expected 10-12 outline sections")
+    language_results={}
+    for lang in ("ar","en"):
+        chunks=[]
+        for i,group in enumerate(groups):
+            prompt=f"""Topic: {title}. Language: {lang}. Part {i+1} of 3.
+Write ONLY the following {len(group)} sections in the same order:
+{json.dumps(group,ensure_ascii=False)}
+Research notes are unverified, not proof: {json.dumps(research.get('evidence',[]),ensure_ascii=False)[:4500]}
+Return JSON object with sections: array of objects each with heading and body, plus claims_to_verify: array.
+Each section must have 160-230 meaningful words in the requested language. Target 650-850 words for this part, so the complete article exceeds 1500 words. Do not add a lead or conclusion outside these sections. Every article must integrate at least two verifiable real-world micro-stories and two concrete explanatory examples across its sections. Never invent dialogue, scenes, people, quotes, links, citations, or image rights. Mark disputed or unsupported details VERIFY. Maintain narrative continuity, no filler."""
+            chunk=ask("You are a meticulous documentary storyteller. Write original, fluent Arabic for ar and idiomatic English for en. Each section must be substantive, evidence-aware and vivid without fabricated details. JSON only.",prompt,4100)
+            part=chunk.get("sections",[])
+            if len(part)!=len(group) or any(not x.get("heading") or not x.get("body") for x in part):
+                raise RuntimeError(f"Malformed {lang} part {i+1}")
+            chunks.append(chunk)
+        sections=[section for chunk in chunks for section in chunk["sections"]]
+        lead=ask_lead_from_sections(sections,lang)
+        language_results[lang]={"sections":sections,"lead":lead,"claims_to_verify":[claim for chunk in chunks for claim in chunk.get("claims_to_verify",[])]}
+    ar=language_results["ar"];en=language_results["en"]
     if not valid_language(ar,"ar") or not valid_language(en,"en"):
-        print(f"REJECTED {item['slug']}: ar={words(ar.get('lead'))+sum(words(x.get('body')) for x in ar.get('sections',[]))}; en={words(en.get('lead'))+sum(words(x.get('body')) for x in en.get('sections',[]))}",file=sys.stderr)
+        print(f"REJECTED {item['slug']}: ar={words(ar['lead'])+sum(words(x['body']) for x in ar['sections'])}; en={words(en['lead'])+sum(words(x['body']) for x in en['sections'])}",file=sys.stderr)
         return False
-    if len(ar["sections"])!=len(en["sections"]):
-        print("REJECTED: language section counts differ",file=sys.stderr);return False
     sections=[{"heading_ar":a["heading"],"body_ar":a["body"],"heading_en":b["heading"],"body_en":b["body"]} for a,b in zip(ar["sections"],en["sections"])]
-    data={"slug":item["slug"],"title_ar":ar.get("title") or item["title_ar"],"title_en":en.get("title") or item["title_en"],"lead_ar":ar["lead"],"lead_en":en["lead"],"sections":sections,"claims_to_verify":research.get("disputed_claims",[])+ar.get("claims_to_verify",[])+en.get("claims_to_verify",[]),"suggested_visuals":research.get("suggested_visuals",[]),"source_research":research.get("source_research",[]),"research_timeline":research.get("timeline",[]),"research_evidence":research.get("evidence",[]),"status":"needs-human-review","verified_sources":[],"licensed_images":[]}
+    data={"slug":item["slug"],"title_ar":item["title_ar"],"title_en":item["title_en"],"lead_ar":ar["lead"],"lead_en":en["lead"],"sections":sections,"claims_to_verify":research.get("disputed_claims",[])+ar["claims_to_verify"]+en["claims_to_verify"],"suggested_visuals":research.get("suggested_visuals",[]),"source_research":research.get("source_research",[]),"research_timeline":research.get("timeline",[]),"research_evidence":research.get("evidence",[]),"status":"needs-human-review","verified_sources":[],"licensed_images":[]}
     OUT.mkdir(parents=True,exist_ok=True)
     (OUT/(item["slug"]+".json")).write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     return True
@@ -53,12 +76,12 @@ def produce(item):
 def main():
     if not os.getenv("OPENAI_API_KEY"):
         print("Missing API key; no charges incurred.");return
-    if MAX_CALLS<3: raise RuntimeError("Three calls required: plan, Arabic, English")
+    if MAX_CALLS<7: raise RuntimeError("Seven calls required: research plan and three parts per language")
     completed=0
     for item in json.loads(QUEUE.read_text(encoding="utf-8")):
         slug=item["slug"]
         if (OUT/(slug+".json")).exists() or (ROOT/"articles"/(slug+".html")).exists(): continue
-        if calls+3>MAX_CALLS: break
+        if calls+7>MAX_CALLS: break
         try:
             if produce(item): completed+=1
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,RuntimeError,KeyError,TypeError) as e:
