@@ -1,0 +1,75 @@
+{
+  "article": "articles/secure-your-online-accounts-step-by-step.html",
+  "images": [
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-01.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-02.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-03.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-04.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-05.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-06.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-07.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-08.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    },
+    {
+      "path": "assets/images/secure-your-online-accounts-step-by-step/step-09.svg",
+      "type": "original vector instructional diagram",
+      "author": "Deep Documentary",
+      "license": "Original site artwork",
+      "note": "Schematic illustration, not an actual screenshot"
+    }
+  ],
+  "references": [
+    "https://support.google.com/accounts/answer/46526",
+    "https://support.google.com/accounts/answer/185839",
+    "https://support.google.com/accounts/answer/6294825",
+    "https://support.microsoft.com/en-us/accounts-billing/security/how-to-use-two-step-verification-with-your-microsoft-account",
+    "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-recover-a-hacked-or-compromised-microsoft-account"
+  ]
+}
