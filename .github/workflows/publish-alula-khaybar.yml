@@ -1,0 +1,44 @@
+name: Verify AlUla images and publish
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/publish_alula_khaybar.py'
+      - '.github/workflows/publish-alula-khaybar.yml'
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests Pillow
+      - name: Download and validate licensed Commons images; publish only if 5 pass
+        run: python scripts/publish_alula_khaybar.py
+      - name: Verify locally referenced images exist
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          s=Path('articles/alula-khaybar-archaeology.html').read_text()
+          paths=re.findall(r'src="(\.\./assets/images/alula-khaybar-archaeology/[^"]+)"',s)
+          assert len(set(paths))>=5, 'Fewer than 5 distinct images'
+          for p in paths:
+              assert (Path('articles')/p).resolve().is_file(),p
+          print('Verified',len(set(paths)),'local image references')
+          PY
+      - name: Commit article, homepage, sitemap and licensed images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles/alula-khaybar-archaeology.html index.html sitemap.xml assets/images/alula-khaybar-archaeology
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish AlUla and Khaybar with verified locally archived licensed photographs"
+            git pull --rebase origin main
+            git push origin main
+          fi
