@@ -1,0 +1,9 @@
+/* Shared footer across all Deep Documentary pages */
+footer.dd-unified-footer{box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:0!important;padding:27px 16px 23px!important;background:#0e0e0e!important;border-top:1px solid #6b5225!important;color:#c6b17e!important;text-align:center!important;font:12px/1.8 Tahoma,Arial,sans-serif!important}
+footer.dd-unified-footer .dd-footer-logo{display:block!important;width:44px!important;height:44px!important;object-fit:contain!important;margin:0 auto 8px!important}
+footer.dd-unified-footer .dd-footer-title{color:#d7b767!important;font-size:12px!important;margin:0 0 9px!important}
+footer.dd-unified-footer .dd-footer-links{display:flex!important;flex-wrap:wrap!important;justify-content:center!important;align-items:center!important;gap:7px 17px!important;margin:0 auto 10px!important;max-width:950px!important}
+footer.dd-unified-footer .dd-footer-links a{color:#d4bf8a!important;text-decoration:none!important;font-size:12px!important}
+footer.dd-unified-footer .dd-footer-links a:hover{text-decoration:underline!important}
+footer.dd-unified-footer .dd-footer-copy{font-size:10px!important;color:#ad976b!important}
+@media(max-width:560px){footer.dd-unified-footer{padding:22px 12px!important}footer.dd-unified-footer .dd-footer-links{gap:7px 12px!important}footer.dd-unified-footer .dd-footer-links a{font-size:11px!important}}
