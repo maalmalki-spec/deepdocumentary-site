@@ -1,8 +1,7 @@
 name: Documentary editorial pipeline
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '15 5 * * *'
+  # Daily schedule paused until source verification, article-length QA and cost controls pass.
 permissions:
   contents: write
   pull-requests: write
@@ -19,10 +18,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Generate up to two bilingual editorial drafts
+      - name: Generate bilingual editorial drafts (manual test only)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+          MAX_DRAFTS_PER_RUN: '1'
         run: python scripts/editorial_pipeline.py
       - name: Open draft review pull request
         env:
