@@ -48,6 +48,7 @@ def discover(item):
 def main():
     for item in json.loads(QUEUE.read_text(encoding="utf-8")):
         slug=item["slug"]
+        if slug in set(filter(None,os.getenv("SKIP_SLUGS","").split(","))): continue
         if (OUT/(slug+".json")).exists() or (ROOT/"articles"/(slug+".html")).exists():continue
         path=RESEARCH/(slug+"-sources.md")
         if path.exists():
