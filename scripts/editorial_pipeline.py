@@ -48,7 +48,7 @@ def load_verified_research(item):
     valid=[u for u in urls if urlparse(u).hostname and "." in urlparse(u).hostname]
     if len(set(valid))<3:
         raise RuntimeError("Research dossier needs at least three distinct source URLs; zero API calls")
-    return dossier, list(dict.fromkeys(valid))
+    if "AUTO-DISCOVERED / NOT VERIFIED" in dossier:\n        raise RuntimeError("Auto-discovered bibliography needs evidence review before paid writing; zero API calls")\n    return dossier, list(dict.fromkeys(valid))
 
 def produce(item):
     dossier,source_urls=load_verified_research(item)
@@ -103,6 +103,7 @@ def main():
     completed=0
     for item in json.loads(QUEUE.read_text(encoding="utf-8")):
         slug=item["slug"]
+        if slug in set(filter(None,os.getenv("SKIP_SLUGS","").split(","))): continue
         if (OUT/(slug+".json")).exists() or (ROOT/"articles"/(slug+".html")).exists(): continue
         if calls+25>MAX_CALLS: break
         try:
