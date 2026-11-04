@@ -7,6 +7,8 @@
 - Arabic must read like original modern literary Arabic, not literal translation. English must be independently edited and idiomatic.
 - Target 1,500–2,500 meaningful words **per language**; expand only when evidence supports it. Use 10–14 well-developed sections, transitions and a compelling headline and deck.
 
+- Every article must weave in at least two compelling, documentable real-life micro-stories/anecdotes and two concrete examples that clarify its central ideas. Place them naturally at relevant turning points, not as filler. Verify every story; never fabricate people, scenes or quotations.
+
 ## Research and citations
 - Prefer primary sources: NASA, ESA, NOAA, Smithsonian, national archives, museums, academic journals and original historical records as appropriate.
 - Every consequential factual assertion needs a traceable citation, ideally an inline footnote linked to a specific primary document or reliable secondary study.
