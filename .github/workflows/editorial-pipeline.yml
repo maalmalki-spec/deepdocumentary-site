@@ -1,0 +1,42 @@
+name: Documentary editorial pipeline
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 5 * * *'
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+concurrency:
+  group: documentary-editorial
+  cancel-in-progress: false
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate up to two bilingual editorial drafts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+        run: python scripts/editorial_pipeline.py
+      - name: Open draft review pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain editorial/generated)" ]; then
+            echo "No new drafts; nothing to submit."
+            exit 0
+          fi
+          BRANCH="editorial/auto-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add editorial/generated
+          git commit -m "Add bilingual documentary drafts for editorial review"
+          git push origin "$BRANCH"
+          gh pr create --title "Editorial review: documentary drafts #${GITHUB_RUN_NUMBER}" --body "Automatically generated **drafts only**. DO NOT merge/publish before factual verification, source and image rights review, Arabic/English copyediting and visual QA." --base "${GITHUB_REF_NAME}" --head "$BRANCH"
