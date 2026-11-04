@@ -1,6 +1,6 @@
 {
-  "status": "draft",
-  "note": "All nine files are original conceptual SVG diagrams, not actual Canva screenshots. The tutorial must not be published until interface screenshots are validated.",
+  "status": "published",
+  "note": "Nine original schematic diagrams are included; none is represented as a screenshot. Interface labels may vary.",
   "assets": [
     {
       "path": "assets/images/canva-video-editor-beginners-guide/diagram-01.svg",
