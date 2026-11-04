@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "franklin-expedition",
+    "title_ar": "اختفاء بعثة فرانكلين في الجليد",
+    "title_en": "The Lost Franklin Expedition"
+  },
+  {
+    "slug": "dyatlov-pass",
+    "title_ar": "حادثة ممر دياتلوف: ما الذي نعرفه؟",
+    "title_en": "Dyatlov Pass: What the Evidence Shows"
+  },
+  {
+    "slug": "flannan-isles",
+    "title_ar": "اختفاء حراس منارة فلانان",
+    "title_en": "The Flannan Isles Lighthouse Mystery"
+  },
+  {
+    "slug": "voynich-manuscript",
+    "title_ar": "مخطوطة فوينيتش: كتاب لم يُفك لغزه",
+    "title_en": "The Voynich Manuscript"
+  },
+  {
+    "slug": "db-cooper",
+    "title_ar": "قضية دي بي كوبر",
+    "title_en": "The D. B. Cooper Case"
+  },
+  {
+    "slug": "tunguska",
+    "title_ar": "انفجار تونغوسكا 1908",
+    "title_en": "The Tunguska Event"
+  },
+  {
+    "slug": "endurance",
+    "title_ar": "سفينة إندورانس: رحلة شاكلتون",
+    "title_en": "Shackleton's Endurance"
+  },
+  {
+    "slug": "amelia-earhart",
+    "title_ar": "اختفاء أميليا إيرهارت",
+    "title_en": "The Disappearance of Amelia Earhart"
+  },
+  {
+    "slug": "zodiac-cipher",
+    "title_ar": "رسائل زودياك المشفرة",
+    "title_en": "The Zodiac Ciphers"
+  },
+  {
+    "slug": "roanoke",
+    "title_ar": "لغز مستعمرة روانوك",
+    "title_en": "The Lost Colony of Roanoke"
+  },
+  {
+    "slug": "antikythera",
+    "title_ar": "آلية أنتيكيثيرا",
+    "title_en": "The Antikythera Mechanism"
+  },
+  {
+    "slug": "pompeii",
+    "title_ar": "بومبي: اليوم الذي توقف فيه الزمن",
+    "title_en": "Pompeii: The Day Time Stopped"
+  },
+  {
+    "slug": "alexandria-library",
+    "title_ar": "مكتبة الإسكندرية بين الأسطورة والتاريخ",
+    "title_en": "The Library of Alexandria"
+  },
+  {
+    "slug": "silk-road",
+    "title_ar": "طريق الحرير",
+    "title_en": "The Silk Roads"
+  },
+  {
+    "slug": "pyramids",
+    "title_ar": "بناء الأهرامات",
+    "title_en": "How the Pyramids Were Built"
+  },
+  {
+    "slug": "tutankhamun",
+    "title_ar": "اكتشاف مقبرة توت عنخ آمون",
+    "title_en": "The Discovery of Tutankhamun's Tomb"
+  },
+  {
+    "slug": "constantinople-1453",
+    "title_ar": "سقوط القسطنطينية 1453",
+    "title_en": "The Fall of Constantinople"
+  },
+  {
+    "slug": "ibn-battuta",
+    "title_ar": "رحلة ابن بطوطة",
+    "title_en": "The Travels of Ibn Battuta"
+  },
+  {
+    "slug": "petra",
+    "title_ar": "حضارة الأنباط ومدينة البتراء",
+    "title_en": "The Nabataeans and Petra"
+  },
+  {
+    "slug": "jericho",
+    "title_ar": "أريحا وأقدم المدن",
+    "title_en": "Jericho and the World's Earliest Cities"
+  },
+  {
+    "slug": "cuneiform",
+    "title_ar": "الكتابة المسمارية",
+    "title_en": "The Invention of Cuneiform"
+  },
+  {
+    "slug": "maya-collapse",
+    "title_ar": "انهيار حضارة المايا",
+    "title_en": "Understanding the Maya Collapse"
+  },
+  {
+    "slug": "magellan-elcano",
+    "title_ar": "رحلة ماجلان وإلكانو",
+    "title_en": "The Magellan-Elcano Circumnavigation"
+  },
+  {
+    "slug": "apollo-11",
+    "title_ar": "أبولو 11",
+    "title_en": "Apollo 11"
+  },
+  {
+    "slug": "james-webb",
+    "title_ar": "تلسكوب جيمس ويب",
+    "title_en": "The James Webb Space Telescope"
+  },
+  {
+    "slug": "mars-life",
+    "title_ar": "المريخ والبحث عن الحياة",
+    "title_en": "Mars and the Search for Life"
+  },
+  {
+    "slug": "gravitational-waves",
+    "title_ar": "موجات الجاذبية",
+    "title_en": "Gravitational Waves"
+  },
+  {
+    "slug": "deep-ocean",
+    "title_ar": "أعماق المحيط",
+    "title_en": "Life in the Deep Ocean"
+  },
+  {
+    "slug": "dna-discovery",
+    "title_ar": "تاريخ اكتشاف الحمض النووي",
+    "title_en": "The Discovery of DNA"
+  },
+  {
+    "slug": "dark-matter",
+    "title_ar": "المادة المظلمة",
+    "title_en": "Dark Matter"
+  },
+  {
+    "slug": "stellar-life",
+    "title_ar": "حياة النجوم وموتها",
+    "title_en": "The Lives and Deaths of Stars"
+  },
+  {
+    "slug": "exoplanets",
+    "title_ar": "الكواكب الخارجية",
+    "title_en": "Exoplanets"
+  },
+  {
+    "slug": "ai-history",
+    "title_ar": "كيف بدأ الذكاء الاصطناعي الحديث؟",
+    "title_en": "The History of Modern AI"
+  },
+  {
+    "slug": "semiconductors",
+    "title_ar": "الرقائق الإلكترونية",
+    "title_en": "How Semiconductors Are Made"
+  },
+  {
+    "slug": "internet-history",
+    "title_ar": "تاريخ الإنترنت",
+    "title_en": "The History of the Internet"
+  },
+  {
+    "slug": "generative-ai",
+    "title_ar": "كيف يعمل الذكاء الاصطناعي التوليدي؟",
+    "title_en": "How Generative AI Works"
+  },
+  {
+    "slug": "data-breaches",
+    "title_ar": "كيف تحدث تسريبات البيانات؟",
+    "title_en": "How Data Breaches Happen"
+  },
+  {
+    "slug": "quantum-computing",
+    "title_ar": "الحوسبة الكمية",
+    "title_en": "Quantum Computing"
+  },
+  {
+    "slug": "industrial-robots",
+    "title_ar": "تاريخ الروبوتات الصناعية",
+    "title_en": "Industrial Robots"
+  },
+  {
+    "slug": "gps",
+    "title_ar": "الخرائط الرقمية ونظام GPS",
+    "title_en": "How GPS Works"
+  },
+  {
+    "slug": "submarine-cables",
+    "title_ar": "الكابلات البحرية",
+    "title_en": "The Undersea Cables of the Internet"
+  },
+  {
+    "slug": "deepfakes",
+    "title_ar": "التزييف العميق",
+    "title_en": "Understanding Deepfakes"
+  },
+  {
+    "slug": "verify-news",
+    "title_ar": "كيف تتحقق من صحة الأخبار؟",
+    "title_en": "How to Verify News"
+  },
+  {
+    "slug": "reverse-image",
+    "title_ar": "كيف تتحقق من مصدر صورة؟",
+    "title_en": "How to Verify an Image"
+  },
+  {
+    "slug": "read-research",
+    "title_ar": "كيف تقرأ دراسة علمية؟",
+    "title_en": "How to Read a Scientific Study"
+  },
+  {
+    "slug": "verify-video",
+    "title_ar": "كيف تكتشف الفيديو المفبرك؟",
+    "title_en": "How to Verify a Video"
+  },
+  {
+    "slug": "historical-archives",
+    "title_ar": "كيف تبحث في الأرشيفات التاريخية؟",
+    "title_en": "How to Research Historical Archives"
+  },
+  {
+    "slug": "mfa-security",
+    "title_ar": "كيف تحمي حساباتك بالمصادقة المتعددة؟",
+    "title_en": "How to Protect Accounts with MFA"
+  }
+]
