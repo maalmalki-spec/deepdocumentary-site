@@ -12,7 +12,7 @@ concurrency:
 jobs:
   draft:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +23,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
           MAX_DRAFTS_PER_RUN: '1'
-          MAX_API_CALLS_PER_RUN: '7'
+          MAX_API_CALLS_PER_RUN: '25'
         run: python scripts/editorial_pipeline.py
       - name: Validate draft structure
         run: |
