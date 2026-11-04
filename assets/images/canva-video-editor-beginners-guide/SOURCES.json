@@ -1,0 +1,73 @@
+{
+  "status": "draft",
+  "note": "All nine files are original conceptual SVG diagrams, not actual Canva screenshots. The tutorial must not be published until interface screenshots are validated.",
+  "assets": [
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-01.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-02.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-03.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-04.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-05.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-06.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-07.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-08.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    },
+    {
+      "path": "assets/images/canva-video-editor-beginners-guide/diagram-09.svg",
+      "creator": "Deep Documentary",
+      "kind": "original schematic illustration",
+      "license": "original artwork",
+      "depictsRealCanvaUI": false
+    }
+  ],
+  "sources": [
+    "https://www.canva.com/help/creating-and-editing-videos/",
+    "https://www.canva.com/en_in/help/download-as-video/"
+  ]
+}
