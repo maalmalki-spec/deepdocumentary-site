@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Staged bilingual documentary draft generator. Manual review only; never publishes."""
 import json, os, pathlib, re, sys, urllib.request, urllib.error
+from urllib.parse import urlparse
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 QUEUE=ROOT/"editorial/production-queue.json"
 OUT=ROOT/"editorial/generated"
+RESEARCH=ROOT/"editorial/research"
 MODEL=os.getenv("OPENAI_MODEL","gpt-4.1-mini")
 MAX_CALLS=int(os.getenv("MAX_API_CALLS_PER_RUN","25"))
 MAX_DRAFTS=int(os.getenv("MAX_DRAFTS_PER_RUN","1"))
@@ -36,11 +38,24 @@ def ask_lead_from_sections(sections,lang):
     first=sections[0]["body"].strip()
     return first[:350].rsplit(" ",1)[0]+"…" if len(first)>350 else first
 
+def load_verified_research(item):
+    """Fail closed before paid calls: each topic needs curated, real source URLs."""
+    path=RESEARCH/(item["slug"]+"-sources.md")
+    if not path.exists():
+        raise RuntimeError(f"Missing human-curated source dossier: {path.relative_to(ROOT)}; zero API calls")
+    dossier=path.read_text(encoding="utf-8")
+    urls=re.findall(r"https?://[^\\s)]+",dossier)
+    valid=[u for u in urls if urlparse(u).hostname and "." in urlparse(u).hostname]
+    if len(set(valid))<3:
+        raise RuntimeError("Research dossier needs at least three distinct source URLs; zero API calls")
+    return dossier, list(dict.fromkeys(valid))
+
 def produce(item):
+    dossier,source_urls=load_verified_research(item)
     title=item["title_en"]+" / "+item["title_ar"]
     research=ask(
-        "You are a careful documentary research planner. No web access. Never claim to have verified a source, link, quotation, image or fact. Output JSON.",
-        f"""Build a rigorous research and narrative plan for {title}. JSON fields: timeline (array of dated event descriptions), evidence (array of facts with confidence and verification_needed), disputed_claims (array), source_research (array of institution/publication search targets, not invented URLs), suggested_visuals (array of archival image/map/document search instructions with rights_to_verify=true), sections (array of 10-12 paired heading_ar/heading_en and evidence notes). Do not invent citations. Label uncertain facts VERIFY.""",
+        "You are a careful documentary research planner. No web access. Use only the supplied curated dossier; never invent sources, quotes, or facts. Output JSON.",
+        f"""CURATED RESEARCH DOSSIER (not independently verified by the model):\\n{dossier[:18000]}\\n\\nBuild a rigorous research and narrative plan for {title}. JSON fields: timeline (array of dated event descriptions), evidence (array of facts with confidence and verification_needed), disputed_claims (array), source_research (array of institution/publication search targets, not invented URLs), suggested_visuals (array of archival image/map/document search instructions with rights_to_verify=true), sections (array of 10-12 paired heading_ar/heading_en and evidence notes). Do not invent citations. Label uncertain facts VERIFY.""",
         3500)
     # Fixed, independent sections eliminate multi-section JSON parsing failures.
     outline=research.get("sections",[])
@@ -59,10 +74,10 @@ def produce(item):
             prompt=f"""Write one original documentary section in language {lang} for: {title}.
 Section {i+1} of 12: {heading}.
 Section research note: {json.dumps(section,ensure_ascii=False)[:1200]}
-Unverified research context: {json.dumps(research.get('evidence',[]),ensure_ascii=False)[:2400]}
+Curated source dossier: {dossier[:11500]}\nResearch context: {json.dumps(research.get('evidence',[]),ensure_ascii=False)[:1800]}
 Return ONE JSON object with exactly two keys: heading (string) and body (string).
 Write 180-230 substantial words in body. Never return a list or multiple sections.
-Build a cinematic but factual narrative. Across the article include at least two documented real-life micro-stories and two clearly labeled explanatory examples. No fabricated dialogue, quotations, URLs, eyewitnesses or verified claims. Explicitly flag disputed claims VERIFY. This is a draft for human fact-checking."""
+Build a cinematic but factual narrative. Write with narrative continuity, without invented scenes. Include two documented real-life micro-stories where the dossier supports them, and clearly label any explanatory analogies. Cite relevant dossier source URLs inline in the body. No fabricated dialogue, quotations, URLs, eyewitnesses or verified claims. Explicitly flag disputed claims VERIFY. This is a draft for human fact-checking."""
             chunk=ask("Documentary editor. Original natural prose, no invented evidence. JSON object only.",prompt,1700)
             body=chunk.get("body") or chunk.get("text") or chunk.get("content")
             if not isinstance(body,str) or not body.strip():
@@ -76,7 +91,7 @@ Build a cinematic but factual narrative. Across the article include at least two
     if not valid_language(ar,"ar") or not valid_language(en,"en"):
         raise RuntimeError(f"Underlength: Arabic={words(ar['lead'])+sum(words(x['body']) for x in ar['sections'])}, English={words(en['lead'])+sum(words(x['body']) for x in en['sections'])}")
     sections=[{"heading_ar":a["heading"],"body_ar":a["body"],"heading_en":b["heading"],"body_en":b["body"]} for a,b in zip(ar["sections"],en["sections"])]
-    data={"slug":item["slug"],"title_ar":item["title_ar"],"title_en":item["title_en"],"lead_ar":ar["lead"],"lead_en":en["lead"],"sections":sections,"claims_to_verify":research.get("disputed_claims") or ["Verify factual claims, anecdotes, dates and primary sources before publishing"],"suggested_visuals":research.get("suggested_visuals") or ["Locate rights-cleared archival material"],"source_research":research.get("source_research") or ["Find primary institutional sources"],"research_timeline":research.get("timeline",[]),"research_evidence":research.get("evidence",[]),"status":"needs-human-review","verified_sources":[],"licensed_images":[]}
+    data={"slug":item["slug"],"title_ar":item["title_ar"],"title_en":item["title_en"],"lead_ar":ar["lead"],"lead_en":en["lead"],"sections":sections,"claims_to_verify":research.get("disputed_claims") or ["Verify factual claims, anecdotes, dates and primary sources before publishing"],"suggested_visuals":research.get("suggested_visuals") or ["Locate rights-cleared archival material"],"source_research":research.get("source_research") or ["Curated institutional sources"],"source_urls":source_urls,"research_dossier":str((RESEARCH/(item["slug"]+"-sources.md")).relative_to(ROOT)),"research_timeline":research.get("timeline",[]),"research_evidence":research.get("evidence",[]),"status":"needs-human-review","verified_sources":[],"licensed_images":[]}
     OUT.mkdir(parents=True,exist_ok=True)
     (OUT/(item["slug"]+".json")).write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     return True
@@ -91,6 +106,7 @@ def main():
         if (OUT/(slug+".json")).exists() or (ROOT/"articles"/(slug+".html")).exists(): continue
         if calls+25>MAX_CALLS: break
         try:
+            load_verified_research(item)  # validate before any paid request
             if produce(item): completed+=1
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,RuntimeError,KeyError,TypeError) as e:
             print(f"Generation stopped for {slug}: {e}",file=sys.stderr);break
