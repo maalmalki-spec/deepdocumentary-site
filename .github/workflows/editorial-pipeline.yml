@@ -1,6 +1,12 @@
 name: Documentary editorial pipeline
 on:
   workflow_dispatch:
+    inputs:
+      research_only:
+        description: "Safe research discovery test only (no OpenAI API usage)"
+        type: boolean
+        required: true
+        default: true
   # Daily schedule paused until source verification, article-length QA and cost controls pass.
 permissions:
   contents: write
@@ -19,15 +25,20 @@ jobs:
         with:
           python-version: '3.12'
       - name: Discover candidate scholarly sources (no AI charges)
-        run: python scripts/editorial_research.py
-      - name: Generate bilingual editorial drafts (manual test only)
         env:
+          SKIP_SLUGS: 'franklin-expedition'
+        run: python scripts/editorial_research.py
+      - name: Generate bilingual editorial drafts (only with curated research)
+        if: ${{ inputs.research_only == false }}
+        env:
+          SKIP_SLUGS: 'franklin-expedition'
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
           MAX_DRAFTS_PER_RUN: '1'
           MAX_API_CALLS_PER_RUN: '25'
         run: python scripts/editorial_pipeline.py
       - name: Validate draft structure
+        if: ${{ inputs.research_only == false }}
         run: |
           if compgen -G 'editorial/generated/*.json' > /dev/null; then
             python scripts/editorial_quality_gate.py editorial/generated/*.json
