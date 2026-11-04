@@ -31,9 +31,9 @@ def discover(item):
           "abstract":abstract_text(w.get("abstract_inverted_index"))})
         if len(works)==6: break
     if len(works)<3:
-        raise RuntimeError("Fewer than three relevant DOI-indexed scholarly works; manual research required")
+        print(f"Only {len(works)} relevant DOI works found; research pack will be flagged for manual supplementation",flush=True)
     lines=[f"# {item['title_en']} — AUTOMATIC RESEARCH CANDIDATES",
-      "Status: AUTO-DISCOVERED / NOT VERIFIED / NOT PUBLICATION APPROVED.",
+      "Status: AUTO-DISCOVERED / NOT VERIFIED / NOT PUBLICATION APPROVED.",\n      f"Relevant DOI-indexed candidates: {len(works)}; minimum 3 required before editorial approval.",
       "These are OpenAlex indexed scholarly records. DOI links identify publications, not confirmation that every claim is true.",
       "Editorial review MUST inspect each full publication, extract supported claims and find primary institutional sources.",
       "Do not infer eyewitness accounts, quotations, or image rights from metadata.",
@@ -41,7 +41,7 @@ def discover(item):
     for i,w in enumerate(works,1):
         lines.extend([f"### {i}. {w['title']} ({w['year']})",f"Source: {w['doi']}",
           f"Abstract (index metadata, may be missing): {w['abstract'] or 'Unavailable; full text verification required.'}",""])
-    lines.extend(["## Required human checks","- Confirm article-topic relevance and source accessibility.",
+    if not works:\n        lines.append("No sufficiently relevant scholarly records were returned. Locate primary institutional sources manually.")\n    lines.extend(["## Required human checks","- Confirm article-topic relevance and source accessibility.",
       "- Confirm dates, quotes, anecdotes, and disputed claims against primary evidence.",
       "- Acquire image permissions separately. No automated publishing.",""])
     return "\n".join(lines)
