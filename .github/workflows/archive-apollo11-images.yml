@@ -1,0 +1,35 @@
+name: Archive Apollo 11 images locally
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/vendor_apollo11_images.py'
+      - 'scripts/use_local_apollo11_images.py'
+      - '.github/workflows/archive-apollo11-images.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests Pillow beautifulsoup4
+      - name: Download and verify NASA photos
+        run: python scripts/vendor_apollo11_images.py
+      - name: Replace remote images with local paths
+        run: python scripts/use_local_apollo11_images.py
+      - name: Commit archived image assets and site changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/images/apollo-11 articles/apollo-11.html index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive Apollo 11 NASA photographs in repository"
+            git push
+          fi
