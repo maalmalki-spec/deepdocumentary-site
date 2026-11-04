@@ -25,8 +25,17 @@ for path in files:
     if not dossier or not (root/dossier).is_file():
         errors.append("Missing per-topic source dossier")
     bodies=" ".join(x.get("body_ar","")+" "+x.get("body_en","") for x in sections)
-    if not any(u in bodies for u in urls):
-        errors.append("No actual source URL cited in article text")
+    cited=[u for u in urls if u in bodies]
+    if len(cited)<3:
+        errors.append(f"Only {len(cited)} of 3 required distinct sources cited in article text")
+    for lang in ("ar","en"):
+        uncited=[i+1 for i,x in enumerate(sections) if not any(u in x.get("body_"+lang,"") for u in urls)]
+        if uncited:
+            errors.append(f"{lang}: uncited sections {uncited}")
+    if data.get("research_dossier") and (root/data["research_dossier"]).is_file():
+        dossier_text=(root/data["research_dossier"]).read_text(encoding="utf-8")
+        if "AUTO-DISCOVERED / NOT VERIFIED" in dossier_text:
+            errors.append("Source dossier contains unverified automatic candidates")
     if data.get("verified_sources") or data.get("licensed_images"):
         errors.append("Generator must not assert sources or images were verified/licensed")
     if not data.get("claims_to_verify"): errors.append("No claim verification list")
