@@ -1,0 +1,44 @@
+[
+  {
+    "file": "assets/images/apollo-11/launch.webp",
+    "nasa_id": "S69-39525",
+    "description": "Saturn V lifting off, July 16, 1969",
+    "source": "https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/kippsphotos/39525.jpg",
+    "credit": "NASA"
+  },
+  {
+    "file": "assets/images/apollo-11/earthrise.webp",
+    "nasa_id": "AS11-44-6550",
+    "description": "Earth rising over the lunar horizon",
+    "source": "https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/kippsphotos/6550.jpg",
+    "credit": "NASA"
+  },
+  {
+    "file": "assets/images/apollo-11/aldrin.webp",
+    "nasa_id": "AS11-40-5903",
+    "description": "Buzz Aldrin on the lunar surface",
+    "source": "https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/kippsphotos/5903.jpg",
+    "credit": "NASA"
+  },
+  {
+    "file": "assets/images/apollo-11/lunar-module.webp",
+    "nasa_id": "AS11-40-5924",
+    "description": "Lunar Module ascent stage and Earth",
+    "source": "https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/kippsphotos/5924.jpg",
+    "credit": "NASA"
+  },
+  {
+    "file": "assets/images/apollo-11/footprint.webp",
+    "nasa_id": "AS11-40-5880",
+    "description": "Aldrin's boot and footprint in lunar soil",
+    "source": "https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/kippsphotos/5880.jpg",
+    "credit": "NASA"
+  },
+  {
+    "file": "assets/images/apollo-11/mission-control.webp",
+    "nasa_id": "S69-40023",
+    "description": "Mission Control celebrating after splashdown",
+    "source": "https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/kippsphotos/40023.jpg",
+    "credit": "NASA"
+  }
+]
