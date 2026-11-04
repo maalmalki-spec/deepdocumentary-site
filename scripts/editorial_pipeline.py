@@ -53,13 +53,24 @@ def produce(item):
 Write ONLY the following {len(group)} sections in the same order:
 {json.dumps(group,ensure_ascii=False)}
 Research notes are unverified, not proof: {json.dumps(research.get('evidence',[]),ensure_ascii=False)[:4500]}
-Return JSON object with sections: array of objects each with heading and body, plus claims_to_verify: array.
+Return JSON with sections array of exactly the requested count, each object having heading and body strings, and claims_to_verify array. No nested wrapper.
 Each section must have 160-230 meaningful words in the requested language. Target 650-850 words for this part, so the complete article exceeds 1500 words. Do not add a lead or conclusion outside these sections. Every article must integrate at least two verifiable real-world micro-stories and two concrete explanatory examples across its sections. Never invent dialogue, scenes, people, quotes, links, citations, or image rights. Mark disputed or unsupported details VERIFY. Maintain narrative continuity, no filler."""
             chunk=ask("You are a meticulous documentary storyteller. Write original, fluent Arabic for ar and idiomatic English for en. Each section must be substantive, evidence-aware and vivid without fabricated details. JSON only.",prompt,4100)
             part=chunk.get("sections",[])
-            if len(part)!=len(group) or any(not x.get("heading") or not x.get("body") for x in part):
-                raise RuntimeError(f"Malformed {lang} part {i+1}")
-            chunks.append(chunk)
+            if isinstance(part,dict): part=list(part.values())
+            normalized=[]
+            if isinstance(part,list):
+                for k,x in enumerate(part):
+                    if isinstance(x,str): x={"body":x}
+                    if not isinstance(x,dict): continue
+                    body=x.get("body") or x.get("text") or x.get("content")
+                    if isinstance(body,list): body="\n\n".join(str(v) for v in body)
+                    heading=x.get("heading") or x.get("title") or group[min(k,len(group)-1)].get("heading_"+lang)
+                    if isinstance(body,str) and body.strip() and isinstance(heading,str) and heading.strip():
+                        normalized.append({"heading":heading,"body":body})
+            if len(normalized)!=len(group):
+                raise RuntimeError(f"Malformed {lang} part {i+1}: expected {len(group)} sections, got {len(normalized)}; keys={list(chunk.keys())}")
+            chunks.append({"sections":normalized,"claims_to_verify":chunk.get("claims_to_verify",[])})
         sections=[section for chunk in chunks for section in chunk["sections"]]
         lead=ask_lead_from_sections(sections,lang)
         language_results[lang]={"sections":sections,"lead":lead,"claims_to_verify":[claim for chunk in chunks for claim in chunk.get("claims_to_verify",[])]}
@@ -75,7 +86,7 @@ Each section must have 160-230 meaningful words in the requested language. Targe
 
 def main():
     if not os.getenv("OPENAI_API_KEY"):
-        print("Missing API key; no charges incurred.");return
+        raise RuntimeError("Missing API key; no charges incurred")
     if MAX_CALLS<7: raise RuntimeError("Seven calls required: research plan and three parts per language")
     completed=0
     for item in json.loads(QUEUE.read_text(encoding="utf-8")):
@@ -88,4 +99,5 @@ def main():
             print(f"Generation stopped for {slug}: {e}",file=sys.stderr);break
         if completed>=MAX_DRAFTS:break
     print(f"API calls: {calls}; drafts saved: {completed}; published: 0")
+    if completed==0: raise RuntimeError("No draft passed validation; workflow failed")
 if __name__=="__main__": main()
