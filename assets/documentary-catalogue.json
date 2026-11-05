@@ -1,59 +1,59 @@
 {
   "stories": [
     {
+      "slug": "alula-khaybar-archaeology",
+      "series": "history",
+      "ar": "أسرار العُلا وخيبر",
+      "en": "أسرار العُلا وخيبر",
+      "image": null
+    },
+    {
       "slug": "apollo-11",
       "series": "space",
       "ar": "أبولو 11: الرحلة التي وضعت الإنسان على القمر",
       "en": "Apollo 11: The First Moon Landing",
-      "image": "apollo-11/aldrin.webp"
+      "image": null
     },
     {
       "slug": "apollo-8",
       "series": "space",
       "ar": "أبولو 8: أول بشر يدورون حول القمر",
-      "en": "Apollo 8: The First Humans to Orbit the Moon",
-      "image": "apollo-8/a2627f32ef56.webp"
+      "en": "أبولو 8: أول بشر يدورون حول القمر | Deep Documentary",
+      "image": null
     },
     {
       "slug": "black-holes",
       "series": "space",
-      "ar": "الثقوب السوداء",
-      "en": "Black Holes",
+      "ar": "الثقوب السوداء وأفق الحدث: شرح مبسط",
+      "en": "الثقوب السوداء وأفق الحدث: شرح مبسط | Deep Documentary",
+      "image": null
+    },
+    {
+      "slug": "canva-video-editor-beginners-guide",
+      "series": "technology",
+      "ar": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية",
+      "en": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية",
       "image": null
     },
     {
       "slug": "chernobyl",
       "series": "mysteries",
-      "ar": "كارثة تشيرنوبل",
-      "en": "Chernobyl Disaster",
+      "ar": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟",
+      "en": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟ | Deep Documentary",
       "image": null
     },
     {
       "slug": "mary-celeste",
       "series": "mysteries",
-      "ar": "لغز سفينة ماري سيليست",
-      "en": "The Mary Celeste Mystery",
+      "ar": "لغز سفينة ماري سيليست: اختفاء الطاقم",
+      "en": "لغز سفينة ماري سيليست: اختفاء الطاقم | Deep Documentary",
       "image": null
-    },
-    {
-      "slug": "alula-khaybar-archaeology",
-      "series": "history",
-      "ar": "أسرار العُلا وخيبر",
-      "en": "AlUla and Khaybar",
-      "image": "alula-khaybar-archaeology/alula-landscape.webp"
     },
     {
       "slug": "passkeys-end-of-passwords-2026",
       "series": "technology",
-      "ar": "مفاتيح المرور",
-      "en": "Passkeys",
-      "image": "passkeys-end-of-passwords-2026/passkeys-01.webp"
-    },
-    {
-      "slug": "canva-video-editor-beginners-guide",
-      "series": "technology",
-      "ar": "صناعة فيديو وثائقي باستخدام Canva",
-      "en": "Make a Documentary Video with Canva",
+      "ar": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟",
+      "en": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟",
       "image": null
     }
   ]
