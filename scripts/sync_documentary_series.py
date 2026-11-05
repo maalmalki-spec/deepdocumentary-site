@@ -16,8 +16,8 @@ for path in [ROOT/'index.html',*sorted((ROOT/'articles').glob('*.html'))]:
     if '<html' not in text.lower() or '</body>' not in text.lower():continue
     prefix='../' if path.parent.name=='articles' else ''
     # Replace old asset tags instead of stacking multiple copies.
-    text=re.sub(r'<link\\b[^>]*href=["\\'][^"\\']*assets/documentary-series\\.css(?:\\?[^"\\']*)?["\\'][^>]*>', '',text,flags=re.I)
-    text=re.sub(r'<script\\b[^>]*src=["\\'][^"\\']*assets/documentary-series\\.js(?:\\?[^"\\']*)?["\\'][^>]*>\\s*</script>', '',text,flags=re.I)
+    text=re.sub(r'<link[^>]*documentary-series[.]css[^>]*>', '', text, flags=re.I)
+    text=re.sub(r'<script[^>]*documentary-series[.]js[^>]*>.*?</script>', '', text, flags=re.I|re.S)
     if path.name=='index.html' and 'id="documentary-series"' not in text:
         target='<section class="wrap" id="articles">'
         if target in text:text=text.replace(target,'<section id="documentary-series" aria-label="Documentary series"></section>'+target,1)
