@@ -42,11 +42,20 @@ def extract(path):
  ar=m.meta.get('dd:title:ar',ar)
  en=m.meta.get('dd:title:en',en)
  if not ar or not en:return None
- return dict(slug=path.stem,series=m.meta.get('dd:series') or category(path,m),ar=ar,en=en,image=None)
+ return dict(slug=path.stem,series=m.meta.get('dd:series') or category(path,m),ar=ar,en=en,image=m.meta.get('og:image') or None)
+# Keep manually curated local cover images when available.
+previous={}
+out=ROOT/'assets/documentary-catalogue.json'
+if out.exists():
+ try: previous={x['slug']:x for x in json.loads(out.read_text(encoding='utf-8')).get('stories',[])}
+ except (ValueError,KeyError,TypeError): pass
 stories=[]
 for path in sorted(ARTICLE_DIR.glob('*.html')):
  item=extract(path)
- if item:stories.append(item)
+ if item:
+  existing=previous.get(item['slug'],{})
+  if existing.get('image'):item['image']=existing['image']
+  stories.append(item)
 out=ROOT/'assets/documentary-catalogue.json'
 out.write_text(json.dumps({'stories':stories},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Generated',len(stories),'articles:',out)
