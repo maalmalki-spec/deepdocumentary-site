@@ -1,0 +1,46 @@
+(()=>{'use strict';
+const URL='https://szixubrmgcabxntzgxtq.supabase.co',KEY='sb_publishable_K6D2yXkYffD7UnurucTfeQ_VDVm08yJ';
+const $=id=>document.getElementById(id),en=()=>localStorage.getItem('dd-language')==='en';
+const tr=(ar,english)=>en()?english:ar;
+const style=document.createElement('style');style.textContent=`
+.dd-auth-trigger{border:1px solid #d8b45c;background:#17140e;color:#eacb7d;border-radius:24px;padding:9px 15px;font:600 13px Cairo,Arial,sans-serif;max-width:190px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dd-auth-overlay{position:fixed;inset:0;background:#000b;z-index:99999;display:none;align-items:center;justify-content:center;padding:16px}
+.dd-auth-overlay.open{display:flex}
+.dd-auth-dialog{background:#121317;color:#f8f7f4;border:1px solid #8a713d;border-radius:18px;padding:26px;width:min(430px,100%);max-height:92vh;overflow:auto;box-shadow:0 20px 70px #000a;direction:rtl}
+.dd-auth-dialog[dir=ltr]{direction:ltr}
+.dd-auth-dialog h2{color:#eacb7d;margin:0 0 15px;font-size:22px}
+.dd-auth-dialog label{display:block;font-size:13px;margin:12px 0 5px}
+.dd-auth-dialog input:not([type=checkbox]){display:block;width:100%;padding:11px;border:1px solid #665737;background:#0b0b0e;color:white;border-radius:9px;font:inherit}
+.dd-auth-dialog button{font:inherit;cursor:pointer}
+.dd-auth-primary,.dd-auth-google{width:100%;padding:12px;border-radius:9px;margin-top:14px;font-weight:700}
+.dd-auth-primary{background:#d8b45c;color:#111;border:0}
+.dd-auth-google{background:#24252a;color:white;border:1px solid #75653e}
+.dd-auth-links{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:13px}
+.dd-auth-links button,.dd-auth-close{background:none;border:0;color:#eacb7d}
+.dd-auth-close{float:left;font-size:24px;line-height:1}
+.dd-auth-msg{font-size:13px;min-height:20px;margin-top:12px;white-space:pre-wrap}
+.dd-auth-check{display:flex;gap:9px;align-items:flex-start;margin:12px 0;font-size:12px}
+.dd-auth-check input{margin-top:5px}
+.dd-auth-check a{color:#eacb7d;text-decoration:underline}
+header .dd-auth-trigger{flex-shrink:0}
+@media(max-width:620px){header{flex-wrap:wrap}header .dd-auth-trigger{order:3;margin-inline-start:auto}.dd-auth-dialog{padding:19px}}
+`;document.head.appendChild(style);
+const header=document.querySelector('header');if(!header)return;
+const btn=document.createElement('button');btn.className='dd-auth-trigger';btn.type='button';header.appendChild(btn);
+const overlay=document.createElement('div');overlay.className='dd-auth-overlay';overlay.innerHTML=`<div class="dd-auth-dialog" role="dialog" aria-modal="true" aria-labelledby="dd-auth-title"><button class="dd-auth-close" type="button" aria-label="Close">×</button><h2 id="dd-auth-title"></h2><form id="dd-auth-form"><div id="dd-auth-name-wrap"><label for="dd-auth-name" id="dd-name-label"></label><input id="dd-auth-name" autocomplete="name" maxlength="120"></div><label for="dd-auth-email" id="dd-email-label"></label><input id="dd-auth-email" type="email" autocomplete="email" required><div id="dd-auth-pass-wrap"><label for="dd-auth-pass" id="dd-pass-label"></label><input id="dd-auth-pass" type="password" autocomplete="current-password" minlength="6" required></div><div id="dd-auth-news-wrap" class="dd-auth-check"><input type="checkbox" id="dd-auth-news"><label for="dd-auth-news" id="dd-news-label"></label></div><button class="dd-auth-primary" type="submit" id="dd-auth-submit"></button></form><button type="button" class="dd-auth-google" id="dd-auth-google"></button><div class="dd-auth-links"><button type="button" id="dd-auth-toggle"></button><button type="button" id="dd-auth-forgot"></button></div><div class="dd-auth-msg" id="dd-auth-msg" role="status" aria-live="polite"></div></div>`;document.body.appendChild(overlay);
+let mode='login',client=null,user=null;
+function msg(v){$('dd-auth-msg').textContent=v}
+function draw(){const signup=mode==='signup',reset=mode==='reset';$('dd-auth-title').textContent=signup?tr('إنشاء حساب','Create account'):reset?tr('استعادة كلمة المرور','Reset password'):tr('تسجيل الدخول','Sign in');$('dd-name-label').textContent=tr('الاسم الكامل','Full name');$('dd-email-label').textContent=tr('البريد الإلكتروني','Email');$('dd-pass-label').textContent=tr('كلمة المرور','Password');$('dd-news-label').textContent=tr('أوافق على استقبال النشرة البريدية (اختياري)','I agree to receive the newsletter (optional)');$('dd-auth-submit').textContent=signup?tr('إنشاء الحساب','Create account'):reset?tr('إرسال رابط الاستعادة','Send reset link'):tr('دخول','Sign in');$('dd-auth-google').textContent=tr('المتابعة باستخدام Google','Continue with Google');$('dd-auth-toggle').textContent=signup?tr('لدي حساب بالفعل','Already have an account'):tr('إنشاء حساب جديد','Create an account');$('dd-auth-forgot').textContent=tr('نسيت كلمة المرور؟','Forgot password?');$('dd-auth-name-wrap').hidden=!signup;$('dd-auth-news-wrap').hidden=!signup;$('dd-auth-pass-wrap').hidden=reset;$('dd-auth-google').hidden=reset;$('dd-auth-forgot').hidden=reset;$('dd-auth-pass').required=!reset;$('dd-auth-name').required=signup;overlay.querySelector('.dd-auth-dialog').dir=en()?'ltr':'rtl';msg('')}
+function open(m='login'){mode=m;draw();overlay.classList.add('open');$('dd-auth-email').focus()}
+function close(){overlay.classList.remove('open')}
+overlay.querySelector('.dd-auth-close').onclick=close;overlay.addEventListener('click',e=>{if(e.target===overlay)close()});document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+$('dd-auth-toggle').onclick=()=>open(mode==='signup'?'login':'signup');$('dd-auth-forgot').onclick=()=>open('reset');
+function updateButton(){btn.textContent=user?(user.user_metadata?.full_name||user.user_metadata?.name||user.email||tr('حسابي','My account')):tr('تسجيل الدخول','Sign in')}
+btn.onclick=async()=>{if(!user){open();return}if(confirm(tr('هل تريد تسجيل الخروج؟','Sign out?'))){await client.auth.signOut();user=null;updateButton()}};
+async function syncNewsletter(id){if(!$('dd-auth-news').checked)return;const {error}=await client.from('profiles').update({newsletter_subscribed:true}).eq('id',id);if(error)console.warn('Newsletter preference not saved',error.message)}
+$('dd-auth-form').onsubmit=async e=>{e.preventDefault();if(!client)return;const email=$('dd-auth-email').value.trim(),password=$('dd-auth-pass').value,name=$('dd-auth-name').value.trim();if(mode==='signup'&&!name){msg(tr('أدخل الاسم الكامل','Enter your full name'));return}const submit=$('dd-auth-submit');submit.disabled=true;msg(tr('جارٍ المعالجة...','Processing...'));try{if(mode==='reset'){const {error}=await client.auth.resetPasswordForEmail(email,{redirectTo:location.origin+'/'});if(error)throw error;msg(tr('إذا كان البريد مسجلاً، ستصلك رسالة الاستعادة.','If this email is registered, you will receive a reset link.'))}else if(mode==='signup'){const {data,error}=await client.auth.signUp({email,password,options:{data:{full_name:name},emailRedirectTo:location.origin+'/'}});if(error)throw error;if(data.session&&data.user)await syncNewsletter(data.user.id);else if($('dd-auth-news').checked){try{localStorage.setItem('dd-newsletter-pending',email)}catch{}}msg(tr('تم إرسال رسالة تأكيد إلى بريدك. افتحها لتفعيل الحساب.','Check your inbox for the confirmation email.'))}else{const {error}=await client.auth.signInWithPassword({email,password});if(error)throw error;close()}}catch(err){msg(err.message||tr('حدث خطأ، حاول مجددًا','Something went wrong'))}finally{submit.disabled=false}};
+$('dd-auth-google').onclick=async()=>{if(!client)return;try{if(mode==='signup'&&$('dd-auth-news').checked){try{localStorage.setItem('dd-newsletter-pending','google')}catch{}}const {error}=await client.auth.signInWithOAuth({provider:'google',options:{redirectTo:location.origin+'/'}});if(error)throw error}catch(err){msg(err.message)}};
+async function initialize(){if(!window.supabase?.createClient){btn.textContent=tr('تسجيل الدخول','Sign in');btn.onclick=()=>alert(tr('خدمة تسجيل الدخول غير متاحة مؤقتًا','Sign in is temporarily unavailable'));return}client=window.supabase.createClient(URL,KEY);const {data}=await client.auth.getUser();user=data.user;updateButton();client.auth.onAuthStateChange(async(event,session)=>{user=session?.user||null;updateButton();if(event==='SIGNED_IN'&&user){let pending;try{pending=localStorage.getItem('dd-newsletter-pending')}catch{}if(pending&&(pending==='google'||pending===user.email)){try{await client.from('profiles').update({newsletter_subscribed:true}).eq('id',user.id);localStorage.removeItem('dd-newsletter-pending')}catch{}}}})}
+updateButton();const script=document.createElement('script');script.src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js';script.onload=initialize;script.onerror=()=>{btn.textContent=tr('تسجيل الدخول','Sign in');btn.onclick=()=>alert(tr('خدمة تسجيل الدخول غير متاحة مؤقتًا','Sign in is temporarily unavailable'))};document.head.appendChild(script);
+window.addEventListener('storage',updateButton);
+})();
