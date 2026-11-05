@@ -12,21 +12,21 @@
       "series": "space",
       "ar": "أبولو 11: الرحلة التي وضعت الإنسان على القمر",
       "en": "Apollo 11: The First Moon Landing",
-      "image": null
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/03/as11-40-5903.jpg"
     },
     {
       "slug": "apollo-8",
       "series": "space",
       "ar": "أبولو 8: أول بشر يدورون حول القمر",
       "en": "أبولو 8: أول بشر يدورون حول القمر | Deep Documentary",
-      "image": null
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85"
     },
     {
       "slug": "black-holes",
       "series": "space",
       "ar": "الثقوب السوداء وأفق الحدث: شرح مبسط",
       "en": "الثقوب السوداء وأفق الحدث: شرح مبسط | Deep Documentary",
-      "image": null
+      "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1200&q=85"
     },
     {
       "slug": "canva-video-editor-beginners-guide",
@@ -47,7 +47,7 @@
       "series": "mysteries",
       "ar": "لغز سفينة ماري سيليست: اختفاء الطاقم",
       "en": "لغز سفينة ماري سيليست: اختفاء الطاقم | Deep Documentary",
-      "image": null
+      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=85"
     },
     {
       "slug": "passkeys-end-of-passwords-2026",
