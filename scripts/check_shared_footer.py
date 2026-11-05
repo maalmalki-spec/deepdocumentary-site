@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Fail CI when a published page loses the shared Deep Documentary footer."""
+"""Validate published HTML pages; exclude unpublished editorial and draft files."""
 from pathlib import Path
 from html.parser import HTMLParser
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-SKIP = {".git", "node_modules", "dist", "build", ".next"}
+SKIP = {".git", "node_modules", "dist", "build", ".next", "drafts", "editorial"}
 REQUIRED_LINKS = ("about.html", "contact.html", "privacy.html", "terms.html")
 class FooterParser(HTMLParser):
     def __init__(self):
