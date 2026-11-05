@@ -15,12 +15,15 @@ fs.mkdirSync(output, {recursive:true});
    try {
     await page.goto(uri, {waitUntil:'load',timeout:20000});
     await page.waitForTimeout(450);
+    // Force lazy-loaded images to load before evaluating image health.
+    await page.evaluate(() => { for (const img of document.images) img.loading = 'eager'; });
+    await page.waitForTimeout(700);
     const result = await page.evaluate(() => ({
      title:document.title,
      overflow:document.documentElement.scrollWidth > window.innerWidth + 3,
      width:document.documentElement.scrollWidth,
      viewport:window.innerWidth,
-     brokenLocalImages:[...document.images].filter(i=>!i.complete||i.naturalWidth===0).map(i=>i.getAttribute('src')).filter(x=>x&&!/^https?:|^\/\//.test(x))
+     brokenLocalImages:[...document.images].filter(i=>i.complete && i.naturalWidth===0).map(i=>i.getAttribute('src')).filter(x=>x&&!/^https?:|^\/\//.test(x))
     }));
     const file = name.replace(/[^a-z0-9]+/gi,'-') + '-' + width + '.png';
     await page.screenshot({path:path.join(output,file),fullPage:true,animations:'disabled'});
