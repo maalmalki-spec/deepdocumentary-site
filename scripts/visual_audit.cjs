@@ -11,13 +11,13 @@ fs.mkdirSync(output, {recursive:true});
   const context = await browser.newContext({viewport:{width,height:width===768||width===820||width===1024?1024:900}, deviceScaleFactor:1});
   for (const name of pages) {
    const page = await context.newPage();
-   const uri = 'file://' + path.resolve(name);
+   const uri = 'http://127.0.0.1:8765/' + name;
    try {
     await page.goto(uri, {waitUntil:'load',timeout:20000});
     await page.waitForTimeout(450);
     // Force lazy-loaded images to load before evaluating image health.
     await page.evaluate(() => { for (const img of document.images) img.loading = 'eager'; });
-    await page.waitForTimeout(700);
+    await page.waitForTimeout(1200);
     const result = await page.evaluate(() => ({
      title:document.title,
      overflow:document.documentElement.scrollWidth > window.innerWidth + 3,
