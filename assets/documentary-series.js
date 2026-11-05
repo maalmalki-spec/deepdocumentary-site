@@ -1,0 +1,23 @@
+/* Deep Documentary related stories and documentary series — shared catalogue */
+(()=>{'use strict';
+const stories=[
+{slug:'apollo-11',series:'space',ar:'أبولو 11: أول هبوط على القمر',en:'Apollo 11: First Moon Landing',image:'apollo-11/aldrin.webp'},
+{slug:'apollo-8',series:'space',ar:'أبولو 8: أول رحلة بشرية حول القمر',en:'Apollo 8: First Crewed Lunar Orbit',image:'apollo-8/a2627f32ef56.webp'},
+{slug:'black-holes',series:'space',ar:'الثقوب السوداء: حدود المجهول',en:'Black Holes: The Edge of the Unknown',image:null},
+{slug:'chernobyl',series:'mysteries',ar:'كارثة تشيرنوبل: ماذا حدث؟',en:'Chernobyl: What Happened?',image:null},
+{slug:'mary-celeste',series:'mysteries',ar:'لغز سفينة ماري سيليست',en:'The Mary Celeste Mystery',image:null},
+{slug:'alula-khaybar-archaeology',series:'history',ar:'أسرار العُلا وخيبر',en:'AlUla and Khaybar Archaeology',image:'alula-khaybar-archaeology/alula-landscape.webp'},
+{slug:'passkeys-end-of-passwords-2026',series:'technology',ar:'مفاتيح المرور: ما بعد كلمات السر',en:'Passkeys: Beyond Passwords',image:'passkeys-end-of-passwords-2026/passkeys-01.webp'},
+{slug:'canva-video-editor-beginners-guide',series:'technology',ar:'صناعة فيديو وثائقي باستخدام Canva',en:'Make a Documentary Video with Canva',image:null}
+];
+const series=[{id:'space',icon:'🚀',ar:'رحلات الفضاء وأسرار الكون',en:'Space Missions & Cosmic Mysteries',descAr:'من أبولو 8 إلى الهبوط على القمر والثقوب السوداء.',descEn:'From Apollo 8 to the Moon landing and black holes.'},{id:'mysteries',icon:'🕵️',ar:'ألغاز وكوارث غيّرت التاريخ',en:'Mysteries & Disasters',descAr:'قصص موثقة وراء أكثر الأحداث غموضًا.',descEn:'Evidence-led stories behind mysterious events.'},{id:'history',icon:'🏛️',ar:'الحضارات والاكتشافات الأثرية',en:'Civilizations & Archaeology',descAr:'رحلة إلى آثار الحضارات القديمة.',descEn:'Explore the traces of ancient civilizations.'},{id:'technology',icon:'💡',ar:'التقنية وصناعة المعرفة',en:'Technology & Knowledge',descAr:'التقنيات الحديثة وأدوات صناعة المحتوى.',descEn:'Modern technology and tools for creating content.'}];
+const articlePage=/\\/articles\\/[^/]+\\.html$/.test(location.pathname);
+const prefix=articlePage?'':'articles/';
+const lang=()=>document.documentElement.lang==='en'?'en':'ar';
+const title=(x)=>x[lang()];
+function link(x){return prefix+x.slug+'.html'}
+function cards(items){return items.map(x=>'<a class="dd-story-card" href="'+link(x)+'">'+(x.image?'<img loading="lazy" src="'+(articlePage?'../assets/images/':'assets/images/')+x.image+'" alt="">':'<span class="dd-story-symbol" aria-hidden="true">'+(series.find(s=>s.id===x.series)||series[0]).icon+'</span>')+'<strong>'+title(x)+'</strong><span>↗</span></a>').join('')}
+function paint(){const node=document.getElementById('dd-story-explore');if(!node)return;const current=stories.find(x=>location.pathname.endsWith('/'+x.slug+'.html'));if(current){const group=series.find(x=>x.id===current.series);const related=stories.filter(x=>x.slug!==current.slug&&x.series===current.series);const more=stories.filter(x=>x.slug!==current.slug&&x.series!==current.series).slice(0,2);node.innerHTML='<div class="dd-series-label">'+group.icon+' '+title(group)+'</div><h2>'+(lang()==='ar'?'تابع هذه السلسلة الوثائقية':'Continue this documentary series')+'</h2><div class="dd-story-grid">'+cards(related.length?related:more)+'</div><h3>'+(lang()==='ar'?'قد يعجبك أيضًا':'You may also like')+'</h3><div class="dd-story-grid">'+cards(more)+'</div><a class="dd-series-all" href="../index.html#documentary-series">'+(lang()==='ar'?'استكشف جميع السلاسل ←':'Explore all series →')+'</a>'}else{node.innerHTML='<div class="dd-series-heading"><h2>'+(lang()==='ar'?'السلاسل الوثائقية':'Documentary Series')+'</h2><p>'+(lang()==='ar'?'اختر موضوعًا وتابع القصص المرتبطة به.':'Choose a topic and explore connected stories.')+'</p></div><div class="dd-series-grid">'+series.map(s=>'<article class="dd-series-tile"><div class="dd-series-label">'+s.icon+' '+title(s)+'</div><p>'+(lang()==='ar'?s.descAr:s.descEn)+'</p><div class="dd-story-grid">'+cards(stories.filter(x=>x.series===s.id))+'</div></article>').join('')+'</div>'}}
+function init(){const target=articlePage?document.querySelector('main'):document.querySelector('#documentary-series');if(!target)return;if(articlePage){const el=document.createElement('section');el.id='dd-story-explore';el.className='dd-story-explore';target.appendChild(el)}else target.classList.add('dd-story-explore');paint();const toggle=document.getElementById('toggle')||document.getElementById('lang');if(toggle)toggle.addEventListener('click',()=>setTimeout(paint,0));}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
+})();
