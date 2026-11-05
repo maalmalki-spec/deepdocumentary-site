@@ -1,0 +1,33 @@
+name: Generate email-safe PNG logo
+on:
+  push:
+    paths:
+      - '.github/workflows/email-logo-png.yml'
+      - 'assets/logo.svg'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render-logo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install cairosvg
+      - name: Convert original logo to PNG
+        run: |
+          python - <<'PY'
+          import cairosvg
+          cairosvg.svg2png(url='assets/logo.svg',write_to='assets/logo-email.png',output_width=240,output_height=240)
+          PY
+      - name: Commit PNG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/logo-email.png
+          if ! git diff --cached --quiet; then
+            git commit -m "Add PNG logo for email templates"
+            git push
+          fi
