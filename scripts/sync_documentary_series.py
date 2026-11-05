@@ -18,6 +18,11 @@ for path in [ROOT/'index.html',*sorted((ROOT/'articles').glob('*.html'))]:
     # Replace old asset tags instead of stacking multiple copies.
     text=re.sub(r'<link[^>]*documentary-series[.]css[^>]*>', '', text, flags=re.I)
     text=re.sub(r'<script[^>]*documentary-series[.]js[^>]*>.*?</script>', '', text, flags=re.I|re.S)
+    if path.parent.name=='articles':
+        text=re.sub(r'<link[^>]*reading-progress[.]css[^>]*>', '', text, flags=re.I)
+        text=re.sub(r'<script[^>]*reading-progress[.]js[^>]*>.*?</script>', '', text, flags=re.I|re.S)
+        text=text.replace('</head>',f'<link rel="stylesheet" href="{prefix}assets/reading-progress.css"></head>',1)
+        text=text.replace('</body>',f'<script defer src="{prefix}assets/reading-progress.js"></script></body>',1)
     if path.name=='index.html' and 'id="documentary-series"' not in text:
         target='<section class="wrap" id="articles">'
         if target in text:text=text.replace(target,'<section id="documentary-series" aria-label="Documentary series"></section>'+target,1)
