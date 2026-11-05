@@ -11,7 +11,7 @@ const stories=[
 {slug:'canva-video-editor-beginners-guide',series:'technology',ar:'صناعة فيديو وثائقي باستخدام Canva',en:'Make a Documentary Video with Canva',image:null}
 ];
 const series=[{id:'space',icon:'🚀',ar:'رحلات الفضاء وأسرار الكون',en:'Space Missions & Cosmic Mysteries',descAr:'من أبولو 8 إلى الهبوط على القمر والثقوب السوداء.',descEn:'From Apollo 8 to the Moon landing and black holes.'},{id:'mysteries',icon:'🕵️',ar:'ألغاز وكوارث غيّرت التاريخ',en:'Mysteries & Disasters',descAr:'قصص موثقة وراء أكثر الأحداث غموضًا.',descEn:'Evidence-led stories behind mysterious events.'},{id:'history',icon:'🏛️',ar:'الحضارات والاكتشافات الأثرية',en:'Civilizations & Archaeology',descAr:'رحلة إلى آثار الحضارات القديمة.',descEn:'Explore the traces of ancient civilizations.'},{id:'technology',icon:'💡',ar:'التقنية وصناعة المعرفة',en:'Technology & Knowledge',descAr:'التقنيات الحديثة وأدوات صناعة المحتوى.',descEn:'Modern technology and tools for creating content.'}];
-const articlePage=/\\/articles\\/[^/]+\\.html$/.test(location.pathname);
+const articlePage=location.pathname.includes('/articles/') && location.pathname.endsWith('.html');
 const prefix=articlePage?'':'articles/';
 const lang=()=>document.documentElement.lang==='en'?'en':'ar';
 const title=(x)=>x[lang()];
