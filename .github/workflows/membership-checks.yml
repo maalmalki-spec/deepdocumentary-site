@@ -1,0 +1,25 @@
+name: Membership checks
+on:
+  pull_request:
+  push:
+    branches: [main, codex/membership-phase-one]
+permissions:
+  contents: read
+jobs:
+  membership:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm install --ignore-scripts --no-audit --no-fund
+      - run: npm run test:membership
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:browser
+      - run: python scripts/check_local_assets.py
+      - run: python scripts/check_shared_footer.py
