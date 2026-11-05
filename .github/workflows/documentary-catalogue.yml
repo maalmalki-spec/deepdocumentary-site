@@ -5,6 +5,8 @@ on:
     paths:
       - 'articles/**'
       - 'scripts/build_documentary_catalogue.py'
+      - 'scripts/sync_documentary_series.py'
+      - 'index.html'
       - '.github/workflows/documentary-catalogue.yml'
   workflow_dispatch:
 permissions:
@@ -19,14 +21,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install shared components on all published articles
+        run: python scripts/sync_documentary_series.py
       - name: Build catalogue from published articles
         run: python scripts/build_documentary_catalogue.py
       - name: Commit changed catalogue
         run: |
-          if ! git diff --quiet -- assets/documentary-catalogue.json; then
+          if ! git diff --quiet -- assets/documentary-catalogue.json index.html articles/; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/documentary-catalogue.json
-            git commit -m "Auto-update documentary series catalogue"
+            git add assets/documentary-catalogue.json index.html articles/
+            git commit -m "Auto-sync documentary series and article catalogue"
             git push
           fi
