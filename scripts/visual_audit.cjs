@@ -7,8 +7,8 @@ fs.mkdirSync(output, {recursive:true});
 (async()=>{
  const browser = await chromium.launch({headless:true});
  const results = [];
- for (const width of [390, 1440]) {
-  const context = await browser.newContext({viewport:{width,height:900}, deviceScaleFactor:1});
+ for (const width of [390, 768, 820, 1024, 1440]) {
+  const context = await browser.newContext({viewport:{width,height:width===768||width===820||width===1024?1024:900}, deviceScaleFactor:1});
   for (const name of pages) {
    const page = await context.newPage();
    const uri = 'file://' + path.resolve(name);
