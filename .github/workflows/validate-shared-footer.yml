@@ -1,0 +1,27 @@
+name: Validate shared footer
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.html'
+      - 'assets/shared-footer.css'
+      - 'scripts/check_shared_footer.py'
+      - '.github/workflows/validate-shared-footer.yml'
+  pull_request:
+    paths:
+      - '**/*.html'
+      - 'assets/shared-footer.css'
+      - 'scripts/check_shared_footer.py'
+      - '.github/workflows/validate-shared-footer.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+permissions:
+  contents: read
+jobs:
+  footer-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify every page uses complete shared footer
+        run: python3 scripts/check_shared_footer.py
