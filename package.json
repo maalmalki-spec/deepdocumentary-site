@@ -1,0 +1,13 @@
+{
+  "name": "deepdocumentary-site-checks",
+  "private": true,
+  "scripts": {
+    "test:membership": "node tests/membership-security.mjs",
+    "test:browser": "playwright test"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.3.14",
+    "playwright": "1.62.1"
+  }
+}
+
