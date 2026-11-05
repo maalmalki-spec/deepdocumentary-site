@@ -4,7 +4,7 @@
       "slug": "alula-khaybar-archaeology",
       "series": "history",
       "ar": "أسرار العُلا وخيبر",
-      "en": "أسرار العُلا وخيبر",
+      "en": "أسرار العُلا وخيبر | Deep Documentary",
       "image": "alula-khaybar-archaeology/alula-landscape.webp"
     },
     {
@@ -32,15 +32,15 @@
       "slug": "canva-video-editor-beginners-guide",
       "series": "technology",
       "ar": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية",
-      "en": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية",
-      "image": null
+      "en": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية | Deep Documentary",
+      "image": "https://deepdocumentary.com/articles/assets/logo.svg"
     },
     {
       "slug": "chernobyl",
       "series": "mysteries",
       "ar": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟",
       "en": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟ | Deep Documentary",
-      "image": null
+      "image": "https://deepdocumentary.com/assets/logo.svg"
     },
     {
       "slug": "mary-celeste",
@@ -53,7 +53,7 @@
       "slug": "passkeys-end-of-passwords-2026",
       "series": "technology",
       "ar": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟",
-      "en": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟",
+      "en": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟ | Deep Documentary",
       "image": "passkeys-end-of-passwords-2026/passkeys-01.webp"
     }
   ]
