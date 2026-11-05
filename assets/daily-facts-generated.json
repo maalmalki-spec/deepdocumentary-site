@@ -1,1 +1,25 @@
-{"facts":[]}
+{
+  "facts": [
+    {
+      "ar": "استغرقت رحلة أبولو 11 من الإطلاق إلى الهبوط على القمر نحو أربعة أيام.",
+      "en": "Apollo 11 took about four days from launch to its Moon landing.",
+      "article": "apollo-11",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/mission/apollo-11/"
+    },
+    {
+      "ar": "كان رواد أبولو 8 أول بشر يدورون حول القمر في ديسمبر 1968.",
+      "en": "Apollo 8 astronauts became the first humans to orbit the Moon in December 1968.",
+      "article": "apollo-8",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/mission/apollo-8/"
+    },
+    {
+      "ar": "لا يستطيع الضوء الإفلات من داخل أفق الحدث للثقب الأسود.",
+      "en": "Not even light can escape from inside a black hole’s event horizon.",
+      "article": "black-holes",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/universe/black-holes/"
+    }
+  ]
+}
