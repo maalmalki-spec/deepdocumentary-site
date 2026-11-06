@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-11-06T13:28:54.000Z",
+  "items": [
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟",
+      "source": "CNN Arabic",
+      "publishedAt": "2026-11-05T20:17:12.000Z",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "society",
+      "title": "هجمات الحوثيين المتصاعدة تختبر قدرة المجتمع الدولي على الردع",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-05T18:55:40.000Z",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "mystery",
+      "title": "بعد 3 سنوات.. قرار إخلاء يفك لغز اختفاء شقيقة وزير مصري سابق",
+      "source": "العربية",
+      "publishedAt": "2026-11-06T06:21:00.000Z",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "world",
+      "title": "Kenyan sect leader, guilty of 191 murders, arrives for sentencing",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T09:56:59.000Z",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "technology",
+      "title": "Democrats planning flood of AI bills when they take control of Congress",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T11:45:13.000Z",
+      "breaking": false
+    }
+  ],
+  "errors": [],
+  "note": "Initial sourced headlines from editorial radar; scheduled updates replace these."
+}
