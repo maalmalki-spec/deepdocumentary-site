@@ -10,6 +10,8 @@ on:
       - 'games.html'
       - 'assets/documentary-*'
       - 'scripts/visual_audit.cjs'
+      - 'scripts/check_local_assets.py'
+      - 'assets/analytics.js'
       - 'scripts/sync_documentary_series.py'
 permissions:
   contents: read
