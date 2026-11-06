@@ -50,6 +50,9 @@
     },
     {
       "slug": "library-of-alexandria",
+      "eventYear": -280,
+      "approximateYear": true,
+      "era": "ancient",
       "series": "history",
       "ar": "مكتبة الإسكندرية: كيف اختفت أعظم مكتبات العالم القديم؟",
       "en": "مكتبة الإسكندرية: كيف اختفت أعظم مكتبات العالم القديم؟",
