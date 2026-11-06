@@ -26,6 +26,11 @@ jobs:
         run: python scripts/sync_documentary_series.py
       - name: Build catalogue from published articles
         run: python scripts/build_documentary_catalogue.py
+      - name: Verify image paths and JavaScript syntax
+        run: |
+          python scripts/validate_catalogue_images.py
+          node --check assets/documentary-series.js
+          node --check assets/timeline.js
       - name: Build verified daily facts from article metadata
         run: python scripts/build_daily_facts.py
       - name: Commit changed catalogue
