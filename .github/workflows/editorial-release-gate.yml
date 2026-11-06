@@ -37,9 +37,6 @@ jobs:
               exit 1
             fi
             mapfile -d '' files < <(git diff --name-only --diff-filter=AM -z "$BASE" HEAD -- 'articles/*.html')
-            if git diff --name-only "$BASE" HEAD -- scripts/check_editorial_release.py .github/workflows/editorial-release-gate.yml | grep -q .; then
-              mapfile -d '' files < <(find articles -maxdepth 1 -name '*.html' -print0)
-            fi
           fi
           if (( ${#files[@]} )); then
             python3 scripts/check_editorial_release.py "${files[@]}"
