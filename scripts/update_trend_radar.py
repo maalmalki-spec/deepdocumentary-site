@@ -49,7 +49,7 @@ def main():
                         title=title.rsplit(" - ",1)[0].strip()
                     if not valid(title,publisher,date,now):continue
                     if locale=="ar" and len(re.findall(r"[\u0600-\u06ff]",title))<8:continue
-                    signature=re.sub(r"[^\\w]+","",title.casefold())
+                    signature="".join(c for c in title.casefold() if c.isalnum())
                     if signature in seen:continue
                     seen.add(signature)
                     items.append({"category":key,"categoryAr":ar,"categoryEn":en,"region":"arab" if locale=="ar" else "global","title":title,"source":publisher,"url":link,"published":date,"suggestedTitleEn":("Behind the story: "+title) if locale=="en" else "","suggestedTitleAr":("خلف الخبر: "+title) if locale=="ar" else ""})
@@ -58,7 +58,7 @@ def main():
             except Exception as exc:errors.append(locale+"/"+key+": "+str(exc)[:140])
     output={"updatedAt":now.isoformat(),"method":"Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.","items":items[:20],"errors":errors}
     dest=pathlib.Path("assets/data/trend-radar.json");dest.parent.mkdir(parents=True,exist_ok=True)
-    if len(items)<10:raise SystemExit("Insufficient valid headlines; preserving prior radar data")
+    if len(items)==0:raise SystemExit("No headlines available; preserving prior data")
     dest.write_text(json.dumps(output,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("Radar items:",len(items),"errors:",len(errors))
     if not items:raise SystemExit("No feed items; keeping existing radar data via failed workflow")
