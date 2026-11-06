@@ -12,7 +12,7 @@
       "series": "space",
       "ar": "أبولو 11: الرحلة التي وضعت الإنسان على القمر",
       "en": "Apollo 11: The First Moon Landing",
-      "image": "assets/apollo11-timeline.svg",
+      "image": "assets/images/apollo-11/aldrin.webp",
       "eventYear": 1969,
       "era": "space"
     },
@@ -21,7 +21,7 @@
       "series": "space",
       "ar": "أبولو 8: أول بشر يدورون حول القمر",
       "en": "أبولو 8: أول بشر يدورون حول القمر | Deep Documentary",
-      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85",
+      "image": "assets/images/apollo-8/a2627f32ef56.webp",
       "eventYear": 1968,
       "era": "space"
     },
