@@ -123,4 +123,4 @@ function achievementDaily(){const s=achievementState();achievementUnlock('daily'
 achievementRender();
 
 const langBtn=$('language');langBtn.onclick=()=>{lang=lang==='ar'?'en':'ar';document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';document.querySelectorAll('[data-ar][data-en]').forEach(e=>e.textContent=e.dataset[lang]);langBtn.textContent=lang==='ar'?'English 🌐':'العربية 🌐';if($('panel').classList.contains('show'))$('panel').classList.remove('show');renderDaily();achievementRender()};
-</script><script defer src="/assets/news-ticker.js?v=1"></script></body></html>
+</script><script defer src="/assets/news-ticker.js?v=3"></script></body></html>
