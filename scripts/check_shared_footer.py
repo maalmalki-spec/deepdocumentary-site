@@ -49,7 +49,7 @@ for path in sorted(ROOT.rglob("*.html")):
     if not p.copy: missing.append("copyright")
     for link in REQUIRED_LINKS:
         if link not in p.links: missing.append("link " + link)
-    if "shared-footer.css" not in text: missing.append("shared-footer.css")
+    if "shared-footer.css" not in text: missing.append("shared-footer.css")\n    if "assets/analytics.js" not in text: missing.append("universal loader (analytics.js, includes shared header)")
     if missing: errors.append(f"{path.relative_to(ROOT)}: {', '.join(missing)}")
 print(f"Checked {checked} HTML pages.")
 if errors:
