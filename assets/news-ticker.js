@@ -8,6 +8,6 @@ document.head.append(css);
 var header=document.querySelector('header');if(header)header.after(box);else document.body.prepend(box);
 var news=[];
 function render(){var en=document.documentElement.lang==='en';label.textContent=en?'LATEST NEWS':'آخر الأخبار';textBox.replaceChildren();var rows=news.filter(function(x){return x.lang===(en?'en':'ar')}).slice(0,20);if(!rows.length){textBox.textContent=en?'No recent news available':'لا توجد أخبار حديثة حاليًا';return}for(var n=0;n<2;n++)rows.forEach(function(x){var item=document.createElement('span');item.dir=en?'ltr':'rtl';item.textContent=x.title;var source=document.createElement('small');source.textContent=' — '+x.source;item.append(source);textBox.append(item)})}
-async function refresh(){try{var response=await fetch('/assets/data/news-ticker.json?'+Date.now(),{cache:'no-store'});if(!response.ok)return;var data=await response.json();if(Array.isArray(data.items)){news=data.items;render()}}catch(e){render()}}
+async function refresh(){var urls=['/assets/data/news-ticker.json','https://raw.githubusercontent.com/maalmalki-spec/deepdocumentary-site/main/assets/data/news-ticker.json'];for(var i=0;i<urls.length;i++){try{var response=await fetch(urls[i]+'?v='+Date.now(),{cache:'no-store'});if(!response.ok)continue;var data=await response.json();if(Array.isArray(data.items)&&data.items.length){news=data.items;render();return}}catch(e){continue}}render()}
 render();refresh();setInterval(refresh,300000);new MutationObserver(render).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});
 })();
