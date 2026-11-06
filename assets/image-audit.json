@@ -91,6 +91,12 @@
   },
   {
     "page": "index.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionTemple.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "index.html",
     "url": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
