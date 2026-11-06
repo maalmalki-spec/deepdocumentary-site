@@ -69,7 +69,13 @@ def extract(path):
  en=m.meta.get('dd:title:en',en)
  if not ar or not en:return None
  image=next((v for v in (normalize_image(m.cover,path),normalize_image(m.first_image,path),normalize_image(m.meta.get('og:image'),path)) if v),None)
- return dict(slug=path.stem,series=m.meta.get('dd:series') or category(path,m),ar=ar,en=en,image=image)
+ item=dict(slug=path.stem,series=m.meta.get('dd:series') or category(path,m),ar=ar,en=en,image=image)
+ year=m.meta.get('dd:event-year','').strip()
+ if year.lstrip('-').isdigit() and -5000 <= int(year) <= 2100: item['eventYear']=int(year)
+ era=m.meta.get('dd:event-era','').strip()
+ if era in ('ancient','medieval','modern','space'): item['era']=era
+ if m.meta.get('dd:event-approximate')=='true': item['approximateYear']=True
+ return item
 # Covers are derived from article HTML; curated event years are preserved.
 previous={}
 out=ROOT/'assets/documentary-catalogue.json'
@@ -84,8 +90,8 @@ for path in sorted(ARTICLE_DIR.glob('*.html')):
   # The published article is the single source of truth for its cover.
   # Never let an old manually edited catalogue entry override it.
   # Preserve curated event chronology across automatic catalogue rebuilds.
-  for field in ('eventYear','era'):
-   if field in existing:item[field]=existing[field]
+  for field in ('eventYear','era','approximateYear'):
+   if field not in item and field in existing:item[field]=existing[field]
   stories.append(item)
 out=ROOT/'assets/documentary-catalogue.json'
 out.write_text(json.dumps({'stories':stories},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
