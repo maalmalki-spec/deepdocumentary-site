@@ -63,9 +63,9 @@ Deno.serve(async (request) => {
       if (p === 100) throw new Error("Member count exceeds supported scan limit");
     }
     const now = new Date();
-    const todayRiyadh = new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Riyadh",year:"numeric",month:"2-digit",day:"2-digit"}).format(now);
+    const dateRiyadh = (d:Date) => {const parts = new Intl.DateTimeFormat("en-US",{timeZone:"Asia/Riyadh",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(d);const v=(key:string)=>parts.find(x=>x.type===key)?.value??"";return `${v("year")}-${v("month")}-${v("day")}`;};
+    const todayRiyadh = dateRiyadh(now);
     const monthAgo = new Date(now.getTime() - 30 * 86400000);
-    const dateRiyadh = (d:Date) => new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Riyadh",year:"numeric",month:"2-digit",day:"2-digit"}).format(d);
     const stats = {
       total: allUsers.length,
       today: allUsers.filter(u=>dateRiyadh(new Date(u.created_at))===todayRiyadh).length,
