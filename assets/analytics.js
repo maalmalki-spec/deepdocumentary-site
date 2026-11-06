@@ -35,3 +35,18 @@
   tag.src = 'https://www.googletagmanager.com/gtag/js?id=' + measurementId;
   document.head.append(tag);
 })();
+
+/* Universal navigation is independent of analytics and privacy opt-out. */
+(() => {
+  if (document.getElementById('dd-shared-header-loader')) return;
+  const css = document.createElement('link');
+  css.id = 'dd-shared-header-styles';
+  css.rel = 'stylesheet';
+  css.href = '/assets/shared-header.css?v=1';
+  document.head.append(css);
+  const script = document.createElement('script');
+  script.id = 'dd-shared-header-loader';
+  script.src = '/assets/shared-header.js?v=1';
+  script.defer = true;
+  document.head.append(script);
+})();
