@@ -5,7 +5,7 @@
       "series": "history",
       "ar": "أسرار العُلا وخيبر",
       "en": "أسرار العُلا وخيبر | Deep Documentary",
-      "image": "alula-khaybar-archaeology/alula-landscape.webp"
+      "image": "assets/images/alula-khaybar-archaeology/alula-landscape.webp"
     },
     {
       "slug": "apollo-11",
@@ -30,14 +30,14 @@
       "series": "space",
       "ar": "الثقوب السوداء وأفق الحدث: شرح مبسط",
       "en": "الثقوب السوداء وأفق الحدث: شرح مبسط | Deep Documentary",
-      "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1200&q=85"
+      "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=88"
     },
     {
       "slug": "canva-video-editor-beginners-guide",
       "series": "technology",
       "ar": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية",
       "en": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية | Deep Documentary",
-      "image": "https://deepdocumentary.com/articles/assets/logo.svg"
+      "image": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg"
     },
     {
       "slug": "chernobyl",
@@ -62,7 +62,7 @@
       "series": "technology",
       "ar": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟",
       "en": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟ | Deep Documentary",
-      "image": "passkeys-end-of-passwords-2026/passkeys-01.webp"
+      "image": "assets/images/passkeys-end-of-passwords-2026/passkeys-01.webp"
     }
   ]
 }
