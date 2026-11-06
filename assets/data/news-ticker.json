@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-06T15:25:56.461851+00:00",
+  "updatedAt": "2026-11-06T16:15:51.813209+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "سان جيرمان يمنح حكيمي فترة راحة قبل معسكر المغرب",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:57:28+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دانكس يترقب «التوقف الدولي» بعد أسبوعين مميزين في قيادة بايرن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:56:58+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "توخيل يستبعد بالمر ويستدعي بيلينغهام «الصغير» لقائمة إنجلترا",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:56:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "سباليتي: عندما نفوز يتصرف الناس وكأن الخصوم «مثيرون للسخرية»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:56:51+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "3 وجوه جديدة في تشكيلة دي لا فوينتي لمواجهتي إنجلترا والتشيك",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:56:36+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "هورزيلر: أحلم بالتتويج «بلقب ما» مع برايتون",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:55:42+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية وقطر تناقشان ضمان حرية الملاحة",
+      "source": "العربية",
+      "publishedAt": "2026-11-06T15:53:51+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إيراولا: علينا التحلي «بنظرة أكثر شمولية» لتجاوز الهزيمتين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:32:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "البرتغال تتعهد بتكريم رونالدو",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:31:44+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "جيريمي دوكو يدعم تشكيلة بلجيكا في دوري الأمم",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:19:38+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -26,17 +106,9 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "ماركو سيلفا يعترف بخطئه رغم فوز بنفيكا على ليخ بوزنان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:07:23+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "economy",
-      "title": "AI stocks bounce back after trillions wiped from market values",
+      "title": "AI stocks climb after trillions wiped from market values",
       "source": "BBC",
       "publishedAt": "2026-11-06T15:04:46+00:00",
       "breaking": false
@@ -60,33 +132,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "توخيل يستبعد بالمر ويستدعي بيلينغهام «الصغير» لقائمة إنجلترا",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:38:52+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الإمارات تعلن تشكيلتها لمواجهة هندوراس وسوريا وديّاً",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:38:15+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "المعارضة اليمينية: على إسبانيا الانسحاب إذا لم تستضف نهائي «مونديال 2030»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T14:37:59+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "سان جيرمان يمنح حكيمي فترة راحة قبل معسكر المغرب",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:37:54+00:00",
       "breaking": false
     },
     {
@@ -100,41 +148,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "سباليتي: عندما نفوز يتصرف الناس وكأن الخصوم «مثيرون للسخرية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:09:13+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "3 وجوه جديدة في تشكيلة دي لا فوينتي لمواجهتي إنجلترا والتشيك",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:09:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "هورزيلر: أحلم بالتتويج «بلقب ما» مع برايتون",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:08:41+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "غيابات مؤثرة عن قمة أتلتيكو مدريد وبرشلونة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T14:08:37+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "البرتغال تتعهد بتكريم رونالدو",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:57:33+00:00",
       "breaking": false
     },
     {
@@ -156,14 +172,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "سينر يستغني عن مدربه كاهيل ويستعين بماغنوس نورمان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:50:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "ماركو روزه يشيد بكفاءة بدلاء بورنموث",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T13:50:05+00:00",
@@ -172,25 +180,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "جيريمي دوكو يدعم تشكيلة بلجيكا في دوري الأمم",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:49:50+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "قمتان تشعلان الكالتشيو.. لاتسيو يدافع عن الصدارة وإنتر يواجه طموح كومو",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-06T13:30:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعتمد اللائحة التنفيذية لنقل الركاب بالمركبات ذاتية القيادة",
-      "source": "العربية",
-      "publishedAt": "2026-11-06T13:29:00+00:00",
       "breaking": false
     },
     {
@@ -220,17 +212,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "دانكس يترقب «التوقف الدولي» بعد أسبوعين مميزين في قيادة بايرن",
+      "title": "طرابزون سبور يسقط أمام فرينكفاروش في تصفيات الدوري الأوروبي",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:10:53+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T12:41:44+00:00",
+      "publishedAt": "2026-11-06T12:53:49+00:00",
       "breaking": false
     },
     {
@@ -244,9 +228,25 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "بيان رسمي.. لهذا السبب قرر إنريكي استبعاد حكيمي من مباراة تروا",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T11:58:41+00:00",
+      "title": "هال سيتي ينفق أكثر من برشلونة… جنون سوق الانتقالات يتجاوز الحدود",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T12:20:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تدين الاتهامات الحوثية بحصار الشعب اليمني",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T11:53:58+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية: لا تهاون في حفظ أمننا وسنرد بحزم على أي تهديد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T11:50:28+00:00",
       "breaking": false
     },
     {
@@ -291,6 +291,14 @@
     },
     {
       "lang": "ar",
+      "category": "saudi",
+      "title": "«الداخلية» السعودية: إجراءات بحق متورطين في جرائم مُهددة للوحدة الوطنية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T10:58:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "world",
       "title": "كيف يؤثر الديمقراطيون على سياسات ترامب الاقتصادية؟",
       "source": "سكاي نيوز عربية",
@@ -299,26 +307,18 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "إدانات عربية وإسلامية ودولية للإرهاب الحوثي ضد السعودية",
+      "category": "sports",
+      "title": "أوتمار هيتسفيلد يكشف عن معاناته مع «الاحتراق النفسي»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:37:33+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "التحالف: اعتراض وتدمير مسيّرة في منطقة مكة المكرمة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T10:28:16+00:00",
+      "publishedAt": "2026-11-06T09:54:08+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "سكالوني: ميسي يستحق أن يودّع جماهير الأرجنتين كما يشاء",
+      "title": "61 % من اتحادات «فيفا» لا تكشف عن حساباتها المالية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:21:34+00:00",
+      "publishedAt": "2026-11-06T09:54:03+00:00",
       "breaking": false
     },
     {
@@ -327,14 +327,6 @@
       "title": "تاشيما يتحدى إنفانتينو: هل يستطيع «فيفا» تطهير نفسه؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T09:53:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«إن بي إيه»: كوري يمنح ووريرز انتصاره السادس توالياً",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T09:40:00+00:00",
       "breaking": false
     },
     {
@@ -355,22 +347,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "رونالدو وميسي.. كيف اختلف السطر الأخير؟",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T07:35:05+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "سياسي / وزارة الخارجية تعرب عن إدانة المملكة واستنكارها بأشد العبارات الاعتداء المسلح الغادر بالمنطقة الجنوبية في مصر",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-06T07:32:12+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "world",
       "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
       "source": "سكاي نيوز عربية",
@@ -383,14 +359,6 @@
       "title": "الذهب يتراجع مع صعود النفط وترقب بيانات أمريكية",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-06T06:57:44+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "التحالف يعترض صاروخاً حوثياً باتجاه المدينة المنورة... واليمن يحذر من تهديد الملاحة (تغطية حية)",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T06:34:40+00:00",
       "breaking": false
     },
     {
@@ -447,14 +415,6 @@
       "title": "ردا على تقرير لوول ستريت جورنال.. السعودية تنفي وجود مطالب قدمها الحوثيون",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-05T20:29:25+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "عمليات تجميل نجوم كرة القدم... قصص التنمر والدعاية وراء وجوه اللاعبين الجديدة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-05T20:01:14+00:00",
       "breaking": false
     },
     {
