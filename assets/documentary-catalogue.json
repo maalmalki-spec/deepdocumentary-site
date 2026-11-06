@@ -44,7 +44,7 @@
       "series": "mysteries",
       "ar": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟",
       "en": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟ | Deep Documentary",
-      "image": "assets/timeline-chernobyl.svg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=1600",
       "eventYear": 1986,
       "era": "modern"
     },
@@ -53,7 +53,7 @@
       "series": "mysteries",
       "ar": "لغز سفينة ماري سيليست: اختفاء الطاقم",
       "en": "لغز سفينة ماري سيليست: اختفاء الطاقم | Deep Documentary",
-      "image": "assets/timeline-mary-celeste.svg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=1187",
       "eventYear": 1872,
       "era": "modern"
     },
