@@ -55,6 +55,9 @@ for path in sorted(ARTICLE_DIR.glob('*.html')):
  if item:
   existing=previous.get(item['slug'],{})
   if existing.get('image'):item['image']=existing['image']
+  # Preserve curated event chronology across automatic catalogue rebuilds.
+  for field in ('eventYear','era'):
+   if field in existing:item[field]=existing[field]
   stories.append(item)
 out=ROOT/'assets/documentary-catalogue.json'
 out.write_text(json.dumps({'stories':stories},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
