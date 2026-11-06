@@ -1,0 +1,74 @@
+{
+  "status": "editorial-draft",
+  "titleAr": "إشارة WOW! الغامضة: هل تلقّت الأرض رسالة من حضارة فضائية؟",
+  "titleEn": "The Mysterious Wow! Signal: Did Earth Receive a Message from an Alien Civilization?",
+  "factCheckedSources": [
+    "https://www.seti.org/research/seti-101/the-wow-signal",
+    "https://www.bigear.org/Wow30th/wow30th.htm",
+    "https://seti.berkeley.edu/wow/",
+    "https://phl.upr.edu/wow/faq",
+    "https://www.seti.org/news/the-wow-signal-a-lingering-mystery-or-a-natural-phenomenon"
+  ],
+  "images": [
+    {
+      "file": "Wow_signal_profile.svg",
+      "author": "Maxrossomachin",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wow_signal_profile.svg",
+      "localTarget": "assets/images/wow-signal/Wow_signal_profile.svg"
+    },
+    {
+      "file": "Wow_signal_spectrogram.svg",
+      "author": "Omegatron",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wow_signal_spectrogram.svg",
+      "localTarget": "assets/images/wow-signal/Wow_signal_spectrogram.svg"
+    },
+    {
+      "file": "Wow!_signal_source.svg",
+      "author": "Wikimedia Commons contributors",
+      "license": "See source page",
+      "source": "https://commons.wikimedia.org/wiki/File:Wow!_signal_source.svg",
+      "localTarget": "assets/images/wow-signal/Wow!_signal_source.svg"
+    },
+    {
+      "file": "Allen_Telescope_Array.jpg",
+      "author": "brewbooks",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Allen_Telescope_Array.jpg",
+      "localTarget": "assets/images/wow-signal/Allen_Telescope_Array.jpg"
+    },
+    {
+      "file": "Green_Bank_Telescope.jpg",
+      "author": "Cyberbaud",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_Bank_Telescope.jpg",
+      "localTarget": "assets/images/wow-signal/Green_Bank_Telescope.jpg"
+    },
+    {
+      "file": "Green_Bank_Observatory_40_foot_telescope.jpg",
+      "author": "B. Saxon, NRAO/AUI/NSF",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_Bank_Observatory_40_foot_telescope.jpg",
+      "localTarget": "assets/images/wow-signal/Green_Bank_Observatory_40_foot_telescope.jpg"
+    },
+    {
+      "file": "Green_Bank_Telescope_NRAO.jpg",
+      "author": "NRAO/AUI/NSF",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_Bank_Telescope_NRAO.jpg",
+      "localTarget": "assets/images/wow-signal/Green_Bank_Telescope_NRAO.jpg"
+    }
+  ],
+  "editorialRules": [
+    "No claim of extraterrestrial origin as fact",
+    "6EQUJ5 is signal strength, not decoded alien text",
+    "72 seconds is telescope transit, not proven transmitter duration",
+    "2024–2025 hydrogen hypothesis is unconfirmed",
+    "Do not reproduce original Ohio History Connection printout without rights clearance",
+    "Download and verify images locally before publishing",
+    "1500–2500 words per language",
+    "Dedicated 16:9 cover and OG image",
+    "Full technical and visual audit before publication"
+  ]
+}
