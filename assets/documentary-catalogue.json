@@ -12,14 +12,18 @@
       "series": "space",
       "ar": "أبولو 11: الرحلة التي وضعت الإنسان على القمر",
       "en": "Apollo 11: The First Moon Landing",
-      "image": "https://www.nasa.gov/wp-content/uploads/2023/03/as11-40-5903.jpg"
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/03/as11-40-5903.jpg",
+      "eventYear": 1969,
+      "era": "space"
     },
     {
       "slug": "apollo-8",
       "series": "space",
       "ar": "أبولو 8: أول بشر يدورون حول القمر",
       "en": "أبولو 8: أول بشر يدورون حول القمر | Deep Documentary",
-      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85"
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85",
+      "eventYear": 1968,
+      "era": "space"
     },
     {
       "slug": "black-holes",
@@ -40,14 +44,18 @@
       "series": "mysteries",
       "ar": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟",
       "en": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟ | Deep Documentary",
-      "image": "https://deepdocumentary.com/assets/logo.svg"
+      "image": "https://deepdocumentary.com/assets/logo.svg",
+      "eventYear": 1986,
+      "era": "modern"
     },
     {
       "slug": "mary-celeste",
       "series": "mysteries",
       "ar": "لغز سفينة ماري سيليست: اختفاء الطاقم",
       "en": "لغز سفينة ماري سيليست: اختفاء الطاقم | Deep Documentary",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=85"
+      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=85",
+      "eventYear": 1872,
+      "era": "modern"
     },
     {
       "slug": "passkeys-end-of-passwords-2026",
