@@ -12,33 +12,38 @@ CATEGORIES={
 "culture":("الثقافة والفنون","Culture & arts","culture arts documentary"),
 "mystery":("الغموض والتحقيقات","Mystery & investigations","historical mystery investigation"),
 "space":("الفضاء","Space","space astronomy discovery")}
-ARABIC_QUERIES={"world":"أخبار العالم الشرق الأوسط","history":"اكتشاف أثري تاريخ حضارة","science":"اكتشاف علمي أبحاث طبية","technology":"الذكاء الاصطناعي التقنية","economy":"اقتصاد السعودية الخليج الأعمال","environment":"البيئة المناخ الطبيعة","society":"دراسة المجتمع علم النفس","culture":"الثقافة الفن التراث العربي","mystery":"لغز تاريخي تحقيق اكتشاف","space":"الفضاء الفلك اكتشاف"}
+ARABIC_QUERIES={"world":["السعودية","الخليج","الشرق الأوسط"],"history":["آثار","اكتشاف أثري"],"science":["علوم","صحة"],"technology":["الذكاء الاصطناعي","تقنية"],"economy":["اقتصاد","السعودية اقتصاد"],"environment":["البيئة","المناخ"],"society":["المجتمع","دراسة"],"culture":["الثقافة","التراث"],"mystery":["لغز","تحقيق"],"space":["الفضاء","الفلك"]}
 HEADERS={"User-Agent":"DeepDocumentaryEditorialRadar/1.0 (+https://deepdocumentary.com)"}
-def fetch(query, locale="en"):
-    url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:2d","hl":"ar","gl":"SA","ceid":"SA:ar"} if locale=="ar" else {"q":query+" when:2d","hl":"en-US","gl":"US","ceid":"US:en"})
+def fetch(query, locale="en", days=3):
+    url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+f" when:{days}d","hl":"ar","gl":"SA","ceid":"SA:ar"} if locale=="ar" else {"q":query+" when:2d","hl":"en-US","gl":"US","ceid":"US:en"})
     req=urllib.request.Request(url,headers=HEADERS)
     with urllib.request.urlopen(req,timeout=18) as response:
         return ET.fromstring(response.read(800000))
 def clean(s): return re.sub(r"\s+"," ",s or "").strip()
 GENERIC = ("breaking headlines", "breaking news", "latest news", "news today", "top stories", "video reports", "watch live", "local angles", "news homepage", "news website")
 def valid(title, publisher, date, now):
-    if not 25 <= len(title) <= 190 or len(title.split()) < 5: return False
+    if not 18 <= len(title) <= 210 or len(title.split()) < 4: return False
     if any(word in title.casefold() for word in GENERIC): return False
     if title.casefold().strip(" .-") == publisher.casefold().strip(" .-"): return False
     try:
         published = email.utils.parsedate_to_datetime(date)
         if published.tzinfo is None: published = published.replace(tzinfo=datetime.timezone.utc)
         age = (now-published.astimezone(datetime.timezone.utc)).total_seconds()
-        return -3600 <= age <= 72*3600
+        return -3600 <= age <= 7*86400
     except (ValueError, TypeError, OverflowError): return False
 def main():
     items=[];errors=[];seen=set();now=datetime.datetime.now(datetime.timezone.utc)
     for locale in ("ar","en"):
         for key,(ar,en,query) in CATEGORIES.items():
             try:
-                root=fetch(ARABIC_QUERIES[key] if locale=="ar" else query,locale)
+                root=fetch(query,locale) if locale=="en" else None
                 count=0
-                for node in root.findall(".//channel/item"):
+                feeds=[root] if locale=="en" else []
+                if locale=="ar":
+                    for q in ARABIC_QUERIES[key]:
+                        try: feeds.append(fetch(q,"ar",7))
+                        except Exception as feed_error: errors.append("ar/"+key+": "+str(feed_error)[:100])
+                for node in [entry for feed in feeds for entry in feed.findall(".//channel/item")]:
                     title=clean(node.findtext("title"))
                     link=clean(node.findtext("link"))
                     source=node.find("source")
@@ -56,7 +61,8 @@ def main():
                     count+=1
                     if count>=1:break
             except Exception as exc:errors.append(locale+"/"+key+": "+str(exc)[:140])
-    output={"updatedAt":now.isoformat(),"method":"Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.","items":items[:20],"errors":errors}
+    counts={"arab":sum(x["region"]=="arab" for x in items),"global":sum(x["region"]=="global" for x in items)}
+    output={"counts":counts,"updatedAt":now.isoformat(),"method":"Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.","items":items[:20],"errors":errors}
     dest=pathlib.Path("assets/data/trend-radar.json");dest.parent.mkdir(parents=True,exist_ok=True)
     if len(items)==0:raise SystemExit("No headlines available; preserving prior data")
     dest.write_text(json.dumps(output,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
