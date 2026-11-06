@@ -1,5 +1,5 @@
 (() => {
-  const measurementId = 'G-CBDETZYPG';
+  const measurementId = 'G-CBDETZZYPG';
   if (!['deepdocumentary.com', 'www.deepdocumentary.com'].includes(location.hostname)
       || document.getElementById('dd-google-tag')) return;
 
