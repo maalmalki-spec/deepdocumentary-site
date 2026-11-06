@@ -5,7 +5,7 @@ const box=document.createElement('div');box.id='dd-ticker';box.setAttribute('ari
 const label=document.createElement('b'),viewport=document.createElement('div'),track=document.createElement('div');
 viewport.className='dd-ticker-viewport';track.className='dd-ticker-track';viewport.append(track);box.append(label,viewport);
 const css=document.createElement('style');
-css.textContent=`#dd-ticker{display:flex;align-items:stretch;background:#111;color:#f7f7f7;border-block:1px solid #b9944b;overflow:hidden;font:600 15px/1.5 Arial,sans-serif;height:44px;max-width:100%}#dd-ticker>b{background:#a32329;color:white;padding:11px 15px;flex-shrink:0;white-space:nowrap;z-index:1}#dd-ticker .dd-ticker-viewport{overflow:hidden;flex:1;min-width:0;display:flex;align-items:center}#dd-ticker .dd-ticker-track{display:flex;align-items:center;width:max-content;min-width:max-content;white-space:nowrap;will-change:transform;animation:dd-ticker-scroll var(--dd-duration,75s) linear infinite}#dd-ticker .dd-ticker-group{display:flex;align-items:center;flex:none;white-space:nowrap}#dd-ticker .dd-ticker-item{display:inline-flex;align-items:center;gap:10px;padding:0 24px;flex:none}#dd-ticker .dd-ticker-item::before{content:'◆';font-size:9px;color:#d8b45c}#dd-ticker .dd-ticker-source{color:#d8b45c;font-size:12px}#dd-ticker:hover .dd-ticker-track{animation-play-state:paused}@keyframes dd-ticker-scroll{from{transform:translateX(0)}to{transform:translateX(calc(-1 * var(--dd-distance,500px)))}}@media(max-width:600px){#dd-ticker{font-size:13px;height:40px}#dd-ticker>b{padding:10px}#dd-ticker .dd-ticker-item{padding:0 18px}}@media(prefers-reduced-motion:reduce){#dd-ticker .dd-ticker-track{animation:none;will-change:auto}}`;
+css.textContent=`#dd-ticker{display:flex;align-items:stretch;background:#111;color:#f7f7f7;border-block:1px solid #b9944b;overflow:hidden;font:600 15px/1.5 Arial,sans-serif;height:44px;max-width:100%}#dd-ticker>b{background:#a32329;color:white;padding:11px 15px;flex-shrink:0;white-space:nowrap;z-index:1}#dd-ticker .dd-ticker-viewport{overflow:hidden;flex:1;min-width:0;display:flex;align-items:center;direction:ltr}#dd-ticker .dd-ticker-track{direction:ltr;display:flex;align-items:center;width:max-content;min-width:max-content;white-space:nowrap;will-change:transform;animation:dd-ticker-scroll var(--dd-duration,75s) linear infinite}#dd-ticker .dd-ticker-group{direction:ltr;display:flex;align-items:center;flex:none;white-space:nowrap}#dd-ticker .dd-ticker-item{display:inline-flex;align-items:center;gap:10px;padding:0 24px;flex:none}#dd-ticker .dd-ticker-item::before{content:'◆';font-size:9px;color:#d8b45c}#dd-ticker .dd-ticker-source{color:#d8b45c;font-size:12px}#dd-ticker:hover .dd-ticker-track{animation-play-state:paused}@keyframes dd-ticker-scroll{from{transform:translateX(0)}to{transform:translateX(calc(-1 * var(--dd-distance,500px)))}}@media(max-width:600px){#dd-ticker{font-size:13px;height:40px}#dd-ticker>b{padding:10px}#dd-ticker .dd-ticker-item{padding:0 18px}}@media(prefers-reduced-motion:reduce){#dd-ticker .dd-ticker-track{animation:none;will-change:auto}}`;
 document.head.append(css);
 const header=document.querySelector('header');if(header)header.after(box);else document.body.prepend(box);
 let news=[],lastLang='',resizeTimer;
@@ -22,10 +22,10 @@ function render(){
  const minWidth=Math.max(viewport.clientWidth*1.6,900);
  while(group.scrollWidth<minWidth&&group.childElementCount<150){for(const node of original){group.append(node.cloneNode(true));if(group.scrollWidth>=minWidth)break}}
  const copy=group.cloneNode(true);copy.setAttribute('aria-hidden','true');track.append(copy);
- const width=group.getBoundingClientRect().width;
+ const width=group.scrollWidth;
  track.style.setProperty('--dd-distance',width+'px');
  track.style.setProperty('--dd-duration',Math.max(35,Math.round(width/65))+'s');
- track.style.animation='';
+ track.style.animation='none';void track.offsetWidth;track.style.animation='';
 }
 async function refresh(){
  const urls=['/assets/data/news-ticker.json','https://raw.githubusercontent.com/maalmalki-spec/deepdocumentary-site/main/assets/data/news-ticker.json'];
