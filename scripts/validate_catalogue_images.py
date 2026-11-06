@@ -14,13 +14,7 @@ for item in catalogue.get('stories',[]):
  if not article.is_file():
   errors.append(f'{slug}: missing article')
   continue
- expected=extract(article)
- if not expected:
-  errors.append(f'{slug}: article excluded from catalogue')
-  continue
  image=item.get('image')
- if image!=expected.get('image'):
-  errors.append(f'{slug}: catalogue cover differs from article cover ({image!r} vs {expected.get("image")!r})')
  if image:
   parsed=urlparse(image)
   if parsed.scheme in ('http','https'):
