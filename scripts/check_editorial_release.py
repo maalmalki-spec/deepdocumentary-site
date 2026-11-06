@@ -33,12 +33,26 @@ for name in sys.argv[1:]:
     doc = Article()
     doc.feed(s)
     missing = []
+    # Count editorial assets, not decorative footer images.
     if len(doc.images) < 6: missing.append(f"at least 6 editorial images (found {len(doc.images)})")
+    for img in doc.images:
+        src = img.get("src", "").strip()
+        if not src or src.startswith(("http://", "https://", "//", "data:")):
+            missing.append("editorial image must be a local file: " + src[:100])
+        elif not (path.parent / src.split("?")[0]).is_file() and not (Path(src.lstrip("/"))).is_file():
+            missing.append("editorial image file not found: " + src[:100])
+        if not img.get("alt", "").strip():
+            missing.append("editorial image missing alt text")
     if doc.captions < 6: missing.append("captions for at least 6 images")
     if not re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](?![^"\']*logo)', s, re.I):
         missing.append("dedicated og:image, not a logo")
     if not re.search(r'background[^;}]*url\(', s, re.I) and not re.search(r'<(?:img|picture)[^>]+class=["\'][^"\']*hero', s, re.I):
         missing.append("cover/hero image")
+    # Both translations must contain substantial visible prose, not only UI labels.
+    ar = re.findall(r'[\u0600-\u06FF]+', re.sub(r'<[^>]+>', ' ', s))
+    en = re.findall(r'\b[A-Za-z]{2,}\b', re.sub(r'<[^>]+>', ' ', s))
+    if len(ar) < 1500: missing.append(f"Arabic content below 1500 words ({len(ar)})")
+    if len(en) < 1500: missing.append(f"English content below 1500 words ({len(en)})")
     if "data-ar=" not in s or "data-en=" not in s:
         missing.append("Arabic and English versions")
     if "application/ld+json" not in s: missing.append("structured metadata")
