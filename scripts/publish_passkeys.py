@@ -5,6 +5,7 @@ from pathlib import Path
 from urllib.parse import quote
 import requests
 from PIL import Image,ImageOps
+from install_analytics import add_analytics
 ROOT=Path(__file__).resolve().parents[1]
 SLUG="passkeys-end-of-passwords-2026"
 OUT=ROOT/"assets"/"images"/SLUG
@@ -87,7 +88,7 @@ def run():
     article="<section>".join(parts)
     target=ROOT/"articles"/(SLUG+".html")
     target.parent.mkdir(exist_ok=True)
-    target.write_text(article,encoding="utf-8")
+    target.write_bytes(add_analytics(article.encode("utf-8")))
     index=ROOT/"index.html"
     text=index.read_text(encoding="utf-8")
     if "articles/"+SLUG+".html" not in text:

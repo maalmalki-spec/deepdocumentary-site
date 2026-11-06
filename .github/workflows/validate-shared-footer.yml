@@ -5,12 +5,16 @@ on:
     paths:
       - '**/*.html'
       - 'assets/shared-footer.css'
+      - 'assets/analytics.js'
+      - 'scripts/install_analytics.py'
       - 'scripts/check_shared_footer.py'
       - '.github/workflows/validate-shared-footer.yml'
   pull_request:
     paths:
       - '**/*.html'
       - 'assets/shared-footer.css'
+      - 'assets/analytics.js'
+      - 'scripts/install_analytics.py'
       - 'scripts/check_shared_footer.py'
       - '.github/workflows/validate-shared-footer.yml'
   workflow_dispatch:
@@ -25,3 +29,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Verify every page uses complete shared footer
         run: python3 scripts/check_shared_footer.py
+      - name: Verify one analytics loader per public page
+        run: python3 scripts/install_analytics.py --check

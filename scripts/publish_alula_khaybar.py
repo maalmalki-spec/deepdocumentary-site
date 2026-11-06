@@ -6,6 +6,7 @@ from urllib.parse import urlencode
 import requests
 from PIL import Image
 from io import BytesIO
+from install_analytics import add_analytics
 
 ROOT=Path(__file__).resolve().parents[1]
 DEST=ROOT/'assets/images/alula-khaybar-archaeology'
@@ -69,7 +70,7 @@ for section_idx,img_idx in reversed(gallery):
  figure=f'<figure style="margin:30px 0"><img loading="lazy" decoding="async" src="../assets/images/alula-khaybar-archaeology/{item["file"]}" alt="{caption}" style="display:block;width:100%;height:auto;max-height:550px;object-fit:cover;border-radius:12px"><figcaption style="color:#bfa875;font-size:12px;line-height:1.7" data-ar="{caption}" data-en="{en}">{caption}</figcaption><small><a href="{url}" rel="noopener noreferrer">Wikimedia Commons · {html.escape(item["license"])}</a></small></figure>'
  at=sections[section_idx].start()
  s=s[:at]+figure+s[at:]
-article.write_text(s,encoding='utf-8')
+article.write_bytes(add_analytics(s.encode("utf-8")))
 home=ROOT/'index.html'
 h=home.read_text(encoding='utf-8')
 if "articles/alula-khaybar-archaeology.html" not in h:
