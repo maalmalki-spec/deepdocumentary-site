@@ -40,7 +40,8 @@ for page in sorted(ROOT.rglob("*.html")):
         if not target:
             continue
         references += 1
-        resolved = (page.parent / target).resolve()
+        base = ROOT if target.startswith('/') else page.parent
+        resolved = (base / target.lstrip('/')).resolve()
         if not resolved.is_relative_to(ROOT) or not resolved.is_file():
             failures.append(f"{page.relative_to(ROOT)}: {tag} missing {raw}")
 print(f"Checked {pages} published pages and {references} local asset references.")
