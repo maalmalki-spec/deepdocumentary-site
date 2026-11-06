@@ -50,13 +50,13 @@
     },
     {
       "slug": "library-of-alexandria",
-      "eventYear": -280,
-      "approximateYear": true,
-      "era": "ancient",
       "series": "history",
       "ar": "مكتبة الإسكندرية: كيف اختفت أعظم مكتبات العالم القديم؟",
       "en": "مكتبة الإسكندرية: كيف اختفت أعظم مكتبات العالم القديم؟",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionTemple.jpg"
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionTemple.jpg",
+      "eventYear": -280,
+      "era": "ancient",
+      "approximateYear": true
     },
     {
       "slug": "mary-celeste",
