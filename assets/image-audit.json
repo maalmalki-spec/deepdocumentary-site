@@ -1,7 +1,25 @@
 [
   {
+    "page": "articles/canva-video-editor-beginners-guide.html",
+    "url": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/mary-celeste.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=1187",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
     "page": "articles/mary-celeste.html",
     "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/chernobyl.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=1600",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
@@ -19,13 +37,6 @@
   },
   {
     "page": "articles/apollo-8.html",
-    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/apollo8_earthrise.jpg?fit=contain&w=1200&h=800",
-    "local": "assets/images/apollo-8/a2627f32ef56.webp",
-    "status": "archived",
-    "credit": "NASA"
-  },
-  {
-    "page": "articles/apollo-8.html",
     "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/apollo8_earthrise.jpg?crop=faces%2Cfocalpoint&fit=crop&h=150&w=150",
     "status": "download_failed",
     "error": "Image too small"
@@ -37,6 +48,30 @@
     "reason": "Source license and identity must be verified before archiving"
   },
   {
+    "page": "articles/apollo-11.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo_11_lunar_module.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/apollo-11.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Astronauts_in_Lifeboat_After_Apollo_11_Splashdown_MET_DP-15797-023.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/apollo-11.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo_11_bootprint.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/black-holes.html",
+    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=88",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
     "page": "articles/black-holes.html",
     "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1500&q=85",
     "status": "manual_review_required",
@@ -44,27 +79,28 @@
   },
   {
     "page": "index.html",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=960",
+    "url": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
   {
     "page": "index.html",
-    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=900&q=80",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=1600",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
   {
     "page": "index.html",
-    "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=900&q=80",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=1187",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
   {
     "page": "index.html",
-    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=900&q=80",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/Black_Hole_Side_view-1.png?fit=contain&w=1600&h=950",
+    "local": "assets/images/index/6bc6fceb5d41.webp",
+    "status": "archived",
+    "credit": "NASA"
   },
   {
     "page": "index.html",
