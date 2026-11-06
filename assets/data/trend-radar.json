@@ -1,5 +1,9 @@
 {
-  "updatedAt": "2026-11-06T13:25:35.029627+00:00",
+  "counts": {
+    "arab": 10,
+    "global": 10
+  },
+  "updatedAt": "2026-11-06T13:28:54.433134+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -7,120 +11,120 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "النهر ليس مقابل البحر... رفض مصري لـ«المقايضة الإثيوبية»",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNY2thMVV5S0oyYjhlQlhuZHBybmpqcEt0YVlHeElrMVdFZDVUS21GVzV2MHJ2dVdrSEVVRTlfQTFKWkVLbFVtZk4xNkhUdzRwV2xudXF5aWZ0OU1HY3FLOXdsMW5wR1VOaDUxaFdVRWVmUWxkSE1jeXpEWTdvWXlOZVZxM00yTzBTSXRyTTA5NVpUMmFjRVd6MjVBMi05RmE2RWxyWFpOb0Z0NHk1cXBDR2h4VUdTRmk1Q3N3RGU3RXdDbEtxT0hNTjhOVHpoamtqU1lSQnhyZkNJLWVrZ1prQldJdUJlZUxxZERVN3ZkemppdlFiclFINXZjaUFKRFBsNFZDeGJtMzJrQWFYdWZ5a1JPcVItOHVrZzB1VklHaWtIYlR2UW9PeXJydE51YTVPenE1NU9oYnNMa0R6VWsybjBLbDZhdUxvOHd2S3BnYUtINUN2dzdTd0JOOWlxR3U4bkZaZ2NwNkdfUmJTYjM0WVJhWGp6YmJjbE82TzhVbjVqNHVIVGJFVUVpNFE1SDhCaEZUMUd1bzZWWTNZUTJGWUtBcTRPVXV1SjFFQ3FlR25hTXJJUkVDS0lIYUliRDUtSHZ1YlJJeVl0dWprUzNwMExTcFBzOEdjZ0pXY0t0S3hka21mNnNaX2FqUWUxUXlpaVZTMFNUVnNBVzVTX0ZoZVFUb21nUEZ1blZuNVRSMnhBSVkybThIN2RPaVkyTXl6WEVwVmo0TGFFYVAtY1pLcWtYQmZlUF9jb2JveEROd21uaFBKUkxSOE5Ody12MkJpanVaY0U3WEpRXzRjT2JLRGdCTGJqbnM?oc=5",
-      "published": "Fri, 06 Nov 2026 11:30:50 GMT",
+      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJ1c3BLZGJMbDYyYmNPYlRHNHJzMG1uMWxYZEdLZlVrZnNOOTZPVEgzY0FkZ2owVG1lU2tfSEN5a0NteHB0dGZGN191aURCQllfaDRBRHNKLWkyWUcyWkxEdHhrWm1COHhYdE9QR1AxTHRITnNfNGQxeUJRclUtYk00NnRaOGdNVXM0ZzZIVkEtQ0xSRGRpcDRUVTVTVmI0WGthNmtjRlBuNTl3aEZ3?oc=5",
+      "published": "Thu, 05 Nov 2026 20:17:12 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: النهر ليس مقابل البحر... رفض مصري لـ«المقايضة الإثيوبية»"
+      "suggestedTitleAr": "خلف الخبر: إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "معرض جديد: \"إحياء الحركة.. صياغة قلادة ذهبية من العصر الحديدي\"",
-      "source": "مجلة ناشيونال جيوغرافيك العربية",
-      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPb3hBbFZqRHpiYWhSZ1B1T05Vc2w5UE9tQldpT0h4X016M3kycUd4VUI5NnV5RVhZOWVPRnhzaTVmQWlEaGJFRzR1aGI0dFFEX0UwWmg0MDhlRW1CNUZOSTUwVEFEaGtsVmlyODBPdUVmcFFVem9BaE5mdktiZFBUWDg0NVVoSlJja1Nuakl3YTJhMVpaLVVlQ3pVVXAzOXBhd1pWY2x4NURsamRPclFIczZFVkEtck11aDM2VFk5cTZGUEF0ZDVBUnRhZWxGVHdjYkN4WURlM3JnM3J3eS1sZnhUb0tDSEVNemRaVG5HWm1mYTVtQUpkU0JpQzEzYmh2MEZZdmpZNHUxNW1pODdjOWhGaFRBSks3azdQSU1rdmdfVDhoN21Ba3IzT3R1Ty1kakNZV01zVXlTRXhyb0xaVm00NXppaFczaUpUOEVSSFJxSGRGYVVaQmdWbzhFTmRfNkN1VlBWdGpuUEN6U0NtX01zMGlhWUFSVk5RZ2Y0RGRvSXMyYXQ0YjVHNC1UdldTYkJENkQ5Y0V0R2N6UzNhX01MS3d0bElsZ2RrakFvOXh5UzV3bHB5YVV4Z0Y2UFlXRmlrUkwtTkp6S2VQcmJFNExqcnFkOFk0NUJwdk9xN03SAeADQVVfeXFMT294QWxWakR6YmFoUmdQdU9OVXNsOVBPbUJXaU9IeF9NejN5MnFHeFVCOTZ1eUVYWTllT0Z4c2k1ZkFpRGhiRUc0dWhiNHRRRF9FMFpoNDA4ZUVtQjVGTkk1MFRBRGhrbFZpcjgwT3VFZnBRVXpvQWhOZnZLYmRQVFg4NDVVaEpSY2tTbmpJd2EyYTFaWi1VZUN6VVVwMzlwYXdaVmNseDVEbGpkT3JRSHM2RVZBLXJNdWgzNlRZOXE2RlBBdGQ1QVJ0YWVsRlR3Y2JDeFlEZTNyZzNyd3ktbGZ4VG9LQ0hFTXpkWlRuR1ptZmE1bUFKZFNCaUMxM2JodjBGWXZqWTR1MTVtaTg3YzloRmhUQUpLN2s3UElNa3ZnX1Q4aDdtQWtyM090dU8tZGpDWVdNc1V5U0V4cm9MWlZtNDV6aWhXM2lKVDhFUkhScUhkRmFVWkJnVm84RU5kXzZDdVZQVnRqblBDelNDbV9NczBpYVlBUlZOUWdmNERkb0lzMmF0NGI1RzQtVHZXU2JCRDZEOWNFdEdjelMzYV9NTEt3dGxJbGdka2pBbzl4eVM1d2xweWFVeGdGNlBZV0Zpa1JMLU5KektlUHJiRTRManJxZDhZNDVCcHZPcTdN?oc=5",
-      "published": "Thu, 05 Nov 2026 12:52:17 GMT",
+      "title": "آثار الحكيم لـ«الشرق الأوسط»: تشبعت من الأضواء ولن أعود إلى التمثيل",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPLWpma3FLbGZhODU0TEo0RVY3WDJtbk1rTDBaZlFUZEpiY1NHWUgyckJ6ZVVISDQwV2NVclJSeXh4UXVvYU9XZ2VfTTZfeUxKQzB2WU51M19FeU83ZDQ0QVhadUY1bHc4Vk9jY1BiNDlPcmw2bmkyWU9uVnlMSzcxa2twRDZQR1NJZ0Jic2pRdmNaNUxLb2tJb2NIaUJDYnExQjNldHFFd0pTZjNTTGhUSzBEc2xVak5jWlpObkNaazczOWRRT3FyQk03SWRCSWZQVWhZYjdkTnJicm1BTE5YN05oclc5Q21wakdaSkJuWWlqaDRYQXF5VnR6RG1wOW9NM2pwbG0xTk41SVJfMjZrRmtQVk52Rnp0TlRJY0pZa3dNSDF3by1malJ2STZkMlZHak14dC0xbHRsd19uZU9EYkRremdfejJ6SXdjdFJNNVB5YXpqbGdCR29VMGRqaDFIbG5iSE1ydm00QnJLRmg3MzVSM0ZRZzI0T29HNTNHUUNuQ3hyTE83V0MxRXhEYzh6bHpMSHVKQzFpR3hyNDUzbFRsYUppTkdDUzN6ZFdMZWltemZReHJjWjZRZ1RHUmpJUWJEVEdxTjc1TVdvVUpBVnRtNVJNdUdMajFDalhVMDFLM3UybHNOTGhMZUdUczhLUjFhQ296aFRZSEMzSm5kV0RSMm5yYkR0d2VMMUwyenBoaUVTWEVaY2tMNmg4NGgxbFBjUXlCWkZFRVJsMnBpa2hVZ1I3WVFBM09kS1c1aURIUlBiay14UHBQemlJeXROZFFVcWVsZXg?oc=5",
+      "published": "Sun, 01 Nov 2026 15:00:13 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: معرض جديد: \"إحياء الحركة.. صياغة قلادة ذهبية من العصر الحديدي\""
+      "suggestedTitleAr": "خلف الخبر: آثار الحكيم لـ«الشرق الأوسط»: تشبعت من الأضواء ولن أعود إلى التمثيل"
     },
     {
       "category": "science",
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "«أسترازينيكا» تنقل أبحاث تعديل الجينات إلى السعودية",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQSHFSM1I1djdQOUt5QWFpSjFJVUs0RzlJeUsyUkVrZXdoajBEeTJKVDYyWHpmNndydWxqamhYLWpPMGd1dC1OZVNvdnBRczJFb05zd1c3TklubnVwUWdrMllCaHI1OVloT0YxcThiQ0NEaEgtZnpLNjdQb0pQQU9oMmNpZDRVbHE1NnJJWDJ3d3EtRXFmdENYM1lCTXdBV2gwOURpekxyaHJlRjVFcTZFSDNzdTV1Rk1rLWw1QTFBSWU0TEdmbnJnQXVkOXlIRGFkOWMxMU5JME1PU0tnRTh2alhBYV9NNXdkNEZfOWRxTlhURFcwMEUtX1loblprWlh0dG84Rkg0YjZQQTFVRno4ekhGaU9Mc1ZNaEloM293RTh0MGUwaV9HQmxXcElHTDlab3dVb1o0Y2JidWFfdm9lS1VFRmhLWnBYM3NqRE0zYzh3MGxZenZXWnZHTW1CdTN4a2JPcHQ3YWE2ZmdUT28yUHZCZThMdkpjaWxNdURaX3pjaGE2eC1fYThDUkVNVnJvYmc5OGxnZ1RGRFhldmlZclNhX2NaUEI2LU1iM1FsYnBWcUV5TUpzcXZXRXd1bkk3ZllFZGV3d3JyNVRPTHlwMFVwazZVOXVyazA2R1ZxOTdVYldHMHA1Y2pEQ1FxVnM1ZnlmM3JaTXVXS3c?oc=5",
-      "published": "Thu, 05 Nov 2026 21:58:34 GMT",
+      "title": "علوم وتقنيات / استضافة المملكة لمنتدى \"اليونسكو\" لأخلاقيات الذكاء الاصطناعي.. محطة في مسار ثمانين عامًا من العضوية",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KOE82MENfZ0cxbk9YajJqNGxKYlB0S2tGdlV0SFZ3MktsMXRsX2Fic0pvM3Z3R0doaXR2eTRQLVNyQVFuNlE?oc=5",
+      "published": "Wed, 04 Nov 2026 16:24:46 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: «أسترازينيكا» تنقل أبحاث تعديل الجينات إلى السعودية"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / استضافة المملكة لمنتدى \"اليونسكو\" لأخلاقيات الذكاء الاصطناعي.. محطة في مسار ثمانين عامًا من العضوية"
     },
     {
       "category": "technology",
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "لماذا يخشى مطورو الذكاء الاصطناعي انقراض البشرية بسببه؟",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxQZno3VXBhY1N1Y25xbzhjYXp3Wm1meEFFRzBGX2o1OEwyM2NGRmwtSnlBdUs0U2ZNMEk3N3Z5UXA5ZW5WNkp4TkxNWVE2dngyMXJiVW9LQjN2bHNpYnNqMEFVbHZIU3NjYlM4MmZqWUVXRTFrN2xMTV9rbzBCaXo1SXhRUFAteEFrbkR6aFoxVlE1ejRQUnpsNjV5Q1lDeUY0U1c4aVZPSVY1RUd5Vzl4US00WFRNQ1hSN2M3amNGS3VLSV9zNlJ4ZFJwRF93S0dXbjBHUUVhU211S2dQeXNESTBJY09ST0tBaUNaMUZVVjd5ZVRIM1A5TmZ1ZVltNHZDSHR4NnRPbmUzWTI5eTZ1a3dxVEk5ZURCYnk2ajJvS1N2dWtwSjFvR1VNUXZMVXZITDZpenVMRVc4UGU0LTNHRWVlM2pxMF9Wd3BHRjZFYU52Tm9UcDhmZ0xMOE1QRV8xZzRwS3JRaHFKclZnd0xaZFJuT2NHRWRZQkpRSjA0WkdMSnVuQm5oVklLRG5SdnJVeTVSU1NITUcycFhsQWVMQWdJN0VpMWZzZGtwWGZwN254VFVYb1Z0Q1lWQmhDWEJPZmVndmI5RndIZ0NybE5SUmxRSm5TWUgzVndkZjhxX1poVlFuSVJFMlVOcU9pcjYxWGoxV1lBaWlRWGlWTDJmekluRTNxajdWZmUtekRWOThCTm8?oc=5",
-      "published": "Fri, 06 Nov 2026 08:31:13 GMT",
+      "title": "ماذا لو طوّر الذكاء الاصطناعي نفسه وخرج عن سيطرة الإنسان؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQNDA0d3k2cl9ZR2pkeTFvSmdNeUZnSC1YbGRzajJ5Z1ZTdGpBQVl1QnNKTk4wWDE3UERZWlhrenAyMlZRUGZNWTN1ZlpIV3ZLeWVqYXZid3ZjdW5hYlRxNTBVZVkxUjJ6NU1oYUhQQVBGcmFaMXNaRnFQSHVqTHdiUnZJaTJLZ2QxUU14ZmxkU2pQcENZa3plaVJpZm1iX1A4dWdqblFsemdUU2JycjM0WTBtOHBZS0JUaXVPTjZRSFhBOW91YlZNa1RObEV0YWVqemozY0JHOGFGZ29OQ2RycVIzOU5GOUkwR3d4UjhMbDE2cTNXUXdYRUpVY3o0NGl6cEFVY0RNSDJnWTAwSXY2WlRFelMtLTdBd05ZdlhubHZEREI0TTBNYU16bnpvUlpkZUIzbEY3WDc3Zw?oc=5",
+      "published": "Tue, 03 Nov 2026 17:27:29 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لماذا يخشى مطورو الذكاء الاصطناعي انقراض البشرية بسببه؟"
+      "suggestedTitleAr": "خلف الخبر: ماذا لو طوّر الذكاء الاصطناعي نفسه وخرج عن سيطرة الإنسان؟"
     },
     {
       "category": "economy",
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "المرأة البحرينية والسعودية شريك أساسي في مسيرة التنمية الاقتصادية بالبلدين الشقيقين",
-      "source": "الأيام البحرينية",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JUG1UWVdMYlJTWG5nNGxRZndBSUFCWTFNTFVQenBCY1NRZ1RxZ24wMWN6Uk1rbTBGZE8zNC1kMW44enQ0UTBNdHRxNXRnWEc5ajlTWXEtVm1TS0J6VS1jYXJ0Yw?oc=5",
-      "published": "Fri, 06 Nov 2026 11:26:23 GMT",
+      "title": "اقتصاد الـ 44 تريليون دولار - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9veGdpRHc3QXFBZDJ4ZjJvdmVSNjczVWtxR1NuVDRIeXRCRmRuWGRGLTdMRzN2ZU5yRVFnd2FoOTNsYlo1bzJPdHV0NGNsLXpxcjVKcV94ejZDV1VJdGVmUU1IWmxHVFRBT2c?oc=5",
+      "published": "Sun, 01 Nov 2026 19:40:09 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: المرأة البحرينية والسعودية شريك أساسي في مسيرة التنمية الاقتصادية بالبلدين الشقيقين"
+      "suggestedTitleAr": "خلف الخبر: اقتصاد الـ 44 تريليون دولار - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "الحفاظ على النظام البيئي في كان جيو دون التعارض مع النمو الاقتصادي.",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3BzeXUtRWVxOEk4VlU5ZEJTQUV1QWZUZEdNWGlxdk1PWjY1M0sxWFhZdzc2UW5hejdFMzVSVnpvQmtCS2JEUW9fWEpXQ2tpcEVRbkZzcnpNSU9PNVA5V0RzajhrSFVqc01tcDZ3OE1RanlnU3EzR2w0YVZ5MW9WLWUtLUs4NXpnODdJZjFhaTgwVWo3WkR3ag?oc=5",
-      "published": "Fri, 06 Nov 2026 08:52:41 GMT",
+      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
+      "published": "Thu, 05 Nov 2026 20:08:28 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الحفاظ على النظام البيئي في كان جيو دون التعارض مع النمو الاقتصادي."
+      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "society",
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "دراسة ترجح.. طريقة استخدام الهاتف أهم من عدد ساعات الشاشة",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOUXE5VDAzWEdPZDBwWjZyZVFlN0N3ZGxYVlkteVRSUXZ2NDRxSHhRSFVjQUpKZGxNUEdMZHI4WFo4S0psSFd3SkxMQnRYWEZsTGRtaUI1d25vUEZZUC1rbWxzWlFOdDZZMVZDQmplV3J1dUZVemRsejdKWHgtc3pOSjg0VTZzZnQ1S3VFT3VLNDFvSG9HNlRDbF9VcnI1UkZucVVLcXlCSGM3cFBTNGU1QU5BRXlta1JNUGRqSGZ5NWtkcXVpQl83NlFlSkdZYW9UVkdtTDdGWTd0cXJpY2owNnNvZEZMNGtrYXlLaFZfdmNKOUxaRTlhZVYxUEtJVzFXVURiYWxBX1hqV3ZIbDRlTGJlMHFrYk9KVWdESVdyazdYT2ZNNDVJTXJsV1dCVmpLTHpsNkdfTFlNODhYT1JUM1ltajJzSnpmRmhhaHY5QnFIVFlCNEU3bHpNcUdrMkZhOXByU2xjdjVJaDdSV3prOW5FWXlUanBJa0ZpWTFoWExla21FeUNtOWRvWDUtQmo2WUhxQWhTZXpzcS1ra0lWYzFWekx2MGs5ZkdSU3k2NEVzRmlKVmpjTVZpUENuSzlsN08yUlhBY21iNHUyMUM4cVdEb1o4dk9oTGc1RdIB4gNBVV95cUxPeU44c2xwd29pTGpMMkFIMU45VWVtOEgtMmxadWZMbHJVaTI2aUdmcGxpVzZSWWtpbW5nMzV3U2RvcGNESUU3U1V1czlvSkktNzhDNGw4NGJjbmllaDNzM19VRDJocUZVNGF5QmNZRmxyRDVncXNMWkVQbm9OeXNPbXhFQy04QmcxckprWEliNEl5ekZFSk5iamFxVWxWMEEzUXVITmVja2dRZWpZRkFjeE5LbzhBTmtVMzhhMDgydGk4N3RjUjcyY3R3ZVptRFZsY09nYnlMcnlodmIzbWRNbEZNR19zbGdMVHFDeHdBVkhpWFl3dzJBVElWb3N6TW56dUNQTGhDeEFaSHBXVWtNQjBaUHJZa2NJNVR3QkRTeVVKalRXVlV3a1dYQUNnTUQ4RmZUMGpuZi1xRXZmX1B5R2xqdzlnTkxXRzdjS1hVdC13LVpCMHR1SGNDOFp4YVhYZkJ4NWllYTNZdkxGT04wVnlUQS1KYWIwTVpXbU4ySDFVVURVcFRSNjVHcVFMeWwyamc3T0M1ZF80WFVnUmFtWGVFbW1hMzc2TDVna3dSMjlwN245ZjMtaEpOb1BRT0hPS2E0UG41OFp4bEpDaWJHRXhpQzByS3BDa1lrU1kyU0wtdw?oc=5",
-      "published": "Fri, 06 Nov 2026 06:45:00 GMT",
+      "title": "هجمات الحوثيين المتصاعدة تختبر قدرة المجتمع الدولي على الردع",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNMFhuMjZIZW0yTy1VZjNFMFVvYmpiM2w3SUtLblFKTFRsMnd1MFFhRFhyQ3JNWWVwTzNPVmlObzJKTkp1QW1UTDRLaG0xYUN5eW9xb3A0TVZmLTRSRTIyR1F1dnFRMXpBNkVhRWdPYXlJQmZXOW90SXlZY2diQWRSNjVPUWE3N0wwYzdrN1k2Rl9HemkyOUhCVzNfTXlNdExpY2NvMzQ3UWJSRVRYdkZ5X3hMdjMwU084Q3BjQXdWRXNSVHZwRHZYdGJ6Zi1DT28xM0ZyM05iWjQ4Tzh1LUZSc3huTU5RbERoMGpxdUkyY2hQRkhrN3hLaDhfeHZIQzJSY0ctbVhrc1VoWF83eEswcV8yWFZ4S1I5Z3c2Q2VvbHAtV1JabFBlNVRJZWprRkJ0VHU5NnJaUW8xaEhFY1kzXzhCWE4zcE9NWXg2TWN2c0d5VDVPT05IeFViVlFNUUhRT1IxSVEwZ0hPQnJZRGNMQzc1S2ZpcWNpb3Y3V3kxYTI0Z0pVdnNhaURnUHBmY1l1WFVpR0Q2bUNHeWpVOHBCQjVlX2dxWjRLZERoUXlXZVF4ZGhOMDNNdHRCSWlMWGNlRnU0S1lHSXdqQXRGTmpVMmpFMTN0NEVqM1JoaDRJQlVJNHVWdnI0VWw5b29Kb3BqajRRSEZlUUdJWVd4QW5Ld1dPMTEyQzV3Q0JCaUY1UEt0SUlkUFVwQ21pb29icUhkeGpVRVZrM3dCZmgyQUNheUUwYzh5WmdpYWIyTW10OGZpenpINkQzU1htNlBZdw?oc=5",
+      "published": "Thu, 05 Nov 2026 18:55:40 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: دراسة ترجح.. طريقة استخدام الهاتف أهم من عدد ساعات الشاشة"
+      "suggestedTitleAr": "خلف الخبر: هجمات الحوثيين المتصاعدة تختبر قدرة المجتمع الدولي على الردع"
     },
     {
       "category": "culture",
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "أمل مرقص:\"الفن مساحة لمواجهة العنف وتعزيز الهوية الثقافية في رهط\"",
-      "source": "i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTNwNk1OT295eXIxNmRSZ19Fc1ZzZmh3WUh1NlNSOVZCZGNzajlRaXk4YTJkU2FhMlJ5RDgxRkJnY0xhdkhUbkZhaF8yZkhPeFZWUDFhSTNfeVUtbnI4Q3c2TDhzYjR5ZHV0N1B5N29LaE91S09OQXdZa2dGMlhvUTlZcUxQV2lTbG9KaG1ENFZJUUFFd09BSTJFNUtEc2pMY1JV?oc=5",
-      "published": "Thu, 05 Nov 2026 13:59:20 GMT",
+      "title": "05 نوفمبر 2026 الأمين العام",
+      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Zjl0WlVmblRfWE1aVXlzMFVPd3lpZEdhdHJRYzRuN09xbzhRWG5GQ3UtanhRNVFVd3RIbWJvM203djFvM2FCOFl6Yy0zd2FrWEJsMXpPNmQ5Nkt1aGlGWktqTzZJRU5SenpiUXBCSmhqYnFJYmhXbTRxaw?oc=5",
+      "published": "Thu, 05 Nov 2026 16:35:17 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: أمل مرقص:\"الفن مساحة لمواجهة العنف وتعزيز الهوية الثقافية في رهط\""
+      "suggestedTitleAr": "خلف الخبر: 05 نوفمبر 2026 الأمين العام"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "فك شفرة قفل سفينة غارقة يحل لغزاً عمره 400 عام.. ما القصة؟",
-      "source": "اليوم السابع",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNZkg1YXQzVGw4b29KdzlPWHZackh3eDctcVFab2ZfaHozdkhESi1rMW1xVEp2YnRvSHMzMnRpS0NIYnViVGNqUjlVaUpSdlFKSmZPYjMzZFpWb2YzNEt4aXV2Ui1xOUFaYllMaTlDaW9iWXpHX0p1bUk1eElwTlZKWHhncnBfUmpobERJYnpFeG1CaV8xaXAwbnh5c0tCSWRxeHF1aWFUeDNWSUpwVkNxQWVDcUFKMkk4dXRSTFR6UnZWald6VGVWSm4yUVJXUy1UTWJmNzRUZGx3R1F4Wm5CV2p2TEVDbDIxaU9qa3Nlb0lmZ1ZfREk1Y3RLNWVZb242d3RESVZvanpnaE14cDRnVmhvWU9nWVc2eWpSMkF0REJnYy1XcnhLZExSMHVHRDA2bW80ZWthWnlGTFFzX3YtRDdYTldEN1NPZVVreGVoMjFvanN6bkFBa1hXUUNXVHhGc056RnlXMGNEbml0djVhZ1E2a09GQm9fVmfSAfQCQVVfeXFMUDUyNW1OaUhyLUt4cjNGWFlEei1Db1JHQXc1VWd3Ulpob3p0Vmlrb2VaQ2FVbGNiODZfcXp1eGRWVnRqd21uaVRsMnFpeWpfUWZGdTEyVzVfdGhoR1dDbUZWTVFCb2QxcE9sUWxFS2syZk9YZV8tS3ltbTVXNm5SVmJwekwzTEV1V0NsQ2MtNTI4XzM3dXpCVy1JMFQ4dFdKTUZIanprTHR3aXkzU05UenRhTHhCMnpWdE9QUnhZam5fekxEc21ObkM2ZU1OcXVaeW5nY3B6QS02YmR6bDd2RUVESHBLQy1VSnN1dDVkeHl1bXRocUhRWHdraTd1MGtYc3RqcVZ4MUFUSXVHNThNZGs2eDRHWGN4X0M4WGNRb0dCMzVFV1hZTDg0czhXeGdRZkp4QWtWa1hqaFZsQ2pBSmZyYXFxeV85dmtqM0o4b1B0SE1ZX2UyY0YtRTlhalZYVVpvb3BzS2xxQXJfSjBKdDBlWnQw?oc=5",
-      "published": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "title": "بعد 3 سنوات.. قرار إخلاء يفك لغز اختفاء شقيقة وزير مصري سابق",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNNFNnQ1NjN0Y1X2lmVXhsZUluZjAzb2xJWnFLMTFlZkhsT1JMMlNKMm4xUGFvd1JEaGlublVlVGRPd1lNdjdWTVl0eE9yYlRNYTU3YTRNdGpod2RJX1NzN0c3SFhBTE8xOEt0RngtaG9IYUNPZUFmMlQzOHpYTGNBc3pVMjRkeC0tR0x0bG0yU2lTOGpwd1Rld2F2RVBWbXU4MWZFNWhNT2h2TS10a3BtRGQyQkpSaXExQ2VYVjBCMl9Fd1YyaFZMZlE0cGRoYkN6b3FrMnhZMlYxZkJ5eHBSdkNWd25oakEycGtBRG1MWFk3Q01nVFhaeGthWmJaNHlIY0liNThRaTJMSVJEbHlxWVdBS3N5ZUdmaGtoMlNTOFdDWWJuZmc5bk9FaGZXVDJjZm1reFpEWTItT0xzVllJdU1pOUJ2UkZzWVBBeExDaHZWSHhib1J2Umc3MnlPUGdYQ3VBTzRCSk41dFlzWGVURGpRWmFmRkhGNVM4TC14Y0U0VnNRSTAwaVJHdE1pR1ctUC1wSUF5UEtFT0Fxd2tiS0lsdEowWk8waFBLNXJ4QXBHOUdTbEFwQXpyNno1bjJqR0Z4d0taeE9ZdmNaZ3RSQUh4MGpqNlZOYk4yaUpLeTJFY2FpOC1PV2ln0gHvA0FVX3lxTFB5b2tZOC1jMi1MVHN2bFRwM09YQmFiTzRVUXUwclhZYzF5TlBxYXpqT3U1V1pvQWRFWVBPcnA4d3J5aFFuNWJXNmNsTjZ1cUhmdFNtTnZlaG9XSnRwN0tFQ2VaWWluNnJIb0VOM0dlRGtuX2lDNl9xWmZGTlBLQ1FCakFlRmJ1LUVuXzJWdWlMamlRLUlfZ3JyeXV1WWhjS3E3YzloSWZOcmU3UkU0eTRrYVh4LXRZZVJwMTZXOEVMOUp6MjZsUk1tWlZ2bFFBdjF3MDBjYWRBaDcxTmFrT21pRzY1Ql9FREpZTlAzTURzTlhpU1FkQlBJRjNFWUt5N0d6cXFualB4VkZ3Y2VoRDZSUVZ6UlBJWmUxeERHY1ZmMC1yRUd3SXZPckZrdElFVGhOay1yZkxmYVVWU1h0bmZPM3k2cEpPbkhsT0pIUEJBMTgtdmNDMGQyUklKRlBkTThSV0RkWWEtV1FZVmNTcDhkQmgxREV0ODE0dWZfeUNJM1lxNVh5VldPOHRSVVh1YUUyMmk5UHd6WklXSy1ra0RuSlZ0SFR5X3A0anhSUnV2UGgxc1dUa2ZoOXhqZW5LdnY1YXQ1YVBzSk9uY05qTmltalJzUDd3Rk43Y1dGS29yVW53WFkwMkFhb2k1U2tFVQ?oc=5",
+      "published": "Fri, 06 Nov 2026 06:21:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: فك شفرة قفل سفينة غارقة يحل لغزاً عمره 400 عام.. ما القصة؟"
+      "suggestedTitleAr": "خلف الخبر: بعد 3 سنوات.. قرار إخلاء يفك لغز اختفاء شقيقة وزير مصري سابق"
     },
     {
       "category": "space",
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "اكتشاف نجم يتحرك بسرعة هائلة قد يختبر صحة نظريات أينشتين!",
-      "source": "أنا أصدق العلم",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uemhfTUxFQ2VBVC1nTlVLd1FqRjVEVWVPbmdoc1gwdEc3YWNhVzk4aWMxUWh0Y29oa3c0RUhvRUxzTVRWaWRvaVphSUFLM1kxVHlMRkVOaw?oc=5",
-      "published": "Wed, 04 Nov 2026 23:42:15 GMT",
+      "title": "من ألعاب الفيديو إلى بدلات الرواد.. 4 مهندسين يمهدون طريق الفضاء",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOZDJLZjNMclhDUXYxa3pINDBRWEl6cl9NNUpYZ3RCQkljb2VXWVhFdHZ6dXpjVEhVZk5GQ1d1V0I5emFMVVJ4cUd5VVdrSWo3cWI2ZHpleDZlRks3S1AtOTRVLUJWLUZLYmd2OENzT21GR19qel9lMEcxT3ljZDBlVnppM1RZR3BrQTNJNTNPRnBrb0ZlaUkyWHJwVko3cWVtcTBSeTVPX3c4U1B1MUo2eDVQQl9mdGpnS1l4Sl9JVDVoZzNKa2dVY2Viemk1SUxXOEFVeEZnUTN5ems0cnBQeHpsNWcyc0FWek1xRFp4MmRWSFRwWHdsZFc5T3NGZVdtbHV4ZU0wM0RQOFBGN1J5My1Fd05pdlB3QlNuT0x4MDBtajhfOUd6aUY1R1FZaGp3SlV3Q29fcmktcHdlTVBSVnFmVE9TcXNmdHBFSUJ6R0xfc3dyVE1GY0d3aXh2cGNFdVNYdkxEdTV5LXBDQ1VuMUxtTG1SOEI2WWxLS2lUZjlxTTNXanVRVld1bVFzS0gtUnc0ZzA4LWdDczFhMHlIWnpXblRCU1V0SVh5WlpJVTJLRlRndnA4Z3VDbEM4dWZlTEJBRTdmRUR4bTNrN2ZFRThlS1UxbGxJSjNONmNSRXV1RllPeXNjeWx1YXZpZEtHdFp2aGlQQkpkS0JkT3d30gGEBEFVX3lxTE9MQlo4RExNc2dnRXphSlNCVUpuRXctd0ZnM3dCY3RMZXFkOWZCQXJYLTlFeUh0WjR4TkowSGZKU1R1VERhZzBXdzdWMG5zT3JUM185aElNNzU1VXk2bnI1QUVaZDdfaTZNTjRuMkx0Z3NrNHJ0c2RsYl9NclFCUjEzMzVmZ0NyVm5GbVI1ZzFIMjBYZUVfdXozM0Rjc2VmOUJWelRZUVdPV1FvbktodVZMbC0tNV9FMjY0WTM2LWEwUkU1bEtZNGIwSzF0YnU5QWVUYXZFR1lVWjRocDhJYVJBdzRISVFKeUdBdFl4XzZRVVZyaG5paks1TFdGSkUxT0x0M1hVZmVKekY2dXM1eU1mX0NuekxHYU00ZjZBQXpyYzNVcFUyYzY4N3ZycjF3MkVCRDVTSWRPWktidW9ETWNwWm5pRFhFc1BjczdXdmRrXzlxODJYRXdMd3lIS19hUGdEQndPa3lzY1NDaU9GNUNPSUVJOFgxYXo2ajNEY0ZMS21FMWVEaDh0dnl6THpvbDBjNzdESnpENVpERm9RMHNmOUh1YW84U0NCaHl6MVNjUWZDUEZtYXZPQzlURVBQTEJDZkltODVteFo0bk9MenpCV0QxWTFfVFZ2MnROU0JfcEY5UDc4eWNuX1BRM2VRWC1OWi1pTDdiaURBTGVyX2pUbXFuUA?oc=5",
+      "published": "Mon, 02 Nov 2026 19:02:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: اكتشاف نجم يتحرك بسرعة هائلة قد يختبر صحة نظريات أينشتين!"
+      "suggestedTitleAr": "خلف الخبر: من ألعاب الفيديو إلى بدلات الرواد.. 4 مهندسين يمهدون طريق الفضاء"
     },
     {
       "category": "world",
@@ -151,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "What If Every Patient Journey Could Help Unlock the Next Medical Breakthrough?",
-      "source": "StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaU9sRU5la3A0ak9qVHVPd0E4MnJOSmp2YmhSMm9hY19GNWdfNWRLSkE3N1k0eXZRcUlqRThKU1Fhb2V3OXhPazhrbVhodUJ2Ul9rVzN1NDFZM2RQTjM3OGVDNU1BcmFhTjZOdW5ObHlhRW9XSi0ySktqQVA0Qml4QktWSnlVVUNOMGRNa1ZobE9ydlhIMnRJSXU1bVVvVjdIV0E5SjlDYXB4SnV6UzNlZU1qaDQwQXZFZ2hpbGJsMnItSkx0aTdUanljdG1vNkZVQ1E?oc=5",
-      "published": "Fri, 06 Nov 2026 13:07:34 GMT",
-      "suggestedTitleEn": "Behind the story: What If Every Patient Journey Could Help Unlock the Next Medical Breakthrough?",
+      "title": "The Power of Connection",
+      "source": "University of Vermont",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBROEktNVpJaFJHOExwRDFZaFpfc0F1NzMyNTlQOWdJdHBPRGhhV21UMlJxT2pGOHhPZVVYdnBRaEN5V1lMNEViTm94YWpMdW1xVGlPaWE1TzJmQ0x1VzN5bDV5T0I?oc=5",
+      "published": "Thu, 05 Nov 2026 19:17:33 GMT",
+      "suggestedTitleEn": "Behind the story: The Power of Connection",
       "suggestedTitleAr": ""
     },
     {
@@ -175,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Creator Economy Minor Builds the Business Skills Behind the Content",
-      "source": "Newhouse School at Syracuse University",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnRDdEhlNGhYcVhxQWs2Q0lORlpMc1BQT2lFUm9CQWtBQVdYbWdTN1pIanVxZDdXbW92QTlNcXNUYWtERjkyU2tTcUZVdG9IMTBXV1h4eGo4RmVqend2MzRsMkJLTWhhRGt4bm53dFV4blNnOXhXTVZ2WGRqQUFCZThZUG1LVTRfcm04Z3ZTWWlsODJhU1NEcHI0MmpZVU5XQjY4c3Z3?oc=5",
-      "published": "Fri, 06 Nov 2026 13:02:19 GMT",
-      "suggestedTitleEn": "Behind the story: Creator Economy Minor Builds the Business Skills Behind the Content",
+      "title": "Democratic gains unlikely to slow economic “Texas Miracle”",
+      "source": "The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0FFMFdYSGF2cDYzdk1ESm5HMHpSaWsxWi1VN2JUVkk3TUhSOUQ4Rnh5bHRHS21FeV9vOXR1QXVUSGJzUWdId3A3amoydlZJSkxNajhvMGlhQlUyc01yNzB5NVpWV3VZZW50Snh5SmV4d0FaT2VsY19FN3RZREtmeTJ0Qlg2ekpHZGpMTmU3Nldhdm01eWVvUUFNblc1bnM2czFWbzhn?oc=5",
+      "published": "Fri, 06 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Democratic gains unlikely to slow economic “Texas Miracle”",
       "suggestedTitleAr": ""
     },
     {
