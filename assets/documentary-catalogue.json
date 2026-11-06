@@ -12,7 +12,7 @@
       "series": "space",
       "ar": "أبولو 11: الرحلة التي وضعت الإنسان على القمر",
       "en": "Apollo 11: The First Moon Landing",
-      "image": "https://www.nasa.gov/wp-content/uploads/2023/03/as11-40-5903.jpg",
+      "image": "assets/apollo11-timeline.svg",
       "eventYear": 1969,
       "era": "space"
     },
