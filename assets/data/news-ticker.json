@@ -1,12 +1,100 @@
 {
-  "updatedAt": "2026-11-06T14:40:17.676208+00:00",
+  "updatedAt": "2026-11-06T15:25:56.461851+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "الشرطة توقف البوسني ديديتش لاعب نيوكاسل",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:19:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مورينيو: رحيل رونالدو عن الساحة الدولية «ليس اعتزالاً»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:18:58+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "أونيل: على لاعبي سلتيك التمتع بالثقة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:07:35+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ماركو سيلفا يعترف بخطئه رغم فوز بنفيكا على ليخ بوزنان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:07:23+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "AI stocks bounce back after trillions wiped from market values",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T15:04:46+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دي يونغ يدعم قائمة هولندا لمباراتي اليونان وألمانيا",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:55:42+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«دورة هونغ كونغ»: الروسية ألكسندرا شوبلادزي تطيح بالرومانية كريستيا من ربع النهائي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:43:05+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "توخيل يستبعد بالمر ويستدعي بيلينغهام «الصغير» لقائمة إنجلترا",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:38:52+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "الإمارات تعلن تشكيلتها لمواجهة هندوراس وسوريا وديّاً",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:38:15+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المعارضة اليمينية: على إسبانيا الانسحاب إذا لم تستضف نهائي «مونديال 2030»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:37:59+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "سان جيرمان يمنح حكيمي فترة راحة قبل معسكر المغرب",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:37:54+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
       "title": "‘Pure fabrication’ — Saudi Arabia rejects Wall Street Journal report on Houthi demands",
       "source": "Arab News",
-      "publishedAt": "2026-11-06T14:32:12+00:00",
+      "publishedAt": "2026-11-06T14:32:33+00:00",
       "breaking": false
     },
     {
@@ -60,6 +148,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "بوربعة يعوض غياب بن طالب المصاب في تشكيلة الجزائر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T13:50:25+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "سينر يستغني عن مدربه كاهيل ويستعين بماغنوس نورمان",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T13:50:16+00:00",
@@ -108,14 +204,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "مورينيو: رحيل رونالدو عن الساحة الدولية «ليس اعتزالاً»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:13:01+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "صلاح في رسالة للاعبي طرابزون: لم نكن في أفضل مستوياتنا… تكاتفوا",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T13:12:23+00:00",
@@ -124,25 +212,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "ماركو سيلفا يعترف بخطئه رغم فوز بنفيكا على ليخ بوزنان",
+      "title": "كيف فاجأ رونالدو عشاقه بقرار الاعتزال الدولي؟",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:12:12+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "أونيل: على لاعبي سلتيك التمتع بالثقة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:12:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "توخيل يستبعد بالمر ويستدعي بيلينغهام «الصغير» لقائمة إنجلترا",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:10:54+00:00",
+      "publishedAt": "2026-11-06T13:12:19+00:00",
       "breaking": false
     },
     {
@@ -151,14 +223,6 @@
       "title": "دانكس يترقب «التوقف الدولي» بعد أسبوعين مميزين في قيادة بايرن",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T13:10:53+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "\"تغير شيء ما\".. ريال مدريد يدرس مورفولوجيا جسد فينيسيوس",
-      "source": "العربية",
-      "publishedAt": "2026-11-06T13:02:00+00:00",
       "breaking": false
     },
     {
@@ -196,6 +260,22 @@
     {
       "lang": "ar",
       "category": "saudi",
+      "title": "السعودية: منال رضوان مبعوثاً للمفاوضات وجهود السلام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T11:44:45+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "تونس.. العفو الدولية تحذر من قمع الحريات وتراجع دور القضاء",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-06T11:35:56+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
       "title": "مسؤول سعودي ينفي مزاعم بشأن مطالب حوثية",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T11:35:10+00:00",
@@ -204,9 +284,9 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "السعودية تدين هجوماً مسلحاً في جنوب مصر أودى بحياة ضابطين من حرس الحدود",
-      "source": "العربية",
-      "publishedAt": "2026-11-06T10:58:00+00:00",
+      "title": "لبنان يدعم إجراءات السعودية لحماية أراضيها ومواطنيها",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T11:02:39+00:00",
       "breaking": false
     },
     {
@@ -219,10 +299,10 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "إلغاء مباراة الأردن وإندونيسيا بسبب \"مخاوف أمنية\"",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T10:36:01+00:00",
+      "category": "saudi",
+      "title": "إدانات عربية وإسلامية ودولية للإرهاب الحوثي ضد السعودية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T10:37:33+00:00",
       "breaking": false
     },
     {
@@ -236,17 +316,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "تاشيما يتحدى إنفانتينو: هل يستطيع «فيفا» تطهير نفسه؟",
+      "title": "سكالوني: ميسي يستحق أن يودّع جماهير الأرجنتين كما يشاء",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T09:53:00+00:00",
+      "publishedAt": "2026-11-06T10:21:34+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "أنتونيللي بطلاً للعالم في العشرين... ماذا كان يفعل أساطير الرياضة في عمره؟",
+      "title": "تاشيما يتحدى إنفانتينو: هل يستطيع «فيفا» تطهير نفسه؟",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T09:40:42+00:00",
+      "publishedAt": "2026-11-06T09:53:00+00:00",
       "breaking": false
     },
     {
@@ -330,11 +410,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "economy",
-      "title": "النفط يقترب من 100 دولار مجدداً... والرياض وموسكو تنسقان داخل «أوبك بلس»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-05T22:50:17+00:00",
+      "lang": "en",
+      "category": "world",
+      "title": "‘Sick to my stomach’: trans Americans on politicians who spent $183m attacking them for votes",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-05T23:42:00+00:00",
       "breaking": false
     },
     {
@@ -399,22 +479,6 @@
       "title": "فضيحة تلاعب تهز كرة القدم في لاوس... توقيف لاعب دولي بشبهة التعاون مع شبكة مراهنات",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-05T17:30:14+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "دوري الأمم يشعل كرة القدم الدولية بعد المونديال",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-05T17:13:19+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "ما يحدث في البنتاغون جنون.. نحن قريبون جدا من ضربة نووية تجاه إيران",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-05T15:02:49+00:00",
       "breaking": false
     }
   ],
