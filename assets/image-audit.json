@@ -97,13 +97,6 @@
   },
   {
     "page": "index.html",
-    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/Black_Hole_Side_view-1.png?fit=contain&w=1600&h=950",
-    "local": "assets/images/index/6bc6fceb5d41.webp",
-    "status": "archived",
-    "credit": "NASA"
-  },
-  {
-    "page": "index.html",
     "url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=900&q=80",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
