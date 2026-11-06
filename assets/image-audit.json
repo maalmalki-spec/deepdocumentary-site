@@ -55,7 +55,31 @@
   },
   {
     "page": "articles/library-of-alexandria.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionPompeysPillar.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/library-of-alexandria.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandria%20Pompey",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/library-of-alexandria.html",
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionSphinx.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/library-of-alexandria.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BA%20outside%20view.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/library-of-alexandria.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bibliotheca%20alexandria.jpg",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
