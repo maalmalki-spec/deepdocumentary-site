@@ -48,6 +48,18 @@
     "reason": "Source license and identity must be verified before archiving"
   },
   {
+    "page": "articles/library-of-alexandria.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionTemple.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/library-of-alexandria.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionSphinx.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
     "page": "articles/apollo-11.html",
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo_11_lunar_module.jpg",
     "status": "manual_review_required",
