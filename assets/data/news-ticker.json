@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-06T14:08:10.942025+00:00",
+  "updatedAt": "2026-11-06T14:40:17.676208+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "‘Pure fabrication’ — Saudi Arabia rejects Wall Street Journal report on Houthi demands",
+      "source": "Arab News",
+      "publishedAt": "2026-11-06T14:32:12+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "سباليتي: عندما نفوز يتصرف الناس وكأن الخصوم «مثيرون للسخرية»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:09:13+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "3 وجوه جديدة في تشكيلة دي لا فوينتي لمواجهتي إنجلترا والتشيك",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:09:09+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "هورزيلر: أحلم بالتتويج «بلقب ما» مع برايتون",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:08:41+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "غيابات مؤثرة عن قمة أتلتيكو مدريد وبرشلونة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:08:37+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "البرتغال تتعهد بتكريم رونالدو",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T13:57:33+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "saudi",
@@ -108,33 +156,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "3 وجوه جديدة في تشكيلة دي لا فوينتي لمواجهتي إنجلترا والتشيك",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:01:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "غيابات مؤثرة عن قمة أتلتيكو مدريد وبرشلونة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T12:48:12+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "سباليتي: عندما نفوز يتصرف الناس وكأن الخصوم «مثيرون للسخرية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T12:46:47+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "هورزيلر: أحلم بالتتويج «بلقب ما» مع برايتون",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T12:45:47+00:00",
+      "title": "\"تغير شيء ما\".. ريال مدريد يدرس مورفولوجيا جسد فينيسيوس",
+      "source": "العربية",
+      "publishedAt": "2026-11-06T13:02:00+00:00",
       "breaking": false
     },
     {
@@ -172,17 +196,9 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "السعودية: منال رضوان مبعوثاً للمفاوضات وجهود السلام",
+      "title": "مسؤول سعودي ينفي مزاعم بشأن مطالب حوثية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T11:44:45+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "لبنان يدعم إجراءات السعودية لحماية أراضيها ومواطنيها",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T11:02:39+00:00",
+      "publishedAt": "2026-11-06T11:35:10+00:00",
       "breaking": false
     },
     {
@@ -195,14 +211,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "موناكو يواصل انتصاراته الأوروبية بثنائية أمام نوردشيلاند",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:47:04+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "world",
       "title": "كيف يؤثر الديمقراطيون على سياسات ترامب الاقتصادية؟",
       "source": "سكاي نيوز عربية",
@@ -211,18 +219,18 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "التحالف: اعتراض وتدمير مسيّرة في منطقة مكة المكرمة",
+      "category": "sports",
+      "title": "إلغاء مباراة الأردن وإندونيسيا بسبب \"مخاوف أمنية\"",
       "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T10:28:16+00:00",
+      "publishedAt": "2026-11-06T10:36:01+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "حارس غينيا الاستوائية يطلب إعفاءه من المنتخب بعد حادثة وفاة دي ميغيل",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:14:36+00:00",
+      "category": "saudi",
+      "title": "التحالف: اعتراض وتدمير مسيّرة في منطقة مكة المكرمة",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-06T10:28:16+00:00",
       "breaking": false
     },
     {
@@ -239,6 +247,22 @@
       "title": "أنتونيللي بطلاً للعالم في العشرين... ماذا كان يفعل أساطير الرياضة في عمره؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T09:40:42+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«إن بي إيه»: كوري يمنح ووريرز انتصاره السادس توالياً",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T09:40:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "عام / المملكة تفوز بعضوية المحكمة الإدارية لجامعة الدول العربية وانتخاب ممثلها رئيسًا لها بالإجماع",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-06T09:34:57+00:00",
       "breaking": false
     },
     {
@@ -292,22 +316,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "قمم نارية وكلاسيكيات مرتقبة تشعل الأسبوع الرياضي المقبل",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T06:34:13+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-06T05:43:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "ريال مدريد يتجه لتعيين نجم كرة المضرب نادال في مجلس إدارته",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T01:40:35+00:00",
@@ -319,6 +327,14 @@
       "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
       "source": "The Guardian",
       "publishedAt": "2026-11-06T00:22:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "economy",
+      "title": "النفط يقترب من 100 دولار مجدداً... والرياض وموسكو تنسقان داخل «أوبك بلس»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-05T22:50:17+00:00",
       "breaking": false
     },
     {
@@ -351,6 +367,14 @@
       "title": "ردا على تقرير لوول ستريت جورنال.. السعودية تنفي وجود مطالب قدمها الحوثيون",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-05T20:29:25+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "عمليات تجميل نجوم كرة القدم... قصص التنمر والدعاية وراء وجوه اللاعبين الجديدة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-05T20:01:14+00:00",
       "breaking": false
     },
     {
@@ -391,30 +415,6 @@
       "title": "ما يحدث في البنتاغون جنون.. نحن قريبون جدا من ضربة نووية تجاه إيران",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-05T15:02:49+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-05T14:28:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "«خليجي 27»... 8 منتخبات تدخل مرحلة التجهيز الأخيرة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-05T14:24:10+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الشرطة الإسبانية تفتح تحقيقاً في وفاة لاعب كرة قدم إثر اصطدام على أرض الملعب",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-05T14:10:20+00:00",
       "breaking": false
     }
   ],
