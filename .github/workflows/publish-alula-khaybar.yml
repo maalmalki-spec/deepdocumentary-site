@@ -6,6 +6,9 @@ on:
     paths:
       - 'scripts/publish_alula_khaybar.py'
       - '.github/workflows/publish-alula-khaybar.yml'
+concurrency:
+  group: publish-documentary-articles
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -14,6 +17,8 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -32,11 +37,18 @@ jobs:
               assert (Path('articles')/p).resolve().is_file(),p
           print('Verified',len(set(paths)),'local image references')
           PY
+      - name: Apply shared site metadata and verify analytics
+        run: |
+          python scripts/ensure_article_seo.py
+          python scripts/sync_documentary_series.py
+          python scripts/install_analytics.py --check
       - name: Commit article, homepage, sitemap and licensed images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add articles/alula-khaybar-archaeology.html index.html sitemap.xml assets/images/alula-khaybar-archaeology
+          # Keep only the staged files for this article's publication.
+          git restore --worktree -- .
           if ! git diff --cached --quiet; then
             git commit -m "Publish AlUla and Khaybar with verified locally archived licensed photographs"
             git pull --rebase origin main
