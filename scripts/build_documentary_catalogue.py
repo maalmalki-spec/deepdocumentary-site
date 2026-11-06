@@ -47,6 +47,7 @@ def normalize_image(src, path):
   src=unquote(parsed.path)
  # Relative URLs inside articles resolve relative to the article itself.
  if src.startswith('/'):candidate=ROOT/src.lstrip('/')
+ elif src.startswith(('assets/','articles/')):candidate=ROOT/src
  else:candidate=path.parent/src
  try:
   resolved=candidate.resolve()
@@ -69,7 +70,7 @@ def extract(path):
  if not ar or not en:return None
  image=next((v for v in (normalize_image(m.cover,path),normalize_image(m.first_image,path),normalize_image(m.meta.get('og:image'),path)) if v),None)
  return dict(slug=path.stem,series=m.meta.get('dd:series') or category(path,m),ar=ar,en=en,image=image)
-# Keep manually curated local cover images when available.
+# Covers are derived from article HTML; curated event years are preserved.
 previous={}
 out=ROOT/'assets/documentary-catalogue.json'
 if out.exists():
