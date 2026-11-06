@@ -1,0 +1,60 @@
+name: Verify live article images
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_run:
+    workflows: ["pages build and deployment"]
+    types: [completed]
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: live-image-audit
+  cancel-in-progress: false
+jobs:
+  verify:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Allow published site to catch up
+        if: github.event_name == 'workflow_run'
+        run: sleep 45
+      - name: Validate deployed article and catalogue images
+        id: audit
+        continue-on-error: true
+        run: python scripts/check_live_images.py
+      - name: Upload failure report
+        if: steps.audit.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-image-failures
+          path: image-check-failures.txt
+          if-no-files-found: ignore
+      - name: Open or update GitHub issue on failure
+        if: steps.audit.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Live image audit: broken images detected"
+          existing=$(gh issue list --state open --search "$title in:title" --json number,title --jq '.[] | select(.title == "Live image audit: broken images detected") | .number' | head -1)
+          printf 'Automated check failed on the deployed website.\n\nRun: %s\n\n' "$RUN_URL" > /tmp/live-image-issue.txt
+          if [ -f image-check-failures.txt ]; then
+            printf 'Broken image details:\n\n```\n' >> /tmp/live-image-issue.txt
+            head -80 image-check-failures.txt >> /tmp/live-image-issue.txt
+            printf '\n```\n' >> /tmp/live-image-issue.txt
+          fi
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file /tmp/live-image-issue.txt
+          else
+            gh issue create --title "$title" --body-file /tmp/live-image-issue.txt
+          fi
+      - name: Fail check if images are broken
+        if: steps.audit.outcome == 'failure'
+        run: exit 1
