@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
     paths:
+      - 'articles/**'
+      - 'index.html'
       - 'scripts/archive_article_images.py'
       - '.github/workflows/archive-article-images.yml'
 permissions:
