@@ -13,8 +13,8 @@ try{
  doc.querySelectorAll('table,style,script,nav,figure,.mw-editsection,.reference,.reflist,.thumb,.infobox,.navbox,.hatnote').forEach(n=>n.remove());
  const sections=[];let current={heading:'',paragraphs:[]};sections.push(current);
  for(const el of doc.body.querySelectorAll('h2,h3,p')){
-   if(/^H[23]$/.test(el.tagName)){current={heading:el.textContent.trim().replace(/\\[.*?\\]/g,''),paragraphs:[]};sections.push(current)}
-   else{const txt=el.textContent.replace(/\\[[0-9, ]+\\]/g,'').replace(/\\s+/g,' ').trim();if(txt.length>95&&txt.length<1800&&current.paragraphs.length<6)current.paragraphs.push(txt)}
+   if(/^H[23]$/.test(el.tagName)){current={heading:el.textContent.trim().replace(/\[.*?\]/g,''),paragraphs:[]};sections.push(current)}
+   else{const txt=el.textContent.replace(/\[[0-9, ]+\]/g,'').replace(/\s+/g,' ').trim();if(txt.length>95&&txt.length<1800&&current.paragraphs.length<6)current.paragraphs.push(txt)}
  }
  const used=new Set();for(let i=0;i<sectionDefs.length;i++){
   const [arName,enName,pattern]=sectionDefs[i];let index=sections.findIndex((x,j)=>j>0&&!used.has(j)&&pattern.test(x.heading)&&x.paragraphs.length);
