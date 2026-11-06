@@ -1,0 +1,36 @@
+name: Keep news ticker on all public pages
+on:
+  push:
+    paths:
+      - '**/*.html'
+      - '*.html'
+      - 'scripts/ensure_news_ticker.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: site-news-ticker-injection
+  cancel-in-progress: false
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Ensure ticker script on every public HTML page
+        run: python scripts/ensure_news_ticker.py
+      - name: Commit newly instrumented pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.html' '**/*.html'
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: keep shared news ticker on all public pages"
+            git pull --rebase
+            git push
+          fi
