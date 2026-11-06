@@ -51,7 +51,28 @@ Deno.serve(async (request) => {
       confirmed:!!(u.email_confirmed_at || u.confirmed_at),
       provider:typeof u.app_metadata?.provider === "string" ? u.app_metadata.provider : "email",
     }));
-    return respond({success:true,users,page,perPage,hasMore:users.length===perPage},200,origin);
+    // Count every account, not just the currently displayed page.
+    // Supabase Auth does not expose aggregate confirmed/today/month counts here.
+    const allUsers = [];
+    const countPageSize = 1000;
+    for (let p = 1; p <= 100; p++) {
+      const {data:batch,error:batchError} = await privileged.auth.admin.listUsers({page:p,perPage:countPageSize});
+      if (batchError) throw batchError;
+      allUsers.push(...batch.users);
+      if (batch.users.length < countPageSize) break;
+      if (p === 100) throw new Error("Member count exceeds supported scan limit");
+    }
+    const now = new Date();
+    const todayRiyadh = new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Riyadh",year:"numeric",month:"2-digit",day:"2-digit"}).format(now);
+    const monthAgo = new Date(now.getTime() - 30 * 86400000);
+    const dateRiyadh = (d:Date) => new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Riyadh",year:"numeric",month:"2-digit",day:"2-digit"}).format(d);
+    const stats = {
+      total: allUsers.length,
+      today: allUsers.filter(u=>dateRiyadh(new Date(u.created_at))===todayRiyadh).length,
+      last30Days: allUsers.filter(u=>new Date(u.created_at)>=monthAgo).length,
+      verified: allUsers.filter(u=>!!(u.email_confirmed_at || u.confirmed_at)).length,
+    };
+    return respond({success:true,users,page,perPage,hasMore:users.length===perPage,stats},200,origin);
   } catch(error) {
     console.error("members-dashboard:",error instanceof Error?error.message:"unknown");
     return respond({error:"Unable to retrieve members"},500,origin);
