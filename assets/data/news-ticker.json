@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-07T11:32:03.335585+00:00",
+  "updatedAt": "2026-11-07T12:11:10.391273+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دون ذكر اسمه.. بيان رسمي من الاتحاد المصري عن أنباء رحيل حسام حسن",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T11:59:28+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Visa research — the future of remittances in Saudi Arabia will be built on trust",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T11:30:51+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T11:26:40+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "نجم برشلونة يرفض مقارنته بمارادونا.. ويكشف سر التناغم مع جمال",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T11:21:53+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T11:18:29+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من إصابة سبتمبر إلى استبعاد نوفمبر.. لماذا يغيب بالمر عن منتخب إنجلترا؟",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T11:13:14+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -34,14 +82,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مدرب سبورتنغ: انسوا الخلافات واحتفوا برونالدو",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T10:11:00+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Beyond trophies: How Saudi Arabia can measure the value of its football investments",
@@ -63,14 +103,6 @@
       "title": "خفض بعض العقوبات وثبّت أخرى.. \"فيفا\" يقبل استئناف الأرجنتين بشأن عقوبات نهائي المونديال",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T09:44:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "\"اتقوا الله في مصر\".. إبراهيم حسن يدافع عن شقيقه حسام",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T09:30:00+00:00",
       "breaking": false
     },
     {
@@ -140,25 +172,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "السوبر الأفريقي.. اتحاد العاصمة الجزائري يسعى لكتابة التاريخ مرة أخرى",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T07:23:38+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "بعد اعتزاله دوليا.. الاتحاد البرتغالي يتعهد بتكريم رونالدو",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T05:16:36+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "How Did Saudi Arabia Ensure Palestinians Had a Role in Regional Talks?",
-      "source": "Al Arabiya English",
-      "publishedAt": "2026-11-07T04:05:58+00:00",
       "breaking": false
     },
     {
@@ -276,25 +292,9 @@
     {
       "lang": "en",
       "category": "economy",
-      "title": "AI stocks bounce back after trillions wiped from market values",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T21:06:25+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
       "title": "Fed policymakers consider rate hike after strong jobs report",
       "source": "Reuters",
       "publishedAt": "2026-11-06T20:58:34+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تطلق خدمة «أبشر سفر للزوار» للقادمين عبر المنافذ البرية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:55:33+00:00",
       "breaking": false
     },
     {
@@ -439,6 +439,22 @@
       "title": "إيقاف رئيس ليل 4 أشهر بسبب انتقاداته للتحكيم",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T15:24:44+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T15:04:46+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "آيزنكوت يضع 4 شروط لمن يريد الانضمام لحكومته ضمنها يهودية إسرائيل",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-06T14:46:04+00:00",
       "breaking": false
     },
     {
