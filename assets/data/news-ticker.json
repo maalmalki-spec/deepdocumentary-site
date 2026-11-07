@@ -1,12 +1,60 @@
 {
-  "updatedAt": "2026-11-07T12:59:22.308609+00:00",
+  "updatedAt": "2026-11-07T13:46:34.235707+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "الإفراج عن قارب صيد مصري عقب احتجازه في المياه الإقليمية السعودية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:28:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بعد إصابة رودري.. فليك يعترف: لا أعرف بمن سأبدأ في الوسط أمام أتلتيكو",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:11:24+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "\"سأحاول إيذاءهم\".. سيميوني يشيد بنجم برشلونة ويؤكد جاهزية الفاريز للقمة",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:00:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T12:59:59+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "القبض على شخصين بتهمة قتل لاعب كرة قدم في إنجلترا",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T12:57:00+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
       "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T12:48:16+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T12:48:06+00:00",
       "breaking": false
     },
     {
@@ -23,6 +71,14 @@
       "title": "جمعها على مدار مسيرته.. ميسي يوقّع قمصانه التاريخية لصانع محتوى برازيلي (فيديو)",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T12:30:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T12:18:15+00:00",
       "breaking": false
     },
     {
@@ -63,14 +119,6 @@
       "title": "Visa research — the future of remittances in Saudi Arabia will be built on trust",
       "source": "Arab News",
       "publishedAt": "2026-11-07T11:30:51+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T11:26:40+00:00",
       "breaking": false
     },
     {
@@ -164,15 +212,15 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "افتراءات... ورد حاسم",
+      "title": "أمن المملكة العربية السعودية واجب عربي وإسلامي",
       "source": "العربية",
-      "publishedAt": "2026-11-07T08:08:00+00:00",
+      "publishedAt": "2026-11-07T07:55:00+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "أمن المملكة العربية السعودية واجب عربي وإسلامي",
+      "category": "economy",
+      "title": "برنت يهبط 16.4% في أكبر خسارة أسبوعية منذ جائحة كورونا",
       "source": "العربية",
       "publishedAt": "2026-11-07T07:55:00+00:00",
       "breaking": false
@@ -183,22 +231,6 @@
       "title": "\"شد الشعر\" يثير الجدل وغضب لامبارد في الدوري الإنجليزي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T07:42:45+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بعد أنباء إقالته.. شقيق حسام حسن: تعرض لذبحة ونجا من الموت",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T07:40:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "بيئي / ضمن موسم التشجير الوطني.. نثر بذور نباتات رعوية محلية في محافظة تثليث بعسير",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-07T06:29:35+00:00",
       "breaking": false
     },
     {
@@ -231,22 +263,6 @@
       "title": "السعودية ومصر تطالبان بمنح الدبلوماسية وقتاً لتجنب تداعيات التصعيد بالمنطقة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T01:18:04+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:58:02+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إنفانتينو يتجه للبقاء في رئاسة «فيفا»... والصراع ينتقل إلى صلاحياته",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:38:30+00:00",
       "breaking": false
     },
     {
@@ -298,22 +314,6 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi Arabia builds skills base for green hydrogen ambitions",
-      "source": "Arab News",
-      "publishedAt": "2026-11-06T21:35:35+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "يامال يزاحم هاري كين على الكرة الذهبية... هل قدّم ما يكفي للفوز بالجائزة؟",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T21:16:57+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "sports",
       "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
@@ -347,14 +347,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "ديمبيلي في طريقه إلى تمديد عقده مع باريس سان جيرمان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:24:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "economy",
       "title": "وكالة دولية: أزمة الطاقة تسرّع التحول لأنواعها المتجددة في الاقتصادات الناشئة",
       "source": "الجزيرة نت",
@@ -372,25 +364,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«فيفا» يواجه تحركاً قانونياً محتملاً من لاعبات المنتخبات بسبب المساواة في المكافآت قبل مونديال 2027",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T18:51:20+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "خلاف يضع انتخاب مالاغو لرئاسة اتحاد كرة القدم الإيطالي تحت التدقيق القانوني",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T18:50:39+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مبابي ينهي شراكته مع «نايكي» وينضم إلى «أون» في دخولها عالم كرة القدم",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:50:33+00:00",
       "breaking": false
     },
     {
@@ -407,22 +383,6 @@
       "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
       "source": "The Guardian",
       "publishedAt": "2026-11-06T16:02:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "رئيس الجزائر يهنئ منتخب كرة القدم للسيدات ببلوغه مونديال البرازيل",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:57:37+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«هزيمة كارثية» لمنتخب مصر للسيدات أمام زامبيا تفجر انتقادات",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:32:26+00:00",
       "breaking": false
     },
     {
@@ -447,22 +407,6 @@
       "title": "VIEW Strong October jobs report sends yields higher",
       "source": "Reuters",
       "publishedAt": "2026-11-06T14:45:22+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "يامال: كل متابعي كرة القدم يعرفون مؤهلاتي للفوز بـ«الكرة الذهبية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:08:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
-      "title": "US job growth exceeds expectations in October despite economic uncertainty",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-06T13:43:00+00:00",
       "breaking": false
     }
   ],
