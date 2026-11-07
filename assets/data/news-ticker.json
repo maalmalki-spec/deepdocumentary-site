@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-07T15:11:44.679833+00:00",
+  "updatedAt": "2026-11-07T15:47:17.706372+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi FM discusses regional developments with Qatari and Egyptian counterparts",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T15:21:43+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-07T14:56:37+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -12,9 +28,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:18+00:00",
+      "publishedAt": "2026-11-07T14:40:45+00:00",
       "breaking": false
     },
     {
@@ -22,7 +38,7 @@
       "category": "sports",
       "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:13+00:00",
+      "publishedAt": "2026-11-07T14:27:36+00:00",
       "breaking": false
     },
     {
@@ -30,7 +46,15 @@
       "category": "sports",
       "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:07+00:00",
+      "publishedAt": "2026-11-07T14:27:23+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:27:18+00:00",
       "breaking": false
     },
     {
@@ -47,6 +71,14 @@
       "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T14:25:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تدين اعتراف كولومبيا بسيادة إسرائيل على الجولان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:16:36+00:00",
       "breaking": false
     },
     {
@@ -68,7 +100,7 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "بالفيديو.. هدف عكسي لا يصدق في الدوري التركي",
+      "title": "بالفيديو.. هدف عكسي لا يُصدق في الدوري التركي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T13:58:30+00:00",
       "breaking": false
@@ -92,17 +124,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
+      "title": "غوران مدرب عجمان: حارس الاتفاق حرمنا التسجيل",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:52:02+00:00",
+      "publishedAt": "2026-11-07T13:52:09+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
+      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:51:44+00:00",
+      "publishedAt": "2026-11-07T13:52:02+00:00",
       "breaking": false
     },
     {
@@ -111,6 +143,14 @@
       "title": "السعودية وتركيا لتعزيز التعاون الأمني",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:46:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "خليفة رونالدو يتلقى نبأ استدعائه لمنتخب البرتغال على الهواء مباشرة (فيديو)",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:37:00+00:00",
       "breaking": false
     },
     {
@@ -151,14 +191,6 @@
       "title": "جمعها على مدار مسيرته.. ميسي يوقّع قمصانه التاريخية لصانع محتوى برازيلي (فيديو)",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T12:30:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi Arabia launches training program to prepare Hajj mission leaders for 2027 season",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T12:10:40+00:00",
       "breaking": false
     },
     {
@@ -212,7 +244,7 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "مبيعات شركات الأسمنت السعودية تسجل 44.35 مليون طن بأول 10 أشهر من 2026",
+      "title": "مبيعات شركات الأسمنت السعودية تسجل 44.35 مليون طن منذ بداية 2026",
       "source": "العربية",
       "publishedAt": "2026-11-07T10:28:00+00:00",
       "breaking": false
@@ -239,14 +271,6 @@
       "title": "خفض بعض العقوبات وثبّت أخرى.. \"فيفا\" يقبل استئناف الأرجنتين بشأن عقوبات نهائي المونديال",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T09:44:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "\"اتقوا الله في مصر\".. إبراهيم حسن يدافع عن شقيقه حسام",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T09:30:00+00:00",
       "breaking": false
     },
     {
@@ -323,18 +347,10 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية ومصر تطالبان بمنح الدبلوماسية وقتاً لتجنب تداعيات التصعيد بالمنطقة",
+      "category": "gulf",
+      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T01:18:04+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T23:37:27+00:00",
+      "publishedAt": "2026-11-06T23:58:02+00:00",
       "breaking": false
     },
     {
@@ -346,43 +362,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بلجيكا لن تدعم إنفانتينو في انتخابات رئاسة «فيفا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:15:56+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "اتفاقية تعاون دفاعي بين السعودية وسوريا",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:01:32+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "economy",
       "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
       "source": "Reuters",
       "publishedAt": "2026-11-06T22:04:06+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "هاري كين الأعلى أجراً في أوروبا بعقد تاريخي مع بايرن ميونيخ",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T22:02:46+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T21:15:30+00:00",
       "breaking": false
     },
     {
@@ -415,14 +399,6 @@
       "title": "ترمب يعين مخطِط طرد المهاجرين كبير موظفي البيت الأبيض",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-06T19:04:27+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "خلاف يضع انتخاب مالاغو لرئاسة اتحاد كرة القدم الإيطالي تحت التدقيق القانوني",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T18:50:39+00:00",
       "breaking": false
     },
     {
