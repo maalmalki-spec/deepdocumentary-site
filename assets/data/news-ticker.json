@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-07T22:22:37.711480+00:00",
+  "updatedAt": "2026-11-07T22:58:01.027504+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:46+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:20+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:11+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:10+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -15,6 +47,14 @@
       "title": "انتكاسة ترمب تهدد إنفانتينو بفتح ملفات «فيفا» في الكونغرس",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:09:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البوندسليغا»: لايبزيغ يكتسح أوغسبورغ... وفرانكفورت يخطف التعادل من بادربورن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:08:50+00:00",
       "breaking": false
     },
     {
@@ -35,6 +75,14 @@
     },
     {
       "lang": "ar",
+      "category": "sports",
+      "title": "ريال مدريد يهزم فالنسيا على أرضه بثلاثية نظيفة",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T21:59:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "saudi",
       "title": "سباق سعودي أمريكي للاستحواذ على نادي الاتحاد.. ومفاجأة حول موعد الحسم وقيمة الصفقة",
       "source": "الجزيرة نت",
@@ -50,11 +98,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بالفيديو.. الجزائري محرز يقود الشمال لفوز كبير في الدوري القطري",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T20:43:39+00:00",
+      "lang": "en",
+      "category": "world",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T21:03:00+00:00",
       "breaking": false
     },
     {
@@ -62,7 +110,7 @@
       "category": "saudi",
       "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T20:21:23+00:00",
+      "publishedAt": "2026-11-07T20:42:22+00:00",
       "breaking": false
     },
     {
@@ -90,30 +138,6 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "world",
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-07T19:49:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:20:42+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:17:56+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "sports",
       "title": "اتحاد الكرة المصري يقيل حسام حسن... ويؤكد: استقرار المنتخب أولوية لا تقبل التهاون",
@@ -127,14 +151,6 @@
       "title": "وزير الخارجية السعودي: الحوثيون فتحوا باباً لا يحتملونه",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T19:11:49+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:06:54+00:00",
       "breaking": false
     },
     {
@@ -202,14 +218,6 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
-      "source": "Reuters",
-      "publishedAt": "2026-11-07T16:35:43+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "sports",
       "title": "الزابيري.. نجم مغربي صاعد يتألق بالدوري الإسباني ويطارد مبابي ولامين جمال",
@@ -247,14 +255,6 @@
       "title": "السعودية تدين اعتراف كولومبيا بسيادة إسرائيل على الجولان",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T14:16:36+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "\"آسف رونّي\".. رافينيا يفضل نيمار على رونالدينيو",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T14:04:35+00:00",
       "breaking": false
     },
     {
