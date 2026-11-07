@@ -11,7 +11,10 @@ from urllib.request import Request, urlopen
 
 BASE = os.environ.get("SITE_BASE_URL", "https://deepdocumentary.com/").rstrip("/") + "/"
 TIMEOUT = 18
-RETRIES = 2
+RETRIES = 4
+
+class RateLimited(RuntimeError):
+    pass
 
 class Images(HTMLParser):
     def __init__(self):
@@ -35,7 +38,14 @@ def fetch(url, binary=False):
                 return response.status, response.headers.get("Content-Type", ""), body
         except (HTTPError, URLError, TimeoutError, OSError) as exc:
             last = str(exc)
-            if attempt + 1 < RETRIES:
+            if isinstance(exc, HTTPError) and exc.code == 429:
+                if attempt + 1 < RETRIES:
+                    retry_after = exc.headers.get("Retry-After", "")
+                    delay = int(retry_after) if retry_after.isdigit() else 3 * (2 ** attempt)
+                    time.sleep(min(delay, 30))
+                else:
+                    raise RateLimited(f"HTTP 429: remote host rate-limited audit for {url}") from exc
+            elif attempt + 1 < RETRIES:
                 time.sleep(2)
     raise RuntimeError(last)
 
@@ -50,6 +60,7 @@ def check_image(url):
 
 def main():
     errors = []
+    throttled = []
     try:
         _, _, raw = fetch(urljoin(BASE, "assets/documentary-catalogue.json"))
         stories = json.loads(raw).get("stories", [])
@@ -77,10 +88,16 @@ def main():
         try:
             check_image(url)
             print(f"OK {index}/{len(urls)} {url}")
+        except RateLimited as exc:
+            throttled.append(f"{url} ({origins}): {exc}")
+            print(f"UNVERIFIED (429) {url}", file=sys.stderr)
         except RuntimeError as exc:
             errors.append(f"{url} ({', '.join(sorted(origins))}): {exc}")
             print(f"FAIL {url}: {exc}", file=sys.stderr)
-    print(f"Checked {len(stories)} deployed articles and {len(urls)} unique image URLs; {len(errors)} failures")
+    print(f"Checked {len(stories)} deployed articles and {len(urls)} unique image URLs; {len(errors)} failures, {len(throttled)} throttled/unverified")
+    if throttled:
+        with open("image-check-rate-limited.txt", "w", encoding="utf-8") as output:
+            output.write("\n".join(throttled) + "\n")
     if errors:
         with open("image-check-failures.txt", "w", encoding="utf-8") as output:
             output.write("\n".join(errors) + "\n")
