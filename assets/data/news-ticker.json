@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-07T21:51:57.805809+00:00",
+  "updatedAt": "2026-11-07T22:22:37.711480+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:06+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "انتكاسة ترمب تهدد إنفانتينو بفتح ملفات «فيفا» في الكونغرس",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البوندسليغا»: بايرن يعزز صدارته بثنائية في ماينز... ودورتموند يطيح بإلفيرسبيرغ ويلاحقه",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:08:36+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ضغوط على فينغر لمنافسة إنفانتينو... ومرشح غامض يتأهب لدخول السباق",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:08:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "سباق سعودي أمريكي للاستحواذ على نادي الاتحاد.. ومفاجأة حول موعد الحسم وقيمة الصفقة",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T21:58:24+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "world",
+      "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
+      "source": "Sky News",
+      "publishedAt": "2026-11-07T21:45:00+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -10,27 +58,11 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "world",
-      "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
-      "source": "Sky News",
-      "publishedAt": "2026-11-07T20:24:30+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "saudi",
       "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T20:21:23+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الزاكي يركز على نتائج الأردن بكأس آسيا أكثر من عقده ويعلن قائمة مواجهة أستراليا",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T20:16:11+00:00",
       "breaking": false
     },
     {
@@ -68,33 +100,25 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:30:03+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«الدوري الإيطالي»: كالياري يصعق فروزينوني بهدف",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:24:14+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "نوير أكبر لاعبي بايرن سناً في تاريخ «البوندسليغا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:20:54+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T19:20:42+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:17:56+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يقيل حسام حسن... ويؤكد: استقرار المنتخب أولوية لا تقبل التهاون",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:17:21+00:00",
       "breaking": false
     },
     {
@@ -116,9 +140,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:49:10+00:00",
+      "publishedAt": "2026-11-07T18:53:47+00:00",
       "breaking": false
     },
     {
@@ -156,14 +180,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:10:55+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "أزمة نهائي مونديال 2026 تتصاعد.. الأرجنتين تقاضي الفيفا أمام \"كاس\" لإنقاذ نجومها",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T18:00:45+00:00",
@@ -183,14 +199,6 @@
       "title": "القائمة الرسمية لمنتخب المغرب في كأس العالم للناشئين \"قطر 2026\"",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T17:16:49+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "اتحاد الكرة المصري يقيل حسام حسن... ويؤكد: استقرار المنتخب أولوية لا تقبل التهاون",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T16:38:09+00:00",
       "breaking": false
     },
     {
@@ -228,22 +236,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "سان جيرمان المنقذ الوحيد.. تصنيف \"يويفا\" يضع الكرة الفرنسية في مأزق والبرتغال تترقب",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T15:51:20+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "صحي / الكفاءات السعودية تحصد جائزتين ذهبيتين في قيادة تجربة العميل ضمن جوائز دولية بلندن",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-07T15:22:30+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "مصادر لـ«الشرق الأوسط»: «المؤجلة» ستقام في 20 و21 نوفمبر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T15:11:15+00:00",
@@ -275,14 +267,6 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "\"ريبورتاج\" السعودية تضخ 293 مليون دولار بمشروعين عقاريين في الرياض",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T13:36:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "بوسيتش: فخور باللاعبين ... وجماهير الأهلي ستصنع الفارق أمام النصر",
       "source": "الشرق الأوسط",
@@ -303,14 +287,6 @@
       "title": "السعودية توسع نطاق التأشيرة السياحية لتشمل دولاً جديدة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T11:50:06+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مفاجأة.. مسؤولون في \"فيفا\" يدعمون ترشح فينغر ضد إنفانتينو",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T10:51:00+00:00",
       "breaking": false
     },
     {
@@ -383,14 +359,6 @@
       "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T23:28:55+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
-      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T22:04:06+00:00",
       "breaking": false
     }
   ],
