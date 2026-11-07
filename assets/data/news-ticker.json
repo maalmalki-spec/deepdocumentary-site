@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-11-07T22:58:01.027504+00:00",
+  "updatedAt": "2026-11-07T23:30:04.901311+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+      "source": "Reuters",
+      "publishedAt": "2026-11-07T22:48:58+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
       "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:09:46+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«الدوري الإيطالي»: كالياري يصعق فروزينوني بهدف",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:23+00:00",
       "breaking": false
     },
     {
@@ -20,17 +36,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
+      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:11+00:00",
+      "publishedAt": "2026-11-07T22:09:10+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
+      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:10+00:00",
+      "publishedAt": "2026-11-07T22:09:06+00:00",
       "breaking": false
     },
     {
@@ -94,7 +110,7 @@
       "category": "world",
       "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
       "source": "Sky News",
-      "publishedAt": "2026-11-07T21:45:00+00:00",
+      "publishedAt": "2026-11-07T21:53:05+00:00",
       "breaking": false
     },
     {
@@ -111,14 +127,6 @@
       "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T20:42:22+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "World No.1 Rybakina withdraws from WTA Finals",
-      "source": "France 24",
-      "publishedAt": "2026-11-07T20:11:53+00:00",
       "breaking": false
     },
     {
@@ -164,25 +172,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:49:06+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "الإمارات تعلن تشكيلتها لمواجهة هندوراس وسوريا وديّاً",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T18:42:07+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الاتحاد المصري يقيل حسام حسن.. ويعين علي ماهر مدرباً",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T18:36:00+00:00",
       "breaking": false
     },
     {
@@ -218,11 +210,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الزابيري.. نجم مغربي صاعد يتألق بالدوري الإسباني ويطارد مبابي ولامين جمال",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T16:34:36+00:00",
+      "lang": "en",
+      "category": "saudi",
+      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
+      "source": "Reuters",
+      "publishedAt": "2026-11-07T16:35:43+00:00",
       "breaking": false
     },
     {
@@ -231,14 +223,6 @@
       "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
       "source": "سكاي نيوز عربية",
       "publishedAt": "2026-11-07T16:32:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "التعاون... فائض مالي بـ35 مليون ريال و11 صفقة أجنبية والمحصلة «قبل الأخير»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T16:29:49+00:00",
       "breaking": false
     },
     {
@@ -351,14 +335,6 @@
       "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T23:58:02+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:28:55+00:00",
       "breaking": false
     }
   ],
