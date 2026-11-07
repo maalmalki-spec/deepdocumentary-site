@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-07T13:00:06.112399+00:00",
+  "updatedAt": "2026-11-07T18:54:34.212663+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية..الأمن يعلن القبض على 4 أشخاص بالمنطقة الشرقية ويكشف ما فعلوه | CNN Arabic | CNN",
+      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWMxMFFkQUw0aXVDNUpzODEwSEVRamFfeFFMSWtyTC1ibF8zbi1sdzlCT0dmZ3hDb21qNW9zZUJ1UTV5c25sRHhKaW9QZTdUR191bVl0alZkUkN1eWRiYkZLWnFoaDR4a0hxOXVraVBFZS1URnUyUHl4eENGdnhhbWYwUm5OSktUMHJtaFZrbF9Ic1hwMmNZVTRSelFtTUQwMGtRXzU5YVJtUUE?oc=5",
-      "published": "Sun, 01 Nov 2026 08:59:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJ1c3BLZGJMbDYyYmNPYlRHNHJzMG1uMWxYZEdLZlVrZnNOOTZPVEgzY0FkZ2owVG1lU2tfSEN5a0NteHB0dGZGN191aURCQllfaDRBRHNKLWkyWUcyWkxEdHhrWm1COHhYdE9QR1AxTHRITnNfNGQxeUJRclUtYk00NnRaOGdNVXM0ZzZIVkEtQ0xSRGRpcDRUVTVTVmI0WGthNmtjRlBuNTl3aEZ3?oc=5",
+      "published": "Thu, 05 Nov 2026 20:10:03 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية..الأمن يعلن القبض على 4 أشخاص بالمنطقة الشرقية ويكشف ما فعلوه | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟"
     },
     {
       "category": "history",
@@ -26,7 +26,7 @@
       "title": "آثار الحكيم لـ«الشرق الأوسط»: تشبعت من الأضواء ولن أعود إلى التمثيل",
       "source": "الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPLWpma3FLbGZhODU0TEo0RVY3WDJtbk1rTDBaZlFUZEpiY1NHWUgyckJ6ZVVISDQwV2NVclJSeXh4UXVvYU9XZ2VfTTZfeUxKQzB2WU51M19FeU83ZDQ0QVhadUY1bHc4Vk9jY1BiNDlPcmw2bmkyWU9uVnlMSzcxa2twRDZQR1NJZ0Jic2pRdmNaNUxLb2tJb2NIaUJDYnExQjNldHFFd0pTZjNTTGhUSzBEc2xVak5jWlpObkNaazczOWRRT3FyQk03SWRCSWZQVWhZYjdkTnJicm1BTE5YN05oclc5Q21wakdaSkJuWWlqaDRYQXF5VnR6RG1wOW9NM2pwbG0xTk41SVJfMjZrRmtQVk52Rnp0TlRJY0pZa3dNSDF3by1malJ2STZkMlZHak14dC0xbHRsd19uZU9EYkRremdfejJ6SXdjdFJNNVB5YXpqbGdCR29VMGRqaDFIbG5iSE1ydm00QnJLRmg3MzVSM0ZRZzI0T29HNTNHUUNuQ3hyTE83V0MxRXhEYzh6bHpMSHVKQzFpR3hyNDUzbFRsYUppTkdDUzN6ZFdMZWltemZReHJjWjZRZ1RHUmpJUWJEVEdxTjc1TVdvVUpBVnRtNVJNdUdMajFDalhVMDFLM3UybHNOTGhMZUdUczhLUjFhQ296aFRZSEMzSm5kV0RSMm5yYkR0d2VMMUwyenBoaUVTWEVaY2tMNmg4NGgxbFBjUXlCWkZFRVJsMnBpa2hVZ1I3WVFBM09kS1c1aURIUlBiay14UHBQemlJeXROZFFVcWVsZXg?oc=5",
-      "published": "Sun, 01 Nov 2026 15:00:13 GMT",
+      "published": "Sun, 01 Nov 2026 14:59:00 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: آثار الحكيم لـ«الشرق الأوسط»: تشبعت من الأضواء ولن أعود إلى التمثيل"
     },
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhtbHhhOEw4YndzUlZKU3dMcjBUN2NjSm5PVGd4dVpnUThDc2xfN1FkblR2eTdCLV85ZUVoN09GTTNPazdwSENKbHRKQUVPY3Z4djVjX0Z5a0Z2dHZ0QnVEa19jOGFzeVZuaVVxcUFralZ0VVJnVEttbW1WUG1FeGtR?oc=5",
-      "published": "Sat, 07 Nov 2026 10:53:28 GMT",
-      "suggestedTitleEn": "Behind the story: Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+      "title": "PODCAST: Stephen Miller, Paraguay’s new president and Apple's hidden word list",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlhERkpGalRNak1XdFhTS3BteE1mOHpLM2NvLVNvUVJ3d01hTGpSc052VkUzM3V3YmtfYW5mSmpnUENpOS1UTXg5anFIeTdETVVNZkJycFlKbkdONEY0Y0ZkNWVWLV9ISWpFY1N5Tk15eXlPUWt3eEtneloxNHp4dWtRWGMwbm0zTTNTazBzU3hOWFRXZmU5d2hNYzBHNk05UHF6OUlOclF4VEE?oc=5",
+      "published": "Sat, 07 Nov 2026 14:57:32 GMT",
+      "suggestedTitleEn": "Behind the story: PODCAST: Stephen Miller, Paraguay’s new president and Apple's hidden word list",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Five questions about the archaeology review process before construction begins answered by a TXST archaeologist",
-      "source": "Texas State University",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWlmOWlLTnlFSVF6UFk2RkNFUlh2V3hpYmtBWEFocFZuRk5DcldGcWNESFNlM2dkeDVUQnFkR01mbG1NLXRDWmk3em5tcUU2ZWhHOGJkb0JPZk1KVTNheU1nb0JNdk50VEZsM3YySUxmTG5uSkM0NnVXcEZWUWQxazJiSldZcmhmZ19zSkpTb1M0Z1VpamZvdzZUTjFYeXRTSXFYVUhKVUtOd24tWS1iN1hVSE1Nci1QYjhaTlMwNmxLU2ZQ?oc=5",
-      "published": "Thu, 05 Nov 2026 18:28:27 GMT",
-      "suggestedTitleEn": "Behind the story: Five questions about the archaeology review process before construction begins answered by a TXST archaeologist",
+      "title": "Royal Hall Found at 1,300-Year-Old Palace of Princesses Who Served the Gods",
+      "source": "Arkeonews",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3ZBTWZuY3lMd25GdnRlQi1qcXNpSlhjX1BFQnNrWWtEUzBhekVia2JvcGdObnhRLUZrSUZZbHJkd0Y3emVBNXl6Zmx5NWF4bUt2R1dpNU1vWGZYUm16ZUoydUdyZnpleTFTNWxNc0RhOE0xSXI0el9xaUZmNXZ1REVCN1VCV0x6a1VjNnJ6Vnlwb1V6aGE4Z2xkcWtCQQ?oc=5",
+      "published": "Sat, 07 Nov 2026 16:06:13 GMT",
+      "suggestedTitleEn": "Behind the story: Royal Hall Found at 1,300-Year-Old Palace of Princesses Who Served the Gods",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Drug discovery by scientists joins world's largest trial of Parkinson's treatments",
-      "source": "Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmsyZHhCRkN2OGkzVUFLcTY3ckVubXpRTzFiYmw2VDZxTllFdzJia3FwRGlaSmxScnZRNWNSN2N2MzRKbVRVWXBtU2ZqMnIyN09fMjJIOXRJVG12NGFkTUZVR1diYmFTTi1WZlJhV1RoMU5qcGE1SFFCLUhGUWNkSXVxQlVnYUY0aWhF?oc=5",
-      "published": "Fri, 06 Nov 2026 16:00:08 GMT",
-      "suggestedTitleEn": "Behind the story: Drug discovery by scientists joins world's largest trial of Parkinson's treatments",
+      "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbEhxRW02UGtYWTNKdmt5Ym10aDVFMThIYndXenBsdG1TUUZOOF92dzNiOXdQUjRSNjBHM2I2bGtCMFR3RVAwcUt6WjBMVkl6NVBnMTJiWFQtUnlESHBfQ2pWblBmZFlESU82MUg4Zw?oc=5",
+      "published": "Sat, 07 Nov 2026 00:37:06 GMT",
+      "suggestedTitleEn": "Behind the story: Magic mushrooms rewire the brain in a way scientists didn't expect",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "U.S. economy adds a robust 165,000 jobs in October",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEg2Ql9vWE4yWEtWRDBaVmNfbnFVNGhncC1uelBhb3dxYmxIVFNIbUNEYnlKazQxdTRpTXVUTVlrV0tJSUJMdkFWLXFENmtZZFNRSm93ZTEwNmIwMHVPU3JVSzBReWdWb2E4S3h0MFl3RjlFUXZSZ1pMM3A5RmxwVV9wTU9wWHptMllnNjV1QlFMUTJxV2NGUlFvaWRENTVFSFFFZ3lPRGtPLVlyeldJMi1KcUhUSDZPQUE?oc=5",
-      "published": "Fri, 06 Nov 2026 23:56:57 GMT",
-      "suggestedTitleEn": "Behind the story: U.S. economy adds a robust 165,000 jobs in October",
+      "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0hsN092M083bUhrLUJKQW9WdTNtWktqeFpFU1Z3TnJEQktIeXNrMjc0WHJkdzF1TjlmTzBEVzVtX1hGejFWb1BwX2J3TzF1QWtrMXp3cDF3djBlYUl3VkhJVUk0UWxxTWMxdFpoTUlId0Y2bEpISnVXbHZfWjVnVTJTZlRScVJZYnhtZ25xX0k2TURCc1g3VHJIWVB4YlFERmtncTFQRlB4bTBxajV3MGZtc1gxbTJHR05nZERJLURLZw?oc=5",
+      "published": "Sat, 07 Nov 2026 15:29:20 GMT",
+      "suggestedTitleEn": "Behind the story: Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
       "suggestedTitleAr": ""
     },
     {
@@ -206,7 +206,7 @@
       "title": "New psychology research challenges a popular explanation for why conspiracy theories cluster together",
       "source": "PsyPost",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaThkTGFvQXU5aXRZLXNETDJOaWczUTM4MUFiQW9tWG8zMUZJZEVnMUtMdzJkWDVkU1IwN0w4aFFUbks3S0I4WkZkemVXSHZoaEhOdXRPRTZEaW5ZMWpzd2dWNWlvWXFPMUFjUk9oVVM2QnQwZVB5VURkRmhITHE1QTBrNmd5X2htZnE2cko4ODJ2d25MSkNHTHJZcjgzbmJZUWJmZVl4YU0zRVpERXgzN0NvY2NJc2lMX0JtZlJjZ0ZUOVFm?oc=5",
-      "published": "Sat, 07 Nov 2026 11:15:00 GMT",
+      "published": "Sat, 07 Nov 2026 11:18:59 GMT",
       "suggestedTitleEn": "Behind the story: New psychology research challenges a popular explanation for why conspiracy theories cluster together",
       "suggestedTitleAr": ""
     },
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Baldwinsville History Mystery: Do you know anything about this picture?",
-      "source": "Eagle News Online",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd1RKT0ZkVXVVMlBabDN6aHhZTjVSbEZieV9SS3FzbDZuN3VjSjJ4M0xpakVpTEZIWk1tQ0FXNEt1RV8wamdHRGk5TE9RaWFscjNNaFhyRmpRcHNKOWNrMUhMdk9JTl8yX054OF81clRMaTFsZW00UF9TM0l3NHM5RlpzSWl6QVVvZzBDelBuNE15NkczaXFOMlNUa1JfM3pGR2hvSWZWbXBFeXpiSnhjMVdOWDlQNmZzbE5ia1JJYXM3c0NySmkyX2RXTHNCS25qcjdaSVRrYjlpWmZTRTBvcTVoeEx4LW91TlowTy1XdGZsN3hGSWE1SFppOFRNM0hIY210Z0FB?oc=5",
-      "published": "Fri, 06 Nov 2026 14:51:00 GMT",
-      "suggestedTitleEn": "Behind the story: Baldwinsville History Mystery: Do you know anything about this picture?",
+      "title": "Who killed British archaeologist James Starkey? 88-year-old murder mystery may be solved",
+      "source": "Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80eVBNUFFxb3RubFVYU1ItdGR3OXU4dlVRNHhaME9kbHppbUZxWkstb21hcS1MNVRORl9pM0o0eTJpSnl4clRtby1maFV1ck5fSVVJU3pZQVBnQ3ZCeF9yNVkyckk4Zw?oc=5",
+      "published": "Fri, 06 Nov 2026 01:01:24 GMT",
+      "suggestedTitleEn": "Behind the story: Who killed British archaeologist James Starkey? 88-year-old murder mystery may be solved",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yUGJCX1Z4VkE4VjY1cmFxUTlZQ05kLW9Kc3BldmpYTWZaYU1YNWhrMVdWdXY1NnZEc0dkNndnT3g2SVNQOHktS1R5Vnl6elFTRlFWUW1CclFYWTRaSFJMa1A0dm1qMzkzT1lTajlzTQ?oc=5",
-      "published": "Sat, 07 Nov 2026 09:14:36 GMT",
-      "suggestedTitleEn": "Behind the story: Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+      "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlV5ZWM5c3pnS29LX1JvblNuVGtWaUZmXzFFMDFYUTVBN0pQUmJKempJTk01SkJBamxLYkY5Mndmcm5fM0JJN3k1djF6STVhUmdYQUpTTHlfQi1jWVFWWEpVUGVTemxRRmltRU5IMG5KZVBtblNwNmVfeEJ6d2twVFh3?oc=5",
+      "published": "Fri, 06 Nov 2026 22:05:58 GMT",
+      "suggestedTitleEn": "Behind the story: On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
       "suggestedTitleAr": ""
     }
   ],
