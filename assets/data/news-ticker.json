@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-11-07T05:24:45.807699+00:00",
+  "updatedAt": "2026-11-07T06:10:57.741893+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بعد اعتزاله دوليا.. الاتحاد البرتغالي يتعهد بتكريم رونالدو",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T05:12:31+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
       "title": "How Did Saudi Arabia Ensure Palestinians Had a Role in Regional Talks?",
       "source": "Al Arabiya English",
       "publishedAt": "2026-11-07T04:05:58+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "gulf",
+      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T23:58:02+00:00",
       "breaking": false
     },
     {
@@ -50,19 +66,19 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بعد اعتزاله دوليا.. الاتحاد البرتغالي يتعهد بتكريم رونالدو",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T21:42:25+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Saudi Arabia builds skills base for green hydrogen ambitions",
       "source": "Arab News",
       "publishedAt": "2026-11-06T21:35:35+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T21:15:30+00:00",
       "breaking": false
     },
     {
@@ -116,17 +132,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "الدوريات الأوروبية الكبرى تشهر ورقة الإصلاح في وجه «الفيفا»",
+      "title": "«السعودي الشاب» إلى نهائيات كأس آسيا 2027 بالعلامة الكاملة",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:39:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "جيمي كاراغر يدعو إلى بيع مانشستر سيتي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:26:14+00:00",
+      "publishedAt": "2026-11-06T20:50:45+00:00",
       "breaking": false
     },
     {
@@ -163,10 +171,18 @@
     },
     {
       "lang": "ar",
+      "category": "saudi",
+      "title": "عام / الهيئة العامة للنقل تعتمد اللائحة التنفيذية لنقل الركاب بالمركبات ذاتية القيادة في المملكة",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-06T18:57:22+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "sports",
-      "title": "المصري أحمد حجازي لاعب الاتحاد ونيوم السابق يعلن اعتزاله",
+      "title": "خلاف يضع انتخاب مالاغو لرئاسة اتحاد كرة القدم الإيطالي تحت التدقيق القانوني",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T18:23:54+00:00",
+      "publishedAt": "2026-11-06T18:50:39+00:00",
       "breaking": false
     },
     {
@@ -190,15 +206,15 @@
       "category": "saudi",
       "title": "السعودية وتركيا لتعزيز التعاون الأمني",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:26:15+00:00",
+      "publishedAt": "2026-11-06T17:55:23+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "صعود سيفاستوبول يضع «يويفا» أمام اختبار سياسي جديد بسبب حرب أوكرانيا",
+      "title": "بالفيديو... كريستيانو رونالدو يعلن اعتزاله اللعب الدولي",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:25:11+00:00",
+      "publishedAt": "2026-11-06T17:17:52+00:00",
       "breaking": false
     },
     {
@@ -212,17 +228,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "يايا توريه أول مدرب أفريقي في دوري أبطال أوروبا",
+      "title": "توخيل ينتقد بالمر مجدداً... ويشيد بانضمام «جود» و«جوب» بلينغهام",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:08:44+00:00",
+      "publishedAt": "2026-11-06T17:07:00+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "توخيل ينتقد بالمر مجدداً... ويشيد بانضمام «جود» و«جوب» بلينغهام",
+      "category": "saudi",
+      "title": "من هو حكم مباراة السعودية وإسبانيا؟",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:07:00+00:00",
+      "publishedAt": "2026-11-06T16:58:57+00:00",
       "breaking": false
     },
     {
@@ -231,6 +247,14 @@
       "title": "مروان عطية «سعيد» بتمديد عقده مع الأهلي المصري",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T16:58:50+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "محمد صلاح: نسعى لمواصلة إسعاد الجماهير المصرية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T16:48:04+00:00",
       "breaking": false
     },
     {
@@ -244,17 +268,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "تيباس: القول بتوجيه الحكام ضد ريال مدريد بمنزلة «العيش في مجرة أخرى»",
+      "title": "رئيس الجزائر يهنئ منتخب كرة القدم للسيدات ببلوغه مونديال البرازيل",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:57:42+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من مبابي إلى لامين يامال... حملة غير مسبوقة للفوز بـ«الكرة الذهبية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:57:12+00:00",
+      "publishedAt": "2026-11-06T15:57:37+00:00",
       "breaking": false
     },
     {
@@ -263,14 +279,6 @@
       "title": "السعودية وقطر تناقشان ضمان حرية الملاحة",
       "source": "العربية",
       "publishedAt": "2026-11-06T15:53:51+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«هزيمة كارثية» لمنتخب مصر للسيدات أمام زامبيا تفجر انتقادات",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:32:26+00:00",
       "breaking": false
     },
     {
@@ -300,25 +308,9 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "التحالف يدمّر باليستيين ومسيّرتين باتجاه السعودية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:02:32+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
       "title": "السعودية تؤكد مضيها في الدفاع عن سيادتها ورفضها الإجرام الحوثي",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T15:01:18+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«دوري الأمم الأوروبية»: سويسرا تفوز وتقترب من الصعود... وألبانيا تفوز وتتصدر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:55:52+00:00",
       "breaking": false
     },
     {
@@ -343,6 +335,14 @@
       "title": "الدفاعات الجوية السعودية تُدمِّر «باليستياً» و65 «مسيّرة» في مناطق مختلفة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T14:46:55+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تتصدى لـ5 صواريخ باليستية و 9 مسيّرات خلال الساعات الماضية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:45:32+00:00",
       "breaking": false
     },
     {
@@ -404,17 +404,17 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "إدانات خليجية وعربية لاستهداف السعودية بمسيّرات قادمة من العراق",
+      "title": "السعودية تشدد على أهمية حماية الممرات البحرية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:05:17+00:00",
+      "publishedAt": "2026-11-06T14:03:07+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "السعودية تشدد على أهمية حماية الممرات البحرية",
+      "title": "السعودية تؤكد وقوفها مع الإمارات في دفاعها عن أمنها واستقرارها",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:03:07+00:00",
+      "publishedAt": "2026-11-06T13:56:58+00:00",
       "breaking": false
     },
     {
@@ -452,9 +452,25 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "المصري محمد النني إلى ليفادياكوس اليوناني",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T13:02:05+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "البرتغال تجهّز تكريماً لرونالدو... وخيسوس ترك قرار العودة له",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T12:51:50+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "هاري كين يفكر في الاتجاه لـ«كرة القدم الأميركية»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T12:21:10+00:00",
       "breaking": false
     },
     {
@@ -484,14 +500,6 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "سقطرى تستقبل 7.5 ألف طن ديزل ضمن المنحة السعودية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:59:01+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
       "title": "السعودية تدين هجوماً مسلحاً في جنوب مصر أودى بحياة ضابطين من حرس الحدود",
       "source": "العربية",
       "publishedAt": "2026-11-06T10:58:00+00:00",
@@ -500,25 +508,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "كيف انقسم ولاء الهنود بين البرازيل ومنتخب بلادهم؟",
+      "title": "الاتحاد السعودي يدعم إنفانتينو في أزمته... ويشيد بجهود سلمان آل خليفة",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:51:54+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "كيف يؤثر الديمقراطيون على سياسات ترامب الاقتصادية؟",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-06T10:41:36+00:00",
+      "publishedAt": "2026-11-06T10:42:32+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "أوتمار هيتسفيلد يكشف عن معاناته مع «الاحتراق النفسي»",
+      "title": "61 % من اتحادات «فيفا» لا تكشف عن حساباتها المالية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T09:54:08+00:00",
+      "publishedAt": "2026-11-06T09:54:03+00:00",
       "breaking": false
     },
     {
@@ -532,17 +532,17 @@
     {
       "lang": "ar",
       "category": "world",
-      "title": "أمير قطر يتلقى اتصالا من الرئيس الأمريكي لبحث مستجدات المنطقة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T07:43:39+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
       "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
       "source": "سكاي نيوز عربية",
       "publishedAt": "2026-11-06T07:37:34+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T07:31:47+00:00",
       "breaking": false
     },
     {
@@ -551,14 +551,6 @@
       "title": "الذهب يتراجع مع صعود النفط وترقب بيانات أمريكية",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-06T06:57:44+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-06T05:43:00+00:00",
       "breaking": false
     }
   ],
