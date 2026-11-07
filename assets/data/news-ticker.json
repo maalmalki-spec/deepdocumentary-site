@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-07T13:46:34.235707+00:00",
+  "updatedAt": "2026-11-07T14:28:25.442997+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:25:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "\"آسف رونّي\".. رافينيا يفضل نيمار على رونالدينيو",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T14:04:35+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مصادر: موتا الأقرب لتدريب الأهلي… وكونتي ضمن المرشحين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:01:57+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بالفيديو.. هدف عكسي لا يصدق في الدوري التركي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:58:30+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:52:11+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:52:02+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:51:44+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:41:18+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:40:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "\"ريبورتاج\" السعودية تضخ 293 مليون دولار بمشروعين عقاريين في الرياض",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T13:36:00+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "saudi",
@@ -44,14 +124,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T12:48:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T12:48:06+00:00",
@@ -60,33 +132,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T12:47:59+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "جمعها على مدار مسيرته.. ميسي يوقّع قمصانه التاريخية لصانع محتوى برازيلي (فيديو)",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T12:30:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T12:18:15+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T12:17:43+00:00",
       "breaking": false
     },
     {
@@ -103,14 +151,6 @@
       "title": "دون ذكر اسمه.. بيان رسمي من الاتحاد المصري عن أنباء رحيل حسام حسن",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T11:59:28+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T11:56:17+00:00",
       "breaking": false
     },
     {
@@ -187,6 +227,14 @@
     },
     {
       "lang": "ar",
+      "category": "sports",
+      "title": "\"اتقوا الله في مصر\".. إبراهيم حسن يدافع عن شقيقه حسام",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T09:30:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "gulf",
       "title": "نشرة الخليج: قطار الصحراء وتأشيرة دبي وفحوصات الزواج بالبحرين وتحذير عُماني",
       "source": "العربية",
@@ -226,11 +274,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "\"شد الشعر\" يثير الجدل وغضب لامبارد في الدوري الإنجليزي",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T07:42:45+00:00",
+      "lang": "en",
+      "category": "world",
+      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T06:54:00+00:00",
       "breaking": false
     },
     {
@@ -266,6 +314,14 @@
       "breaking": false
     },
     {
+      "lang": "ar",
+      "category": "gulf",
+      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T23:58:02+00:00",
+      "breaking": false
+    },
+    {
       "lang": "en",
       "category": "world",
       "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
@@ -279,14 +335,6 @@
       "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T23:28:55+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بلجيكا لن تدعم إنفانتينو في انتخابات رئاسة «فيفا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:15:56+00:00",
       "breaking": false
     },
     {
@@ -331,22 +379,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "«السعودي الشاب» إلى نهائيات كأس آسيا 2027 بالعلامة الكاملة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:50:45+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الدوريات الأوروبية الكبرى تشهر ورقة الإصلاح في وجه «الفيفا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:39:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "economy",
       "title": "وكالة دولية: أزمة الطاقة تسرّع التحول لأنواعها المتجددة في الاقتصادات الناشئة",
       "source": "الجزيرة نت",
@@ -371,14 +403,6 @@
     },
     {
       "lang": "en",
-      "category": "saudi",
-      "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T16:19:44+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
       "category": "world",
       "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
       "source": "The Guardian",
@@ -391,14 +415,6 @@
       "title": "AI stocks climb after trillions wiped from market values",
       "source": "BBC",
       "publishedAt": "2026-11-06T15:04:46+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "آيزنكوت يضع 4 شروط لمن يريد الانضمام لحكومته ضمنها يهودية إسرائيل",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T14:46:04+00:00",
       "breaking": false
     },
     {
