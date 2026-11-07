@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-11-07T19:27:39.095639+00:00",
+  "updatedAt": "2026-11-07T20:04:03.980329+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi Arabia brings its literary and artistic heritage to Algiers",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T19:59:02+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:44:22+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
       "title": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
       "source": "Reuters",
-      "publishedAt": "2026-11-07T19:14:09+00:00",
+      "publishedAt": "2026-11-07T19:27:23+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "رسميا.. إقالة حسام حسن وتعيين علي ماهر مدربا لمنتخب مصر",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T18:45:03+00:00",
+      "title": "«الدوري الإيطالي»: كالياري يصعق فروزينوني بهدف",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:00:05+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:51:39+00:00",
       "breaking": false
     },
     {
@@ -23,6 +47,22 @@
       "title": "الاتحاد المصري يقيل حسام حسن.. ويعين علي ماهر مدرباً",
       "source": "العربية",
       "publishedAt": "2026-11-07T18:36:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مونفيس يتولى تدريب فرنسا في كأس ديفيز",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:32:05+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:32:02+00:00",
       "breaking": false
     },
     {
@@ -47,14 +87,6 @@
       "title": "«البوندسليغا»: بايرن يعزز صدارته بثنائية في ماينز... ودورتموند يطيح بإلفيرسبيرغ ويلاحقه",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T18:31:23+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:31:18+00:00",
       "breaking": false
     },
     {
@@ -100,41 +132,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "title": "«البوندسليغا»: لايبزيغ يكتسح أوغسبورغ... وفرانكفورت يخطف التعادل من بادربورن",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:10:38+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«جائزة البرازيل»: فرستابن الأسرع في التجارب الحرة الأخيرة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:10:29+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«جائزة البرازيل»: «مرسيدس» يسعى لإنهاء صراع الصانعين مبكراً",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:10:24+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:04:51+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:04:11+00:00",
+      "publishedAt": "2026-11-07T18:09:00+00:00",
       "breaking": false
     },
     {
@@ -148,25 +148,33 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "آرسنال يتخطى هال سيتي بصعوبة ويعزز صدارته للدوري الإنجليزي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:55:39+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "«الشرق الأوسط» ترصد أرقام الأخضر قبل وديتي معسكر الدوحة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T17:46:54+00:00",
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "دوري السيدات السعودي: هدف بهلولي يمنح النصر الصدارة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T17:31:28+00:00",
+      "lang": "en",
+      "category": "saudi",
+      "title": "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP",
+      "source": "France 24",
+      "publishedAt": "2026-11-07T17:39:53+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
+      "category": "sports",
+      "title": "«سيارة إسعاف» تلغي إقامة مباراة نيوم والوحدة «تحت 17 عاماً»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T17:28:44+00:00",
+      "publishedAt": "2026-11-07T17:30:02+00:00",
       "breaking": false
     },
     {
@@ -260,22 +268,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "فليك يكشف عن العائدين لبرشلونة في مواجهة أتلتيكو مدريد ويحسم مصير كوندي",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T14:54:47+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "60 عاما من الإنكار.. هل تضطر إسرائيل للتخلي عن سياسة \"الغموض النووي\"؟",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T14:31:17+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "الأهلي يعزز جهاز بوسيتش بأربعة أسماء أوروبية",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T14:27:18+00:00",
@@ -295,14 +287,6 @@
       "title": "\"آسف رونّي\".. رافينيا يفضل نيمار على رونالدينيو",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:04:35+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بالفيديو.. هدف عكسي لا يُصدق في الدوري التركي",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T13:58:30+00:00",
       "breaking": false
     },
     {
@@ -367,14 +351,6 @@
       "title": "مبيعات شركات الأسمنت السعودية تسجل 44.35 مليون طن منذ بداية 2026",
       "source": "العربية",
       "publishedAt": "2026-11-07T10:28:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Beyond trophies: How Saudi Arabia can measure the value of its football investments",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T10:10:00+00:00",
       "breaking": false
     },
     {
@@ -479,14 +455,6 @@
       "title": "Fed policymakers consider rate hike after strong jobs report",
       "source": "Reuters",
       "publishedAt": "2026-11-06T20:58:34+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "economy",
-      "title": "وكالة دولية: أزمة الطاقة تسرّع التحول لأنواعها المتجددة في الاقتصادات الناشئة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T19:55:08+00:00",
       "breaking": false
     }
   ],
