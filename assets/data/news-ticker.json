@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-07T20:04:03.980329+00:00",
+  "updatedAt": "2026-11-07T20:39:31.637814+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "World No.1 Rybakina withdraws from WTA Finals",
+      "source": "France 24",
+      "publishedAt": "2026-11-07T20:11:53+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi Arabia to expand renewables fivefold, IEA reports",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T20:05:39+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
@@ -18,11 +34,27 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
-      "source": "Reuters",
-      "publishedAt": "2026-11-07T19:27:23+00:00",
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:30:03+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "نوير أكبر لاعبي بايرن سناً في تاريخ «البوندسليغا»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:20:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:19:05+00:00",
       "breaking": false
     },
     {
@@ -68,14 +100,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:31:36+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T18:31:29+00:00",
@@ -87,30 +111,6 @@
       "title": "«البوندسليغا»: بايرن يعزز صدارته بثنائية في ماينز... ودورتموند يطيح بإلفيرسبيرغ ويلاحقه",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T18:31:23+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:31:04+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "نوير أكبر لاعبي بايرن سناً في تاريخ «البوندسليغا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:30:55+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:30:54+00:00",
       "breaking": false
     },
     {
@@ -140,33 +140,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "أزمة نهائي مونديال 2026 تتصاعد.. الأرجنتين تقاضي الفيفا أمام \"كاس\" لإنقاذ باريديس ونجومها",
+      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:04:11+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "أزمة نهائي مونديال 2026 تتصاعد.. الأرجنتين تقاضي الفيفا أمام \"كاس\" لإنقاذ نجومها",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T18:00:45+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "آرسنال يتخطى هال سيتي بصعوبة ويعزز صدارته للدوري الإنجليزي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T17:55:39+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«الشرق الأوسط» ترصد أرقام الأخضر قبل وديتي معسكر الدوحة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T17:46:54+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP",
-      "source": "France 24",
-      "publishedAt": "2026-11-07T17:39:53+00:00",
       "breaking": false
     },
     {
@@ -202,6 +186,14 @@
       "breaking": false
     },
     {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
+      "source": "Reuters",
+      "publishedAt": "2026-11-07T16:35:43+00:00",
+      "breaking": false
+    },
+    {
       "lang": "ar",
       "category": "sports",
       "title": "الزابيري.. نجم مغربي صاعد يتألق بالدوري الإسباني ويطارد مبابي ولامين جمال",
@@ -223,14 +215,6 @@
       "title": "التعاون... فائض مالي بـ35 مليون ريال و11 صفقة أجنبية والمحصلة «قبل الأخير»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T16:29:49+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Syria denies plans to send troops to Yemen",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T16:16:20+00:00",
       "breaking": false
     },
     {
@@ -268,6 +252,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "فليك يكشف عن العائدين لبرشلونة في مواجهة أتلتيكو مدريد ويحسم مصير كوندي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T14:54:47+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "الأهلي يعزز جهاز بوسيتش بأربعة أسماء أوروبية",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T14:27:18+00:00",
@@ -287,6 +279,14 @@
       "title": "\"آسف رونّي\".. رافينيا يفضل نيمار على رونالدينيو",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:04:35+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بالفيديو.. هدف عكسي لا يُصدق في الدوري التركي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:58:30+00:00",
       "breaking": false
     },
     {
