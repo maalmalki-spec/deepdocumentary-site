@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-07T01:10:20.688823+00:00",
+  "updatedAt": "2026-11-07T07:10:10.692889+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
-      "published": "Fri, 06 Nov 2026 12:14:44 GMT",
+      "title": "ما السر الحقيقي وراء صمود الاقتصاد الأمريكي؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVmdhT2kwc3VsZFFNUXBoT3JjMWUzc2U0bENGZ2h1NTFqWHBNQW9MTUNVWjBFekIzakZsWkIyUS1YUmFmVEJlUDk5dWdYbWhQbFN5YXdkQzVtaUxsaFdYNDU0ZHl4LU1hWVh6SlBMbm1ZSi12eGczd2NlRjVTb2duZE55V3JWWkFmeVZyQ0x3TzZNamwxVGczQWRhbTBRcWFIMURORnNqelNralc3bTlneUNURklLRTN0NUU1SnRxM0xNRzhMeW0tRi01N0RRRWllZEkxVy1EN0U4XzczeXBuSHJaU01HeUMwdzNCOFk2cVB6M0dHa3RrbDdkUVA3TEZyZmtFOWxEWHhrS2FDWE44dG9DZ2U5SVJ1Si1DRGtQdUVfWHlSeXhsMU9VYkJZS1RuZEprTzZNdkljSk5Wd2VJN2s2dHJxYXhL?oc=5",
+      "published": "Tue, 03 Nov 2026 17:23:04 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: ما السر الحقيقي وراء صمود الاقتصاد الأمريكي؟"
     },
     {
       "category": "environment",
@@ -95,12 +95,12 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "05 نوفمبر 2026 الأمين العام",
-      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Zjl0WlVmblRfWE1aVXlzMFVPd3lpZEdhdHJRYzRuN09xbzhRWG5GQ3UtanhRNVFVd3RIbWJvM203djFvM2FCOFl6Yy0zd2FrWEJsMXpPNmQ5Nkt1aGlGWktqTzZJRU5SenpiUXBCSmhqYnFJYmhXbTRxaw?oc=5",
-      "published": "Thu, 05 Nov 2026 16:35:17 GMT",
+      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
+      "published": "Fri, 06 Nov 2026 15:30:35 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: 05 نوفمبر 2026 الأمين العام"
+      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "mystery",
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time",
-      "source": "Smithsonian Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdDM1Yjk1NW9CeHZ0UHF1bU50WVhrZ1BnWWpUa2htQlIxV2NJdlJZNlk1a21BU2VfNkUwV1BnbVRxNi05TmtOdFBCX2hteF9QSE9XMkdiLWptelZrcFJXZ0Y3TG9ST3hmWjFRYmNWZUdRMmFEeHQyZ1ZqMjBmVUZEa244SHNqUXg1UUI0Vk9POVA0cTdXZ1JrV1QzUzhrRENDaGllUFZ6Q0ZkaWIyY294ZTBfQkROWDZDQjhOLUpBaWVWalV2bUZpVFJ4bm1UcmRZaDNYN3FMdmpzY2QwMGYtTDViYlQwSEh5RnZPaUhaTFRORi1kdkliWTY3UnFUUkV0?oc=5",
-      "published": "Fri, 06 Nov 2026 21:13:35 GMT",
-      "suggestedTitleEn": "Behind the story: This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time",
+      "title": "Archaeologists unearth evidence of Golden Horde-era iron production in Kazakhstan",
+      "source": "HeritageDaily",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXFGOWpfRjg3SFI3eDlGbEZ4dC0tdDBjb1JxUFUzemg5XzZwd1hjQVZPZWR6ajlaN1hJXzRENkJiMHN5eUpJZERkTFhUeGptcXJOSVVPX2ZSS1o0Z1cxTzhQcGI1UFNXWkdkYTN6S1dOUGYxSERqM1pCekNYVW1uTmRVcHB3OHE5eng5WVRMa2NTeTRMbkNNcnJxQ3RBUjRzd0hZcjl6QkIyVWlSak40cV9hc1lzOXJMeW96MmR3MGhrenRX?oc=5",
+      "published": "Fri, 06 Nov 2026 21:42:03 GMT",
+      "suggestedTitleEn": "Behind the story: Archaeologists unearth evidence of Golden Horde-era iron production in Kazakhstan",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "AI-powered fitness uses adaptive technology to support healthy aging",
-      "source": "6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODBveE9lRXBlTXk5ZXI3OVFlNDA4VEk5UUhDZUV4bFFCeFc4WUM0c3BhOF9Ya0pKTUk0ZGhjX0owUGlIUm5aQXNINVJhQ08ycl82WlN6amMwbDkxMHZvSHN0aV8tVU5xdXBpNkRKT0FBQzhkQ00teTVPMmlJamlqMDRsUVZmSndzZFBoVWFxQk1ab0VOdXlrdkhQNVpwUdIBowFBVV95cUxNMWNiYWc0ZGkzRkVSWWxIR3h4Q21fSVYwNGcyUkRsYzB2MUc4YkJrRTZ5WlNpajZZQU5zMHZ5MDdQaEt2Zi1pTEMzLXcwVUJEbl9HNDJvT2plZTREZnJwYWhxOVdMOGctV3NLeDMyVzFFTVROalhZelZDUFpocm1aZzhaVWpfc2gyTjhwRFJaU3djSGdaamZuRXZOdlA5Q21nanhz?oc=5",
-      "published": "Sat, 07 Nov 2026 00:01:09 GMT",
-      "suggestedTitleEn": "Behind the story: AI-powered fitness uses adaptive technology to support healthy aging",
+      "title": "DOGE leader outlines AI-driven future for federal service delivery",
+      "source": "Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmVXYnBtLW1xWWMtbGdQR0QtaHU2NFF3YlFaNDltWjJvQnhwQW9qVThweFZDckcyZTVzV3B4RUctNjdIbmlsR2d4U1YtTngwWTdzM0c3QnFhTEN3WGtaOTlPYm96SGd0YVh1RG9oVnhDNEZDSGdaUTEzVDdSaVZXdXdTVy1YbElYQzVOdFNMOVZ2MnU2LWc2TzlhM1pEX0JlZzYtcHFrWUJrRVgwNWpCaXZTNHNFMmg0czA4ZG5DSQ?oc=5",
+      "published": "Sat, 07 Nov 2026 04:41:15 GMT",
+      "suggestedTitleEn": "Behind the story: DOGE leader outlines AI-driven future for federal service delivery",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Town of Normal to try again at updating home-based business rules, starting with public opinion",
-      "source": "WGLT",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaFUzTEcyRHBzdlZyNzZ4RDF4aUdQejE1NjFUVW4weWNDVk5BNENCdy1TSXpjOW1aWWJDWW5KSHh1N3B6ZkVyc0ptTXVNSW5YVnJZUkNXUjlfaUs5VXdwYUdxVUI5QmxyNTJtNFlOUEpxNjdWRFY0SklBZXpIT3hZZWdZMmo5Q2VTYzdBenoxY1d0MF84bWI2ZmhmWGFQZ3JVQjZXNU91dC1ZRW1lVkdWT3pzRThIZHlwZXdOOER1N3lGVDJRQzh2NEtjeTlvUkRvcVRSYTdiS082WkdDWEtkWQ?oc=5",
-      "published": "Fri, 06 Nov 2026 22:15:36 GMT",
-      "suggestedTitleEn": "Behind the story: Town of Normal to try again at updating home-based business rules, starting with public opinion",
+      "title": "U.S. economy adds a robust 165,000 jobs in October",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEg2Ql9vWE4yWEtWRDBaVmNfbnFVNGhncC1uelBhb3dxYmxIVFNIbUNEYnlKazQxdTRpTXVUTVlrV0tJSUJMdkFWLXFENmtZZFNRSm93ZTEwNmIwMHVPU3JVSzBReWdWb2E4S3h0MFl3RjlFUXZSZ1pMM3A5RmxwVV9wTU9wWHptMllnNjV1QlFMUTJxV2NGUlFvaWRENTVFSFFFZ3lPRGtPLVlyeldJMi1KcUhUSDZPQUE?oc=5",
+      "published": "Fri, 06 Nov 2026 23:56:57 GMT",
+      "suggestedTitleEn": "Behind the story: U.S. economy adds a robust 165,000 jobs in October",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Demographic Acronym \"WEIRD\" Overused in Psychology Research",
-      "source": "Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbnNxckRHMTdRa3FNaXRRRXVaM0lOalZVN2tFRm1lbHVQdW1SckZWVnV6SlNJV013YjQtbGxZa0dULU5PQ1pINHd2bWRKYVIwVmkycHdxVTVHNUFFWGtadWhsWjdDUFRycTUzc1pCdjBnTHdrOEVWU2RiYmUxMHZ4M3BGSnRSWHBWZWVjQ0JBOFZOblZrRGhBX2pNYnFQSnB4djNaY19Kd0RRR2c3aGZjSEtNMjN5OGhsWHRpR3NFcm4wUGlzMTJQOWFuTFpfbW8?oc=5",
-      "published": "Fri, 06 Nov 2026 05:35:09 GMT",
-      "suggestedTitleEn": "Behind the story: Demographic Acronym \"WEIRD\" Overused in Psychology Research",
+      "title": "Fatherhood brain changes, AI companions, and a dispute over evolution's grip on romance: The week in psychology podcasts",
+      "source": "PsyPost",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXdpS0NHcklDa2NBSTltb0R2bjN6RF9nVUt0Vm1VbWx0Vk5HdS1GTWc3STcyWDQtT0lPQllEVllsRjRKbVNvbEl0SUppbVplbFN2WFBBZmM5Y1Z6ZGZBZWRMM3VVRjNEcXJDSWNMaWtNY3lXS3E4M0hhT2FqYWljR08tRmhIRmtRR29Bck80RHlHeW1tQkJWdE1wV0JPSXVnUDlpSzdCTXdKdU9aWXYzREFPS3lpNUw2aHFJLXE3UUhqUnhMVmlYU0NfNlN0TFR5bV9NbVVBa3U?oc=5",
+      "published": "Sat, 07 Nov 2026 04:31:18 GMT",
+      "suggestedTitleEn": "Behind the story: Fatherhood brain changes, AI companions, and a dispute over evolution's grip on romance: The week in psychology podcasts",
       "suggestedTitleAr": ""
     },
     {
