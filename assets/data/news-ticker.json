@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-07T04:34:25.600482+00:00",
+  "updatedAt": "2026-11-07T05:24:45.807699+00:00",
   "items": [
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إنفانتينو يتجه للبقاء في رئاسة «فيفا»... والصراع ينتقل إلى صلاحياته",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:38:30+00:00",
+      "lang": "en",
+      "category": "saudi",
+      "title": "How Did Saudi Arabia Ensure Palestinians Had a Role in Regional Talks?",
+      "source": "Al Arabiya English",
+      "publishedAt": "2026-11-07T04:05:58+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "من حاج موسى إلى فينالدوم... لماذا غير الاتحاد خطته؟",
+      "category": "gulf",
+      "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:07:12+00:00",
+      "publishedAt": "2026-11-06T23:28:55+00:00",
       "breaking": false
     },
     {
@@ -31,6 +31,14 @@
       "title": "«فيفا» يواجه تحركاً قانونياً محتملاً من لاعبات المنتخبات بسبب المساواة في المكافآت قبل مونديال 2027",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T22:36:06+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T22:04:06+00:00",
       "breaking": false
     },
     {
@@ -68,25 +76,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "جيريمي دوكو يدعم تشكيلة بلجيكا في دوري الأمم",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T21:05:59+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "المعارضة اليمينية: على إسبانيا الانسحاب إذا لم تستضف نهائي «مونديال 2030»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T21:03:55+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إميليو غارسيا المسؤول القانوني لـ«فيفا» يرحل عن منصبه... مع تزايد الضغط على إنفانتينو",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T21:02:48+00:00",
       "breaking": false
     },
     {
@@ -124,9 +116,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "مبابي يعاني «نزلة برد»... ويكشف تفاصيل صفقة ليفربول «الفاشلة»",
+      "title": "الدوريات الأوروبية الكبرى تشهر ورقة الإصلاح في وجه «الفيفا»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:48:14+00:00",
+      "publishedAt": "2026-11-06T20:39:26+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "جيمي كاراغر يدعو إلى بيع مانشستر سيتي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T20:26:14+00:00",
       "breaking": false
     },
     {
@@ -164,6 +164,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "المصري أحمد حجازي لاعب الاتحاد ونيوم السابق يعلن اعتزاله",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T18:23:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "«الدوري الفرنسي»: سان جيرمان لتوسيع الفارق... ولانس لتجاوز «خسارته المُذلة»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T18:23:00+00:00",
@@ -175,22 +183,6 @@
       "title": "نزاهة السعودية والأمم المتحدة توقعان اتفاقاً لتأهيل الكفاءات الوطنية في مكافحة الفساد",
       "source": "العربية",
       "publishedAt": "2026-11-06T18:02:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مبابي ينهي شراكته مع «نايكي» وينضم إلى «أون» في دخولها عالم كرة القدم",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:50:33+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إصابتان والشرطة تطارد الجاني.. إطلاق نار داخل صالة رياضية في فرنسا",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T17:27:00+00:00",
       "breaking": false
     },
     {
@@ -220,6 +212,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "يايا توريه أول مدرب أفريقي في دوري أبطال أوروبا",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T17:08:44+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "توخيل ينتقد بالمر مجدداً... ويشيد بانضمام «جود» و«جوب» بلينغهام",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T17:07:00+00:00",
@@ -244,9 +244,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "رئيس الجزائر يهنئ منتخب كرة القدم للسيدات ببلوغه مونديال البرازيل",
+      "title": "تيباس: القول بتوجيه الحكام ضد ريال مدريد بمنزلة «العيش في مجرة أخرى»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:57:37+00:00",
+      "publishedAt": "2026-11-06T15:57:42+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من مبابي إلى لامين يامال... حملة غير مسبوقة للفوز بـ«الكرة الذهبية»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:57:12+00:00",
       "breaking": false
     },
     {
@@ -259,10 +267,10 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تتسلح بالأرض والجمهور لاستعادة لقب كأس الخليج",
+      "category": "sports",
+      "title": "«هزيمة كارثية» لمنتخب مصر للسيدات أمام زامبيا تفجر انتقادات",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:32:18+00:00",
+      "publishedAt": "2026-11-06T15:32:26+00:00",
       "breaking": false
     },
     {
@@ -271,6 +279,14 @@
       "title": "إيقاف رئيس ليل 4 أشهر بسبب انتقاداته للتحكيم",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T15:24:44+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دوري الأمم الأوروبية: دي لا فوينتي يشيد بيامال «يُسخّر عبقريته لخدمة اللعب الجماعي»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T15:13:02+00:00",
       "breaking": false
     },
     {
@@ -332,6 +348,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "«مونديال 2026»: إمام عاشور «رجل المباراة» يشعر بالحزن!",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:42:24+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "وفاة دي ميغل: نقابة اللاعبين الإسبان تطالب بتأجيل جميع مباريات نهاية الأسبوع",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T14:34:25+00:00",
@@ -355,6 +379,14 @@
     },
     {
       "lang": "ar",
+      "category": "sports",
+      "title": "يامال: كل متابعي كرة القدم يعرفون مؤهلاتي للفوز بـ«الكرة الذهبية»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T14:08:26+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "saudi",
       "title": "السعودية ومصر تطالبان بمنح الدبلوماسية وقتاً لتجنب تداعيات التصعيد بالمنطقة",
       "source": "الشرق الأوسط",
@@ -372,17 +404,17 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "السعودية تشدد على أهمية حماية الممرات البحرية",
+      "title": "إدانات خليجية وعربية لاستهداف السعودية بمسيّرات قادمة من العراق",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:03:07+00:00",
+      "publishedAt": "2026-11-06T14:05:17+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "السعودية تؤكد وقوفها مع الإمارات في دفاعها عن أمنها واستقرارها",
+      "title": "السعودية تشدد على أهمية حماية الممرات البحرية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:56:58+00:00",
+      "publishedAt": "2026-11-06T14:03:07+00:00",
       "breaking": false
     },
     {
@@ -391,6 +423,14 @@
       "title": "رئيس الاتحاد الياباني تاشيما ينافس إنفانتينو على رئاسة «فيفا»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T13:50:12+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المصري مصطفى محمد من نانت لكونيا سبور",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T13:49:39+00:00",
       "breaking": false
     },
     {
@@ -415,14 +455,6 @@
       "title": "البرتغال تجهّز تكريماً لرونالدو... وخيسوس ترك قرار العودة له",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T12:51:50+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "هاري كين يفكر في الاتجاه لـ«كرة القدم الأميركية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T12:21:10+00:00",
       "breaking": false
     },
     {
@@ -452,6 +484,14 @@
     {
       "lang": "ar",
       "category": "saudi",
+      "title": "سقطرى تستقبل 7.5 ألف طن ديزل ضمن المنحة السعودية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T10:59:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
       "title": "السعودية تدين هجوماً مسلحاً في جنوب مصر أودى بحياة ضابطين من حرس الحدود",
       "source": "العربية",
       "publishedAt": "2026-11-06T10:58:00+00:00",
@@ -463,14 +503,6 @@
       "title": "كيف انقسم ولاء الهنود بين البرازيل ومنتخب بلادهم؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T10:51:54+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الاتحاد السعودي يدعم إنفانتينو في أزمته... ويشيد بجهود سلمان آل خليفة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T10:42:32+00:00",
       "breaking": false
     },
     {
@@ -495,14 +527,6 @@
       "title": "روسيا تعود جزئياً إلى كرة القدم الدولية عبر مونديال تحت 15 عاماً",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T09:53:46+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "ناصر الخليفي يعلن عدم ترشحه لرئاسة «الفيفا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T09:53:44+00:00",
       "breaking": false
     },
     {
@@ -535,14 +559,6 @@
       "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
       "source": "The Guardian",
       "publishedAt": "2026-11-06T05:43:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
-      "title": "Markets fret over growth and inflation, just as tech rout gains speed",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T05:09:00+00:00",
       "breaking": false
     }
   ],
