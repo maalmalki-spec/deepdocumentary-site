@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-07T16:59:43.952546+00:00",
+  "updatedAt": "2026-11-07T17:32:51.421180+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بيكر: تصدر زفيريف التصنيف العالمي أفضل ما حدث للتنس الألماني",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:21:25+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:21:11+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:21:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "نوير أكبر لاعبي بايرن سناً في تاريخ «البوندسليغا»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:20:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "القائمة الرسمية لمنتخب المغرب في كأس العالم للناشئين \"قطر 2026\"",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T17:16:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:02:08+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:02:06+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:01:46+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -99,6 +163,14 @@
     },
     {
       "lang": "ar",
+      "category": "world",
+      "title": "القوى الفلسطينية نحمل الاحتلال مسؤولية تفاقم معاناة غزة جراء المنخفض الجوي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T15:39:22+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "saudi",
       "title": "صحي / الكفاءات السعودية تحصد جائزتين ذهبيتين في قيادة تجربة العميل ضمن جوائز دولية بلندن",
       "source": "وكالة الأنباء السعودية",
@@ -124,41 +196,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:59:49+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:56:47+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "فليك يكشف عن العائدين لبرشلونة في مواجهة أتلتيكو مدريد ويحسم مصير كوندي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:54:47+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:49:17+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:49:03+00:00",
       "breaking": false
     },
     {
@@ -204,22 +244,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "مصادر: موتا الأقرب لتدريب الأهلي… وكونتي ضمن المرشحين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:01:57+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بالفيديو.. هدف عكسي لا يُصدق في الدوري التركي",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T13:58:30+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "غوران مدرب عجمان: حارس الاتفاق حرمنا التسجيل",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:52:09+00:00",
@@ -231,6 +255,14 @@
       "title": "السعودية وتركيا لتعزيز التعاون الأمني",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:46:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "خليفة رونالدو يتلقى نبأ استدعائه لمنتخب البرتغال على الهواء مباشرة (فيديو)",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:37:00+00:00",
       "breaking": false
     },
     {
@@ -268,41 +300,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "\"سأحاول إيذاءهم\".. سيميوني يشيد بنجم برشلونة ويؤكد جاهزية ألفاريز للقمة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T13:00:27+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "القبض على شخصين بتهمة قتل لاعب كرة قدم في إنجلترا",
       "source": "العربية",
       "publishedAt": "2026-11-07T12:57:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "جمعها على مدار مسيرته.. ميسي يوقّع قمصانه التاريخية لصانع محتوى برازيلي (فيديو)",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T12:30:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Visa research — the future of remittances in Saudi Arabia will be built on trust",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T11:30:51+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi air defenses intercept ballistic missile, drone in Riyadh region",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T11:09:26+00:00",
       "breaking": false
     },
     {
@@ -340,9 +340,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "خفض بعض العقوبات وثبّت أخرى.. \"فيفا\" يقبل استئناف الأرجنتين بشأن عقوبات نهائي المونديال",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T09:44:26+00:00",
+      "title": "رياضي / وزارة الرياضة تختتم الأنشطة المصاحبة لحملة \"أنت المشروع الرياضي\"",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-07T09:34:16+00:00",
       "breaking": false
     },
     {
@@ -363,10 +363,10 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "\"كامافينغا المصري\" يشعل المنصات بهدف صاروخي واحتفال على طريقة غوميز (فيديو)",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T08:30:00+00:00",
+      "category": "saudi",
+      "title": "أمن المملكة العربية السعودية واجب عربي وإسلامي",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T07:55:00+00:00",
       "breaking": false
     },
     {
@@ -431,14 +431,6 @@
       "title": "وكالة دولية: أزمة الطاقة تسرّع التحول لأنواعها المتجددة في الاقتصادات الناشئة",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-06T19:55:08+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T19:01:00+00:00",
       "breaking": false
     }
   ],
