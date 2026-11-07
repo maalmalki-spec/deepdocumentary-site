@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-07T15:47:17.706372+00:00",
+  "updatedAt": "2026-11-07T16:22:40.291802+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Syria denies plans to send troops to Yemen",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T16:16:20+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Syrian diplomatic source denies reports of plans to deploy troops to Yemen",
+      "source": "Al Arabiya English",
+      "publishedAt": "2026-11-07T15:53:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "سان جيرمان المنقذ الوحيد.. تصنيف \"يويفا\" يضع الكرة الفرنسية في مأزق والبرتغال تترقب",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T15:51:20+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "صحي / الكفاءات السعودية تحصد جائزتين ذهبيتين في قيادة تجربة العميل ضمن جوائز دولية بلندن",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-07T15:22:30+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
@@ -11,10 +43,34 @@
     },
     {
       "lang": "ar",
-      "category": "world",
-      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-07T14:56:37+00:00",
+      "category": "sports",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T15:20:48+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T15:06:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:59:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:56:47+00:00",
       "breaking": false
     },
     {
@@ -23,6 +79,22 @@
       "title": "فليك يكشف عن العائدين لبرشلونة بمواجهة أتلتيكو مدريد ويحسم مصير كوندي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:54:47+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:49:17+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:49:03+00:00",
       "breaking": false
     },
     {
@@ -47,30 +119,6 @@
       "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T14:27:23+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:18+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:26:55+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:25:54+00:00",
       "breaking": false
     },
     {
@@ -116,25 +164,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:52:11+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "غوران مدرب عجمان: حارس الاتفاق حرمنا التسجيل",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:52:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:52:02+00:00",
       "breaking": false
     },
     {
@@ -143,14 +175,6 @@
       "title": "السعودية وتركيا لتعزيز التعاون الأمني",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:46:49+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "خليفة رونالدو يتلقى نبأ استدعائه لمنتخب البرتغال على الهواء مباشرة (فيديو)",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T13:37:00+00:00",
       "breaking": false
     },
     {
@@ -172,9 +196,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "بعد إصابة رودري.. فليك يعترف: لا أعرف بمن سأبدأ في الوسط أمام أتلتيكو",
+      "title": "بوسيتش: فخور باللاعبين ... وجماهير الأهلي ستصنع الفارق أمام النصر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:04:45+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "\"سأحاول إيذاءهم\".. سيميوني يشيد بنجم برشلونة ويؤكد جاهزية ألفاريز للقمة",
       "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T13:11:24+00:00",
+      "publishedAt": "2026-11-07T13:00:27+00:00",
       "breaking": false
     },
     {
@@ -218,19 +250,27 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من إصابة سبتمبر إلى استبعاد نوفمبر.. لماذا يغيب بالمر عن منتخب إنجلترا؟",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T11:13:14+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Saudi air defenses intercept ballistic missile, drone in Riyadh region",
       "source": "Arab News",
       "publishedAt": "2026-11-07T11:09:26+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "الاتحاد المصري يطالب بدعم المنتخب دون التطرق لمصير حسام حسن",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T11:05:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "كانساس سيتي يضم البرازيلي أندريه لويز",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T10:51:11+00:00",
       "breaking": false
     },
     {
@@ -275,6 +315,14 @@
     },
     {
       "lang": "ar",
+      "category": "sports",
+      "title": "رياضي / وزارة الرياضة تختتم الأنشطة المصاحبة لحملة \"أنت المشروع الرياضي\"",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-07T09:34:16+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "gulf",
       "title": "نشرة الخليج: قطار الصحراء وتأشيرة دبي وفحوصات الزواج بالبحرين وتحذير عُماني",
       "source": "العربية",
@@ -282,11 +330,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من وكيل لاعبين إلى الرجل الأول.. والد نيمار رئيسا تنفيذيا لسانتوس",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T09:02:19+00:00",
+      "lang": "en",
+      "category": "world",
+      "title": "‘Finally there’s hope’: UK weighs up opportunities and risks after Trump’s midterms disaster",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T09:00:00+00:00",
       "breaking": false
     },
     {
@@ -314,35 +362,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "رياضي / الرحموني يختتم مشاركته في \"داكار 2026\".. وغزواني يستعد لظهوره الأول بالملاكمة",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-07T05:42:24+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بعد اعتزاله دوليا.. الاتحاد البرتغالي يتعهد بتكريم رونالدو",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T05:16:36+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
       "title": "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T03:08:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "وفاة دي ميغل: نقابة اللاعبين الإسبان تطالب بتأجيل جميع مباريات نهاية الأسبوع",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T01:59:56+00:00",
       "breaking": false
     },
     {
@@ -370,6 +394,14 @@
       "breaking": false
     },
     {
+      "lang": "ar",
+      "category": "sports",
+      "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T21:15:30+00:00",
+      "breaking": false
+    },
+    {
       "lang": "en",
       "category": "economy",
       "title": "AI stocks bounce back after trillions wiped from market values",
@@ -394,19 +426,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "world",
-      "title": "ترمب يعين مخطِط طرد المهاجرين كبير موظفي البيت الأبيض",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T19:04:27+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
-      "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-06T16:02:00+00:00",
+      "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T19:01:00+00:00",
       "breaking": false
     }
   ],
