@@ -1,20 +1,92 @@
 {
-  "updatedAt": "2026-11-07T16:22:40.291802+00:00",
+  "updatedAt": "2026-11-07T16:59:43.952546+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:45:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:44:07+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
+      "source": "Reuters",
+      "publishedAt": "2026-11-07T16:35:43+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:34:58+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "الزابيري.. نجم مغربي صاعد يتألق بالدوري الإسباني ويطارد مبابي ولامين جمال",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T16:34:36+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:33:46+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مونفيس يتولى تدريب فرنسا في كأس ديفيز",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:33:39+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-07T16:32:09+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:30:45+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "دمشق تنفي إرسال قوات إلى اليمن.. ما تفاصيل الاتفاق العسكري مع الرياض؟",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T16:21:50+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
       "title": "Syria denies plans to send troops to Yemen",
       "source": "Arab News",
       "publishedAt": "2026-11-07T16:16:20+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Syrian diplomatic source denies reports of plans to deploy troops to Yemen",
-      "source": "Al Arabiya English",
-      "publishedAt": "2026-11-07T15:53:00+00:00",
       "breaking": false
     },
     {
@@ -31,14 +103,6 @@
       "title": "صحي / الكفاءات السعودية تحصد جائزتين ذهبيتين في قيادة تجربة العميل ضمن جوائز دولية بلندن",
       "source": "وكالة الأنباء السعودية",
       "publishedAt": "2026-11-07T15:22:30+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi FM discusses regional developments with Qatari and Egyptian counterparts",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T15:21:43+00:00",
       "breaking": false
     },
     {
@@ -76,7 +140,7 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "فليك يكشف عن العائدين لبرشلونة بمواجهة أتلتيكو مدريد ويحسم مصير كوندي",
+      "title": "فليك يكشف عن العائدين لبرشلونة في مواجهة أتلتيكو مدريد ويحسم مصير كوندي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:54:47+00:00",
       "breaking": false
@@ -99,26 +163,26 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:40:45+00:00",
+      "category": "world",
+      "title": "60 عاما من الإنكار.. هل تضطر إسرائيل للتخلي عن سياسة \"الغموض النووي\"؟",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T14:31:17+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "title": "الأهلي يعزز جهاز بوسيتش بأربعة أسماء أوروبية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:36+00:00",
+      "publishedAt": "2026-11-07T14:27:18+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "title": "«همام» ينهي برنامجه التأهيلي وينضم إلى معسكر «الأخضر»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:23+00:00",
+      "publishedAt": "2026-11-07T14:21:59+00:00",
       "breaking": false
     },
     {
@@ -156,14 +220,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "برشلونة يعلن جاهزية غارسيا لقمة أتلتيكو",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T13:56:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "غوران مدرب عجمان: حارس الاتفاق حرمنا التسجيل",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:52:09+00:00",
@@ -183,6 +239,14 @@
       "title": "\"ريبورتاج\" السعودية تضخ 293 مليون دولار بمشروعين عقاريين في الرياض",
       "source": "العربية",
       "publishedAt": "2026-11-07T13:36:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«سيارة إسعاف» تلغي إقامة مباراة نيوم والوحدة «تحت 17 عاماً»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T13:30:13+00:00",
       "breaking": false
     },
     {
@@ -226,14 +290,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "دون ذكر اسمه.. بيان رسمي من الاتحاد المصري عن أنباء رحيل حسام حسن",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T11:59:28+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Visa research — the future of remittances in Saudi Arabia will be built on trust",
@@ -242,35 +298,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "نجم برشلونة يرفض مقارنته بمارادونا.. ويكشف سر التناغم مع جمال",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T11:21:53+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Saudi air defenses intercept ballistic missile, drone in Riyadh region",
       "source": "Arab News",
       "publishedAt": "2026-11-07T11:09:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الاتحاد المصري يطالب بدعم المنتخب دون التطرق لمصير حسام حسن",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T11:05:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "كانساس سيتي يضم البرازيلي أندريه لويز",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T10:51:11+00:00",
       "breaking": false
     },
     {
@@ -315,14 +347,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "رياضي / وزارة الرياضة تختتم الأنشطة المصاحبة لحملة \"أنت المشروع الرياضي\"",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-07T09:34:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "gulf",
       "title": "نشرة الخليج: قطار الصحراء وتأشيرة دبي وفحوصات الزواج بالبحرين وتحذير عُماني",
       "source": "العربية",
@@ -343,14 +367,6 @@
       "title": "\"كامافينغا المصري\" يشعل المنصات بهدف صاروخي واحتفال على طريقة غوميز (فيديو)",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T08:30:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "أمن المملكة العربية السعودية واجب عربي وإسلامي",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T07:55:00+00:00",
       "breaking": false
     },
     {
@@ -391,14 +407,6 @@
       "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
       "source": "Reuters",
       "publishedAt": "2026-11-06T22:04:06+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T21:15:30+00:00",
       "breaking": false
     },
     {
