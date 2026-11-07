@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-07T17:32:51.421180+00:00",
+  "updatedAt": "2026-11-07T18:07:54.689399+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:04:11+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "أزمة نهائي مونديال 2026 تتصاعد.. الأرجنتين تقاضي الفيفا أمام \"كاس\" لإنقاذ باريديس ونجومها",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T18:00:45+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:44:33+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البوندسليغا»: بايرن يعزز صدارته بثنائية في ماينز... ودورتموند يطيح بإلفيرسبيرغ ويلاحقه",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:37:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "بالفيديو.. البرازيلي ميشيل يردد النشيد الوطني السعودي ويخطف الأنظار مع العلا",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T17:35:46+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:35:03+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -28,6 +76,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T17:21:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "نوير أكبر لاعبي بايرن سناً في تاريخ «البوندسليغا»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T17:20:00+00:00",
@@ -36,9 +92,25 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "الأرجنتين تستأنف ضد عقوبات \"فيفا\"",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T17:17:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "القائمة الرسمية لمنتخب المغرب في كأس العالم للناشئين \"قطر 2026\"",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T17:16:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "source": "BBC",
+      "publishedAt": "2026-11-07T17:09:24+00:00",
       "breaking": false
     },
     {
@@ -107,30 +179,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "«البريميرليغ»: ليدز يونايتد يحبط صحوة توتنهام",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T16:33:46+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مونفيس يتولى تدريب فرنسا في كأس ديفيز",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T16:33:39+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-07T16:32:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "saudi",
       "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
       "source": "الشرق الأوسط",
@@ -139,18 +187,18 @@
     },
     {
       "lang": "ar",
+      "category": "sports",
+      "title": "التعاون... فائض مالي بـ35 مليون ريال و11 صفقة أجنبية والمحصلة «قبل الأخير»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:29:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "saudi",
       "title": "دمشق تنفي إرسال قوات إلى اليمن.. ما تفاصيل الاتفاق العسكري مع الرياض؟",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T16:21:50+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Syria denies plans to send troops to Yemen",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T16:16:20+00:00",
       "breaking": false
     },
     {
@@ -180,17 +228,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "title": "مصادر لـ«الشرق الأوسط»: «المؤجلة» ستقام في 20 و21 نوفمبر",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T15:20:48+00:00",
+      "publishedAt": "2026-11-07T15:11:15+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T15:06:01+00:00",
+      "category": "world",
+      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-07T14:56:37+00:00",
       "breaking": false
     },
     {
@@ -199,14 +247,6 @@
       "title": "فليك يكشف عن العائدين لبرشلونة في مواجهة أتلتيكو مدريد ويحسم مصير كوندي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:54:47+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "60 عاما من الإنكار.. هل تضطر إسرائيل للتخلي عن سياسة \"الغموض النووي\"؟",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T14:31:17+00:00",
       "breaking": false
     },
     {
@@ -244,6 +284,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "بالفيديو.. هدف عكسي لا يُصدق في الدوري التركي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:58:30+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "غوران مدرب عجمان: حارس الاتفاق حرمنا التسجيل",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:52:09+00:00",
@@ -276,22 +324,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«سيارة إسعاف» تلغي إقامة مباراة نيوم والوحدة «تحت 17 عاماً»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:30:13+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "علوم وتقنيات / ديوان المظالم يختتم مشاركته في القمة العالمية لتنظيم الذكاء الاصطناعي بلندن",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-07T13:15:05+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "بوسيتش: فخور باللاعبين ... وجماهير الأهلي ستصنع الفارق أمام النصر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:04:45+00:00",
@@ -303,6 +335,14 @@
       "title": "القبض على شخصين بتهمة قتل لاعب كرة قدم في إنجلترا",
       "source": "العربية",
       "publishedAt": "2026-11-07T12:57:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية توسع نطاق التأشيرة السياحية لتشمل دولاً جديدة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T11:50:06+00:00",
       "breaking": false
     },
     {
@@ -431,6 +471,14 @@
       "title": "وكالة دولية: أزمة الطاقة تسرّع التحول لأنواعها المتجددة في الاقتصادات الناشئة",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-06T19:55:08+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "world",
+      "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T19:01:00+00:00",
       "breaking": false
     }
   ],
