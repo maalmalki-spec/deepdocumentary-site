@@ -1,12 +1,60 @@
 {
-  "updatedAt": "2026-11-07T12:11:10.391273+00:00",
+  "updatedAt": "2026-11-07T12:59:22.308609+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T12:48:16+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T12:47:59+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "جمعها على مدار مسيرته.. ميسي يوقّع قمصانه التاريخية لصانع محتوى برازيلي (فيديو)",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T12:30:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«إن بي إيه»: دونتشيتش يسجل 53 نقطة... وكافالييرز يحبط عودة ليبرون",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T12:17:43+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi Arabia launches training program to prepare Hajj mission leaders for 2027 season",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T12:10:40+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
       "title": "دون ذكر اسمه.. بيان رسمي من الاتحاد المصري عن أنباء رحيل حسام حسن",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T11:59:28+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T11:56:17+00:00",
       "breaking": false
     },
     {
@@ -36,25 +84,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "ديوسبري - هول يرد في الملعب على استبعاده من تشكيلة «الأسود الثلاثة»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T11:18:29+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "من إصابة سبتمبر إلى استبعاد نوفمبر.. لماذا يغيب بالمر عن منتخب إنجلترا؟",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T11:13:14+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T11:10:33+00:00",
       "breaking": false
     },
     {
@@ -115,14 +147,6 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "تحالف دعم الشرعية: اعتراض وتدمير طائرة مسيرة في منطقة مكة المكرمة",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T09:15:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "من وكيل لاعبين إلى الرجل الأول.. والد نيمار رئيسا تنفيذيا لسانتوس",
       "source": "الجزيرة نت",
@@ -171,6 +195,14 @@
     },
     {
       "lang": "ar",
+      "category": "saudi",
+      "title": "بيئي / ضمن موسم التشجير الوطني.. نثر بذور نباتات رعوية محلية في محافظة تثليث بعسير",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-07T06:29:35+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "sports",
       "title": "بعد اعتزاله دوليا.. الاتحاد البرتغالي يتعهد بتكريم رونالدو",
       "source": "الجزيرة نت",
@@ -203,6 +235,14 @@
     },
     {
       "lang": "ar",
+      "category": "gulf",
+      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T23:58:02+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "sports",
       "title": "إنفانتينو يتجه للبقاء في رئاسة «فيفا»... والصراع ينتقل إلى صلاحياته",
       "source": "الشرق الأوسط",
@@ -231,14 +271,6 @@
       "title": "بلجيكا لن تدعم إنفانتينو في انتخابات رئاسة «فيفا»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T23:15:56+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من حاج موسى إلى فينالدوم... لماذا غير الاتحاد خطته؟",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:07:12+00:00",
       "breaking": false
     },
     {
@@ -299,22 +331,6 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية وقطر ومصر تؤكد دعم المساعي الدبلوماسية لتعزيز أمن المنطقة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:52:52+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مصر تتوج ببطولة شمال أفريقيا... وتصعد رفقة المغرب لكأس الأمم للشباب",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:51:30+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "«السعودي الشاب» إلى نهائيات كأس آسيا 2027 بالعلامة الكاملة",
       "source": "الشرق الأوسط",
@@ -371,34 +387,10 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "نزاهة السعودية والأمم المتحدة توقعان اتفاقاً لتأهيل الكفاءات الوطنية في مكافحة الفساد",
-      "source": "العربية",
-      "publishedAt": "2026-11-06T18:02:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "مبابي ينهي شراكته مع «نايكي» وينضم إلى «أون» في دخولها عالم كرة القدم",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T17:50:33+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مانشستر سيتي قد يلعب دوري الأبطال حتى لو هبط",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:09:13+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "محمد صلاح: نسعى لمواصلة إسعاد الجماهير المصرية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T16:48:04+00:00",
       "breaking": false
     },
     {
@@ -434,14 +426,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إيقاف رئيس ليل 4 أشهر بسبب انتقاداته للتحكيم",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:24:44+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "economy",
       "title": "AI stocks climb after trillions wiped from market values",
@@ -458,6 +442,14 @@
       "breaking": false
     },
     {
+      "lang": "en",
+      "category": "economy",
+      "title": "VIEW Strong October jobs report sends yields higher",
+      "source": "Reuters",
+      "publishedAt": "2026-11-06T14:45:22+00:00",
+      "breaking": false
+    },
+    {
       "lang": "ar",
       "category": "sports",
       "title": "يامال: كل متابعي كرة القدم يعرفون مؤهلاتي للفوز بـ«الكرة الذهبية»",
@@ -466,27 +458,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "المصري مصطفى محمد من نانت لكونيا سبور",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:49:39+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "economy",
       "title": "US job growth exceeds expectations in October despite economic uncertainty",
       "source": "The Guardian",
       "publishedAt": "2026-11-06T13:43:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "هاري كين يفكر في الاتجاه لـ«كرة القدم الأميركية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T12:21:10+00:00",
       "breaking": false
     }
   ],
