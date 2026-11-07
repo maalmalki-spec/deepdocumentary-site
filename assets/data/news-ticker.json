@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-07T14:28:25.442997+00:00",
+  "updatedAt": "2026-11-07T15:11:44.679833+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "فليك يكشف عن العائدين لبرشلونة بمواجهة أتلتيكو مدريد ويحسم مصير كوندي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T14:54:47+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:27:18+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:27:13+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:27:07+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:26:55+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -36,6 +76,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "برشلونة يعلن جاهزية غارسيا لقمة أتلتيكو",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T13:56:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "المنتخب السعودي يبدأ معسكر الدوحة استعداداً لمواجهتي كوريا وأوزبكستان",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T13:52:11+00:00",
@@ -59,18 +107,10 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "category": "saudi",
+      "title": "السعودية وتركيا لتعزيز التعاون الأمني",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:41:18+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:40:54+00:00",
+      "publishedAt": "2026-11-07T13:46:49+00:00",
       "breaking": false
     },
     {
@@ -84,9 +124,9 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "الإفراج عن قارب صيد مصري عقب احتجازه في المياه الإقليمية السعودية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:28:00+00:00",
+      "title": "علوم وتقنيات / ديوان المظالم يختتم مشاركته في القمة العالمية لتنظيم الذكاء الاصطناعي بلندن",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-07T13:15:05+00:00",
       "breaking": false
     },
     {
@@ -100,33 +140,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "\"سأحاول إيذاءهم\".. سيميوني يشيد بنجم برشلونة ويؤكد جاهزية الفاريز للقمة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T13:00:27+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من سيلعب بجوار بيدري... صداع في رأس فليك قبل مواجهة أتلتيكو مدريد",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T12:59:59+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "القبض على شخصين بتهمة قتل لاعب كرة قدم في إنجلترا",
       "source": "العربية",
       "publishedAt": "2026-11-07T12:57:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T12:48:06+00:00",
       "breaking": false
     },
     {
@@ -266,19 +282,19 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "economy",
-      "title": "برنت يهبط 16.4% في أكبر خسارة أسبوعية منذ جائحة كورونا",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T07:55:00+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
       "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T06:54:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "رياضي / الرحموني يختتم مشاركته في \"داكار 2026\".. وغزواني يستعد لظهوره الأول بالملاكمة",
+      "source": "وكالة الأنباء السعودية",
+      "publishedAt": "2026-11-07T05:42:24+00:00",
       "breaking": false
     },
     {
@@ -314,14 +330,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:58:02+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
       "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
@@ -335,6 +343,14 @@
       "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T23:28:55+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بلجيكا لن تدعم إنفانتينو في انتخابات رئاسة «فيفا»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T23:15:56+00:00",
       "breaking": false
     },
     {
@@ -367,6 +383,14 @@
       "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T21:15:30+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "AI stocks bounce back after trillions wiped from market values",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T21:06:25+00:00",
       "breaking": false
     },
     {
@@ -407,22 +431,6 @@
       "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
       "source": "The Guardian",
       "publishedAt": "2026-11-06T16:02:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T15:04:46+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
-      "title": "VIEW Strong October jobs report sends yields higher",
-      "source": "Reuters",
-      "publishedAt": "2026-11-06T14:45:22+00:00",
       "breaking": false
     }
   ],
