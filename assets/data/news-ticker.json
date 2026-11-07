@@ -1,12 +1,44 @@
 {
-  "updatedAt": "2026-11-07T10:59:00.525090+00:00",
+  "updatedAt": "2026-11-07T11:32:03.335585+00:00",
   "items": [
     {
       "lang": "ar",
       "category": "sports",
-      "title": "بعمر 31 عاما.. لاعب كرة سلة أمريكية يقرر الابتعاد عن اللعبة \"من أجل صحته\"",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T10:36:51+00:00",
+      "title": "لامبارد ينتقد التحكيم بمواجهة إيفرتون وكوفنتري",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T11:10:33+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi air defenses intercept ballistic missile, drone in Riyadh region",
+      "source": "Arab News",
+      "publishedAt": "2026-11-07T11:09:26+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مفاجأة.. مسؤولون في \"فيفا\" يدعمون ترشح فينغر ضد إنفانتينو",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T10:51:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "مبيعات شركات الأسمنت السعودية تسجل 44.35 مليون طن بأول 10 أشهر من 2026",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T10:28:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مدرب سبورتنغ: انسوا الخلافات واحتفوا برونالدو",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T10:11:00+00:00",
       "breaking": false
     },
     {
@@ -15,6 +47,14 @@
       "title": "Beyond trophies: How Saudi Arabia can measure the value of its football investments",
       "source": "Arab News",
       "publishedAt": "2026-11-07T10:10:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "قرية القضاة المصرية تحقق شهرة واسعة بفضل كرة القدم",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T10:08:01+00:00",
       "breaking": false
     },
     {
@@ -67,11 +107,11 @@
     },
     {
       "lang": "ar",
-      "category": "world",
-      "title": "عاجل | مراسل الجزيرة: غرق مئات خيام النازحين ودمار العشرات في قطاع غزة نتيجة الأمطار الغزيرة والرياح",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T07:55:56+00:00",
-      "breaking": true
+      "category": "saudi",
+      "title": "افتراءات... ورد حاسم",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T08:08:00+00:00",
+      "breaking": false
     },
     {
       "lang": "ar",
@@ -122,6 +162,14 @@
       "breaking": false
     },
     {
+      "lang": "en",
+      "category": "world",
+      "title": "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T03:08:16+00:00",
+      "breaking": false
+    },
+    {
       "lang": "ar",
       "category": "sports",
       "title": "وفاة دي ميغل: نقابة اللاعبين الإسبان تطالب بتأجيل جميع مباريات نهاية الأسبوع",
@@ -138,6 +186,14 @@
       "breaking": false
     },
     {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتجه للبقاء في رئاسة «فيفا»... والصراع ينتقل إلى صلاحياته",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T23:38:30+00:00",
+      "breaking": false
+    },
+    {
       "lang": "en",
       "category": "world",
       "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
@@ -151,6 +207,14 @@
       "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T23:28:55+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بلجيكا لن تدعم إنفانتينو في انتخابات رئاسة «فيفا»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T23:15:56+00:00",
       "breaking": false
     },
     {
@@ -186,14 +250,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "عام / الهيئة العامة للنقل تعتمد اللائحة التنفيذية لنقل الركاب بالمركبات ذاتية القيادة في المملكة",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-06T21:56:54+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Saudi Arabia builds skills base for green hydrogen ambitions",
@@ -204,9 +260,25 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "إيطاليا ترشح 13 مدينة و14 ملعباً لاستضافة «يورو 2032»",
+      "title": "يامال يزاحم هاري كين على الكرة الذهبية... هل قدّم ما يكفي للفوز بالجائزة؟",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T21:17:47+00:00",
+      "publishedAt": "2026-11-06T21:16:57+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "رسمياً... قائمة الرزيزاء مرشحة وحيدة لرئاسة «اتحاد كرة القدم السعودي»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T21:15:30+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "AI stocks bounce back after trillions wiped from market values",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T21:06:25+00:00",
       "breaking": false
     },
     {
@@ -244,9 +316,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "مبابي يعاني «نزلة برد»... ويكشف تفاصيل صفقة ليفربول «الفاشلة»",
+      "title": "«السعودي الشاب» إلى نهائيات كأس آسيا 2027 بالعلامة الكاملة",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:48:14+00:00",
+      "publishedAt": "2026-11-06T20:50:45+00:00",
       "breaking": false
     },
     {
@@ -255,14 +327,6 @@
       "title": "الدوريات الأوروبية الكبرى تشهر ورقة الإصلاح في وجه «الفيفا»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T20:39:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "جيمي كاراغر يدعو إلى بيع مانشستر سيتي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T20:26:14+00:00",
       "breaking": false
     },
     {
@@ -300,9 +364,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "المصري أحمد حجازي لاعب الاتحاد ونيوم السابق يعلن اعتزاله",
+      "title": "خلاف يضع انتخاب مالاغو لرئاسة اتحاد كرة القدم الإيطالي تحت التدقيق القانوني",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T18:23:54+00:00",
+      "publishedAt": "2026-11-06T18:50:39+00:00",
       "breaking": false
     },
     {
@@ -316,9 +380,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "إصابتان والشرطة تطارد الجاني.. إطلاق نار داخل صالة رياضية في فرنسا",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-06T17:27:00+00:00",
+      "title": "مبابي ينهي شراكته مع «نايكي» وينضم إلى «أون» في دخولها عالم كرة القدم",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-06T17:50:33+00:00",
       "breaking": false
     },
     {
@@ -332,25 +396,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "يايا توريه أول مدرب أفريقي في دوري أبطال أوروبا",
+      "title": "محمد صلاح: نسعى لمواصلة إسعاد الجماهير المصرية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:08:44+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "توخيل ينتقد بالمر مجدداً... ويشيد بانضمام «جود» و«جوب» بلينغهام",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T17:07:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مروان عطية «سعيد» بتمديد عقده مع الأهلي المصري",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T16:58:50+00:00",
+      "publishedAt": "2026-11-06T16:48:04+00:00",
       "breaking": false
     },
     {
@@ -372,25 +420,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "تيباس: القول بتوجيه الحكام ضد ريال مدريد بمنزلة «العيش في مجرة أخرى»",
+      "title": "رئيس الجزائر يهنئ منتخب كرة القدم للسيدات ببلوغه مونديال البرازيل",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:57:42+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "من مبابي إلى لامين يامال... حملة غير مسبوقة للفوز بـ«الكرة الذهبية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T15:57:12+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية وقطر تناقشان ضمان حرية الملاحة",
-      "source": "العربية",
-      "publishedAt": "2026-11-06T15:53:51+00:00",
+      "publishedAt": "2026-11-06T15:57:37+00:00",
       "breaking": false
     },
     {
@@ -410,43 +442,11 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "economy",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T15:04:46+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تدعو إلى تحرك عاجل لوقف مأساة غزة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:54:52+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«مونديال 2026»: إمام عاشور «رجل المباراة» يشعر بالحزن!",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T14:42:24+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "sports",
       "title": "يامال: كل متابعي كرة القدم يعرفون مؤهلاتي للفوز بـ«الكرة الذهبية»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T14:08:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "رئيس الاتحاد الياباني تاشيما ينافس إنفانتينو على رئاسة «فيفا»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T13:50:12+00:00",
       "breaking": false
     },
     {
@@ -471,14 +471,6 @@
       "title": "هاري كين يفكر في الاتجاه لـ«كرة القدم الأميركية»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-06T12:21:10+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«البريميرليغ» يكسر منطق «القيمة»… هل كرة القدم تأكل نفسها؟",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T11:27:16+00:00",
       "breaking": false
     }
   ],
