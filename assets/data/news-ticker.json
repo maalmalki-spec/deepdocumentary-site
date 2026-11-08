@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-11-08T02:50:30.140842+00:00",
+  "updatedAt": "2026-11-08T03:36:12.540583+00:00",
   "items": [
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
+      "source": "Arab News",
+      "publishedAt": "2026-11-08T03:26:36+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
       "title": "دوري السيدات السعودي: هدف بهلولي يمنح النصر الصدارة",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T01:52:30+00:00",
+      "publishedAt": "2026-11-08T01:52:45+00:00",
       "breaking": false
     },
     {
@@ -15,6 +23,14 @@
       "title": "السعودية تعلن «زوال الخطر» عن 4 مدن بعد إطلاق الإنذار المبكر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T01:49:50+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "world",
+      "title": "Eurovision brings pop and politics to Asia",
+      "source": "France 24",
+      "publishedAt": "2026-11-08T01:45:57+00:00",
       "breaking": false
     },
     {
@@ -68,33 +84,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«البوندسليغا»: لايبزيغ يكتسح أوغسبورغ... وفرانكفورت يخطف التعادل من بادربورن",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:41:20+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:39:34+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:30:10+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:21:17+00:00",
+      "publishedAt": "2026-11-07T22:30:14+00:00",
       "breaking": false
     },
     {
@@ -159,14 +151,6 @@
       "title": "Saudi Arabia brings its literary and artistic heritage to Algiers",
       "source": "Arab News",
       "publishedAt": "2026-11-07T19:59:02+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "التحالف يعترض صاروخ «كروز» باتجاه الرياض... والأوضاع الإنسانية داخل اليمن تتفاقم (تغطية حية)",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:42:39+00:00",
       "breaking": false
     },
     {
@@ -260,9 +244,33 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "سان جيرمان المنقذ الوحيد.. تصنيف \"يويفا\" يضع الكرة الفرنسية في مأزق والبرتغال تترقب",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T15:51:20+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "أمطار غزة.. الفصائل الفلسطينية تطالب بتدخل عاجل لوقف تفاقم المأساة الإنسانية",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T15:39:22+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "مصادر لـ«الشرق الأوسط»: «المؤجلة» ستقام في 20 و21 نوفمبر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T15:11:15+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "الأهلي يعزز جهاز بوسيتش بأربعة أسماء أوروبية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T14:27:18+00:00",
       "breaking": false
     },
     {
@@ -279,6 +287,14 @@
       "title": "\"آسف رونّي\".. رافينيا يفضل نيمار على رونالدينيو",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T14:04:35+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بالفيديو.. هدف عكسي لا يُصدق في الدوري التركي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T13:58:30+00:00",
       "breaking": false
     },
     {
@@ -340,6 +356,14 @@
     {
       "lang": "ar",
       "category": "gulf",
+      "title": "توقع تراجع أعداد السياح في عُمان 20% على الأقل",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T09:28:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "gulf",
       "title": "نشرة الخليج: قطار الصحراء وتأشيرة دبي وفحوصات الزواج بالبحرين وتحذير عُماني",
       "source": "العربية",
       "publishedAt": "2026-11-07T09:23:00+00:00",
@@ -367,14 +391,6 @@
       "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T06:54:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-07T03:00:00+00:00",
       "breaking": false
     }
   ],
