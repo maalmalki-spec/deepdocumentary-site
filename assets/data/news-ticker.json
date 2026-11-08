@@ -1,12 +1,84 @@
 {
-  "updatedAt": "2026-11-08T11:04:47.523964+00:00",
+  "updatedAt": "2026-11-08T11:41:04.147454+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "وعد قطعه بعد مرض نادر.. نجم ألمانيا السابق يكرّس حياته لإنقاذ أطفال غانا",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T11:35:47+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "غاسبريني: روما ضمن المنافسين على لقب الدوري الإيطالي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:32:05+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بطل الرأس الأخضر فوزينيا يكافح للتأقلم مع وهج الشهرة في تشيلي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:31:52+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "«أديس» السعودية تفوز بعقود لتشغيل منصتين بحريتين بـ117 مليون دولار في الهند",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:14:38+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "gulf",
+      "title": "«قطار الخليج»... شبكة عابرة للحدود تربط الدول الـ6 وتعيد رسم خريطة النقل والتجارة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:10:01+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "كومباني ليس الأخير.. كرة القدم تلتهم صحة مدربيها في صمت",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T11:08:34+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "saudi",
       "title": "أرباح «بدجت السعودية» تتراجع 19.7 % إلى 53.2 مليون دولار في 9 أشهر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T10:47:16+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "علي ماهر.. من قناص الملاعب إلى سدة القيادة الفنية للفراعنة",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T10:27:07+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T10:12:33+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مورينيو: ريال مدريد يملك روحاً جيدة وغرفة ملابس هادئة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T10:06:09+00:00",
       "breaking": false
     },
     {
@@ -20,9 +92,9 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T09:25:21+00:00",
+      "title": "\"بدجت السعودية\" تقلص أسطول التأجير قصير الأجل 2000 سيارة.. والتعافي في 2027",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T09:43:00+00:00",
       "breaking": false
     },
     {
@@ -140,6 +212,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "ميسي أول لاعب يحصد لقب هداف الدوري الأميركي مرتين متتاليتين",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-08T07:59:40+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "ميسي يدخل تاريخ الدوري الأميركي",
       "source": "العربية",
       "publishedAt": "2026-11-08T07:53:00+00:00",
@@ -219,14 +299,6 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "تراجع أرباح \"بدجت السعودية\" الفصلية 10.6% إلى 13 مليون دولار",
-      "source": "العربية",
-      "publishedAt": "2026-11-08T05:20:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "world",
       "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
       "source": "سكاي نيوز عربية",
@@ -239,14 +311,6 @@
       "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
       "source": "Reuters",
       "publishedAt": "2026-11-08T03:11:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "دوري السيدات السعودي: هدف بهلولي يمنح النصر الصدارة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T01:52:45+00:00",
       "breaking": false
     },
     {
@@ -263,14 +327,6 @@
       "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
       "source": "Reuters",
       "publishedAt": "2026-11-07T22:48:58+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:42:31+00:00",
       "breaking": false
     },
     {
@@ -335,14 +391,6 @@
       "title": "3 ملايين دولار تعقّد نقل «خليجي 27» تلفزيونياً",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T18:05:04+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "أزمة نهائي مونديال 2026 تتصاعد.. الأرجنتين تقاضي الفيفا أمام \"كاس\" لإنقاذ نجومها",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T18:00:45+00:00",
       "breaking": false
     },
     {
