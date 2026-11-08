@@ -4,6 +4,7 @@ import argparse
 import json
 import os
 import pathlib
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -51,7 +52,22 @@ def main():
         with urllib.request.urlopen(req, timeout=20) as response:
             result = json.load(response)
     except urllib.error.HTTPError as exc:
-        print("Brevo draft creation failed (HTTP " + str(exc.code) + ").", file=sys.stderr)
+        # Show Brevo's structured error only; never log API keys or request headers.
+        raw = exc.read(4096).decode("utf-8", errors="replace")
+        try:
+            details = json.loads(raw)
+        except ValueError:
+            details = {}
+        safe = {}
+        for field in ("code", "message"):
+            value = details.get(field)
+            if isinstance(value, str):
+                safe[field] = value[:300] if "key" not in value.lower() else "[redacted]"
+        print(json.dumps({"error": "brevo_draft_creation_failed", "http_status": exc.code,
+                          "brevo_response": safe}, ensure_ascii=False), file=sys.stderr)
+        sys.exit(1)
+    except urllib.error.URLError:
+        print("Brevo connection failed; no draft created.", file=sys.stderr)
         sys.exit(1)
     campaign_id = result.get("id")
     if not campaign_id:
