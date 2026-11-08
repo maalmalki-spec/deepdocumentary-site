@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-07T18:54:34.212663+00:00",
+  "updatedAt": "2026-11-08T01:15:25.792124+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "ما السر الحقيقي وراء صمود الاقتصاد الأمريكي؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVmdhT2kwc3VsZFFNUXBoT3JjMWUzc2U0bENGZ2h1NTFqWHBNQW9MTUNVWjBFekIzakZsWkIyUS1YUmFmVEJlUDk5dWdYbWhQbFN5YXdkQzVtaUxsaFdYNDU0ZHl4LU1hWVh6SlBMbm1ZSi12eGczd2NlRjVTb2duZE55V3JWWkFmeVZyQ0x3TzZNamwxVGczQWRhbTBRcWFIMURORnNqelNralc3bTlneUNURklLRTN0NUU1SnRxM0xNRzhMeW0tRi01N0RRRWllZEkxVy1EN0U4XzczeXBuSHJaU01HeUMwdzNCOFk2cVB6M0dHa3RrbDdkUVA3TEZyZmtFOWxEWHhrS2FDWE44dG9DZ2U5SVJ1Si1DRGtQdUVfWHlSeXhsMU9VYkJZS1RuZEprTzZNdkljSk5Wd2VJN2s2dHJxYXhL?oc=5",
-      "published": "Tue, 03 Nov 2026 17:23:04 GMT",
+      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
+      "published": "Sat, 07 Nov 2026 16:25:59 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ما السر الحقيقي وراء صمود الاقتصاد الأمريكي؟"
+      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
@@ -107,12 +107,12 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "في 3 أيام فقط.. نموذج سري من \"أنثروبيك\" يحل لغز حوسبة كمومية استعصى على العلماء 18 عامًا",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPdTNCenNNUlQxSHZJNmhUeUswTW9VQzFZZ1VFUHJIb1N5ZzlLcDl1SXNSbzAtSF9oMjZlQ19TakJJTUJyTnZUZE9UNUNreFpkaW54UDlfcFVDUGpxOVNaaEwybUotRWwzSzMtZFdBVk1yWlJINEkzU2JfcjF0SGVfSGxINHlYZnBLSzJMNlN5cUdQa0lIVHA0aGltQ2VCZHFuUVN5X19NZ3JNSXp4VkNuOUhyRDRoZUM2cndDWGRwX2ZFb0tBSHV0X0h1MWs2X3NGV2ZVVUtHSHVCVlNqa1lZb01PR3NYYWV5SjgzaW1xdU84UHl6ejYxSGxJSDdleVZwZXVzZ0FvU2Rnb2RmNlNmaWc3TVpjNW11UVE5b0xOdnREVV95bWVZbmZ0cklWd3RpTEZIZ3o0b0VZMmdqd2RlM1RzX2NGc3JNMG1sVkxuNkFMWjNqSllQWDZYS1dXdHpQSTY4U0lUYUJrWGtPcFlpTHdkdnVRcERHb09CUTVibWIxRmVHM2JZLVplYWtRbVZHbUFHUWY1cUNkS0hnTlN2UEMyNnVQbHBjQVl6RDlJaC1LaGpwcUNQSXFOT0NCSUZ4XzNhTDFPZFQyNGRnMXVfM1lhN2NUOVpfc0tNTnhkeS0waTdLM1J1MnEwWFhCQlBkVHB1Wk1TeXQzLURIVjNWUk43WXllME9aMWhROTdTYVN6eU5tQTB1M0dqQnVFdHBJeERkclRDd2x0MUQ4RTRSbXhSUExUYWloTXpuY3BKNE1oWW5md1A3T0M2T0N3OUZJMjVOdWYxeUVMeTg5Y3lseHA2Ul92WjFEUHhJV3o2dk80VEs1Z1d4c191bTljSDc40gGABUFVX3lxTE91M0J6c01SVDFIdkk2aFR5SzBNb1VDMVlnVUVQckhvU3lnOUtwOXVJc1JvMC1IX2gyNmVDX1NqQklNQnJOdlRkT1Q1Q2t4WmRpbnhQOV9wVUNQanE5U1poTDJtSi1FbDNLMy1kV0FWTXJaUkg0STNTYl9yMXRIZV9IbEg0eVhmcEtLMkw2U3lxR1BrSUhUcDRoaW1DZUJkcW5RU3lfX01nck1JenhWQ245SHJENGhlQzZyd0NYZHBfZkVvS0FIdXRfSHUxazZfc0ZXZlVVS0dIdUJWU2prWVlvTU9Hc1hhZXlKODNpbXF1TzhQeXp6NjFIbElIN2V5VnBldXNnQW9TZGdvZGY2U2ZpZzdNWmM1bXVRUTlvTE52dERVX3ltZVluZnRySVZ3dGlMRkhnejRvRVkyZ2p3ZGUzVHNfY0Zzck0wbWxWTG42QUxaM2pKWVBYNlhLV1d0elBJNjhTSVRhQmtYa09wWWlMd2R2dVFwREdvT0JRNWJtYjFGZUczYlktWmVha1FtVkdtQUdRZjVxQ2RLSGdOU3ZQQzI2dVBscGNBWXpEOUloLUtoanBxQ1BJcU5PQ0JJRnhfM2FMMU9kVDI0ZGcxdV8zWWE3Y1Q5Wl9zS01OeGR5LTBpN0szUnUycTBYWEJCUGRUcHVaTVN5dDMtREhWM1ZSTjdZeWUwT1oxaFE5N1NhU3p5Tm1BMHUzR2pCdUV0cEl4RGRyVEN3bHQxRDhFNFJteFJQTFRhaWhNem5jcEo0TWhZbmZ3UDdPQzZPQ3c5RkkyNU51ZjF5RUx5ODljeWx4cDZSX3ZaMURQeElXejZ2TzRUSzVnV3hzX3VtOWNINzg?oc=5",
-      "published": "Sat, 07 Nov 2026 08:54:00 GMT",
+      "title": "ضغطة زر موظف أم سلسلة إخفاقات؟ لغز كارثة قطاري إسبانيا",
+      "source": "عكاظ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tMzhEa1F5dkxfZUlhLVJ1RzZoazBYdExTTEx5dTI4S2NSUGJ6WEN6aWNXQ0REaU1hTm9kRWpKYkZKZE0wMElVaU5oeFF4eUtnT3NpUw?oc=5",
+      "published": "Sun, 01 Nov 2026 09:12:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: في 3 أيام فقط.. نموذج سري من \"أنثروبيك\" يحل لغز حوسبة كمومية استعصى على العلماء 18 عامًا"
+      "suggestedTitleAr": "خلف الخبر: ضغطة زر موظف أم سلسلة إخفاقات؟ لغز كارثة قطاري إسبانيا"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "PODCAST: Stephen Miller, Paraguay’s new president and Apple's hidden word list",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlhERkpGalRNak1XdFhTS3BteE1mOHpLM2NvLVNvUVJ3d01hTGpSc052VkUzM3V3YmtfYW5mSmpnUENpOS1UTXg5anFIeTdETVVNZkJycFlKbkdONEY0Y0ZkNWVWLV9ISWpFY1N5Tk15eXlPUWt3eEtneloxNHp4dWtRWGMwbm0zTTNTazBzU3hOWFRXZmU5d2hNYzBHNk05UHF6OUlOclF4VEE?oc=5",
-      "published": "Sat, 07 Nov 2026 14:57:32 GMT",
-      "suggestedTitleEn": "Behind the story: PODCAST: Stephen Miller, Paraguay’s new president and Apple's hidden word list",
+      "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+      "source": "Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0xoU1lGQTExZWlZZkVZY2ZyUk1XY2hMeFBwZzVjOGxSR0g1QUdVR0JJNXJwU0tSYUQxbVlPRV9DeXBkRWR4VGpIcm5RMWNFSXJIbHVYTjJJaHhwMTRZSlU0WGhtX3lESXFka3l5Z3B6OE05d1NOWXJaTmhMNkFHb0FRRGpIRVRpMC1lYUlzTXZjRnVDWkJZOFVBMTFBVFFWMHFFNkRwOGlVMnRHQjlLNzFxSnI3T2dOLVNxLW1Pbw?oc=5",
+      "published": "Sat, 07 Nov 2026 11:35:53 GMT",
+      "suggestedTitleEn": "Behind the story: US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Royal Hall Found at 1,300-Year-Old Palace of Princesses Who Served the Gods",
-      "source": "Arkeonews",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3ZBTWZuY3lMd25GdnRlQi1qcXNpSlhjX1BFQnNrWWtEUzBhekVia2JvcGdObnhRLUZrSUZZbHJkd0Y3emVBNXl6Zmx5NWF4bUt2R1dpNU1vWGZYUm16ZUoydUdyZnpleTFTNWxNc0RhOE0xSXI0el9xaUZmNXZ1REVCN1VCV0x6a1VjNnJ6Vnlwb1V6aGE4Z2xkcWtCQQ?oc=5",
-      "published": "Sat, 07 Nov 2026 16:06:13 GMT",
-      "suggestedTitleEn": "Behind the story: Royal Hall Found at 1,300-Year-Old Palace of Princesses Who Served the Gods",
+      "title": "Discovery of incalculable value on a remote island: it could rewrite Stone Age history",
+      "source": "Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2IyT21xMU0wcFh1SWdONktYUC1Tc2RnWmJfNGEyVW44dDZ5TTM3Mi1OQ3NVZWxQR3hPOGlwTjA2dk1MLTdacWtfX3pKMU16dUx3QklMWFlOMFY3WmFWMmNIRUpKNEdjN2ZxSGVqdVFYbDB3dzZwajVQQnB6VF9KeWl1V3lqWlVnbGVvSkIyU1JFZ05PekZjNzhaS2VybDNndWZ6TFM2Nk1MRzBTdDM1M2lJWGZPeElwd3luTTdEaEVNRm83OUg3cVlTTzd5MjRYTnI5a3FKRljSAdgBQVVfeXFMUE9iMk9tcTFNMHBYdUlnTjZLWFAtU3NkZ1piXzRhMlVuOHQ2eU0zNzItTkNzVWVsUEd4TzhpcE4wNnZNTC03WnFrX196SjFNenVMd0JJTFhZTjBWN1phVjJjSEVKSjRHYzdmcUhlanVRWGwwd3c2cGo1UEJwelRfSnlpdVd5alpVZ2xlb0pCMlNSRWdOT3pGYzc4WktlcmwzZ3VmekxTNjZNTEcwU3QzNTNpSVhmT3hJcHd5bk03RGhFTUZvNzlIN3FZU083eTI0WE5yOWtxSkZY?oc=5",
+      "published": "Sat, 07 Nov 2026 17:33:53 GMT",
+      "suggestedTitleEn": "Behind the story: Discovery of incalculable value on a remote island: it could rewrite Stone Age history",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbEhxRW02UGtYWTNKdmt5Ym10aDVFMThIYndXenBsdG1TUUZOOF92dzNiOXdQUjRSNjBHM2I2bGtCMFR3RVAwcUt6WjBMVkl6NVBnMTJiWFQtUnlESHBfQ2pWblBmZFlESU82MUg4Zw?oc=5",
-      "published": "Sat, 07 Nov 2026 00:37:06 GMT",
-      "suggestedTitleEn": "Behind the story: Magic mushrooms rewire the brain in a way scientists didn't expect",
+      "title": "Drug discovery by scientists joins world's largest trial of Parkinson's treatments",
+      "source": "Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmsyZHhCRkN2OGkzVUFLcTY3ckVubXpRTzFiYmw2VDZxTllFdzJia3FwRGlaSmxScnZRNWNSN2N2MzRKbVRVWXBtU2ZqMnIyN09fMjJIOXRJVG12NGFkTUZVR1diYmFTTi1WZlJhV1RoMU5qcGE1SFFCLUhGUWNkSXVxQlVnYUY0aWhF?oc=5",
+      "published": "Fri, 06 Nov 2026 16:00:08 GMT",
+      "suggestedTitleEn": "Behind the story: Drug discovery by scientists joins world's largest trial of Parkinson's treatments",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Iowa hospital expands colon cancer screening with AI technology",
-      "source": "American Hospital Association",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0xweFRUQkdtZlhBTUZTSXhsMkpjX2xOcFFBeFh1MFFndjN6WWtheFM4bXFsZUJpYUtHeW9OeUZzbXhCUWpZcTd5a0JHYmJWTC1DZXR2b1IwUnZkdVlsbUVSTFNsMWdBMTVkQThxVXZqTjNEY3dNaFhmVTMzZ2dQbkdqbG9RRlY3YjJZdU80ZDhTX0xqNWdEUDJtQjUtUUs1dERRQndiOEZiU0ZUWVUw?oc=5",
-      "published": "Sat, 07 Nov 2026 08:26:37 GMT",
-      "suggestedTitleEn": "Behind the story: Iowa hospital expands colon cancer screening with AI technology",
+      "title": "Americans are anxious about the AI boom going bust",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
+      "published": "Sun, 08 Nov 2026 00:28:15 GMT",
+      "suggestedTitleEn": "Behind the story: Americans are anxious about the AI boom going bust",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0hsN092M083bUhrLUJKQW9WdTNtWktqeFpFU1Z3TnJEQktIeXNrMjc0WHJkdzF1TjlmTzBEVzVtX1hGejFWb1BwX2J3TzF1QWtrMXp3cDF3djBlYUl3VkhJVUk0UWxxTWMxdFpoTUlId0Y2bEpISnVXbHZfWjVnVTJTZlRScVJZYnhtZ25xX0k2TURCc1g3VHJIWVB4YlFERmtncTFQRlB4bTBxajV3MGZtc1gxbTJHR05nZERJLURLZw?oc=5",
-      "published": "Sat, 07 Nov 2026 15:29:20 GMT",
-      "suggestedTitleEn": "Behind the story: Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
+      "title": "New England Finance & Business News",
+      "source": "The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLS1R1WlBSbmcxVVdBcEZERDBQTlRNUVNMcjg3d0NZWU43UGtqSTk1akxxelU5Q0tVNG9xdDBfQzJfSHpHVzNkclhDdmJFUQ?oc=5",
+      "published": "Sat, 07 Nov 2026 23:23:14 GMT",
+      "suggestedTitleEn": "Behind the story: New England Finance & Business News",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Artists Use Poetry to Denounce MAGA-fication of Culture",
-      "source": "Transitions Online",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjNvYW56OHZabHE0elkyenJ2N1oxMURuY0t5bkRmYVNSSEFiTm9QVU94ZDR5N0tSWDFya0lOLWZiajIzSFRTaDVYanEtWjNpTENzVm1QMXBBNElkZElzTGFyVTdjZmVRUTBTdFpVXzBSeTZtTjhEaVpKYWp1bV92TlZRVDFqUmRZNzFGbGtLX05pMUltR1E?oc=5",
-      "published": "Fri, 06 Nov 2026 17:28:04 GMT",
-      "suggestedTitleEn": "Behind the story: Artists Use Poetry to Denounce MAGA-fication of Culture",
+      "title": "TMoCA cinematheque to show French documentary about Iran",
+      "source": "Tehran Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbU9Va0ZQUnNxVXg3UkdydEZ2UVFlVEt0eVVUamJLTWVTTEIzbWxZaTc1aTYxYXlvSnRYNC11R3drcWpUQjlZaTVSV2Jlb1RBV1Vyd0EtQy04eEQwNExmNnhUc0JHeXZkd2pwdF9WU0VNZ2pMRjNsQXBoZVFoTU8yV29GNmg3ZjFMUllGR21QWEw3Z1hCUm9QYnlINlE?oc=5",
+      "published": "Sat, 07 Nov 2026 17:56:09 GMT",
+      "suggestedTitleEn": "Behind the story: TMoCA cinematheque to show French documentary about Iran",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Who killed British archaeologist James Starkey? 88-year-old murder mystery may be solved",
-      "source": "Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80eVBNUFFxb3RubFVYU1ItdGR3OXU4dlVRNHhaME9kbHppbUZxWkstb21hcS1MNVRORl9pM0o0eTJpSnl4clRtby1maFV1ck5fSVVJU3pZQVBnQ3ZCeF9yNVkyckk4Zw?oc=5",
-      "published": "Fri, 06 Nov 2026 01:01:24 GMT",
-      "suggestedTitleEn": "Behind the story: Who killed British archaeologist James Starkey? 88-year-old murder mystery may be solved",
+      "title": "Judge appoints investigator to look into historic golf course renovation",
+      "source": "WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXU4eFphc2Z3c1VWNUhqM2Y1a05uc1lsUkNZWkx2cjNJUFJCSkxJWlA4T3JNUXJ1NFB6UVQxVjdPME42TnY3LU1sZnpQRERHZ2pGYzdpcFlFclVwV0V2RXpBaFlyT1REd2ZaWUtCaEMtM3poX3Y2NXAzdF82cFhpSzViUVZjbnpEemt6NkFiR1UtNllXYWpicWhuZ1AzakRwU0NQSi1kQ3d2dEF1X2c?oc=5",
+      "published": "Sat, 07 Nov 2026 23:10:00 GMT",
+      "suggestedTitleEn": "Behind the story: Judge appoints investigator to look into historic golf course renovation",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlV5ZWM5c3pnS29LX1JvblNuVGtWaUZmXzFFMDFYUTVBN0pQUmJKempJTk01SkJBamxLYkY5Mndmcm5fM0JJN3k1djF6STVhUmdYQUpTTHlfQi1jWVFWWEpVUGVTemxRRmltRU5IMG5KZVBtblNwNmVfeEJ6d2twVFh3?oc=5",
-      "published": "Fri, 06 Nov 2026 22:05:58 GMT",
-      "suggestedTitleEn": "Behind the story: On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Tc1AyR1p3a216X3lXOC1xZEUtOTZSUmgxNGJLR095X3FTMEtBcXBFLVJCMVIxSkwtRV9NdktnTlZBcWFaTFIwZEdWTS1wZ1hOY2poaDNuQjRPVnRuTndTTzE5MVdzMTFLXzU2XzdJSQ?oc=5",
+      "published": "Fri, 06 Nov 2026 08:35:58 GMT",
+      "suggestedTitleEn": "Behind the story: NASA’s Swift telescope falls to Earth after nearly 22 years in space",
       "suggestedTitleAr": ""
     }
   ],
