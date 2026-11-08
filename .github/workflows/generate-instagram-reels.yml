@@ -40,7 +40,7 @@ jobs:
           else
             git diff --name-only "$BEFORE" "$AFTER" -- 'articles/*.html' > /tmp/articles.txt || true
           fi
-          if [ ! -s /tmp/articles.txt ]; then printf "%s\\n" "articles/apollo-11.html" > /tmp/articles.txt; fi
+          if [ ! -s /tmp/articles.txt ]; then echo "articles/apollo-11.html" > /tmp/articles.txt; fi
           cat /tmp/articles.txt
       - name: Generate previews only
         run: |
