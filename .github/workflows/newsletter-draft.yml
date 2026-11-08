@@ -9,6 +9,9 @@ on:
         type: boolean
         required: true
         default: false
+concurrency:
+  group: deep-documentary-daily-newsletter
+  cancel-in-progress: false
 permissions:
   contents: read
 jobs:
@@ -38,6 +41,12 @@ jobs:
           BREVO_LIST_ID: '3'
           BREVO_SENDER_EMAIL: no-reply@deepdocumentary.com
         run: python scripts/create_brevo_newsletter_draft.py --create-draft --skip-existing
+      - name: Send scheduled newsletter only after duplicate and recipient checks
+        if: ${{ github.event_name == 'schedule' }}
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: '3'
+        run: python scripts/send_daily_newsletter.py
       - name: Store preview for review
         uses: actions/upload-artifact@v4
         with:
