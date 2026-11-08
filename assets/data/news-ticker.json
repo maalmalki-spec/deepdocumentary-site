@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-08T02:01:43.861601+00:00",
+  "updatedAt": "2026-11-08T02:50:30.140842+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دوري السيدات السعودي: هدف بهلولي يمنح النصر الصدارة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T01:52:30+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 4 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T01:49:50+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "saudi",
@@ -15,14 +31,6 @@
       "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T23:42:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T23:06:48+00:00",
       "breaking": false
     },
     {
@@ -71,6 +79,14 @@
       "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:39:34+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:30:10+00:00",
       "breaking": false
     },
     {
@@ -231,6 +247,14 @@
       "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
       "source": "سكاي نيوز عربية",
       "publishedAt": "2026-11-07T16:32:09+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "التعاون... فائض مالي بـ35 مليون ريال و11 صفقة أجنبية والمحصلة «قبل الأخير»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:29:49+00:00",
       "breaking": false
     },
     {
