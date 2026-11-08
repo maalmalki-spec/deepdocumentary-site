@@ -1,0 +1,20 @@
+import { createClient } from "npm:@supabase/supabase-js@2";
+import { SignJWT, importPKCS8 } from "npm:jose@5";
+const origins=new Set(["https://deepdocumentary.com","https://www.deepdocumentary.com"]);
+function reply(body:unknown,status:number,origin:string){const headers:Record<string,string>={"Content-Type":"application/json","Cache-Control":"no-store","Vary":"Origin"};if(origins.has(origin)){headers["Access-Control-Allow-Origin"]=origin;headers["Access-Control-Allow-Headers"]="authorization,apikey,content-type";headers["Access-Control-Allow-Methods"]="POST,OPTIONS"}return new Response(JSON.stringify(body),{status,headers})}
+Deno.serve(async req=>{const origin=req.headers.get("origin")??"";if(origin&&!origins.has(origin))return reply({error:"Forbidden origin"},403,origin);if(req.method==="OPTIONS")return reply({},200,origin);if(req.method!=="POST")return reply({error:"Method not allowed"},405,origin);
+try{const bearer=req.headers.get("authorization")??"";if(!bearer.startsWith("Bearer "))return reply({error:"Unauthorized"},401,origin);
+const url=Deno.env.get("SUPABASE_URL"),anon=Deno.env.get("SUPABASE_ANON_KEY");if(!url||!anon)throw Error("Missing Supabase configuration");
+const db=createClient(url,anon,{global:{headers:{Authorization:bearer}},auth:{persistSession:false,autoRefreshToken:false}});
+const {data:{user},error}=await db.auth.getUser(bearer.slice(7));if(error||!user)return reply({error:"Unauthorized"},401,origin);
+const {data:admin,error:adminError}=await db.from("dashboard_admins").select("user_id").eq("user_id",user.id).maybeSingle();if(adminError||!admin)return reply({error:"Forbidden"},403,origin);
+const input=await req.json().catch(()=>({}));const days=Number(input.days);if(![7,30,90].includes(days))return reply({error:"Invalid period"},400,origin);
+const property=Deno.env.get("GA4_PROPERTY_ID"),email=Deno.env.get("GA4_CLIENT_EMAIL"),privateKey=Deno.env.get("GA4_PRIVATE_KEY")?.replace(/\\n/g,"\n");if(!property||!email||!privateKey)return reply({error:"Analytics service not configured"},503,origin);
+const key=await importPKCS8(privateKey,"RS256");const now=Math.floor(Date.now()/1000);
+const jwt=await new SignJWT({scope:"https://www.googleapis.com/auth/analytics.readonly"}).setProtectedHeader({alg:"RS256",typ:"JWT"}).setIssuer(email).setAudience("https://oauth2.googleapis.com/token").setIssuedAt(now).setExpirationTime(now+3600).sign(key);
+const tokenResponse=await fetch("https://oauth2.googleapis.com/token",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:new URLSearchParams({grant_type:"urn:ietf:params:oauth:grant-type:jwt-bearer",assertion:jwt})});if(!tokenResponse.ok)throw Error("GA authentication failed");const token=(await tokenResponse.json()).access_token;
+const report=await fetch("https://analyticsdata.googleapis.com/v1beta/properties/"+encodeURIComponent(property)+":runReport",{method:"POST",headers:{"Content-Type":"application/json",Authorization:"Bearer "+token},body:JSON.stringify({dateRanges:[{startDate:(days-1)+"daysAgo",endDate:"today"}],dimensions:[{name:"customEvent:game_id"}],metrics:[{name:"eventCount"}],dimensionFilter:{filter:{fieldName:"eventName",stringFilter:{value:"game_start",matchType:"EXACT"}}},limit:100})});
+if(!report.ok){console.error("GA report status",report.status);return reply({error:"GA4 report unavailable; check game_id custom dimension registration"},502,origin)}
+const data=await report.json();const games=(data.rows??[]).map((row:any)=>({id:String(row.dimensionValues?.[0]?.value??""),starts:Number(row.metricValues?.[0]?.value??0)})).filter((row:any)=>row.id&&row.id!=="(not set)").sort((a:any,b:any)=>b.starts-a.starts);
+return reply({success:true,days,total:games.reduce((n:number,g:any)=>n+g.starts,0),games},200,origin)
+}catch(e){console.error("games-dashboard error",e);return reply({error:"Unable to retrieve game analytics"},500,origin)}});
