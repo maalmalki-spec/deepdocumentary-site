@@ -25,11 +25,62 @@ if not items:
         items=[]
 def clean(s):return html.escape(str(s),quote=True)
 def url(s):return "https://deepdocumentary.com/articles/"+re.sub(r"[^a-z0-9-]","",s["slug"])+".html"
-body=['<html><body style="background:#101014;color:#f3f0e7;font-family:Arial,sans-serif;padding:24px">','<div style="max-width:680px;margin:auto"><h1 style="color:#d5af58">Deep Documentary Daily</h1>']
-body.append('<h2>أحدث المقالات | New articles</h2>' if kind=="new" else '<h2>من أرشيفنا | From our archive</h2>')
-for s in items:
-    body.append('<div style="border-bottom:1px solid #625535;padding:18px 0"><h3>'+clean(s["ar"])+'</h3><p>'+clean(s["en"])+'</p><a style="color:#d5af58" href="'+url(s)+'">اقرأ المقال | Read article</a></div>')
-body.append('<p style="font-size:12px">Deep Documentary · <a style="color:#d5af58" href="{{ unsubscribe }}">إلغاء الاشتراك | Unsubscribe</a></p></div></body></html>')
+# Email-safe cinematic design: tables + inline styles; subtle CSS motion is optional.
+base="https://deepdocumentary.com/"
+def image_url(s):
+    image=str(s["image"]).strip()
+    if image.startswith("https://"): return image
+    return base+image.lstrip("/")
+def title_en(s):
+    title=str(s["en"]).replace(" | Deep Documentary","").strip()
+    # Do not misrepresent Arabic text as an English translation.
+    return title if not re.search(r"[\\u0600-\\u06ff]",title) else "Explore the full documentary"
+def card(s,index):
+    link=clean(url(s))
+    img=clean(image_url(s))
+    ar=clean(s["ar"])
+    en=clean(title_en(s))
+    return f"""<tr><td style="padding:0 22px 24px">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #36312a;border-radius:14px;background:#19191e;overflow:hidden">
+       <tr><td><a href="{link}" style="text-decoration:none"><img src="{img}" alt="{ar}" width="592" style="display:block;width:100%;height:auto;max-height:300px;object-fit:cover;border:0" /></a></td></tr>
+       <tr><td style="padding:23px 24px 26px">
+        <div style="color:#c9a75e;font:700 11px Arial,sans-serif;letter-spacing:3px">FIELD NOTE {index:02d} &nbsp; / &nbsp; DEEP DOCUMENTARY</div>
+        <h2 dir="rtl" style="color:#f5f1e9;font:bold 25px/1.55 Tahoma,Arial,sans-serif;margin:13px 0 5px;text-align:right">{ar}</h2>
+        <p style="color:#c5c0b5;font:16px/1.5 Arial,sans-serif;margin:0 0 24px">{en}</p>
+        <a href="{link}" style="display:inline-block;padding:14px 24px;background:#c8a45a;color:#121216;font:bold 14px Arial,sans-serif;text-decoration:none;border-radius:5px">EXPLORE THE STORY &nbsp; ↗</a>
+       </td></tr>
+      </table></td></tr>"""
+heading_ar="اكتشف قصص اليوم" if kind=="new" else "رحلة جديدة من أرشيفنا"
+heading_en="TODAY'S DISCOVERIES" if kind=="new" else "REDISCOVER THE EXTRAORDINARY"
+body=[f"""<!doctype html><html lang="ar"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>@media only screen and (max-width:640px){{.shell{{width:100%!important}}.hero-title{{font-size:34px!important}}.pad{{padding:24px!important}}}}
+@media (prefers-reduced-motion:no-preference){{.glow{{animation:pulse 4s ease-in-out infinite}}@keyframes pulse{{0%,100%{{opacity:.7}}50%{{opacity:1}}}}}}</style></head>
+<body style="margin:0;padding:0;background:#0b0b0e;color:#f5f1e9;font-family:Arial,sans-serif">
+<div style="display:none;max-height:0;overflow:hidden;opacity:0">قصص واكتشافات تستحق أن تُروى | Stories worth discovering</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#0b0b0e"><tr><td align="center" style="padding:24px 8px">
+<table role="presentation" class="shell" width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;background:#111115;border:1px solid #343029">
+<tr><td style="padding:25px 26px;border-bottom:1px solid #423822;text-align:center">
+<a href="{base}" style="text-decoration:none;color:#d7b56b;font:bold 20px Georgia,serif;letter-spacing:3px">DEEP DOCUMENTARY</a>
+<div style="font:10px Arial,sans-serif;letter-spacing:4px;color:#8f8b84;margin-top:9px">BEYOND THE ORDINARY</div></td></tr>
+<tr><td class="pad" style="padding:47px 35px 34px;text-align:center;background:#17151a;background-image:linear-gradient(135deg,#211c19 0%,#101015 70%)">
+<div class="glow" style="color:#d9b76d;font:12px Arial,sans-serif;letter-spacing:4px">✦ &nbsp; THE DAILY EDITION &nbsp; ✦</div>
+<h1 class="hero-title" style="font:normal 45px/1.14 Georgia,serif;color:#f7f0df;margin:22px 0 14px">Stories beyond<br><span style="color:#d7b56b">the surface.</span></h1>
+<div style="height:2px;background:#cba75d;width:65px;margin:23px auto"></div>
+<h2 dir="rtl" style="font:bold 23px/1.7 Tahoma,Arial,sans-serif;margin:12px 0 4px;color:#f2e9d7">{heading_ar}</h2>
+<p style="font:12px Arial,sans-serif;letter-spacing:3px;color:#aaa59d;margin:0">{heading_en}</p>
+<p style="font:13px Arial,sans-serif;color:#b3a995;margin:21px 0 0">{clean(today)} &nbsp; • &nbsp; AR / EN</p></td></tr>
+<tr><td style="padding:28px 0 0"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">"""]
+for index,item in enumerate(items,1):
+    body.append(card(item,index))
+body.append(f"""</table></td></tr>
+<tr><td style="padding:34px 26px;text-align:center;background:#18171a;border-top:1px solid #3c3529">
+<div style="font:normal 25px Georgia,serif;color:#d7b56b">Curiosity never ends.</div>
+<p dir="rtl" style="font:14px/1.8 Tahoma,Arial,sans-serif;color:#bfb8aa;margin:14px 0">كل يوم، قصة تستحق الاكتشاف.</p>
+<a href="{base}" style="color:#d7b56b;font:13px Arial,sans-serif">VISIT DEEPDOCUMENTARY.COM ↗</a></td></tr>
+<tr><td style="padding:22px 26px 28px;text-align:center;color:#8d8982;font:12px/1.9 Arial,sans-serif">
+Deep Documentary Daily<br>
+<a href="{{{{ unsubscribe }}}}" style="color:#d7b56b;text-decoration:underline">إلغاء الاشتراك | Unsubscribe</a>
+</td></tr></table></td></tr></table></body></html>""")
 payload={"date":today,"kind":kind,"slugs":[s["slug"] for s in items],"subject":"Deep Documentary Daily | نشرتك المعرفية اليومية","html":"".join(body)}
 OUT.parent.mkdir(parents=True,exist_ok=True)
 OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
