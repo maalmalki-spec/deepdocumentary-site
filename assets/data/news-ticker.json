@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-11-08T01:02:08.435330+00:00",
+  "updatedAt": "2026-11-08T02:01:43.861601+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T01:35:39+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "world",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T23:42:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T23:06:48+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:51:40+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
       "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
       "source": "Reuters",
       "publishedAt": "2026-11-07T22:48:58+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:45:56+00:00",
       "breaking": false
     },
     {
@@ -36,9 +60,25 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
+      "title": "«البوندسليغا»: لايبزيغ يكتسح أوغسبورغ... وفرانكفورت يخطف التعادل من بادربورن",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:36:47+00:00",
+      "publishedAt": "2026-11-07T22:41:20+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:39:34+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:21:17+00:00",
       "breaking": false
     },
     {
@@ -47,38 +87,6 @@
       "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:15:11+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:15:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«مونديال الناشئات»: قائدة اليابان تريد إعادة الكأس إلى بلادها... وقائدة نيجيريا تتحدى",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:33+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "انتكاسة ترمب تهدد إنفانتينو بفتح ملفات «فيفا» في الكونغرس",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:01+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "«جائزة البرازيل»: أنتونيلي «بطل العالم» الأسرع في التجارب الثانية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:08:38+00:00",
       "breaking": false
     },
     {
@@ -123,22 +131,6 @@
     },
     {
       "lang": "en",
-      "category": "world",
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-07T21:03:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T20:15:04+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
       "category": "saudi",
       "title": "Saudi Arabia to expand renewables fivefold, IEA reports",
       "source": "Arab News",
@@ -151,6 +143,14 @@
       "title": "Saudi Arabia brings its literary and artistic heritage to Algiers",
       "source": "Arab News",
       "publishedAt": "2026-11-07T19:59:02+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "التحالف يعترض صاروخ «كروز» باتجاه الرياض... والأوضاع الإنسانية داخل اليمن تتفاقم (تغطية حية)",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T19:42:39+00:00",
       "breaking": false
     },
     {
@@ -287,6 +287,14 @@
       "title": "السعودية توسع نطاق التأشيرة السياحية لتشمل دولاً جديدة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T11:50:06+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مفاجأة.. مسؤولون في \"فيفا\" يدعمون ترشح فينغر ضد إنفانتينو",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T10:51:00+00:00",
       "breaking": false
     },
     {
