@@ -1,5 +1,17 @@
 import { createClient } from "npm:@supabase/supabase-js@2";
 
+// Best-effort error reporting. Never log user data, tokens or raw exception text.
+async function recordFunctionError(code: string, message: string) {
+  try {
+    const url = Deno.env.get("SUPABASE_URL");
+    const service = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
+    if (!url || !service) return;
+    const db = createClient(url, service, {auth:{persistSession:false,autoRefreshToken:false}});
+    const {error} = await db.from("edge_function_errors").insert({function_name:"members-dashboard",error_code:code,message});
+    if (error) console.warn("Error monitoring insert failed", error.code);
+  } catch { console.warn("Error monitoring unavailable"); }
+}
+
 const ORIGINS = new Set(["https://deepdocumentary.com", "https://www.deepdocumentary.com"]);
 function respond(body: unknown, status: number, origin: string) {
   const headers: Record<string,string> = {"Content-Type":"application/json","Cache-Control":"no-store","Vary":"Origin"};
@@ -75,6 +87,7 @@ Deno.serve(async (request) => {
     return respond({success:true,users,page,perPage,hasMore:users.length===perPage,stats},200,origin);
   } catch(error) {
     console.error("members-dashboard:",error instanceof Error?error.message:"unknown");
+    await recordFunctionError("UNHANDLED_EXCEPTION","Unable to retrieve members");
     return respond({error:"Unable to retrieve members"},500,origin);
   }
 });
