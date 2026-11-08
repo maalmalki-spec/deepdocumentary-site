@@ -1,13 +1,19 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-11-08T08:37:20+00:00",
   "site": "https://deepdocumentary.com",
-  "status": "pending",
+  "status": "issues",
   "checked": {
-    "pages": 0,
-    "assets": 0,
-    "links": 0
+    "pages": 17,
+    "assets": 36,
+    "links": 3
   },
-  "issues": [],
-  "issueCount": 0,
-  "limitations": "Awaiting first scheduled or manual public-site scan."
+  "issues": [
+    {
+      "kind": "page",
+      "url": "https://deepdocumentary.com/login.html",
+      "status": 404
+    }
+  ],
+  "issueCount": 1,
+  "limitations": "Public URLs only; authentication, newsletter delivery, and gameplay are not tested."
 }
