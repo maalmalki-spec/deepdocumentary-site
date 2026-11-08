@@ -41,7 +41,7 @@ def get(url):
 
 def main():
     started = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    pages = {BASE + "/", BASE + "/games.html", BASE + "/login.html"}
+    pages = {BASE + "/", BASE + "/games.html"}
     issues = []
     status, xml, _ = get(BASE + "/sitemap.xml")
     if status == 200:
