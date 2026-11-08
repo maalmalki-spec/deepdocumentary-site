@@ -20,6 +20,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -51,5 +53,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: deep-documentary-newsletter-preview
-          path: newsletter/pending-digest.json
+          path: |
+            newsletter/pending-digest.json
+            newsletter/newsletter-preview.html
           retention-days: 7
