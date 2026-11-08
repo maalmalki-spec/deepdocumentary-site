@@ -30,6 +30,13 @@ fs.mkdirSync(output, {recursive:true});
      footers:document.querySelectorAll('footer').length,
      brokenLocalImages:[...document.images].filter(i=>i.complete && i.naturalWidth===0).map(i=>i.getAttribute('src')).filter(x=>x&&!/^https?:|^\/\//.test(x))
     }));
+    if (result.overflow) {
+     const offenders = await page.evaluate(() => [...document.querySelectorAll('body *')].map(el => {
+      const r = el.getBoundingClientRect();
+      return {tag:el.tagName,id:el.id,cls:String(el.className||'').slice(0,90),left:Math.round(r.left),right:Math.round(r.right),width:Math.round(r.width)};
+     }).filter(x => x.right > innerWidth + 4 || x.left < -4).sort((a,b)=>b.right-a.right).slice(0,12));
+     console.log('OVERFLOW_ELEMENTS '+name+' '+width+' '+JSON.stringify(offenders));
+    }
     const file = name.replace(/[^a-z0-9]+/gi,'-') + '-' + width + '.png';
     await page.screenshot({path:path.join(output,file),fullPage:true,animations:'disabled'});
     results.push({page:name,width,...result});
