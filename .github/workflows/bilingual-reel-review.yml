@@ -1,0 +1,41 @@
+name: English Voice Arabic Subtitle Reel Review
+on:
+  workflow_dispatch:
+    inputs:
+      article:
+        description: "Article path"
+        required: true
+        default: "articles/apollo-11.html"
+  push:
+    paths:
+      - "scripts/generate_bilingual_reel.py"
+      - ".github/workflows/bilingual-reel-review.yml"
+permissions:
+  contents: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install free offline rendering dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg espeak-ng fonts-dejavu-core libraqm0
+          python -m pip install "Pillow==11.3.0"
+      - name: Check Arabic shaping support
+        run: python -c "from PIL import features; assert features.check('raqm'), 'Arabic RAQM layout is unavailable'"
+      - name: Generate review MP4
+        env:
+          ARTICLE: ${{ inputs.article }}
+        run: |
+          python scripts/generate_bilingual_reel.py --article "${ARTICLE:-articles/apollo-11.html}"
+      - name: Upload review video and subtitles
+        uses: actions/upload-artifact@v4
+        with:
+          name: bilingual-reel-review-${{ github.run_number }}
+          path: reels-review/
+          retention-days: 14
