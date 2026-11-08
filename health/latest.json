@@ -1,0 +1,13 @@
+{
+  "generatedAt": null,
+  "site": "https://deepdocumentary.com",
+  "status": "pending",
+  "checked": {
+    "pages": 0,
+    "assets": 0,
+    "links": 0
+  },
+  "issues": [],
+  "issueCount": 0,
+  "limitations": "Awaiting first scheduled or manual public-site scan."
+}
