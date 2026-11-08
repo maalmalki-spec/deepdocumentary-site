@@ -1,12 +1,44 @@
 {
-  "updatedAt": "2026-11-08T06:10:52.487459+00:00",
+  "updatedAt": "2026-11-08T07:09:28.157747+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ميسي يحقق إنجازا غير مسبوق في الدوري الأمريكي",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T06:40:08+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T06:20:59+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بسبب برشلونة.. رافينيا يثير غضب جماهير البرازيل وتصريحاته تشعل أزمة",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T06:16:21+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "saudi",
       "title": "السعودية: اعتراض وتدمير صاروخين بالستيين حوثيين",
       "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-08T05:59:50+00:00",
+      "publishedAt": "2026-11-08T06:00:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi defenses intercept two Houthi ballistic missiles targeting Riyadh",
+      "source": "Arab News",
+      "publishedAt": "2026-11-08T05:45:06+00:00",
       "breaking": false
     },
     {
@@ -14,7 +46,7 @@
       "category": "saudi",
       "title": "الدفاعات السعودية تدمّر 3 صواريخ باليستية حوثية باتجاه الرياض و«الشرقية»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T05:36:18+00:00",
+      "publishedAt": "2026-11-08T05:36:45+00:00",
       "breaking": false
     },
     {
@@ -23,22 +55,6 @@
       "title": "تراجع أرباح \"بدجت السعودية\" الفصلية 10.6% إلى 13 مليون دولار",
       "source": "العربية",
       "publishedAt": "2026-11-08T05:20:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T03:36:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
-      "source": "Arab News",
-      "publishedAt": "2026-11-08T03:26:36+00:00",
       "breaking": false
     },
     {
@@ -87,6 +103,14 @@
       "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T23:42:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "ترامب يأمر بالتحقيق مع ديمقراطيين بتهمة \"تهديد الناس\"",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-07T23:03:49+00:00",
       "breaking": false
     },
     {
@@ -170,14 +194,6 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi Arabia to expand renewables fivefold, IEA reports",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T20:05:39+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "sports",
       "title": "اتحاد الكرة المصري يقيل حسام حسن... ويؤكد: استقرار المنتخب أولوية لا تقبل التهاون",
@@ -212,9 +228,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "أوديغارد يمنح أرسنال فوزا صعبا وليدز يوقف انتفاضة توتنهام (فيديو)",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T18:22:51+00:00",
+      "title": "3 ملايين دولار تعقّد نقل «خليجي 27» تلفزيونياً",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:05:04+00:00",
       "breaking": false
     },
     {
@@ -242,14 +258,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "أرسنال يحافظ على الصدارة بهدف أوديغارد",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T17:04:00+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
@@ -267,26 +275,10 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تدين اعتراف كولومبيا بسيادة إسرائيل على الجولان",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:16:36+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "\"آسف رونّي\".. رافينيا يفضل نيمار على رونالدينيو",
+      "category": "world",
+      "title": "أمطار غزة.. الفصائل الفلسطينية تطالب بتدخل عاجل لوقف تفاقم المأساة الإنسانية",
       "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T14:04:35+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بوسيتش: فخور باللاعبين ... وجماهير الأهلي ستصنع الفارق أمام النصر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T13:04:45+00:00",
+      "publishedAt": "2026-11-07T15:39:22+00:00",
       "breaking": false
     },
     {
@@ -295,14 +287,6 @@
       "title": "القبض على شخصين بتهمة قتل لاعب كرة قدم في إنجلترا",
       "source": "العربية",
       "publishedAt": "2026-11-07T12:57:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مفاجأة.. مسؤولون في \"فيفا\" يدعمون ترشح فينغر ضد إنفانتينو",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T10:51:00+00:00",
       "breaking": false
     },
     {
@@ -351,14 +335,6 @@
       "title": "برنت يهبط 16.4% في أكبر خسارة أسبوعية منذ جائحة كورونا",
       "source": "العربية",
       "publishedAt": "2026-11-07T07:55:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "world",
-      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-07T06:54:00+00:00",
       "breaking": false
     }
   ],
