@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-11-08T03:36:12.540583+00:00",
+  "updatedAt": "2026-11-08T04:30:02.273481+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-08T03:13:07+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
-      "title": "Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
-      "source": "Arab News",
-      "publishedAt": "2026-11-08T03:26:36+00:00",
+      "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
+      "source": "Reuters",
+      "publishedAt": "2026-11-08T03:11:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 4 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T03:09:38+00:00",
       "breaking": false
     },
     {
@@ -15,14 +31,6 @@
       "title": "دوري السيدات السعودي: هدف بهلولي يمنح النصر الصدارة",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T01:52:45+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 4 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T01:49:50+00:00",
       "breaking": false
     },
     {
@@ -84,14 +92,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:30:14+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:15:11+00:00",
@@ -115,14 +115,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "ريال مدريد يهزم فالنسيا على أرضه بثلاثية نظيفة",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T21:59:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "saudi",
       "title": "سباق سعودي أمريكي للاستحواذ على نادي الاتحاد.. ومفاجأة حول موعد الحسم وقيمة الصفقة",
       "source": "الجزيرة نت",
@@ -138,19 +130,19 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi Arabia to expand renewables fivefold, IEA reports",
-      "source": "Arab News",
-      "publishedAt": "2026-11-07T20:05:39+00:00",
+      "lang": "ar",
+      "category": "sports",
+      "title": "مانشستر يونايتد يصطدم بأستون فيلا وسط مخاوف على منصب كاريك",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T21:12:26+00:00",
       "breaking": false
     },
     {
       "lang": "en",
       "category": "saudi",
-      "title": "Saudi Arabia brings its literary and artistic heritage to Algiers",
+      "title": "Saudi Arabia to expand renewables fivefold, IEA reports",
       "source": "Arab News",
-      "publishedAt": "2026-11-07T19:59:02+00:00",
+      "publishedAt": "2026-11-07T20:05:39+00:00",
       "breaking": false
     },
     {
@@ -227,14 +219,6 @@
     },
     {
       "lang": "ar",
-      "category": "world",
-      "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-07T16:32:09+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "التعاون... فائض مالي بـ35 مليون ريال و11 صفقة أجنبية والمحصلة «قبل الأخير»",
       "source": "الشرق الأوسط",
@@ -244,9 +228,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "سان جيرمان المنقذ الوحيد.. تصنيف \"يويفا\" يضع الكرة الفرنسية في مأزق والبرتغال تترقب",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T15:51:20+00:00",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T16:20:00+00:00",
       "breaking": false
     },
     {
