@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-11-08T08:37:20+00:00",
+  "generatedAt": "2026-11-08T08:42:58+00:00",
   "site": "https://deepdocumentary.com",
-  "status": "issues",
+  "status": "healthy",
   "checked": {
-    "pages": 17,
+    "pages": 16,
     "assets": 36,
     "links": 3
   },
-  "issues": [
-    {
-      "kind": "page",
-      "url": "https://deepdocumentary.com/login.html",
-      "status": 404
-    }
-  ],
-  "issueCount": 1,
+  "issues": [],
+  "issueCount": 0,
   "limitations": "Public URLs only; authentication, newsletter delivery, and gameplay are not tested."
 }
