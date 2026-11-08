@@ -10,22 +10,21 @@ TZ=ZoneInfo("Asia/Riyadh")
 today=dt.datetime.now(TZ).date().isoformat()
 catalog=json.loads(CAT.read_text(encoding="utf-8"))["stories"]
 state=json.loads(STATE.read_text(encoding="utf-8"))
-sent=set(state.get("sent_slugs",[]))
-items=[s for s in catalog if s["slug"] not in sent]
 def valid(s):
-    return bool(s.get("slug") and s.get("ar") and s.get("en") and s.get("image") and not re.search("[\u0600-\u06ff]", str(s["en"])))
-invalid=[s.get("slug","unknown") for s in items if not valid(s)]
-if invalid: print("Excluded articles missing valid English titles:", ", ".join(invalid))
-items=[s for s in items if valid(s)]
-items=sorted(items,key=lambda s:hashlib.sha256((today+":"+s["slug"]).encode()).hexdigest())
-kind="new" if items else "archive"
-if not items:
-    archive=[s for s in catalog if valid(s)]
-    if archive:
-        offset=(dt.date.fromisoformat(today)-dt.date(2026,1,1)).days
-        items=[archive[offset % len(archive)]]
-    else:
-        items=[]
+    return bool(s.get("slug") and s.get("ar") and s.get("en") and s.get("image") and not re.search("[\\u0600-\\u06ff]", str(s["en"])))
+catalog=[s for s in catalog if valid(s)]
+import subprocess
+try:
+    added=subprocess.check_output(["git","log","--since=24 hours ago","--diff-filter=A","--name-only","--pretty=format:","--","articles/"],cwd=ROOT,text=True,timeout=15)
+    new_slugs={pathlib.Path(p).stem for p in added.splitlines() if p.strip().endswith(".html")}
+except (subprocess.SubprocessError,OSError):
+    new_slugs=set()
+new_items=sorted([s for s in catalog if s["slug"] in new_slugs],key=lambda s:hashlib.sha256((today+":new:"+s["slug"]).encode()).hexdigest())[:2]
+remaining=[s for s in catalog if s["slug"] not in {x["slug"] for x in new_items}]
+remaining=sorted(remaining,key=lambda s:hashlib.sha256((today+":archive:"+s["slug"]).encode()).hexdigest())
+archive_items=remaining[:max(0,4-len(new_items))]
+items=new_items+archive_items
+kind="new" if new_items else "archive"
 def clean(s):return html.escape(str(s),quote=True)
 def url(s):return "https://deepdocumentary.com/articles/"+re.sub(r"[^a-z0-9-]","",s["slug"])+".html"
 # Email-safe cinematic design: tables + inline styles; subtle CSS motion is optional.
@@ -99,7 +98,11 @@ body=[f"""<!doctype html><html lang="ar"><head><meta charset="utf-8"><meta name=
 <tr><td style="padding:28px 0 0"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">"""]
 if kind=="archive":
     body.append('<tr><td dir="rtl" style="padding:0 25px 25px;color:#d7b56b;font:16px Tahoma">لا توجد مقالات جديدة اليوم | No new articles today</td></tr>')
+if new_items:
+    body.append('<tr><td style="padding:8px 25px 20px;color:#d7b56b;font:bold 19px Tahoma">المقالات الجديدة | NEW ARTICLES</td></tr>')
 for index,item in enumerate(items,1):
+    if index == len(new_items)+1 and archive_items:
+        body.append("<tr><td style='padding:8px 25px 20px;color:#d7b56b;font:bold 19px Tahoma'>مختارات اليوم | TODAY'S PICKS</td></tr>")
     body.append(card(item,index))
 body.append('<tr><td style="padding:24px;color:#d7b56b;font:bold 23px Georgia">BEYOND THE HEADLINES | من عالم الغموض والمعرفة</td></tr>')
 for fact in knowledge:
@@ -114,7 +117,8 @@ body.append(f"""</table></td></tr>
 Deep Documentary Daily<br>
 <a href="{{{{ unsubscribe }}}}" style="color:#d7b56b;text-decoration:underline">إلغاء الاشتراك | Unsubscribe</a>
 </td></tr></table></td></tr></table></body></html>""")
-payload={"date":today,"kind":kind,"knowledge_topics":[f[2] for f in knowledge],"slugs":[s["slug"] for s in items],"subject":"Deep Documentary Daily | نشرتك المعرفية اليومية","html":"".join(body)}
+payload={"date":today,"kind":kind,"new_slugs":[s["slug"] for s in new_items],"archive_slugs":[s["slug"] for s in archive_items],"knowledge_topics":[f[2] for f in knowledge],"slugs":[s["slug"] for s in items],"subject":"Deep Documentary Daily | نشرتك المعرفية اليومية","html":"".join(body)}
 OUT.parent.mkdir(parents=True,exist_ok=True)
 OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+(OUT.parent/"newsletter-preview.html").write_text(payload["html"],encoding="utf-8")
 print("Prepared",kind,len(items),"article(s). No emails sent.")
