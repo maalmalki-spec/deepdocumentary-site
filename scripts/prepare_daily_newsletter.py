@@ -50,6 +50,28 @@ def card(s,index):
         <a href="{link}" style="display:inline-block;padding:14px 24px;background:#c8a45a;color:#121216;font:bold 14px Arial,sans-serif;text-decoration:none;border-radius:5px">EXPLORE THE STORY &nbsp; ↗</a>
        </td></tr>
       </table></td></tr>"""
+
+# Verified evergreen editorial cards, independent from published articles.
+FACTS=[
+("غرائب الكون | Cosmic wonders","يوم الزهرة أطول من سنته","A Venus day is longer than its year","دوران الزهرة حول محوره أبطأ من دورانه حول الشمس.","Venus takes longer to rotate once than to orbit the Sun.","https://science.nasa.gov/venus/"),
+("أسرار التاريخ | History","مدينة بومبي","Pompeii","دفن ثوران فيزوف عام 79 ميلادية مدينة بومبي وحفظ آثار الحياة الرومانية.","The AD 79 eruption of Vesuvius buried Pompeii and preserved Roman daily life.","https://pompeiisites.org/en/"),
+("غموض الكون | Space mysteries","الانفجارات الراديوية السريعة","Fast radio bursts","ومضات راديوية شديدة وقصيرة؛ رُبط بعضها بنجوم مغناطيسية، وما زالت مصادر أخرى قيد الدراسة.","Brief, intense radio flashes: some have been linked to magnetars, while others remain under study.","https://science.nasa.gov/universe/"),
+("حقيقة أم أسطورة؟ | Fact or myth","الجانب المظلم للقمر","The dark side of the Moon","الجانب البعيد من القمر ليس مظلمًا دائمًا؛ تصله أشعة الشمس.","The far side of the Moon is not permanently dark; it receives sunlight.","https://science.nasa.gov/moon/"),
+("غرائب الكون | Cosmic wonders","البقعة الحمراء على المشتري","Jupiter's Great Red Spot","عاصفة هائلة على المشتري رُصدت عبر قرون ويتغير حجمها.","A giant storm on Jupiter observed for centuries, whose size changes over time.","https://science.nasa.gov/jupiter/"),
+("أسرار التاريخ | History","آلة أنتيكيثيرا","The Antikythera mechanism","آلة يونانية قديمة معقدة استخدمت تروسًا لحساب دورات فلكية.","An ancient Greek geared device used to calculate astronomical cycles.","https://www.britishmuseum.org/")
+]
+day_number=(dt.date.fromisoformat(today)-dt.date(2026,1,1)).days
+knowledge=[FACTS[(day_number*4+i)%len(FACTS)] for i in range(4)]
+def knowledge_card(f):
+    category,ar,en,ar_text,en_text,source=f
+    return ('<tr><td style="padding:16px 25px;background:#1b1a1f;border-bottom:1px solid #443b2b">'
+        '<div style="font:bold 12px Arial;color:#d7b56b">'+clean(category)+'</div>'
+        '<h3 dir="rtl" style="color:#f5eddb;font:bold 22px Tahoma;text-align:right">'+clean(ar)+'</h3>'
+        '<p dir="rtl" style="color:#d4d0c7;font:15px/1.9 Tahoma;text-align:right">'+clean(ar_text)+'</p>'
+        '<h4 style="color:#d7b56b;font:bold 18px Arial">'+clean(en)+'</h4>'
+        '<p style="color:#d4d0c7;font:14px/1.8 Arial">'+clean(en_text)+'</p>'
+        '<a style="color:#d7b56b;font:13px Arial" href="'+clean(source)+'">المصدر | Read the source ↗</a></td></tr>')
+
 heading_ar="اكتشف قصص اليوم" if kind=="new" else "رحلة جديدة من أرشيفنا"
 heading_en="TODAY'S DISCOVERIES" if kind=="new" else "REDISCOVER THE EXTRAORDINARY"
 body=[f"""<!doctype html><html lang="ar"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -70,8 +92,14 @@ body=[f"""<!doctype html><html lang="ar"><head><meta charset="utf-8"><meta name=
 <p style="font:12px Arial,sans-serif;letter-spacing:3px;color:#aaa59d;margin:0">{heading_en}</p>
 <p style="font:13px Arial,sans-serif;color:#b3a995;margin:21px 0 0">{clean(today)} &nbsp; • &nbsp; AR / EN</p></td></tr>
 <tr><td style="padding:28px 0 0"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">"""]
+if kind=="archive":
+    body.append('<tr><td dir="rtl" style="padding:0 25px 25px;color:#d7b56b;font:16px Tahoma">لا توجد مقالات جديدة اليوم | No new articles today</td></tr>')
 for index,item in enumerate(items,1):
     body.append(card(item,index))
+body.append('<tr><td style="padding:24px;color:#d7b56b;font:bold 23px Georgia">BEYOND THE HEADLINES | من عالم الغموض والمعرفة</td></tr>')
+for fact in knowledge:
+    body.append(knowledge_card(fact))
+body.append('<tr><td style="padding:24px;color:#e7d5b5;background:#242027;text-align:center;font:16px/1.8 Tahoma">سؤال اليوم | TODAY\'S QUESTION<br>أي كوكب يومه أطول من سنته؟ | Which planet has a day longer than its year?<br><span style="color:#d7b56b">الإجابة | Answer: الزهرة — Venus</span></td></tr>')
 body.append(f"""</table></td></tr>
 <tr><td style="padding:34px 26px;text-align:center;background:#18171a;border-top:1px solid #3c3529">
 <div style="font:normal 25px Georgia,serif;color:#d7b56b">Curiosity never ends.</div>
@@ -81,7 +109,7 @@ body.append(f"""</table></td></tr>
 Deep Documentary Daily<br>
 <a href="{{{{ unsubscribe }}}}" style="color:#d7b56b;text-decoration:underline">إلغاء الاشتراك | Unsubscribe</a>
 </td></tr></table></td></tr></table></body></html>""")
-payload={"date":today,"kind":kind,"slugs":[s["slug"] for s in items],"subject":"Deep Documentary Daily | نشرتك المعرفية اليومية","html":"".join(body)}
+payload={"date":today,"kind":kind,"knowledge_topics":[f[2] for f in knowledge],"slugs":[s["slug"] for s in items],"subject":"Deep Documentary Daily | نشرتك المعرفية اليومية","html":"".join(body)}
 OUT.parent.mkdir(parents=True,exist_ok=True)
 OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print("Prepared",kind,len(items),"article(s). No emails sent.")
