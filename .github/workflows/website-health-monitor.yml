@@ -1,0 +1,27 @@
+name: Website health monitor
+on:
+  schedule:
+    - cron: '17 */12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: website-health-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check public site
+        run: python3 scripts/site_health_check.py
+      - name: Save latest health report
+        run: |
+          if ! git diff --quiet -- health/latest.json || [ -n "$(git ls-files --others --exclude-standard health/latest.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add health/latest.json
+            git commit -m "chore: update website health report [skip ci]"
+            git push
+          fi
