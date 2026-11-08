@@ -34,18 +34,17 @@ def api(method, path):
 name = "Deep Documentary Daily " + today
 # Check all statuses, not only drafts: a previously sent campaign must block duplicates.
 matches = []
-for status in ("draft", "sent", "scheduled", "queued", "suspended", "archive"):
-    offset = 0
-    while True:
-        query = urllib.parse.urlencode({"type": "classic", "status": status, "limit": 100, "offset": offset})
-        data = api("GET", "/emailCampaigns?" + query)
-        batch = data.get("campaigns", [])
-        matches.extend(c for c in batch if c.get("name") == name)
-        if len(batch) < 100:
-            break
-        offset += 100
-        if offset > 10000:
-            sys.exit("Campaign listing too large; refusing to send.")
+offset = 0
+while True:
+    query = urllib.parse.urlencode({"type": "classic", "limit": 100, "offset": offset})
+    data = api("GET", "/emailCampaigns?" + query)
+    batch = data.get("campaigns", [])
+    matches.extend(c for c in batch if c.get("name") == name)
+    if len(batch) < 100:
+        break
+    offset += 100
+    if offset > 10000:
+        sys.exit("Campaign listing too large; refusing to send.")
 if len(matches) != 1:
     sys.exit("Expected exactly one daily campaign; found " + str(len(matches)) + ". No email sent.")
 campaign = matches[0]
