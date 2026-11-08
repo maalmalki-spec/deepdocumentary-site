@@ -1,10 +1,82 @@
 {
-  "updatedAt": "2026-11-08T08:55:10.425476+00:00",
+  "updatedAt": "2026-11-08T09:36:31.736379+00:00",
   "items": [
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "بعد 7300 راكب في الرياض.. السعودية تخطط لتوسيع المركبات ذاتية القيادة إلى جدة والدمام",
+      "title": "أرباح «بدجت السعودية» تتراجع 19.7 % إلى 53.2 مليون دولار في 9 أشهر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T09:10:28+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "المشاريع الكبرى تفتح أبواب النمو أمام المصانع الصغيرة والمتوسطة في السعودية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T09:09:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "النيجيرية أوميغياكو أفضل لاعبة في مونديال الناشئات… و«الحذاء الذهبي» للأميركية دي ماريا",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T09:08:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi EXIM Bank provides $11.53bn in credit facilities in first 9 months of 2026",
+      "source": "Arab News",
+      "publishedAt": "2026-11-08T09:05:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "حسام حسن.. مجد الأهلي والزمالك ونهاية مفاجئة مع الفراعنة",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T09:03:53+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "محاولة استهداف مبنى تابع لشركة أرامكو في الرياض .. ولا إصابات",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T08:59:30+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T08:58:41+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Aramco Tower in Riyadh’s Financial Hub Damaged After Attack",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-08T08:54:58+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "وزارة الطاقة السعودية: محاولة استهداف مبنى تابع لشركة أرامكو في الرياض",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T08:47:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "خاص بعد 7300 راكب في الرياض.. السعودية تخطط لتوسيع المركبات ذاتية القيادة إلى جدة والدمام",
       "source": "العربية",
       "publishedAt": "2026-11-08T08:12:00+00:00",
       "breaking": false
@@ -44,14 +116,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "دراما الدوري الأرجنتيني.. روزاريو يحتفل باللقب وبوكا يخطفه في اللحظة الأخيرة (فيديو)",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-08T07:53:24+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "ميسي يدخل تاريخ الدوري الأميركي",
       "source": "العربية",
       "publishedAt": "2026-11-08T07:53:00+00:00",
@@ -67,26 +131,10 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "التحالف: اعتراض 5 صواريخ أطلقها الحوثيون تجاه الرياض والمنطقتين الشرقية والجنوبية",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-08T07:31:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "ميسي أول لاعب يحصد لقب هداف الدوري الأميركي مرتين متتاليتين",
       "source": "سكاي نيوز عربية",
       "publishedAt": "2026-11-08T07:28:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T07:14:20+00:00",
       "breaking": false
     },
     {
@@ -116,6 +164,14 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "الآلاف يودعون دي ميغيل بالدموع في ملعب تينيريفي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T06:17:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "بسبب برشلونة.. رافينيا يثير غضب جماهير البرازيل وتصريحاته تشعل أزمة",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-08T06:16:21+00:00",
@@ -135,14 +191,6 @@
       "title": "التحالف: اعتراض وتدمير 4 صواريخ باليستية وكروز باتجاه الرياض وجنوب السعودية",
       "source": "العربية",
       "publishedAt": "2026-11-08T05:48:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "الدفاعات السعودية تدمّر 3 صواريخ باليستية حوثية باتجاه الرياض و«الشرقية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T05:41:23+00:00",
       "breaking": false
     },
     {
@@ -170,27 +218,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "«الألعاب السعودية للأولمبياد الخاص» تتوج أبطالها",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T01:35:39+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
       "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T23:42:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "ترامب يأمر بالتحقيق مع ديمقراطيين بتهمة \"تهديد الناس\"",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-07T23:03:49+00:00",
       "breaking": false
     },
     {
@@ -250,14 +282,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "سباق سعودي أمريكي للاستحواذ على نادي الاتحاد.. ومفاجأة حول موعد الحسم وقيمة الصفقة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T21:58:24+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
       "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
@@ -298,22 +322,6 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الأرجنتين تستأنف ضد عقوبات \"فيفا\"",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T17:17:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "القائمة الرسمية لمنتخب المغرب في كأس العالم للناشئين \"قطر 2026\"",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T17:16:49+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
@@ -324,57 +332,33 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "title": "«الأخضر» يلغي معسكر الخبر... ووديتي «قطر والأردن»",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T16:20:00+00:00",
+      "publishedAt": "2026-11-07T15:33:45+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "US tech stock rout: is the AI bubble bursting?",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T10:47:00+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "القبض على شخصين بتهمة قتل لاعب كرة قدم في إنجلترا",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T12:57:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "economy",
-      "title": "النفط يقترب من 100 دولار مجدداً... والرياض وموسكو تنسقان داخل «أوبك بلس»",
+      "title": "قرية القضاة المصرية تحقق شهرة واسعة بفضل كرة القدم",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T10:09:33+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "economy",
-      "title": "تراجع عوائد السندات في منطقة اليورو مع استقرار أسعار النفط",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T09:46:52+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "توقع تراجع أعداد السياح في عُمان 20% على الأقل",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T09:28:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "نشرة الخليج: قطار الصحراء وتأشيرة دبي وفحوصات الزواج بالبحرين وتحذير عُماني",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T09:23:00+00:00",
+      "publishedAt": "2026-11-07T10:08:01+00:00",
       "breaking": false
     },
     {
       "lang": "en",
-      "category": "world",
-      "title": "‘Finally there’s hope’: UK weighs up opportunities and risks after Trump’s midterms disaster",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-07T09:00:00+00:00",
+      "category": "economy",
+      "title": "Charting the Global Economy: Job Growth in US Tops All Forecasts",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-07T10:00:00+00:00",
       "breaking": false
     }
   ],
