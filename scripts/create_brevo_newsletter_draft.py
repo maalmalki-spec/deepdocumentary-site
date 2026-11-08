@@ -7,6 +7,7 @@ import pathlib
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -43,15 +44,39 @@ def main():
     if not key:
         sys.exit("BREVO_API_KEY is missing; no campaign created.")
     if args.skip_existing:
-        check = urllib.request.Request(API + "?type=classic&status=draft&limit=100&offset=0", headers={"api-key": key, "accept": "application/json"})
-        try:
-            with urllib.request.urlopen(check, timeout=20) as response:
-                existing = json.load(response)
-            if any(c.get("name") == payload["name"] for c in existing.get("campaigns", [])):
-                print(json.dumps({"status": "existing_draft_skipped", "date": digest["date"], "sent": False}))
-                return
-        except (urllib.error.URLError, ValueError) as exc:
-            sys.exit("Unable to verify existing Brevo drafts; refusing duplicate creation.")
+        # Check every campaign status and page, including already sent campaigns.
+        # If verification fails, never create a potentially duplicate draft.
+        offset = 0
+        matches = []
+        while True:
+            query = urllib.parse.urlencode({"type": "classic", "limit": 100, "offset": offset})
+            check = urllib.request.Request(
+                API + "?" + query,
+                headers={"api-key": key, "accept": "application/json"},
+            )
+            try:
+                with urllib.request.urlopen(check, timeout=20) as response:
+                    existing = json.load(response)
+            except (urllib.error.URLError, ValueError):
+                sys.exit("Unable to verify existing Brevo campaigns; refusing duplicate creation.")
+            batch = existing.get("campaigns")
+            if not isinstance(batch, list):
+                sys.exit("Invalid Brevo campaign listing; refusing duplicate creation.")
+            matches.extend(c for c in batch if c.get("name") == payload["name"])
+            if len(batch) < 100:
+                break
+            offset += 100
+            if offset > 10000:
+                sys.exit("Campaign listing too large; refusing duplicate creation.")
+        if matches:
+            print(json.dumps({
+                "status": "existing_campaign_skipped",
+                "date": digest["date"],
+                "matches": len(matches),
+                "campaign_statuses": [c.get("status") for c in matches],
+                "sent": False,
+            }))
+            return
     req = urllib.request.Request(
         API,
         data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
