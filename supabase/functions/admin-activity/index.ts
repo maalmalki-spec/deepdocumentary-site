@@ -38,7 +38,6 @@ Deno.serve(async (req) => {
     const db=createClient(url,service,{auth:{persistSession:false,autoRefreshToken:false}});
     if(action==="verify_error_logging"){
       // Administrator-only end-to-end write verification. No sensitive details are stored.
-      const probeId=crypto.randomUUID();
       const {data:probe,error:probeError}=await db.from("edge_function_errors")
         .insert({function_name:"admin-activity",error_code:"MONITORING_PROBE",message:"Administrator-initiated monitoring verification"})
         .select("id").single();
