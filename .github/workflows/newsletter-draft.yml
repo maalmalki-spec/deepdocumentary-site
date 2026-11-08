@@ -1,7 +1,7 @@
 name: Prepare Deep Documentary newsletter draft
 on:
   schedule:
-    - cron: '15 6 * * *' # 09:15 Asia/Riyadh
+    - cron: '0 6 * * *' # 09:00 Asia/Riyadh (UTC+3)
   workflow_dispatch:
     inputs:
       create_brevo_draft:
