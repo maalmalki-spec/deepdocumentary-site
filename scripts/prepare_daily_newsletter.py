@@ -36,8 +36,10 @@ def image_url(s):
     return base+image.lstrip("/")
 def title_en(s):
     title=str(s["en"]).replace(" | Deep Documentary","").strip()
-    # Do not misrepresent Arabic text as an English translation.
-    return title if not re.search(r"[\\u0600-\\u06ff]",title) else "Explore the full documentary"
+    # Titles must be English, not an Arabic duplicate.
+    if re.search("[\\u0600-\\u06ff]", title):
+        raise ValueError("Arabic characters found in English title: "+str(s["slug"]))
+    return title
 def card(s,index):
     link=clean(url(s))
     img=clean(image_url(s))
@@ -50,7 +52,7 @@ def card(s,index):
         <div style="color:#c9a75e;font:700 11px Arial,sans-serif;letter-spacing:3px">FIELD NOTE {index:02d} &nbsp; / &nbsp; DEEP DOCUMENTARY</div>
         <h2 dir="rtl" style="color:#f5f1e9;font:bold 25px/1.55 Tahoma,Arial,sans-serif;margin:13px 0 5px;text-align:right">{ar}</h2>
         <p style="color:#c5c0b5;font:16px/1.5 Arial,sans-serif;margin:0 0 24px">{en}</p>
-        <a href="{link}" style="display:inline-block;padding:14px 24px;background:#c8a45a;color:#121216;font:bold 14px Arial,sans-serif;text-decoration:none;border-radius:5px">EXPLORE THE STORY &nbsp; ↗</a>
+        <a href="{link}" style="display:inline-block;padding:14px 24px;background:#c8a45a;color:#121216;font:bold 14px Arial,sans-serif;text-decoration:none;border-radius:5px">اقرأ القصة &nbsp; | &nbsp; EXPLORE THE STORY &nbsp; ↗</a>
        </td></tr>
       </table></td></tr>"""
 
