@@ -1,0 +1,59 @@
+name: Generate Instagram Reel Review
+on:
+  workflow_dispatch:
+    inputs:
+      article:
+        description: "Published article path, e.g. articles/apollo-11.html"
+        required: true
+        default: "articles/apollo-11.html"
+  push:
+    paths:
+      - "articles/*.html"
+      - "scripts/generate_reel_review.py"
+      - ".github/workflows/generate-instagram-reels.yml"
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+          python -m pip install "Pillow==11.3.0"
+      - name: Detect articles
+        id: articles
+        shell: bash
+        env:
+          EVENT: ${{ github.event_name }}
+          INPUT_ARTICLE: ${{ inputs.article }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          if [ "$EVENT" = workflow_dispatch ]; then
+            printf '%s\n' "$INPUT_ARTICLE" > /tmp/articles.txt
+          else
+            git diff --name-only "$BEFORE" "$AFTER" -- 'articles/*.html' > /tmp/articles.txt || true
+          fi
+          if [ ! -s /tmp/articles.txt ]; then echo "articles/apollo-11.html" > /tmp/articles.txt; fi
+          cat /tmp/articles.txt
+      - name: Generate previews only
+        run: |
+          while IFS= read -r article; do
+            case "$article" in articles/*.html)
+              if [ -f "$article" ]; then python scripts/generate_reel_review.py --article "$article"; fi ;;
+            esac
+          done < /tmp/articles.txt
+      - name: Upload private review artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: instagram-reels-review-${{ github.run_number }}
+          path: reels-review/
+          if-no-files-found: ignore
+          retention-days: 14
