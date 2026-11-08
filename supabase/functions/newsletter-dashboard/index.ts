@@ -13,12 +13,14 @@ Deno.serve(async req=>{
  try{
   const token=req.headers.get("authorization")?.replace(/^Bearer /,"");
   if(!token)return reply({error:"Authentication required"},401,origin);
-  const url=Deno.env.get("SUPABASE_URL"),anon=Deno.env.get("SUPABASE_ANON_KEY"),apiKey=Deno.env.get("BREVO_API_KEY");
-  if(!url||!anon||!apiKey)return reply({error:"Service not configured"},503,origin);
+  const url=Deno.env.get("SUPABASE_URL"),anon=Deno.env.get("SUPABASE_ANON_KEY"),service=Deno.env.get("SUPABASE_SERVICE_ROLE_KEY"),apiKey=Deno.env.get("BREVO_API_KEY");
+  if(!url||!anon||!service||!apiKey)return reply({error:"Service not configured"},503,origin);
   const auth=createClient(url,anon,{auth:{persistSession:false,autoRefreshToken:false}});
   const {data:{user},error}=await auth.auth.getUser(token);
   if(error||!user)return reply({error:"Unauthorized"},401,origin);
-  const {data:admin,error:adminError}=await auth.from("dashboard_admins").select("user_id").eq("user_id",user.id).maybeSingle();
+  // Check administrator membership using a server-side privileged client after verifying the caller JWT.
+  const privileged=createClient(url,service,{auth:{persistSession:false,autoRefreshToken:false}});
+  const {data:admin,error:adminError}=await privileged.from("dashboard_admins").select("user_id").eq("user_id",user.id).maybeSingle();
   if(adminError||!admin)return reply({error:"Forbidden"},403,origin);
   const input=await req.json().catch(()=>({}));
   const page=Number(input.page??1);
