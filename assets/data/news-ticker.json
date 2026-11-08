@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-08T12:18:11.670413+00:00",
+  "updatedAt": "2026-11-08T13:15:01.831084+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "gulf",
+      "title": "وزير المواصلات البحريني لـ«الشرق الأوسط»: كل دولة تموّل حصتها في مشروع سكة حديد الخليج",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T12:37:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "gulf",
+      "title": "«قطار الخليج»... شبكة عابرة للحدود تربط الدول الـ6 وتعيد رسم خريطة النقل والتجارة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T12:37:19+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "غاسبريني: هدف روما تحقيق الدوري الإيطالي",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T12:26:10+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ميسي أول لاعب يفوز بالحذاء الذهبي في الدوري الأميركي موسمين متتاليين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T12:21:39+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إقالة حسام حسن... هل كان محمد صلاح كلمة السر؟",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T12:18:53+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "بانيايا يعود إلى إيطاليا لإجراء عملية جراحية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T12:12:30+00:00",
+      "breaking": false
+    },
     {
       "lang": "en",
       "category": "saudi",
@@ -14,7 +62,7 @@
       "category": "sports",
       "title": "غاسبريني: روما ضمن المنافسين على لقب الدوري الإيطالي",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T11:32:05+00:00",
+      "publishedAt": "2026-11-08T12:01:48+00:00",
       "breaking": false
     },
     {
@@ -22,7 +70,23 @@
       "category": "sports",
       "title": "بطل الرأس الأخضر فوزينيا يكافح للتأقلم مع وهج الشهرة في تشيلي",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T11:31:52+00:00",
+      "publishedAt": "2026-11-08T12:01:47+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "«مصفاة الذهب السعودية» تحصل على 10 رخص للتنقيب عن الذهب في تنزانيا",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:57:17+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مورينيو: ريال مدريد يملك روحاً جيدة وغرفة ملابس هادئة",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:55:16+00:00",
       "breaking": false
     },
     {
@@ -30,15 +94,31 @@
       "category": "saudi",
       "title": "«أديس» السعودية تفوز بعقود لتشغيل منصتين بحريتين بـ117 مليون دولار في الهند",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T11:14:38+00:00",
+      "publishedAt": "2026-11-08T11:38:25+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "gulf",
-      "title": "«قطار الخليج»... شبكة عابرة للحدود تربط الدول الـ6 وتعيد رسم خريطة النقل والتجارة",
+      "title": "قطار الخليج ينتقل إلى مرحلة التنفيذ... شبكة عابرة للدول الست بحلول 2030",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T11:10:01+00:00",
+      "publishedAt": "2026-11-08T11:37:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "أرباح «بدجت السعودية» تتراجع 19.7 % إلى 53.2 مليون دولار في 9 أشهر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:21:12+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "الآلاف يودعون دي ميغيل بالدموع في ملعب تينيريفي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T11:18:16+00:00",
       "breaking": false
     },
     {
@@ -51,14 +131,6 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "أرباح «بدجت السعودية» تتراجع 19.7 % إلى 53.2 مليون دولار في 9 أشهر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T10:47:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "علي ماهر.. من قناص الملاعب إلى سدة القيادة الفنية للفراعنة",
       "source": "الجزيرة نت",
@@ -66,11 +138,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مورينيو: ريال مدريد يملك روحاً جيدة وغرفة ملابس هادئة",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T10:06:09+00:00",
+      "lang": "en",
+      "category": "saudi",
+      "title": "Aramco’s Riyadh Office Suffers Limited Damage After Attack",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-08T10:24:20+00:00",
       "breaking": false
     },
     {
@@ -99,6 +171,22 @@
     },
     {
       "lang": "ar",
+      "category": "sports",
+      "title": "«إن بي إيه»: حامل اللقب يواصل صحوته... ووصيفه انتصاراته المتتالية",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T09:26:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "راسل غاضب بعد إيقاف لفته أثناء التنافس على الانطلاق أولاً في ساو باولو",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T09:10:38+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "saudi",
       "title": "المشاريع الكبرى تفتح أبواب النمو أمام المصانع الصغيرة والمتوسطة في السعودية",
       "source": "الشرق الأوسط",
@@ -111,14 +199,6 @@
       "title": "النيجيرية أوميغياكو أفضل لاعبة في مونديال الناشئات… و«الحذاء الذهبي» للأميركية دي ماريا",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T09:08:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Saudi EXIM Bank provides $11.53bn in credit facilities in first 9 months of 2026",
-      "source": "Arab News",
-      "publishedAt": "2026-11-08T09:05:49+00:00",
       "breaking": false
     },
     {
@@ -135,14 +215,6 @@
       "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T08:58:34+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Aramco Tower in Riyadh’s Financial Hub Damaged After Attack",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-08T08:54:58+00:00",
       "breaking": false
     },
     {
@@ -179,14 +251,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "ميسي أول لاعب يفوز بالحذاء الذهبي في الدوري الأميركي موسمين متتاليين",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T08:12:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "saudi",
       "title": "مؤسر سوق الأسهم السعودية يقلص خسائره ويتماسك فوق 10 آلاف نقطة",
       "source": "العربية",
@@ -199,6 +263,14 @@
       "title": "عمومية \"عزم السعودية\" تقر شراء 3.6 مليون سهم خزينة",
       "source": "العربية",
       "publishedAt": "2026-11-08T08:02:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دراما الدوري الأرجنتيني.. روزاريو يحتفل باللقب وبوكا يخطفه في اللحظة الأخيرة (فيديو)",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T07:53:24+00:00",
       "breaking": false
     },
     {
@@ -243,22 +315,6 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "الآلاف يودعون دي ميغيل بالدموع في ملعب تينيريفي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T06:17:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "بسبب برشلونة.. رافينيا يثير غضب جماهير البرازيل وتصريحاته تشعل أزمة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-08T06:16:21+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "saudi",
       "title": "التحالف يدمّر 3 صواريخ باتجاه الرياض و«الشرقية»... و«الشورى اليمني» يدعو لـ«حسم عسكري» في تعز (تغطية حية)",
       "source": "الشرق الأوسط",
@@ -271,6 +327,14 @@
       "title": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says",
       "source": "Reuters",
       "publishedAt": "2026-11-08T05:24:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "economy",
+      "title": "Ripples From the US Blue Wave Are Coming for Asian Shores",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-08T04:27:56+00:00",
       "breaking": false
     },
     {
@@ -348,25 +412,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "اتحاد الكرة المصري يقيل حسام حسن... ويؤكد: استقرار المنتخب أولوية لا تقبل التهاون",
+      "title": "3 ملايين دولار تعقّد نقل «خليجي 27» تلفزيونياً",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:17:21+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الإمارات تعلن تشكيلتها لمواجهة هندوراس وسوريا وديّاً",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:42:07+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
-      "source": "Reuters",
-      "publishedAt": "2026-11-07T16:35:43+00:00",
+      "publishedAt": "2026-11-07T18:05:04+00:00",
       "breaking": false
     }
   ],
