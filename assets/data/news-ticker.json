@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-08T10:21:51.743856+00:00",
+  "updatedAt": "2026-11-08T11:04:47.523964+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "أرباح «بدجت السعودية» تتراجع 19.7 % إلى 53.2 مليون دولار في 9 أشهر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T10:47:16+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -15,14 +23,6 @@
       "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T09:25:21+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "أرباح «بدجت السعودية» تتراجع 19.7 % إلى 53.2 مليون دولار في 9 أشهر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T09:10:28+00:00",
       "breaking": false
     },
     {
@@ -52,7 +52,7 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "حسام حسن.. مجد الأهلي والزمالك ونهاية مفاجئة مع الفراعنة",
+      "title": "حسام حسن.. مجد مع الأهلي والزمالك وإقالة مفاجئة من الفراعنة",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-08T09:03:53+00:00",
       "breaking": false
@@ -79,6 +79,22 @@
       "title": "وزارة الطاقة السعودية: محاولة استهداف مبنى تابع لشركة أرامكو في الرياض",
       "source": "العربية",
       "publishedAt": "2026-11-08T08:47:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T08:27:52+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "مصر تتوج ببطولة شمال أفريقيا... وتصعد رفقة المغرب لكأس الأمم للشباب",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T08:12:59+00:00",
       "breaking": false
     },
     {
@@ -139,34 +155,18 @@
     },
     {
       "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية: اعتراض وتدمير 4 صواريخ باليستية وكروز حوثية",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-08T07:42:53+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "sports",
       "title": "شاهد.. ركلة جزاء \"ماكرة\" تخطف الأضواء في دوري الدرجة الأولى السعودي",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-08T07:41:39+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "ميسي أول لاعب يحصد لقب هداف الدوري الأميركي مرتين متتاليتين",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-08T07:28:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية: اعتراض وتدمير 4 صواريخ باليستية وكروز حوثية",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-08T07:12:17+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "en",
-      "category": "economy",
-      "title": "Liverpool traders 'priced out' of £12,000 Christmas market pitches",
-      "source": "BBC",
-      "publishedAt": "2026-11-08T07:11:02+00:00",
       "breaking": false
     },
     {
@@ -226,14 +226,6 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "world",
-      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-08T03:48:00+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "world",
       "title": "الكونغرس الديمقراطي وسياسات ترامب.. مستقبل غامض",
@@ -263,14 +255,6 @@
       "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T23:42:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "ترامب يأمر بالتحقيق مع ديمقراطيين بتهمة \"تهديد الناس\"",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-07T23:03:49+00:00",
       "breaking": false
     },
     {
@@ -322,27 +306,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "سباق سعودي أمريكي للاستحواذ على نادي الاتحاد.. ومفاجأة حول موعد الحسم وقيمة الصفقة",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T21:58:24+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "world",
       "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
       "source": "Sky News",
       "publishedAt": "2026-11-07T21:53:05+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "مانشستر يونايتد يصطدم بأستون فيلا وسط مخاوف على منصب كاريك",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T21:12:26+00:00",
       "breaking": false
     },
     {
@@ -364,25 +332,17 @@
     {
       "lang": "ar",
       "category": "sports",
+      "title": "3 ملايين دولار تعقّد نقل «خليجي 27» تلفزيونياً",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T18:05:04+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
       "title": "أزمة نهائي مونديال 2026 تتصاعد.. الأرجنتين تقاضي الفيفا أمام \"كاس\" لإنقاذ نجومها",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-07T18:00:45+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الأرجنتين تستأنف ضد عقوبات \"فيفا\"",
-      "source": "العربية",
-      "publishedAt": "2026-11-07T17:17:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "القائمة الرسمية لمنتخب المغرب في كأس العالم للناشئين \"قطر 2026\"",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T17:16:49+00:00",
       "breaking": false
     },
     {
@@ -391,6 +351,14 @@
       "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
       "source": "Reuters",
       "publishedAt": "2026-11-07T16:35:43+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "world",
+      "title": "أمطار غزة.. الفصائل الفلسطينية تطالب بتدخل عاجل لوقف تفاقم المأساة الإنسانية",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-07T15:39:22+00:00",
       "breaking": false
     }
   ],
