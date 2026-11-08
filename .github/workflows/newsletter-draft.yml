@@ -1,5 +1,7 @@
 name: Prepare Deep Documentary newsletter draft
 on:
+  schedule:
+    - cron: '15 6 * * *' # 09:15 Asia/Riyadh
   workflow_dispatch:
     inputs:
       create_brevo_draft:
@@ -29,6 +31,13 @@ jobs:
           BREVO_LIST_ID: '3'
           BREVO_SENDER_EMAIL: no-reply@deepdocumentary.com
         run: python scripts/create_brevo_newsletter_draft.py --create-draft
+      - name: Prepare scheduled draft without sending
+        if: ${{ github.event_name == 'schedule' }}
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: '3'
+          BREVO_SENDER_EMAIL: no-reply@deepdocumentary.com
+        run: python scripts/create_brevo_newsletter_draft.py --create-draft --skip-existing
       - name: Store preview for review
         uses: actions/upload-artifact@v4
         with:
