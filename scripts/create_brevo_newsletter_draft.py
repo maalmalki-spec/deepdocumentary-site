@@ -16,6 +16,7 @@ API = "https://api.brevo.com/v3/emailCampaigns"
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--create-draft", action="store_true", help="Create a draft in Brevo; never send")
+    parser.add_argument("--skip-existing", action="store_true", help="Avoid duplicate daily drafts")
     args = parser.parse_args()
     if not DIGEST.exists():
         sys.exit("No prepared digest. Run prepare_daily_newsletter.py first.")
@@ -41,6 +42,16 @@ def main():
     key = os.environ.get("BREVO_API_KEY", "")
     if not key:
         sys.exit("BREVO_API_KEY is missing; no campaign created.")
+    if args.skip_existing:
+        check = urllib.request.Request(API + "?type=classic&status=draft&limit=100&offset=0", headers={"api-key": key, "accept": "application/json"})
+        try:
+            with urllib.request.urlopen(check, timeout=20) as response:
+                existing = json.load(response)
+            if any(c.get("name") == payload["name"] for c in existing.get("campaigns", [])):
+                print(json.dumps({"status": "existing_draft_skipped", "date": digest["date"], "sent": False}))
+                return
+        except (urllib.error.URLError, ValueError) as exc:
+            sys.exit("Unable to verify existing Brevo drafts; refusing duplicate creation.")
     req = urllib.request.Request(
         API,
         data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
