@@ -82,10 +82,10 @@ body=[f"""<!doctype html><html lang="ar"><head><meta charset="utf-8"><meta name=
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#0b0b0e"><tr><td align="center" style="padding:24px 8px">
 <table role="presentation" class="shell" width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;background:#111115;border:1px solid #343029">
 <tr><td style="padding:25px 26px;border-bottom:1px solid #423822;text-align:center">
-<a href="{base}" style="text-decoration:none;color:#d7b56b;font:bold 20px Georgia,serif;letter-spacing:3px">DEEP DOCUMENTARY</a>
+<a href="{base}" style="text-decoration:none;color:#d7b56b;font:bold 20px Georgia,serif;letter-spacing:3px"><img src="{base}assets/logo-email.png" alt="Deep Documentary" width="104" height="104" style="display:block;width:104px;height:104px;object-fit:contain;border:0;margin:0 auto 13px" /><span style="display:block">DEEP DOCUMENTARY</span></a>
 <div style="font:10px Arial,sans-serif;letter-spacing:4px;color:#8f8b84;margin-top:9px">BEYOND THE ORDINARY</div></td></tr>
 <tr><td class="pad" style="padding:47px 35px 34px;text-align:center;background:#17151a;background-image:linear-gradient(135deg,#211c19 0%,#101015 70%)">
-<div class="glow" style="color:#d9b76d;font:12px Arial,sans-serif;letter-spacing:4px">✦ &nbsp; THE DAILY EDITION &nbsp; ✦</div>
+<div style="font:11px Arial,sans-serif;letter-spacing:4px;color:#c5a15c;margin-bottom:16px">✦ &nbsp; THE DAILY EDITION &nbsp; ✦</div><div style="height:6px;width:100%;max-width:330px;margin:0 auto 22px;background:linear-gradient(90deg,transparent,#cba75d,transparent);border-radius:10px"></div>
 <h1 class="hero-title" style="font:normal 45px/1.14 Georgia,serif;color:#f7f0df;margin:22px 0 14px">Stories beyond<br><span style="color:#d7b56b">the surface.</span></h1>
 <div style="height:2px;background:#cba75d;width:65px;margin:23px auto"></div>
 <h2 dir="rtl" style="font:bold 23px/1.7 Tahoma,Arial,sans-serif;margin:12px 0 4px;color:#f2e9d7">{heading_ar}</h2>
@@ -104,7 +104,7 @@ body.append(f"""</table></td></tr>
 <tr><td style="padding:34px 26px;text-align:center;background:#18171a;border-top:1px solid #3c3529">
 <div style="font:normal 25px Georgia,serif;color:#d7b56b">Curiosity never ends.</div>
 <p dir="rtl" style="font:14px/1.8 Tahoma,Arial,sans-serif;color:#bfb8aa;margin:14px 0">كل يوم، قصة تستحق الاكتشاف.</p>
-<a href="{base}" style="color:#d7b56b;font:13px Arial,sans-serif">VISIT DEEPDOCUMENTARY.COM ↗</a></td></tr>
+<a href="{base}" style="display:inline-block;background:#cba75d;color:#111115;text-decoration:none;padding:15px 28px;border-radius:4px;font:bold 13px Arial,sans-serif;letter-spacing:1px">EXPLORE DEEP DOCUMENTARY ↗</a></td></tr>
 <tr><td style="padding:22px 26px 28px;text-align:center;color:#8d8982;font:12px/1.9 Arial,sans-serif">
 Deep Documentary Daily<br>
 <a href="{{{{ unsubscribe }}}}" style="color:#d7b56b;text-decoration:underline">إلغاء الاشتراك | Unsubscribe</a>
