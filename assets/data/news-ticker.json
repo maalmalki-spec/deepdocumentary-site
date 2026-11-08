@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T11:41:04.147454+00:00",
+  "updatedAt": "2026-11-08T12:18:11.670413+00:00",
   "items": [
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "وعد قطعه بعد مرض نادر.. نجم ألمانيا السابق يكرّس حياته لإنقاذ أطفال غانا",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-08T11:35:47+00:00",
+      "lang": "en",
+      "category": "saudi",
+      "title": "Financing Saudi Arabia’s export ambitions",
+      "source": "Arab News",
+      "publishedAt": "2026-11-08T12:12:16+00:00",
       "breaking": false
     },
     {
@@ -67,14 +67,6 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T10:12:33+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "مورينيو: ريال مدريد يملك روحاً جيدة وغرفة ملابس هادئة",
       "source": "الشرق الأوسط",
@@ -95,6 +87,14 @@
       "title": "\"بدجت السعودية\" تقلص أسطول التأجير قصير الأجل 2000 سيارة.. والتعافي في 2027",
       "source": "العربية",
       "publishedAt": "2026-11-08T09:43:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "وزير الخارجية السعودي: الحوثيون فتحوا باباً لا يحتملونه",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T09:29:24+00:00",
       "breaking": false
     },
     {
@@ -186,14 +186,6 @@
       "breaking": false
     },
     {
-      "lang": "en",
-      "category": "saudi",
-      "title": "Riyadh financial district targeted, Aramco tower damaged: witnesses",
-      "source": "France 24",
-      "publishedAt": "2026-11-08T08:11:54+00:00",
-      "breaking": false
-    },
-    {
       "lang": "ar",
       "category": "saudi",
       "title": "مؤسر سوق الأسهم السعودية يقلص خسائره ويتماسك فوق 10 آلاف نقطة",
@@ -207,14 +199,6 @@
       "title": "عمومية \"عزم السعودية\" تقر شراء 3.6 مليون سهم خزينة",
       "source": "العربية",
       "publishedAt": "2026-11-08T08:02:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "ميسي أول لاعب يحصد لقب هداف الدوري الأميركي مرتين متتاليتين",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-08T07:59:40+00:00",
       "breaking": false
     },
     {
@@ -279,14 +263,6 @@
       "title": "التحالف يدمّر 3 صواريخ باتجاه الرياض و«الشرقية»... و«الشورى اليمني» يدعو لـ«حسم عسكري» في تعز (تغطية حية)",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-08T05:59:26+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "التحالف: اعتراض وتدمير 4 صواريخ باليستية وكروز باتجاه الرياض وجنوب السعودية",
-      "source": "العربية",
-      "publishedAt": "2026-11-08T05:48:00+00:00",
       "breaking": false
     },
     {
@@ -386,27 +362,11 @@
       "breaking": false
     },
     {
-      "lang": "ar",
-      "category": "sports",
-      "title": "3 ملايين دولار تعقّد نقل «خليجي 27» تلفزيونياً",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:05:04+00:00",
-      "breaking": false
-    },
-    {
       "lang": "en",
       "category": "saudi",
       "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
       "source": "Reuters",
       "publishedAt": "2026-11-07T16:35:43+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "world",
-      "title": "أمطار غزة.. الفصائل الفلسطينية تطالب بتدخل عاجل لوقف تفاقم المأساة الإنسانية",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T15:39:22+00:00",
       "breaking": false
     }
   ],
