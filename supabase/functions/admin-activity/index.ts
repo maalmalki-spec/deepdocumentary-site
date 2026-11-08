@@ -34,8 +34,25 @@ Deno.serve(async (req) => {
     if(adminError||!admin) return respond({error:"Forbidden"},403,origin);
     const input=await req.json().catch(()=>({}));
     const action=input.action;
-    if(!["record_dashboard_access","list"].includes(action)) return respond({error:"Invalid action"},400,origin);
+    if(!["record_dashboard_access","list","verify_error_logging"].includes(action)) return respond({error:"Invalid action"},400,origin);
     const db=createClient(url,service,{auth:{persistSession:false,autoRefreshToken:false}});
+    if(action==="verify_error_logging"){
+      // Administrator-only end-to-end write verification. No sensitive details are stored.
+      const probeId=crypto.randomUUID();
+      const {data:probe,error:probeError}=await db.from("edge_function_errors")
+        .insert({function_name:"admin-activity",error_code:"MONITORING_PROBE",message:"Administrator-initiated monitoring verification"})
+        .select("id").single();
+      if(probeError||!probe?.id){
+        console.warn("Monitoring probe failed",probeError?.code??"NO_ID");
+        return respond({success:false,monitoring:"unavailable"},503,origin);
+      }
+      const {error:cleanupError}=await db.from("edge_function_errors").delete().eq("id",probe.id);
+      if(cleanupError){
+        console.warn("Monitoring probe cleanup failed",cleanupError.code);
+        return respond({success:true,monitoring:"write_ok",cleanup:"failed"},200,origin);
+      }
+      return respond({success:true,monitoring:"write_ok",cleanup:"ok"},200,origin);
+    }
     if(action==="record_dashboard_access"){
       const {error:insertError}=await db.from("admin_activity_logs").insert({actor_user_id:user.id,event_type:"dashboard_access",description:"Administrator opened dashboard",metadata:{}});
       if(insertError) throw insertError;
