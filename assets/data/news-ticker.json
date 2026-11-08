@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-08T08:07:49.841067+00:00",
+  "updatedAt": "2026-11-08T08:55:10.425476+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "بعد 7300 راكب في الرياض.. السعودية تخطط لتوسيع المركبات ذاتية القيادة إلى جدة والدمام",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T08:12:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ميسي أول لاعب يفوز بالحذاء الذهبي في الدوري الأميركي موسمين متتاليين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T08:12:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Riyadh financial district targeted, Aramco tower damaged: witnesses",
+      "source": "France 24",
+      "publishedAt": "2026-11-08T08:11:54+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "مؤسر سوق الأسهم السعودية يقلص خسائره ويتماسك فوق 10 آلاف نقطة",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T08:11:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "عمومية \"عزم السعودية\" تقر شراء 3.6 مليون سهم خزينة",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T08:02:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "دراما الدوري الأرجنتيني.. روزاريو يحتفل باللقب وبوكا يخطفه في اللحظة الأخيرة (فيديو)",
+      "source": "الجزيرة نت",
+      "publishedAt": "2026-11-08T07:53:24+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ميسي يدخل تاريخ الدوري الأميركي",
+      "source": "العربية",
+      "publishedAt": "2026-11-08T07:53:00+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "sports",
@@ -26,6 +82,22 @@
       "breaking": false
     },
     {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T07:14:20+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية: اعتراض وتدمير 4 صواريخ باليستية وكروز حوثية",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-08T07:12:17+00:00",
+      "breaking": false
+    },
+    {
       "lang": "en",
       "category": "economy",
       "title": "Liverpool traders 'priced out' of £12,000 Christmas market pitches",
@@ -43,34 +115,10 @@
     },
     {
       "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 6 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T06:20:59+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "بسبب برشلونة.. رافينيا يثير غضب جماهير البرازيل وتصريحاته تشعل أزمة",
       "source": "الجزيرة نت",
       "publishedAt": "2026-11-08T06:16:21+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "الدفاعات السعودية تدمّر 3 صواريخ باليستية حوثية باتجاه الرياض و«الشرقية»",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T06:11:31+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية: اعتراض وتدمير صاروخين بالستيين حوثيين",
-      "source": "سكاي نيوز عربية",
-      "publishedAt": "2026-11-08T06:00:27+00:00",
       "breaking": false
     },
     {
@@ -92,9 +140,9 @@
     {
       "lang": "ar",
       "category": "saudi",
-      "title": "تراجع أرباح \"بدجت السعودية\" الفصلية 10.6% إلى 13 مليون دولار",
-      "source": "العربية",
-      "publishedAt": "2026-11-08T05:20:00+00:00",
+      "title": "الدفاعات السعودية تدمّر 3 صواريخ باليستية حوثية باتجاه الرياض و«الشرقية»",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T05:41:23+00:00",
       "breaking": false
     },
     {
@@ -139,6 +187,14 @@
     },
     {
       "lang": "ar",
+      "category": "world",
+      "title": "ترامب يأمر بالتحقيق مع ديمقراطيين بتهمة \"تهديد الناس\"",
+      "source": "سكاي نيوز عربية",
+      "publishedAt": "2026-11-07T23:03:49+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
       "category": "sports",
       "title": "«السوبر الأفريقي»: اتحاد العاصمة لمفاجأة صندوانز في عقر داره",
       "source": "الشرق الأوسط",
@@ -172,14 +228,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "ضغوط على فينغر لمنافسة إنفانتينو... ومرشح غامض يتأهب لدخول السباق",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:16:41+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:15:11+00:00",
@@ -191,6 +239,14 @@
       "title": "«الدوري الفرنسي»: سان جيرمان لتوسيع الفارق... ولانس لتجاوز «خسارته المُذلة»",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:08:27+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "ضغوط على فينغر لمنافسة إنفانتينو... ومرشح غامض يتأهب لدخول السباق",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:08:00+00:00",
       "breaking": false
     },
     {
@@ -223,14 +279,6 @@
       "title": "اتحاد الكرة المصري يقيل حسام حسن... ويؤكد: استقرار المنتخب أولوية لا تقبل التهاون",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T19:17:21+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "وزير الخارجية السعودي: الحوثيون فتحوا باباً لا يحتملونه",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T19:11:49+00:00",
       "breaking": false
     },
     {
@@ -299,18 +347,10 @@
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "قرية القضاة المصرية تحقق شهرة واسعة بفضل كرة القدم",
+      "category": "economy",
+      "title": "تراجع عوائد السندات في منطقة اليورو مع استقرار أسعار النفط",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T10:08:01+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "رياضي / وزارة الرياضة تختتم الأنشطة المصاحبة لحملة \"أنت المشروع الرياضي\"",
-      "source": "وكالة الأنباء السعودية",
-      "publishedAt": "2026-11-07T09:34:16+00:00",
+      "publishedAt": "2026-11-07T09:46:52+00:00",
       "breaking": false
     },
     {
