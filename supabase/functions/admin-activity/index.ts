@@ -1,4 +1,16 @@
 import { createClient } from "npm:@supabase/supabase-js@2";
+
+// Best-effort error reporting. Never log user data, tokens or raw exception text.
+async function recordFunctionError(code: string, message: string) {
+  try {
+    const url = Deno.env.get("SUPABASE_URL");
+    const service = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
+    if (!url || !service) return;
+    const db = createClient(url, service, {auth:{persistSession:false,autoRefreshToken:false}});
+    const {error} = await db.from("edge_function_errors").insert({function_name:"admin-activity",error_code:code,message});
+    if (error) console.warn("Error monitoring insert failed", error.code);
+  } catch { console.warn("Error monitoring unavailable"); }
+}
 const origins = new Set(["https://deepdocumentary.com", "https://www.deepdocumentary.com"]);
 function respond(data: unknown, status: number, origin: string) {
   const headers: Record<string,string> = {"Content-Type":"application/json","Cache-Control":"no-store","Vary":"Origin"};
@@ -14,7 +26,7 @@ Deno.serve(async (req) => {
     const token=(req.headers.get("authorization")??"").replace(/^Bearer /,"");
     if(!token) return respond({error:"Unauthorized"},401,origin);
     const url=Deno.env.get("SUPABASE_URL")!,anon=Deno.env.get("SUPABASE_ANON_KEY")!,service=Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
-    if(!url||!anon||!service) return respond({error:"Server configuration missing"},503,origin);
+    if(!url||!anon||!service) { await recordFunctionError("CONFIG_MISSING","Server configuration missing"); return respond({error:"Server configuration missing"},503,origin); }
     const userDb=createClient(url,anon,{global:{headers:{Authorization:"Bearer "+token}},auth:{persistSession:false,autoRefreshToken:false}});
     const {data:{user},error}=await userDb.auth.getUser(token);
     if(error||!user) return respond({error:"Unauthorized"},401,origin);
@@ -31,5 +43,5 @@ Deno.serve(async (req) => {
     const {data:events,error:listError}=await db.from("admin_activity_logs").select("id,created_at,actor_user_id,event_type,description").order("created_at",{ascending:false}).limit(50);
     if(listError) throw listError;
     return respond({success:true,events},200,origin);
-  } catch(e) {console.error("admin activity error",e);return respond({error:"Unable to process activity log"},500,origin)}
+  } catch(e) {console.error("admin activity error",e);await recordFunctionError("UNHANDLED_EXCEPTION","Unable to process activity log");return respond({error:"Unable to process activity log"},500,origin)}
 });
