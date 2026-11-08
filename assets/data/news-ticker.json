@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:30:04.901311+00:00",
+  "updatedAt": "2026-11-08T00:04:45.289715+00:00",
   "items": [
     {
       "lang": "en",
@@ -12,17 +12,41 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:46+00:00",
+      "publishedAt": "2026-11-07T22:45:56+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«الدوري الإيطالي»: كالياري يصعق فروزينوني بهدف",
+      "title": "«البريميرليغ»: آرسنال يبتعد بالصدارة بهدف أوديغارد... ونيوكاسل يتعادل مع فولهام",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:23+00:00",
+      "publishedAt": "2026-11-07T22:36:47+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "«الدوح» و«إكسايتد ليدي» يتوجان بكأسي سعود بن سلمان",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:12:00+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:56+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "ar",
+      "category": "sports",
+      "title": "اتحاد الكرة المصري يدعو إلى الهدوء... وسط ترقب حسم مصير حسام حسن",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-07T22:09:46+00:00",
       "breaking": false
     },
     {
@@ -52,14 +76,6 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "حمادة صدقي مدرباً جديداً لمنتخب مصر الأولمبي",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:09:06+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
       "title": "انتكاسة ترمب تهدد إنفانتينو بفتح ملفات «فيفا» في الكونغرس",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T22:09:01+00:00",
@@ -76,9 +92,9 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "«البوندسليغا»: بايرن يعزز صدارته بثنائية في ماينز... ودورتموند يطيح بإلفيرسبيرغ ويلاحقه",
+      "title": "«جائزة البرازيل»: أنتونيلي «بطل العالم» الأسرع في التجارب الثانية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T22:08:36+00:00",
+      "publishedAt": "2026-11-07T22:08:38+00:00",
       "breaking": false
     },
     {
@@ -164,17 +180,17 @@
     {
       "lang": "ar",
       "category": "sports",
-      "title": "إنفانتينو يتراجع عن توسيع عدد منتخبات المونديال لاستمالة الناخبين",
+      "title": "الإمارات تعلن تشكيلتها لمواجهة هندوراس وسوريا وديّاً",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:53:47+00:00",
+      "publishedAt": "2026-11-07T18:42:07+00:00",
       "breaking": false
     },
     {
       "lang": "ar",
-      "category": "sports",
-      "title": "الإمارات تعلن تشكيلتها لمواجهة هندوراس وسوريا وديّاً",
+      "category": "saudi",
+      "title": "السعودية تطلق خدمة «أبشر سفر للزوار» للقادمين عبر المنافذ البرية",
       "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T18:42:07+00:00",
+      "publishedAt": "2026-11-07T18:31:38+00:00",
       "breaking": false
     },
     {
@@ -327,14 +343,6 @@
       "title": "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
       "source": "The Guardian",
       "publishedAt": "2026-11-07T03:08:16+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "gulf",
-      "title": "إيران تتجاوز 7 آلاف هجوم ضد دول خليجية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-06T23:58:02+00:00",
       "breaking": false
     }
   ],
