@@ -31,7 +31,6 @@ def main():
         "type": "classic",
         "htmlContent": digest["html"],
         "recipients": {"listIds": [list_id]},
-        "tag": "deep-documentary-daily",
     }
     if not args.create_draft:
         print(json.dumps({"mode": "dry-run", "date": digest["date"], "kind": digest["kind"],
