@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Prepare one bilingual daily digest; never sends email or fabricates facts."""
-import datetime as dt, json, os, pathlib, re, html
+import datetime as dt, json, os, pathlib, re, html, hashlib
 from zoneinfo import ZoneInfo
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 CAT=ROOT/"assets/documentary-catalogue.json"
@@ -13,14 +13,17 @@ state=json.loads(STATE.read_text(encoding="utf-8"))
 sent=set(state.get("sent_slugs",[]))
 items=[s for s in catalog if s["slug"] not in sent]
 def valid(s):
-    return bool(s.get("slug") and s.get("ar") and s.get("en") and s.get("image"))
+    return bool(s.get("slug") and s.get("ar") and s.get("en") and s.get("image") and not re.search("[\u0600-\u06ff]", str(s["en"])))
+invalid=[s.get("slug","unknown") for s in items if not valid(s)]
+if invalid: print("Excluded articles missing valid English titles:", ", ".join(invalid))
 items=[s for s in items if valid(s)]
+items=sorted(items,key=lambda s:hashlib.sha256((today+":"+s["slug"]).encode()).hexdigest())
 kind="new" if items else "archive"
 if not items:
     archive=[s for s in catalog if valid(s)]
     if archive:
-        used=state.get("archive_rotation",0)
-        items=[archive[used % len(archive)]]
+        offset=(dt.date.fromisoformat(today)-dt.date(2026,1,1)).days
+        items=[archive[offset % len(archive)]]
     else:
         items=[]
 def clean(s):return html.escape(str(s),quote=True)
@@ -61,7 +64,7 @@ FACTS=[
 ("أسرار التاريخ | History","آلة أنتيكيثيرا","The Antikythera mechanism","آلة يونانية قديمة معقدة استخدمت تروسًا لحساب دورات فلكية.","An ancient Greek geared device used to calculate astronomical cycles.","https://www.britishmuseum.org/")
 ]
 day_number=(dt.date.fromisoformat(today)-dt.date(2026,1,1)).days
-knowledge=[FACTS[(day_number*4+i)%len(FACTS)] for i in range(4)]
+knowledge=[FACTS[(day_number+i)%len(FACTS)] for i in range(min(4,len(FACTS)))]
 def knowledge_card(f):
     category,ar,en,ar_text,en_text,source=f
     return ('<tr><td style="padding:16px 25px;background:#1b1a1f;border-bottom:1px solid #443b2b">'
