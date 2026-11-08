@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-08T04:30:02.273481+00:00",
+  "updatedAt": "2026-11-08T05:22:53.173560+00:00",
   "items": [
+    {
+      "lang": "ar",
+      "category": "saudi",
+      "title": "السعودية تعلن «زوال الخطر» عن 4 مدن بعد إطلاق الإنذار المبكر",
+      "source": "الشرق الأوسط",
+      "publishedAt": "2026-11-08T03:59:15+00:00",
+      "breaking": false
+    },
+    {
+      "lang": "en",
+      "category": "saudi",
+      "title": "Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
+      "source": "Arab News",
+      "publishedAt": "2026-11-08T03:26:36+00:00",
+      "breaking": false
+    },
     {
       "lang": "ar",
       "category": "world",
@@ -15,14 +31,6 @@
       "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
       "source": "Reuters",
       "publishedAt": "2026-11-08T03:11:00+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "saudi",
-      "title": "السعودية تعلن «زوال الخطر» عن 4 مدن بعد إطلاق الإنذار المبكر",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-08T03:09:38+00:00",
       "breaking": false
     },
     {
@@ -210,6 +218,14 @@
       "breaking": false
     },
     {
+      "lang": "ar",
+      "category": "sports",
+      "title": "أرسنال يحافظ على الصدارة بهدف أوديغارد",
+      "source": "العربية",
+      "publishedAt": "2026-11-07T17:04:00+00:00",
+      "breaking": false
+    },
+    {
       "lang": "en",
       "category": "saudi",
       "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
@@ -235,26 +251,10 @@
     },
     {
       "lang": "ar",
-      "category": "world",
-      "title": "أمطار غزة.. الفصائل الفلسطينية تطالب بتدخل عاجل لوقف تفاقم المأساة الإنسانية",
-      "source": "الجزيرة نت",
-      "publishedAt": "2026-11-07T15:39:22+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
       "category": "sports",
       "title": "مصادر لـ«الشرق الأوسط»: «المؤجلة» ستقام في 20 و21 نوفمبر",
       "source": "الشرق الأوسط",
       "publishedAt": "2026-11-07T15:11:15+00:00",
-      "breaking": false
-    },
-    {
-      "lang": "ar",
-      "category": "sports",
-      "title": "الأهلي يعزز جهاز بوسيتش بأربعة أسماء أوروبية",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-11-07T14:27:18+00:00",
       "breaking": false
     },
     {
