@@ -9,6 +9,8 @@ on:
   push:
     paths:
       - "articles/*.html"
+      - "scripts/generate_reel_review.py"
+      - ".github/workflows/generate-instagram-reels.yml"
 permissions:
   contents: read
 jobs:
@@ -38,6 +40,7 @@ jobs:
           else
             git diff --name-only "$BEFORE" "$AFTER" -- 'articles/*.html' > /tmp/articles.txt || true
           fi
+          if [ ! -s /tmp/articles.txt ]; then printf "%s\\n" "articles/apollo-11.html" > /tmp/articles.txt; fi
           cat /tmp/articles.txt
       - name: Generate previews only
         run: |
