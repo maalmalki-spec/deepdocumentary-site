@@ -1,0 +1,37 @@
+name: Prepare Deep Documentary newsletter draft
+on:
+  workflow_dispatch:
+    inputs:
+      create_brevo_draft:
+        description: "Create a Brevo draft (never send)"
+        type: boolean
+        required: true
+        default: false
+permissions:
+  contents: read
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Prepare bilingual newsletter
+        run: python scripts/prepare_daily_newsletter.py
+      - name: Validate prepared newsletter
+        run: python scripts/create_brevo_newsletter_draft.py
+      - name: Create Brevo draft only when explicitly requested
+        if: ${{ inputs.create_brevo_draft == true }}
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: '3'
+          BREVO_SENDER_EMAIL: no-reply@deepdocumentary.com
+        run: python scripts/create_brevo_newsletter_draft.py --create-draft
+      - name: Store preview for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: deep-documentary-newsletter-preview
+          path: newsletter/pending-digest.json
+          retention-days: 7
