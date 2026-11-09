@@ -21,8 +21,9 @@ if not key:
 base = "https://api.brevo.com/v3"
 headers = {"api-key": key, "accept": "application/json", "Content-Type": "application/json"}
 
-def api(method, path):
-    req = urllib.request.Request(base + path, headers=headers, method=method)
+def api(method, path, payload=None):
+    body = json.dumps(payload).encode("utf-8") if payload is not None else None
+    req = urllib.request.Request(base + path, data=body, headers=headers, method=method)
     try:
         with urllib.request.urlopen(req, timeout=25) as response:
             data = response.read()
@@ -63,8 +64,20 @@ try:
 except (TypeError, ValueError):
     sys.exit("Invalid recipient list IDs in Brevo campaign; no email sent.")
 if list_id not in recipient_ids:
-    print("Recipient list verification failed:", {"configured_list": list_id, "campaign_lists": sorted(recipient_ids)}, file=sys.stderr)
-    sys.exit("Campaign recipients do not match configured newsletter list.")
+    # Repair a draft with missing recipients, then independently verify the saved settings.
+    # Never overwrite a draft that already targets another list.
+    if recipient_ids or recipients.get("exclusionListIds") or recipients.get("segmentIds"):
+        sys.exit("Draft has unexpected recipient targeting; refusing to modify or send.")
+    api("PUT", "/emailCampaigns/" + str(campaign["id"]), {"recipients": {"listIds": [list_id]}})
+    detail = api("GET", "/emailCampaigns/" + str(campaign["id"]))
+    recipients = detail.get("recipients") or {}
+    try:
+        recipient_ids = {int(value) for value in (recipients.get("listIds") or [])}
+    except (TypeError, ValueError):
+        sys.exit("Invalid recipient list IDs after draft update; no email sent.")
+    if recipient_ids != {list_id} or detail.get("status") != "draft":
+        sys.exit("Unable to verify updated draft recipient list and status; no email sent.")
+    print("Draft recipient list repaired and verified:", list_id)
 # Check actual active recipient count; never send to an unverified/empty list.
 contacts = api("GET", "/contacts/lists/" + str(list_id))
 if int(contacts.get("totalSubscribers", 0)) < 1:
