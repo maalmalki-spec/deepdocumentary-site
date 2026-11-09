@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Send exactly one approved-format daily Brevo campaign; fail closed on uncertainty."""
+import argparse
 import datetime as dt
 import json
 import os
@@ -10,6 +11,9 @@ import urllib.parse
 import urllib.request
 from zoneinfo import ZoneInfo
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--verify-only", action="store_true", help="Check existing Brevo campaign without changing or sending it")
+args = parser.parse_args()
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 digest = json.loads((ROOT / "newsletter/pending-digest.json").read_text(encoding="utf-8"))
 today = dt.datetime.now(ZoneInfo("Asia/Riyadh")).date().isoformat()
@@ -78,6 +82,9 @@ if recipient_ids != {list_id}:
     # Only repair a draft if Brevo reports no recipient targeting at all.
     if recipient_ids or recipients.get("exclusionListIds") or recipients.get("segmentIds") or recipients.get("segments"):
         sys.exit("Draft has unexpected recipient targeting; refusing to modify or send.")
+    if args.verify_only:
+        print("VERIFY_ONLY: no recipient lists found; draft needs repair. No changes made.")
+        sys.exit(1)
     api("PUT", "/emailCampaigns/" + str(campaign["id"]), {"recipients": {"listIds": [list_id]}})
     detail = api("GET", "/emailCampaigns/" + str(campaign["id"]))
     recipients = detail.get("recipients") or {}
@@ -94,5 +101,8 @@ if detail.get("status") != "draft":
 contacts = api("GET", "/contacts/lists/" + str(list_id))
 if int(contacts.get("totalSubscribers", 0)) < 1:
     sys.exit("No confirmed active subscribers; no email sent.")
+if args.verify_only:
+    print(json.dumps({"status": "verified_without_sending", "campaign_id": campaign["id"], "list_id": list_id, "recipient_count": contacts.get("totalSubscribers")}))
+    sys.exit(0)
 api("POST", "/emailCampaigns/" + str(campaign["id"]) + "/sendNow")
 print(json.dumps({"status": "send_requested", "date": today, "campaign_id": campaign["id"], "recipient_count": contacts.get("totalSubscribers")}))
