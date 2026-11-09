@@ -9,6 +9,11 @@ on:
         type: boolean
         required: true
         default: false
+      verify_brevo:
+        description: "Verify Brevo recipients only (no changes, no emails)"
+        type: boolean
+        required: true
+        default: false
       send_today:
         description: "Send today's newsletter once (checks existing campaign and subscribers)"
         type: boolean
@@ -31,7 +36,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Reject conflicting manual options
-        if: ${{ inputs.create_brevo_draft == true && inputs.send_today == true }}
+        if: ${{ (inputs.create_brevo_draft == true && (inputs.send_today == true || inputs.verify_brevo == true)) || (inputs.send_today == true && inputs.verify_brevo == true) }}
         run: |
           echo "Choose either create_brevo_draft or send_today, not both." >&2
           exit 1
@@ -59,6 +64,12 @@ jobs:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           BREVO_LIST_ID: '3'
         run: python scripts/send_daily_newsletter.py
+      - name: Verify Brevo recipient settings without sending
+        if: ${{ inputs.verify_brevo == true }}
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: '3'
+        run: python scripts/send_daily_newsletter.py --verify-only
       - name: Store preview for review
         uses: actions/upload-artifact@v4
         with:
