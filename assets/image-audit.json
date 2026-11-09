@@ -1,89 +1,5 @@
 [
   {
-    "page": "articles/canva-video-editor-beginners-guide.html",
-    "url": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/mary-celeste.html",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=1187",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/mary-celeste.html",
-    "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/chernobyl.html",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=1600",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/chernobyl.html",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA%2002790015%20(5613115146).jpg?width=1200",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/chernobyl.html",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA%2002790036%20(5613126700).jpg?width=1200",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/wow-signal-mystery.html",
-    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/wow-signal-mystery.html",
-    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/wow-signal-mystery.html",
-    "url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/wow-signal-mystery.html",
-    "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/wow-signal-mystery.html",
-    "url": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/wow-signal-mystery.html",
-    "url": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=1400&q=85",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
-    "page": "articles/apollo-8.html",
-    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/apollo8_earthrise.jpg?crop=faces%2Cfocalpoint&fit=crop&h=150&w=150",
-    "status": "download_failed",
-    "error": "Image too small"
-  },
-  {
-    "page": "articles/apollo-8.html",
-    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "status": "manual_review_required",
-    "reason": "Source license and identity must be verified before archiving"
-  },
-  {
     "page": "articles/library-of-alexandria.html",
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionTemple.jpg",
     "status": "manual_review_required",
@@ -120,6 +36,42 @@
     "reason": "Source license and identity must be verified before archiving"
   },
   {
+    "page": "articles/canva-video-editor-beginners-guide.html",
+    "url": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/chernobyl.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=1600",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/chernobyl.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA%2002790015%20(5613115146).jpg?width=1200",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/chernobyl.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA%2002790036%20(5613126700).jpg?width=1200",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/black-holes.html",
+    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=88",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/black-holes.html",
+    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1500&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
     "page": "articles/apollo-11.html",
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo_11_lunar_module.jpg",
     "status": "manual_review_required",
@@ -138,14 +90,62 @@
     "reason": "Source license and identity must be verified before archiving"
   },
   {
-    "page": "articles/black-holes.html",
-    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=88",
+    "page": "articles/mary-celeste.html",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=1187",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
   {
-    "page": "articles/black-holes.html",
-    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1500&q=85",
+    "page": "articles/mary-celeste.html",
+    "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/apollo-8.html",
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/apollo8_earthrise.jpg?crop=faces%2Cfocalpoint&fit=crop&h=150&w=150",
+    "status": "download_failed",
+    "error": "Image too small"
+  },
+  {
+    "page": "articles/apollo-8.html",
+    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/wow-signal-mystery.html",
+    "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/wow-signal-mystery.html",
+    "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/wow-signal-mystery.html",
+    "url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/wow-signal-mystery.html",
+    "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/wow-signal-mystery.html",
+    "url": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?auto=format&fit=crop&w=1400&q=85",
+    "status": "manual_review_required",
+    "reason": "Source license and identity must be verified before archiving"
+  },
+  {
+    "page": "articles/wow-signal-mystery.html",
+    "url": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=1400&q=85",
     "status": "manual_review_required",
     "reason": "Source license and identity must be verified before archiving"
   },
