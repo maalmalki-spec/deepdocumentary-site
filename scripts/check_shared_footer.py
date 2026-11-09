@@ -37,7 +37,7 @@ checked = 0
 for path in sorted(ROOT.rglob("*.html")):
     if any(part in SKIP or part.startswith(".") for part in path.relative_to(ROOT).parts):
         continue
-    text = path.read_text(encoding="utf-8")
+    # The authenticated article editor is an admin tool, not a public content page.\n    if path.relative_to(ROOT).as_posix() == "article-editor.html":\n        continue\n    text = path.read_text(encoding="utf-8")
     if "<html" not in text.lower():
         continue
     checked += 1
