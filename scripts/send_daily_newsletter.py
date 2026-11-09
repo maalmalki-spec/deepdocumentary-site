@@ -55,29 +55,41 @@ if campaign.get("status") != "draft":
 if campaign.get("subject") != digest.get("subject"):
     sys.exit("Draft subject differs from today's prepared digest; refusing to send.")
 list_id = int(os.environ.get("BREVO_LIST_ID", "3"))
-# Campaign listings can omit recipient details; verify the full campaign before sending.
+# Brevo's campaign-detail response represents recipient lists as
+# recipients.lists = [{"id": 3, "name": "..."}], while campaign creation
+# and updates use recipients.listIds = [3]. Accept both response shapes.
 detail = api("GET", "/emailCampaigns/" + str(campaign["id"]))
 recipients = detail.get("recipients") or {}
-raw_ids = recipients.get("listIds") or []
-try:
-    recipient_ids = {int(value) for value in raw_ids}
-except (TypeError, ValueError):
-    sys.exit("Invalid recipient list IDs in Brevo campaign; no email sent.")
-if list_id not in recipient_ids:
-    # Repair a draft with missing recipients, then independently verify the saved settings.
-    # Never overwrite a draft that already targets another list.
-    if recipient_ids or recipients.get("exclusionListIds") or recipients.get("segmentIds"):
+
+def recipient_list_ids(value):
+    ids = set()
+    if not isinstance(value, dict):
+        return ids
+    for entry in (value.get("listIds") or []) + (value.get("lists") or []):
+        raw = entry.get("id") if isinstance(entry, dict) else entry
+        try:
+            ids.add(int(raw))
+        except (TypeError, ValueError):
+            sys.exit("Unrecognized recipient list ID; no email sent.")
+    return ids
+
+recipient_ids = recipient_list_ids(recipients)
+if recipient_ids != {list_id}:
+    # Only repair a draft if Brevo reports no recipient targeting at all.
+    if recipient_ids or recipients.get("exclusionListIds") or recipients.get("segmentIds") or recipients.get("segments"):
         sys.exit("Draft has unexpected recipient targeting; refusing to modify or send.")
     api("PUT", "/emailCampaigns/" + str(campaign["id"]), {"recipients": {"listIds": [list_id]}})
     detail = api("GET", "/emailCampaigns/" + str(campaign["id"]))
     recipients = detail.get("recipients") or {}
-    try:
-        recipient_ids = {int(value) for value in (recipients.get("listIds") or [])}
-    except (TypeError, ValueError):
-        sys.exit("Invalid recipient list IDs after draft update; no email sent.")
+    recipient_ids = recipient_list_ids(recipients)
     if recipient_ids != {list_id} or detail.get("status") != "draft":
+        print("Brevo recipient verification:", {"recipient_keys": sorted(recipients.keys()), "list_ids": sorted(recipient_ids), "status": detail.get("status")}, file=sys.stderr)
         sys.exit("Unable to verify updated draft recipient list and status; no email sent.")
     print("Draft recipient list repaired and verified:", list_id)
+else:
+    print("Brevo recipient list verified:", list_id)
+if detail.get("status") != "draft":
+    sys.exit("Campaign no longer a draft; no email sent.")
 # Check actual active recipient count; never send to an unverified/empty list.
 contacts = api("GET", "/contacts/lists/" + str(list_id))
 if int(contacts.get("totalSubscribers", 0)) < 1:
