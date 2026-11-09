@@ -9,6 +9,11 @@ on:
         type: boolean
         required: true
         default: false
+      send_today:
+        description: "Send today's newsletter once (checks existing campaign and subscribers)"
+        type: boolean
+        required: true
+        default: false
 concurrency:
   group: deep-documentary-daily-newsletter
   cancel-in-progress: false
@@ -25,19 +30,24 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Reject conflicting manual options
+        if: ${{ inputs.create_brevo_draft == true && inputs.send_today == true }}
+        run: |
+          echo "Choose either create_brevo_draft or send_today, not both." >&2
+          exit 1
       - name: Prepare bilingual newsletter
         run: python scripts/prepare_daily_newsletter.py
       - name: Validate prepared newsletter
         run: python scripts/create_brevo_newsletter_draft.py
       - name: Create Brevo draft only when explicitly requested
-        if: ${{ inputs.create_brevo_draft == true }}
+        if: ${{ inputs.create_brevo_draft == true && inputs.send_today != true }}
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           BREVO_LIST_ID: '3'
           BREVO_SENDER_EMAIL: no-reply@deepdocumentary.com
         run: python scripts/create_brevo_newsletter_draft.py --create-draft
       - name: Prepare scheduled draft without sending
-        if: ${{ github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'schedule' || inputs.send_today == true }}
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           BREVO_LIST_ID: '3'
