@@ -54,8 +54,16 @@ if campaign.get("status") != "draft":
 if campaign.get("subject") != digest.get("subject"):
     sys.exit("Draft subject differs from today's prepared digest; refusing to send.")
 list_id = int(os.environ.get("BREVO_LIST_ID", "3"))
-recipients = campaign.get("recipients") or {}
-if list_id not in recipients.get("listIds", []):
+# Campaign listings can omit recipient details; verify the full campaign before sending.
+detail = api("GET", "/emailCampaigns/" + str(campaign["id"]))
+recipients = detail.get("recipients") or {}
+raw_ids = recipients.get("listIds") or []
+try:
+    recipient_ids = {int(value) for value in raw_ids}
+except (TypeError, ValueError):
+    sys.exit("Invalid recipient list IDs in Brevo campaign; no email sent.")
+if list_id not in recipient_ids:
+    print("Recipient list verification failed:", {"configured_list": list_id, "campaign_lists": sorted(recipient_ids)}, file=sys.stderr)
     sys.exit("Campaign recipients do not match configured newsletter list.")
 # Check actual active recipient count; never send to an unverified/empty list.
 contacts = api("GET", "/contacts/lists/" + str(list_id))
