@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-08T18:54:42.429316+00:00",
+  "updatedAt": "2026-11-09T01:19:42.398154+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -35,12 +35,12 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "علوم وتقنيات / استضافة المملكة لمنتدى \"اليونسكو\" لأخلاقيات الذكاء الاصطناعي.. محطة في مسار ثمانين عامًا من العضوية",
+      "title": "علوم وتقنيات / الذكاء الاصطناعي والإعلام.. تطورات متسارعة تستشرف المستقبل",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KOE82MENfZ0cxbk9YajJqNGxKYlB0S2tGdlV0SFZ3MktsMXRsX2Fic0pvM3Z3R0doaXR2eTRQLVNyQVFuNlE?oc=5",
-      "published": "Wed, 04 Nov 2026 16:24:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OSzh4eDFjbExBeDBWVDA2dTRrRXNod2FzN0NlT3h1NHFoS25RdFVHRWtGYWdYUmVCelN2NEJyUlV3bWdnQlE?oc=5",
+      "published": "Mon, 02 Nov 2026 10:31:59 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / استضافة المملكة لمنتدى \"اليونسكو\" لأخلاقيات الذكاء الاصطناعي.. محطة في مسار ثمانين عامًا من العضوية"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / الذكاء الاصطناعي والإعلام.. تطورات متسارعة تستشرف المستقبل"
     },
     {
       "category": "technology",
@@ -62,7 +62,7 @@
       "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
-      "published": "Sun, 08 Nov 2026 05:31:59 GMT",
+      "published": "Sun, 08 Nov 2026 19:05:49 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
@@ -86,7 +86,7 @@
       "title": "إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdXM0RHdlNGk2RHBhVUtPRU9Md05OeEZvMjQwRzhzNWNfQ0VHNXZqSU1lYnR0NmdfM01RU1hNZDRVbDVWOElhRW5hS25TN1hab19oay13QldaMG8zeGs2QjFiM0pGNkdVVEE?oc=5",
-      "published": "Fri, 06 Nov 2026 12:22:05 GMT",
+      "published": "Sun, 08 Nov 2026 03:39:01 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
       "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzUxQ09KZTdJUlBOOW9DR29EcDFMMzZpZThJckFMalgtbTJJWjlUNENmMUdPSzlzMDZjODllYmFTOG55QzhGdGE1WjhYcDFuWnpjbXhRRkgxZk0waVFpVVlvZDNWWTRRd0JRMTItVEEwSTNfcG1tZTdXYWxZNUs2UjMtMTJLc0MwQVdvdHNoMGhFN1NodmVIMFlVMGZNQQ?oc=5",
-      "published": "Sun, 08 Nov 2026 07:02:00 GMT",
-      "suggestedTitleEn": "Behind the story: Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVJaRTZFeWVvVHlmV2FYTTlySGVxTzBwbGwycDgyUHlEWE00N2RtUmRta3ZRQXM4V3JxMWRObkdSN19KSERpbk5rOGF6aGVfdnVZTDBibTlhY3BXc3o3c3pfR3dYLTVib1RyMTFITWJXWDU2ZFBDenlxeElPZWIyQmxxbS1udWgtelZuTXNEUEpvZFctWHJOcEx4STkxX0E?oc=5",
+      "published": "Sun, 08 Nov 2026 18:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France",
-      "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXIzZHVuZUVtdjJtcGlHM2VpOXpaQW5leWdUZHVLRnpPNVY2NjJoRHRBcktzNmtOeEo3aUdFWkcyZkFzYVg5TWFLVEVodEVNUlFtdk9aeWk2SGJfaGV4b015eGxHa2Itc2pLUHl2ekJHV2lETUhHWU0zY05JcS1oRktpQ0p3anNJTF9YQlllV3l6UmRYdzZ5aVJKbE0zSG9IbkNfdHg1TjAyVjZGWkp3dlo5WUJXZWk3dWdjNDJEYmxjZEMzZnhObVYycEt3bmZBSzJSd3dta1RNRUJsalFJ?oc=5",
-      "published": "Sun, 08 Nov 2026 13:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France",
+      "title": "Ancient Mosaic Discovered After 90 Years in North Macedonia",
+      "source": "Arkeonews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTzRpVHpRemRVblhucnBONXFyWnR1UTlyZEYyVnZOZ19maTlnOWR0QVp5QzU5VEhPOUtMekdIT2NnNTFacGdvMXR6cmVOa0VkY0NpaHVmNWg4MnNZRmVOQlNhTm1uSnZEdEpOVzN6Q1paLVRhcjNUWjgwcVhySDQ1OGJoaUtCSWhFLUE?oc=5",
+      "published": "Sun, 08 Nov 2026 20:33:41 GMT",
+      "suggestedTitleEn": "Behind the story: Ancient Mosaic Discovered After 90 Years in North Macedonia",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Science & Medicine: Study finds higher endometrial cancer rates in San Antonio region, especially among young Latinas",
-      "source": "Texas Public Radio | TPR",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYWdmNGdfSjlXNVEwazRmdGpIa3NEQ1k0ZjV5UUdNTjdjcHc4Zl9UVWVKaEVzclNqQXd4NjFuUGsxSHNQVFJFOEs4cTd3T3pBQkxmMDRPOFJBXzBndXhmVkg4d25NOWc4Qkt2dGwzeXR3VV9OcWFERVNjVUVRZ3l4dFRYV3JZV3hzUHlFak9KSUNISjMzYXZWUThyQ3VURjg0cERiLWhuS0M3YkxyMVVXNmxhXzIzT1pXanpHem02bTJHRmozNzVaRkdJS1ZTTDR1MVQ0enZpZEhja3BvTGNFaGtfUHdqbDE5d2xsOHpvZnQ3Vk54eGdsamE3aHpCOEhRejA1eg?oc=5",
-      "published": "Sun, 08 Nov 2026 16:01:39 GMT",
-      "suggestedTitleEn": "Behind the story: Science & Medicine: Study finds higher endometrial cancer rates in San Antonio region, especially among young Latinas",
+      "title": "Commentary: The U.S. is likely to lose its edge in scientific research because of political priorities",
+      "source": "Yakima Herald-Republic",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFBMTGR4a2IzUDQ4b3FQck1jbThzbmVxQ1JzekVSSFNLWVhlRnB6RXdJTVZjLVlFUWw4MzhQYWJ0eEJMZ3Z3UjIyaE5hTkJxYTRzM05PRVM5VTRSVGItYWpjM0lyWThmcHUzVGlncTF2OFNyOFN4UFNGcUJIeEZTcHVDaHRmQjktT3AxWEhDRmJ1UHZ4ZnlFWEdWaDMzUE9mV0VxUVJOQ09IQ19xanZsZzY4ZHk2N2hZc01XNjBrR0ZjZGlLWURzREhOSzc3ZkxmbnFKRE1pdGdrTHBHNlB2MjBha1JiR2JVeVJxVXFUUEdKTVJwQkdaNC1R0gH_AUFVX3lxTE9SUWIwNmN5cnZZX3p0RjdvaEFuZlZ5SS1fMjJ6YWpHNW54UWRGZTBvU1ZHMnVySU1pSjhHUlRlY21CWFZZQWpoTTZEZ0dSUldkSHlIaUpkTXFuTlBsbDRyX2FWZHRpR0UyRzd6RjExWnRKajNFaHhyLXJJYkJuUlBNZmRfV3NEdVphcXFENjZlZGd1RFg3RTF4YmV4dWU5YXcxVHB2WVFuRmg3WURIRTVlVUJTTmZCbmFrNVBOU1ZqU1N1NWlVbG1UWklBQVVELUJoaFhmTkFOd2dPM3M4M3U4aGJhWkVyWEo5U2dXZGQ3LWQ1cWlyakFRMFZTd2ZWSQ?oc=5",
+      "published": "Sun, 08 Nov 2026 08:17:36 GMT",
+      "suggestedTitleEn": "Behind the story: Commentary: The U.S. is likely to lose its edge in scientific research because of political priorities",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools",
-      "source": "Times of San Diego",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYktXc19ZQ2RYckl5bUZIYWtyMldRZ2o5eTJueDRNemlSUk5BWmphS3l3TWpaT1pTV3A4NmxzN04xMXVZSFRpbk1LU1lQMHlWcjk1WkwtdG5iUkdPRThpOUNYOUhJNnF0SzAtcEJxLWFEaFRzZ3BKd0pfV1hzandIU1pLWU1GRWFiZm1nVWRTNWtLUEg1Y3BlcmROU2E5b3ZLVmZEUC1BTmJ0R3BIZXdtd1NtNHIzd3V1U0l6UnJ5bGlGbHJLaTRfaTV4MEhDdXc?oc=5",
-      "published": "Sun, 08 Nov 2026 15:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools",
+      "title": "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence",
+      "source": "Knoxville News Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQkdESGdKdGNJUFhmU21MbUxMaHM2c0ViMF9DYzc3ZFd4VTA2c2oyMGlLejd1bEdYSUlHcFVCQUZGZGl0d2g5YUlUNFBZRUpKck5SLURaX3VnUlRmQ3hNTzlZeEJnNHVsaURpQ2FGb1JiTTg1bzN3ckRncHdGLVFwQTJ4VlQ1ck11VjhYdFFvX3l2UEhXcVNrenR1aHZmVk9ERjZVajlMWEpFdFRlOW9pQVg2NmczZFhvemVkeDBRZXdxWmFyN0Q2Mm9Uc3ZSS2xGQ2hCTVdncU5tZGdF?oc=5",
+      "published": "Sun, 08 Nov 2026 21:27:05 GMT",
+      "suggestedTitleEn": "Behind the story: The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "The vanity economy is taking over America’s downtowns",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WMEliN1FvWmNmeUhnbU15ZWVOQlhZSGRTd191amZXcldETWVjaVF4QjdzWlR2T25Ud0tyUHBMblBmdUljUHM4RzlHeDdhaVp4aklJaWxpVjc2QVIzalU3M2ZxRV9VLVJJZTJvazhQN2ZMV3pZTFNv?oc=5",
-      "published": "Sun, 08 Nov 2026 11:30:15 GMT",
-      "suggestedTitleEn": "Behind the story: The vanity economy is taking over America’s downtowns",
+      "title": "Economic Report: Cathedral City Strengthens Its Business Community",
+      "source": "Palm Springs Life",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2ZxUVUzZXJheEU2WUhpaVJtaFQyWVpyWF91VTJ0dFlEeHdwbVZueHMxRnpoYjRuUk5pZnZOM3hhVkdZYkoydHRVMExZNm52a0tEVm02dEhIQzRrNFh0RWRBanBaYUpGS1FtMzlsMEt3QjNwb0swcVd6bi03NFcyVFlURDQ1RzhWUjBSa1lsS0JLWm9JSFBtNWp6a3ktRy1kMi1uWDRfN3c?oc=5",
+      "published": "Sun, 08 Nov 2026 21:05:34 GMT",
+      "suggestedTitleEn": "Behind the story: Economic Report: Cathedral City Strengthens Its Business Community",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-      "source": "Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTRqcUxDekkxU01fS0QwbHhUMG9QTjRlUkJLVl9VbXFQd3YyZnIyYTRDNzVxd2JoUjdIOFpkajNMbWZXSHhMdzkxRm5laC0tc050SVpOc052bmZJYXhzd0NBS2pKb2FrdHVPc3FJOGRZX2pqY1hwaWdTRFp0VFdCY2Rtb3ItZ0RKU2tkdHJsMFR2dVdFbmtJUHFuNUJiQU9sQm9mVHl3MHctQlVaa2xieTF5VGJwMG05QXo0d1Z5OHNzTmxna256aTluZGFKbXc1d1hXQkFUZ0dNWDFnV0E?oc=5",
-      "published": "Sun, 08 Nov 2026 12:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Climate change is altering the colors we see in the world: an illustrated journey",
+      "title": "What the Midterm “Bluenami” Means for Climate Action and Environmental Protection",
+      "source": "Sierra Club",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmlxZ2t6UENFUWFtTVY1WXBNZUU2ZDJfRDJnWFY5WkdKRE82N2hBM3VVUUQwRjhFemZ3LU90VlRBUzVxUDljRmRpaUE3ZGNoUXFLeUl3b1FlVnhzNDR6bUw3b29HbVJMWEZ0VnZwWE44MXlMenJ1cXJJc3JFVTY0ZzdzU0wwblF4ZjB5Q2o4WUZoTGc2N2RHbVVNcDl4MHo5aDUxcXhBcUo?oc=5",
+      "published": "Sun, 08 Nov 2026 15:10:59 GMT",
+      "suggestedTitleEn": "Behind the story: What the Midterm “Bluenami” Means for Climate Action and Environmental Protection",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "We've discovered 27 new bodies beyond Neptune. They could tell us how our Solar System began",
+      "title": "Scientists have found strange objects in deep space unlike anything seen before. And they could help solve a huge mystery in space science",
       "source": "BBC Sky at Night Magazine",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96Qm5OMGo4eWxmTnBUcUxUanotWTZvbDNCSHpXeVp5TXlLR3dEQk1WdjNKSU91WE9aUWJvWlI5MkNRNzFiMmd2amtSazUxR1NCLWZTRjhSVGZ3d1VXUEY1QWRzZkNNRnFMS29admxIOXR1OEhFTFZV?oc=5",
-      "published": "Sun, 08 Nov 2026 08:12:00 GMT",
-      "suggestedTitleEn": "Behind the story: We've discovered 27 new bodies beyond Neptune. They could tell us how our Solar System began",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nd3VGQzZ5YlJRSTVMREtoYS1lQTBndTdEdG5UM09hVEFZWEpkbnVVV01OU3Rrc2ZINGRkaXZHbl80WnRUOHBNRElBYllSMTM4RlRWSUh6OWU5NnNQRWdLR19pa0xnTUsyei1aZUQ4Mzc0Q1RWd2ZuU3ZZeGZnd0k?oc=5",
+      "published": "Sun, 08 Nov 2026 15:40:00 GMT",
+      "suggestedTitleEn": "Behind the story: Scientists have found strange objects in deep space unlike anything seen before. And they could help solve a huge mystery in space science",
       "suggestedTitleAr": ""
     }
   ],
