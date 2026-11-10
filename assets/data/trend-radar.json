@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-10T01:13:19.600670+00:00",
+  "updatedAt": "2026-11-10T07:21:45.369648+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,12 +23,12 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "كاميرا الجزيرة ترصد آثار انهيار الرمال على النازحين في دير البلح",
+      "title": "للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQQUNPaE51QjM2ZDlHOUd0eGZDR2RoajNmZjNabDlvODZZN2diNHFtSktTR0V6cE04dmlUOTQ0WWg1WnpNcVRtSVE0V1paMjlqNU4wWkkyYU5CNnRFaDBUOFZpTzdVTE04MHN6T1FPZVhVVUxGdFdwRXJOQjgtbVVydW1tSFcxR2FFN3d1LTR6UlliOWdKT1BOMDhXelZCWGh4QlBxVEo4QkhEN3FwQW1UUzJkRHdtUTRQdGstT1lrVFJpZ3dESVNrMVlfNnNMdnN0UE41NHNSWXJpZUt3VTduR0N3UldQOFJReGNKQkRhODh1SDRVTnNjdG92TDdXZTFuWF9EbldKVnhqaUItVWlKRE5vVldrcDZhUWtHU1FIWWs2OTRuNmZWem8yYXoyNFJERkJERE1R?oc=5",
-      "published": "Mon, 09 Nov 2026 12:16:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWXh6aU01ZzhVNXZDVzN2aEVic1NSQXJJdnBfM08xNlZMTUtjemt1MlJQTXZ6ZmREVGZCYklJV1pZOUl0ZW1zR2dIVGRaei1pcmI3RDVyUXlwVklRQ3ppSWZDZEhPRmNfVFBGUWNwWE56dEFXTmtfdy1zTzY5VlIwcW5ocllBd2QyRVdseXVva2JULTU4TkFJbVBjMThkNW40QzN0ZDdHMGtPSUxodUYzTWtfTnBLX2JnSzg0aVN4d3ZZaHZfSUdMMjYwMmNVNWZabFEySmtFWTRJVzRhR0NNajQwNGUzNmJLcW5HaUJlQXlxU0tIRHJfekdPZjZ4MGhEdWZoeGNLTUpnWTd3WjU0aVY2OGZYTGZMbFFzN3VNdEs5Y1NKZDBqOEN6ZV9DTlZibEcyMU9CMUwzblhjMmhSS1NhajFhY2ZrQVJrODRTUHRxSGpyVXJncjhuWW9Semc?oc=5",
+      "published": "Sun, 08 Nov 2026 14:52:33 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: كاميرا الجزيرة ترصد آثار انهيار الرمال على النازحين في دير البلح"
+      "suggestedTitleAr": "خلف الخبر: للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة"
     },
     {
       "category": "science",
@@ -74,7 +74,7 @@
       "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
-      "published": "Mon, 09 Nov 2026 01:45:56 GMT",
+      "published": "Tue, 10 Nov 2026 00:06:52 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
@@ -107,12 +107,12 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "في 3 أيام فقط.. نموذج سري من \"أنثروبيك\" يحل لغز حوسبة كمومية استعصى على العلماء 18 عامًا",
+      "title": "بعد 3 سنوات.. قرار يفك لغز اختفاء شقيقة وزير مصري سابق",
       "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPdTNCenNNUlQxSHZJNmhUeUswTW9VQzFZZ1VFUHJIb1N5ZzlLcDl1SXNSbzAtSF9oMjZlQ19TakJJTUJyTnZUZE9UNUNreFpkaW54UDlfcFVDUGpxOVNaaEwybUotRWwzSzMtZFdBVk1yWlJINEkzU2JfcjF0SGVfSGxINHlYZnBLSzJMNlN5cUdQa0lIVHA0aGltQ2VCZHFuUVN5X19NZ3JNSXp4VkNuOUhyRDRoZUM2cndDWGRwX2ZFb0tBSHV0X0h1MWs2X3NGV2ZVVUtHSHVCVlNqa1lZb01PR3NYYWV5SjgzaW1xdU84UHl6ejYxSGxJSDdleVZwZXVzZ0FvU2Rnb2RmNlNmaWc3TVpjNW11UVE5b0xOdnREVV95bWVZbmZ0cklWd3RpTEZIZ3o0b0VZMmdqd2RlM1RzX2NGc3JNMG1sVkxuNkFMWjNqSllQWDZYS1dXdHpQSTY4U0lUYUJrWGtPcFlpTHdkdnVRcERHb09CUTVibWIxRmVHM2JZLVplYWtRbVZHbUFHUWY1cUNkS0hnTlN2UEMyNnVQbHBjQVl6RDlJaC1LaGpwcUNQSXFOT0NCSUZ4XzNhTDFPZFQyNGRnMXVfM1lhN2NUOVpfc0tNTnhkeS0waTdLM1J1MnEwWFhCQlBkVHB1Wk1TeXQzLURIVjNWUk43WXllME9aMWhROTdTYVN6eU5tQTB1M0dqQnVFdHBJeERkclRDd2x0MUQ4RTRSbXhSUExUYWloTXpuY3BKNE1oWW5md1A3T0M2T0N3OUZJMjVOdWYxeUVMeTg5Y3lseHA2Ul92WjFEUHhJV3o2dk80VEs1Z1d4c191bTljSDc40gGABUFVX3lxTE91M0J6c01SVDFIdkk2aFR5SzBNb1VDMVlnVUVQckhvU3lnOUtwOXVJc1JvMC1IX2gyNmVDX1NqQklNQnJOdlRkT1Q1Q2t4WmRpbnhQOV9wVUNQanE5U1poTDJtSi1FbDNLMy1kV0FWTXJaUkg0STNTYl9yMXRIZV9IbEg0eVhmcEtLMkw2U3lxR1BrSUhUcDRoaW1DZUJkcW5RU3lfX01nck1JenhWQ245SHJENGhlQzZyd0NYZHBfZkVvS0FIdXRfSHUxazZfc0ZXZlVVS0dIdUJWU2prWVlvTU9Hc1hhZXlKODNpbXF1TzhQeXp6NjFIbElIN2V5VnBldXNnQW9TZGdvZGY2U2ZpZzdNWmM1bXVRUTlvTE52dERVX3ltZVluZnRySVZ3dGlMRkhnejRvRVkyZ2p3ZGUzVHNfY0Zzck0wbWxWTG42QUxaM2pKWVBYNlhLV1d0elBJNjhTSVRhQmtYa09wWWlMd2R2dVFwREdvT0JRNWJtYjFGZUczYlktWmVha1FtVkdtQUdRZjVxQ2RLSGdOU3ZQQzI2dVBscGNBWXpEOUloLUtoanBxQ1BJcU5PQ0JJRnhfM2FMMU9kVDI0ZGcxdV8zWWE3Y1Q5Wl9zS01OeGR5LTBpN0szUnUycTBYWEJCUGRUcHVaTVN5dDMtREhWM1ZSTjdZeWUwT1oxaFE5N1NhU3p5Tm1BMHUzR2pCdUV0cEl4RGRyVEN3bHQxRDhFNFJteFJQTFRhaWhNem5jcEo0TWhZbmZ3UDdPQzZPQ3c5RkkyNU51ZjF5RUx5ODljeWx4cDZSX3ZaMURQeElXejZ2TzRUSzVnV3hzX3VtOWNINzg?oc=5",
-      "published": "Sat, 07 Nov 2026 08:54:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNNFNnQ1NjN0Y1X2lmVXhsZUluZjAzb2xJWnFLMTFlZkhsT1JMMlNKMm4xUGFvd1JEaGlublVlVGRPd1lNdjdWTVl0eE9yYlRNYTU3YTRNdGpod2RJX1NzN0c3SFhBTE8xOEt0RngtaG9IYUNPZUFmMlQzOHpYTGNBc3pVMjRkeC0tR0x0bG0yU2lTOGpwd1Rld2F2RVBWbXU4MWZFNWhNT2h2TS10a3BtRGQyQkpSaXExQ2VYVjBCMl9Fd1YyaFZMZlE0cGRoYkN6b3FrMnhZMlYxZkJ5eHBSdkNWd25oakEycGtBRG1MWFk3Q01nVFhaeGthWmJaNHlIY0liNThRaTJMSVJEbHlxWVdBS3N5ZUdmaGtoMlNTOFdDWWJuZmc5bk9FaGZXVDJjZm1reFpEWTItT0xzVllJdU1pOUJ2UkZzWVBBeExDaHZWSHhib1J2Umc3MnlPUGdYQ3VBTzRCSk41dFlzWGVURGpRWmFmRkhGNVM4TC14Y0U0VnNRSTAwaVJHdE1pR1ctUC1wSUF5UEtFT0Fxd2tiS0lsdEowWk8waFBLNXJ4QXBHOUdTbEFwQXpyNno1bjJqR0Z4d0taeE9ZdmNaZ3RSQUh4MGpqNlZOYk4yaUpLeTJFY2FpOC1PV2ln0gHvA0FVX3lxTFB5b2tZOC1jMi1MVHN2bFRwM09YQmFiTzRVUXUwclhZYzF5TlBxYXpqT3U1V1pvQWRFWVBPcnA4d3J5aFFuNWJXNmNsTjZ1cUhmdFNtTnZlaG9XSnRwN0tFQ2VaWWluNnJIb0VOM0dlRGtuX2lDNl9xWmZGTlBLQ1FCakFlRmJ1LUVuXzJWdWlMamlRLUlfZ3JyeXV1WWhjS3E3YzloSWZOcmU3UkU0eTRrYVh4LXRZZVJwMTZXOEVMOUp6MjZsUk1tWlZ2bFFBdjF3MDBjYWRBaDcxTmFrT21pRzY1Ql9FREpZTlAzTURzTlhpU1FkQlBJRjNFWUt5N0d6cXFualB4VkZ3Y2VoRDZSUVZ6UlBJWmUxeERHY1ZmMC1yRUd3SXZPckZrdElFVGhOay1yZkxmYVVWU1h0bmZPM3k2cEpPbkhsT0pIUEJBMTgtdmNDMGQyUklKRlBkTThSV0RkWWEtV1FZVmNTcDhkQmgxREV0ODE0dWZfeUNJM1lxNVh5VldPOHRSVVh1YUUyMmk5UHd6WklXSy1ra0RuSlZ0SFR5X3A0anhSUnV2UGgxc1dUa2ZoOXhqZW5LdnY1YXQ1YVBzSk9uY05qTmltalJzUDd3Rk43Y1dGS29yVW53WFkwMkFhb2k1U2tFVQ?oc=5",
+      "published": "Fri, 06 Nov 2026 06:21:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: في 3 أيام فقط.. نموذج سري من \"أنثروبيك\" يحل لغز حوسبة كمومية استعصى على العلماء 18 عامًا"
+      "suggestedTitleAr": "خلف الخبر: بعد 3 سنوات.. قرار يفك لغز اختفاء شقيقة وزير مصري سابق"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Even after the midterm rout of Trumpism, the world struggles to trust America",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWVFNmcxUjJrZE5OUFRCbGhxVXVfWUN2dWlVVUFmaEJOLXZWNlpVdGRpWTJMaG5KVUVpSXA1V1g5MUVhTVVIQUd1bVV2bkxZS3VKb1p0XzYwV3ZNSUhESEMxaGFfRGhYRDlpYVpkRExQUFVuU1UxTF84aTMzVXZETzlROXU4RVFCcnVVdnZPd3lJSjlRZ2RBenZHOWctenRfdm1wZ3FPbVBFSjhlaGRtY3YyY1TSAboBQVVfeXFMT2JqQXZyZWpfaEU0aGE3Qk1NSHZHb0pjVVkzdldvS0FCWHhweEpKVzdyREZtZTdJQ285LUZDUmViRTBfbVlEdEs4aXZHS1BQbHNpWkpHdG1ST2dMQWt6V3FsaXphNFhtOEJWVEVkaEFDTXZWVVVXNG1JLVp0WlZRaE84XzR0cnVjdUdaTV9ZaWRrY1lTYmItTUFWZ2xuMmpSeXVadEUycDFrV0l4bFdjS1ltdWxpNEV2aHBR?oc=5",
-      "published": "Mon, 09 Nov 2026 19:45:49 GMT",
-      "suggestedTitleEn": "Behind the story: Even after the midterm rout of Trumpism, the world struggles to trust America",
+      "title": "Middle East and north Africa",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
+      "published": "Tue, 10 Nov 2026 05:35:52 GMT",
+      "suggestedTitleEn": "Behind the story: Middle East and north Africa",
       "suggestedTitleAr": ""
     },
     {
@@ -146,7 +146,7 @@
       "title": "Smart News: History & Archaeology",
       "source": "Smithsonian Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2RU5ITkJQY25UNWlUR3F6V05aUUp5OFdkQlYzVnpzalhsMHQ0djdTUms5XzRPV0IzbVNzWVBMX2UtM0ZsaEVkVkpLemhvMC1QdlFYSUpDek1mcFg2eHdHOUtDejJ0S1FCUjlqRzdkWVBFcVUtanlqdWxn?oc=5",
-      "published": "Mon, 09 Nov 2026 22:06:07 GMT",
+      "published": "Tue, 10 Nov 2026 05:56:49 GMT",
       "suggestedTitleEn": "Behind the story: Smart News: History & Archaeology",
       "suggestedTitleAr": ""
     },
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZBU1M0ZVFMX1k4eUFyekt1NXNPNmYwUWh6MlB2azFuY2hGZ09WS2dNRnZWaEZsMTJTNl9vT244dVFORWdOd2NVaGxKUml6RXBFWUZfMFFIaGRPRkNyYkRKYkI3UUs5V2p1Y2ZGOVRUejRQUk50clVNZ3VEWUF0aTFWVUJ0RWxzVzBfclFVTzZ4YXpUZ08xXzlEUzAtenhuLTlBRV90N3JsMXJBUGM1ZHZZVGVtTVVsNWlfbGdUWllpQ3FIbTR1LVFFbnZjaFlqcWxB?oc=5",
-      "published": "Mon, 09 Nov 2026 22:59:00 GMT",
-      "suggestedTitleEn": "Behind the story: Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
+      "title": "Commentary: Mattanjah de Vries: US likely to lose edge in scientific research because of political priorities",
+      "source": "Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWx1VFE2MlBQQ0dFc0s4UW04dkxnRGQ1dVRORV9Ja3I0LWozTGxtOXFPNEt6aVhqbkRrS0t6RTFHNTlkTHdnVUQySnZRWTM0Mm5URXpvWkV0VHUyWVhORXRxNjZmMHBuTjJLbHRXZDhvMC1yblpqLTMwOURUdFFUU0JIVUZQWWM5VmxvN0dHanV0U3ZJZXdCcWJMb3kwUWs1dTlJc00zZw?oc=5",
+      "published": "Tue, 10 Nov 2026 06:34:19 GMT",
+      "suggestedTitleEn": "Behind the story: Commentary: Mattanjah de Vries: US likely to lose edge in scientific research because of political priorities",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "How the National Debt Raises Costs for Households, Businesses, and Younger Americans",
-      "source": "Peter G. Peterson Foundation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVpqUk1hV2Jfd1hyRjY2NnQ5SjM5V0M2blBncFJ6V2dqanhLdnpiNF9fZDQ5cUM3cGtkNi1UTEdPcWdtbktwVVFscHJqZEdWX05USEZkTjBndlVIal8zRmswVGs1eE9Ka3p1VFJXRkF2SFliZnYtTUstRGhaaVBfVDRTcHBBb28tV3NSUm1FRkozNnJsbXRFSHVTR24takl6TndTSVJqOTZUVzVyM0czT3FB?oc=5",
-      "published": "Mon, 09 Nov 2026 22:39:18 GMT",
-      "suggestedTitleEn": "Behind the story: How the National Debt Raises Costs for Households, Businesses, and Younger Americans",
+      "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXFuSUdsX29TZTJONVlLWi1nS3U4aTA5STN4SU9zMmF5SVZxd3ByWHBWSksxdWpySUlYdHBROWFVV1BndEZodXNRY1ZIdmJVTFp2bS1BS2dSSjVINTRrOXkyLWpJWXBSUUh0b18wOWdMdjMzVXhaU3VGWWhnVGRGaDF1ZlM3bGZLbW02RU9qeEdGN3hjMGNIV3VyWkFOUnhmQUYyV3lTNmRLdw?oc=5",
+      "published": "Tue, 10 Nov 2026 06:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "The Mystery of the Gold Fragments That Rewrote British History",
-      "source": "TheCollector",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wNHlTNkMxYldNUGkyLVVnYlJQcFFQNGpYUzhwSDJ5ZzhRRGpod2ZfWFU1bnk0RDBGc1YzYlQybU5YTzV5dHZuSnduaGtmY0l2dTJGeVZlM0pkUEhKeXBYbG83QlBUM1Iwd1paTDIxbFNSd2JjenBvWmtjdnU5YTQ?oc=5",
-      "published": "Mon, 09 Nov 2026 16:15:41 GMT",
-      "suggestedTitleEn": "Behind the story: The Mystery of the Gold Fragments That Rewrote British History",
+      "title": "Man Enters Plea To The Most Heinous Crime In Alexander County History",
+      "source": "WACB 860AM – Apple City Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNDVwaVBxYjVEbGg0R2dRdEg2VVVIb0F2d1ltMEZ0ek1kcUJrTjQ0Nl9kZWxEYTJQeGFiS1c5Zk5IZHYtT0ZERVQxTmZiM2tZcjcwMk9JWVc1Slc1ZHo1Ni1iMUFKaW9JY0lfWk10TmtDbjRBSkRmdG5fRFR6TXNNdFNzbGdYWS1iZ0w3QjVFLTNIMFZj?oc=5",
+      "published": "Mon, 09 Nov 2026 23:59:38 GMT",
+      "suggestedTitleEn": "Behind the story: Man Enters Plea To The Most Heinous Crime In Alexander County History",
       "suggestedTitleAr": ""
     },
     {
@@ -242,7 +242,7 @@
       "title": "Magnified Light From Distant Dragon Galaxy Reveals Supergiant Stars and Clues to Dark Matter",
       "source": "Discover Magazine",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdElNMUxiaXpSM0Jqa3dobEZwdzU0Z0VUeGFmTG1qY0VvOGliVlh2S1NfVVJXY3FGXzJMTVdyQWtBSzZLU3B2eGIzd0NrLTZTZEVWS2NoMm8tNHZacmJpc3BZaWJIVVlpbS1IY1ZNQnJ3amdnNTR1VGZRSlNiQVRyZ1QySUhQcGVnUDhCM1k0d2o1OE5FdkFQYlpuMVducXhybHNaOWF4aFlEOEhXRWE1SHhpM3BwNW5KVHpTcEhLV3ZYbXlMUWVqWmlxQQ?oc=5",
-      "published": "Mon, 09 Nov 2026 23:34:01 GMT",
+      "published": "Tue, 10 Nov 2026 00:04:48 GMT",
       "suggestedTitleEn": "Behind the story: Magnified Light From Distant Dragon Galaxy Reveals Supergiant Stars and Clues to Dark Matter",
       "suggestedTitleAr": ""
     }
