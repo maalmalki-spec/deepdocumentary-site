@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-09T19:04:14.931724+00:00",
+  "updatedAt": "2026-11-10T01:13:19.600670+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,12 +23,12 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة",
+      "title": "كاميرا الجزيرة ترصد آثار انهيار الرمال على النازحين في دير البلح",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWXh6aU01ZzhVNXZDVzN2aEVic1NSQXJJdnBfM08xNlZMTUtjemt1MlJQTXZ6ZmREVGZCYklJV1pZOUl0ZW1zR2dIVGRaei1pcmI3RDVyUXlwVklRQ3ppSWZDZEhPRmNfVFBGUWNwWE56dEFXTmtfdy1zTzY5VlIwcW5ocllBd2QyRVdseXVva2JULTU4TkFJbVBjMThkNW40QzN0ZDdHMGtPSUxodUYzTWtfTnBLX2JnSzg0aVN4d3ZZaHZfSUdMMjYwMmNVNWZabFEySmtFWTRJVzRhR0NNajQwNGUzNmJLcW5HaUJlQXlxU0tIRHJfekdPZjZ4MGhEdWZoeGNLTUpnWTd3WjU0aVY2OGZYTGZMbFFzN3VNdEs5Y1NKZDBqOEN6ZV9DTlZibEcyMU9CMUwzblhjMmhSS1NhajFhY2ZrQVJrODRTUHRxSGpyVXJncjhuWW9Semc?oc=5",
-      "published": "Sun, 08 Nov 2026 14:52:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQQUNPaE51QjM2ZDlHOUd0eGZDR2RoajNmZjNabDlvODZZN2diNHFtSktTR0V6cE04dmlUOTQ0WWg1WnpNcVRtSVE0V1paMjlqNU4wWkkyYU5CNnRFaDBUOFZpTzdVTE04MHN6T1FPZVhVVUxGdFdwRXJOQjgtbVVydW1tSFcxR2FFN3d1LTR6UlliOWdKT1BOMDhXelZCWGh4QlBxVEo4QkhEN3FwQW1UUzJkRHdtUTRQdGstT1lrVFJpZ3dESVNrMVlfNnNMdnN0UE41NHNSWXJpZUt3VTduR0N3UldQOFJReGNKQkRhODh1SDRVTnNjdG92TDdXZTFuWF9EbldKVnhqaUItVWlKRE5vVldrcDZhUWtHU1FIWWs2OTRuNmZWem8yYXoyNFJERkJERE1R?oc=5",
+      "published": "Mon, 09 Nov 2026 12:16:03 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة"
+      "suggestedTitleAr": "خلف الخبر: كاميرا الجزيرة ترصد آثار انهيار الرمال على النازحين في دير البلح"
     },
     {
       "category": "science",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "The Latest: Congress returns to a changed Washington",
-      "source": "thecanadianpressnews.ca",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNnptNjU2UFVibERYUnVycXVGY1JsRzRMLTRzdGE4MG5nVXpQTEdjNlcwa2YzZkVnYmxWMVJ0eUY3QU9DZ2NSZzUtOV8zMlNOckxObjhRcG5FVjNRN0M3YS15TUc0WEpTVHNQYVRfNWFROEsxUkVscENjZ2pTYmhkeEp3c3BkMnUxcmxZdHR4Vjl5dEE3eGlFX1k0TERsaUpLcFhvQU5lT1JrTjFmS2NQNnVuOGhJTWxsR3prMERSQ0F6NkJkTVpyelRDSlEzUk1SYkNCLWQwbHZaeHM?oc=5",
-      "published": "Mon, 09 Nov 2026 14:58:05 GMT",
-      "suggestedTitleEn": "Behind the story: The Latest: Congress returns to a changed Washington",
+      "title": "Even after the midterm rout of Trumpism, the world struggles to trust America",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWVFNmcxUjJrZE5OUFRCbGhxVXVfWUN2dWlVVUFmaEJOLXZWNlpVdGRpWTJMaG5KVUVpSXA1V1g5MUVhTVVIQUd1bVV2bkxZS3VKb1p0XzYwV3ZNSUhESEMxaGFfRGhYRDlpYVpkRExQUFVuU1UxTF84aTMzVXZETzlROXU4RVFCcnVVdnZPd3lJSjlRZ2RBenZHOWctenRfdm1wZ3FPbVBFSjhlaGRtY3YyY1TSAboBQVVfeXFMT2JqQXZyZWpfaEU0aGE3Qk1NSHZHb0pjVVkzdldvS0FCWHhweEpKVzdyREZtZTdJQ285LUZDUmViRTBfbVlEdEs4aXZHS1BQbHNpWkpHdG1ST2dMQWt6V3FsaXphNFhtOEJWVEVkaEFDTXZWVVVXNG1JLVp0WlZRaE84XzR0cnVjdUdaTV9ZaWRrY1lTYmItTUFWZ2xuMmpSeXVadEUycDFrV0l4bFdjS1ltdWxpNEV2aHBR?oc=5",
+      "published": "Mon, 09 Nov 2026 19:45:49 GMT",
+      "suggestedTitleEn": "Behind the story: Even after the midterm rout of Trumpism, the world struggles to trust America",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
-      "source": "cbn.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVdPeU4xYzdUT01HVzVnUzM2VjJoZnpfNXNCeUFxS2hmSWdhLWt4ZkRPOWRmUjhPanpySk1qUENxZkxENTNLNXprZ2lEM0JrQUZEU3oxM3lYRllPRTN4QkN0Nmg1NERQazFEcTVLcGhueHNKUHZUWTlnQUo5ZHB6b1ZNX1NEOTlpdHBSRTFDZ2RPOXRJa3lr?oc=5",
-      "published": "Mon, 09 Nov 2026 15:24:25 GMT",
-      "suggestedTitleEn": "Behind the story: When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
+      "title": "Smart News: History & Archaeology",
+      "source": "Smithsonian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2RU5ITkJQY25UNWlUR3F6V05aUUp5OFdkQlYzVnpzalhsMHQ0djdTUms5XzRPV0IzbVNzWVBMX2UtM0ZsaEVkVkpLemhvMC1QdlFYSUpDek1mcFg2eHdHOUtDejJ0S1FCUjlqRzdkWVBFcVUtanlqdWxn?oc=5",
+      "published": "Mon, 09 Nov 2026 22:06:07 GMT",
+      "suggestedTitleEn": "Behind the story: Smart News: History & Archaeology",
       "suggestedTitleAr": ""
     },
     {
@@ -158,7 +158,7 @@
       "title": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZBU1M0ZVFMX1k4eUFyekt1NXNPNmYwUWh6MlB2azFuY2hGZ09WS2dNRnZWaEZsMTJTNl9vT244dVFORWdOd2NVaGxKUml6RXBFWUZfMFFIaGRPRkNyYkRKYkI3UUs5V2p1Y2ZGOVRUejRQUk50clVNZ3VEWUF0aTFWVUJ0RWxzVzBfclFVTzZ4YXpUZ08xXzlEUzAtenhuLTlBRV90N3JsMXJBUGM1ZHZZVGVtTVVsNWlfbGdUWllpQ3FIbTR1LVFFbnZjaFlqcWxB?oc=5",
-      "published": "Mon, 09 Nov 2026 17:44:00 GMT",
+      "published": "Mon, 09 Nov 2026 22:59:00 GMT",
       "suggestedTitleEn": "Behind the story: Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
       "suggestedTitleAr": ""
     },
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "How do MSMEs Shape Mexico Economy?",
-      "source": "Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mT2s4R3BQUE5OdmFCbXhSU3pnamtWVTZrbVhfTWVDY0lDLWVpVmlzSGhCRUFQRXhVMzZQMTdnRGxJZlh1M2hVckRDYkI4eEJfNTNtNDlHYkk5VElocVVoQ19TdE9jeVEwa2txa1R3eXhlWW95dUcwRXFfczVMODA?oc=5",
-      "published": "Mon, 09 Nov 2026 18:07:57 GMT",
-      "suggestedTitleEn": "Behind the story: How do MSMEs Shape Mexico Economy?",
+      "title": "How the National Debt Raises Costs for Households, Businesses, and Younger Americans",
+      "source": "Peter G. Peterson Foundation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVpqUk1hV2Jfd1hyRjY2NnQ5SjM5V0M2blBncFJ6V2dqanhLdnpiNF9fZDQ5cUM3cGtkNi1UTEdPcWdtbktwVVFscHJqZEdWX05USEZkTjBndlVIal8zRmswVGs1eE9Ka3p1VFJXRkF2SFliZnYtTUstRGhaaVBfVDRTcHBBb28tV3NSUm1FRkozNnJsbXRFSHVTR24takl6TndTSVJqOTZUVzVyM0czT3FB?oc=5",
+      "published": "Mon, 09 Nov 2026 22:39:18 GMT",
+      "suggestedTitleEn": "Behind the story: How the National Debt Raises Costs for Households, Businesses, and Younger Americans",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "From the Air Force to the lab: Veteran J. Scott Martinez translates military experience into neuroscience research - UC Santa Cruz - News",
-      "source": "UC Santa Cruz - News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNmJydVlvbEFSbk40TjRYRWlwRzBJWFBtY3VaUzF0UkhOZWFBQVd5bmdYSEtkY0VjbUktMmdtbGZBcmUxd3M1eWJBVXVBOUZBN21DdVk4WnV2VmRtc1EwZDdaeHVKb1hUU2JpQTkwRDRScVktbzBOaWNRTm5aUHBqdkxsNl83WVI3SE40ZzBaRlpiQ2NLUTNIVXFhSHlmVE5PbGEwalFhS0lvcjZ1QlZkZS0xdzVPTjJMT1B4aEhHdjRENHlVc1FzQmFTOTNXODRWYm5MWmktbkZEd0k?oc=5",
-      "published": "Mon, 09 Nov 2026 17:09:32 GMT",
-      "suggestedTitleEn": "Behind the story: From the Air Force to the lab: Veteran J. Scott Martinez translates military experience into neuroscience research - UC Santa Cruz - News",
+      "title": "Scientists Sue Trump-Vance Administration After Unlawful Move to Gut Federal Social and Behavioral Science Research Funding",
+      "source": "Democracy Forward",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOanM2NmdZbkpoMlBGUFFYR1JnNkNpaHJ1YTRtdE8wY2k0U3A4c3hUTHpiRENSV2JDNHlFVDNhUV9QVnpSeERJcE9ESWJ4RmJQQlZzMEo5Mi1KVE1VUWNQS3BRUUIxSllrUlpDRk9kaDNWQndiSXduU2hyTmZiZTNhQU5TUXVTMDhCZ2RUMGRsYnNBU0NZbXo5YTZja3lBSmQwRnEzVHVybEVZV0Q2YVlkNm5ocjZOOXAyYXhVckUyVml1YlNzdnJKX3lkZjJzSHN3blY1TkpfU2xVdGJuYmE1OW82dk1oNlhPbTBDZjVyWnJEYXF1WDNFXzdNdTEyN0RRTWJR?oc=5",
+      "published": "Mon, 09 Nov 2026 15:45:48 GMT",
+      "suggestedTitleEn": "Behind the story: Scientists Sue Trump-Vance Administration After Unlawful Move to Gut Federal Social and Behavioral Science Research Funding",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "The Solar System May Have a 6th Dwarf Planet – and It’s Been Hiding in Plain Sight",
-      "source": "SciTechDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRThfZU4taFJjd0YtaEd1ejl2TmhJUVlLWG9MUkF3bGhvZmFDODJzVTZPSmRKZzdvTU1BTkRodVlkQ1VTZHA3Y3otYVk2TTBlZUdna1htZXdueEFkX1R1SkVROWYzLXVHZjRqZHFXaFdNbEJJaHdRRUJ2YnQ3aUQ1X2lHYm05dUVnWjdzQ2pROG1ZVzhHT2tHSlZzcFkzVWNiS2w5ZEpZNkE?oc=5",
-      "published": "Mon, 09 Nov 2026 15:07:56 GMT",
-      "suggestedTitleEn": "Behind the story: The Solar System May Have a 6th Dwarf Planet – and It’s Been Hiding in Plain Sight",
+      "title": "Magnified Light From Distant Dragon Galaxy Reveals Supergiant Stars and Clues to Dark Matter",
+      "source": "Discover Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdElNMUxiaXpSM0Jqa3dobEZwdzU0Z0VUeGFmTG1qY0VvOGliVlh2S1NfVVJXY3FGXzJMTVdyQWtBSzZLU3B2eGIzd0NrLTZTZEVWS2NoMm8tNHZacmJpc3BZaWJIVVlpbS1IY1ZNQnJ3amdnNTR1VGZRSlNiQVRyZ1QySUhQcGVnUDhCM1k0d2o1OE5FdkFQYlpuMVducXhybHNaOWF4aFlEOEhXRWE1SHhpM3BwNW5KVHpTcEhLV3ZYbXlMUWVqWmlxQQ?oc=5",
+      "published": "Mon, 09 Nov 2026 23:34:01 GMT",
+      "suggestedTitleEn": "Behind the story: Magnified Light From Distant Dragon Galaxy Reveals Supergiant Stars and Clues to Dark Matter",
       "suggestedTitleAr": ""
     }
   ],
