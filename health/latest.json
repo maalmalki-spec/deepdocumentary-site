@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T01:11:59+00:00",
+  "generatedAt": "2026-11-10T13:12:33+00:00",
   "site": "https://deepdocumentary.com",
   "status": "healthy",
   "checked": {
-    "pages": 16,
-    "assets": 36,
+    "pages": 18,
+    "assets": 37,
     "links": 3
   },
   "issues": [],
