@@ -4,7 +4,7 @@
       "slug": "alula-khaybar-archaeology",
       "series": "history",
       "ar": "أسرار العُلا وخيبر",
-      "en": "The Archaeological Mysteries of AlUla and Khaybar",
+      "en": "أسرار العُلا وخيبر | Deep Documentary",
       "image": "assets/images/alula-khaybar-archaeology/alula-landscape.webp"
     },
     {
@@ -20,7 +20,7 @@
       "slug": "apollo-8",
       "series": "space",
       "ar": "أبولو 8: أول بشر يدورون حول القمر",
-      "en": "Apollo 8: The First Humans to Orbit the Moon",
+      "en": "أبولو 8: أول بشر يدورون حول القمر | Deep Documentary",
       "image": "assets/images/apollo-8/a2627f32ef56.webp",
       "eventYear": 1968,
       "era": "space"
@@ -29,21 +29,21 @@
       "slug": "black-holes",
       "series": "space",
       "ar": "الثقوب السوداء وأفق الحدث: شرح مبسط",
-      "en": "Black Holes and the Event Horizon",
+      "en": "الثقوب السوداء وأفق الحدث: شرح مبسط | Deep Documentary",
       "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=88"
     },
     {
       "slug": "canva-video-editor-beginners-guide",
       "series": "technology",
       "ar": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية",
-      "en": "Canva: Make Your First Documentary Video",
+      "en": "Canva: من أول مقطع إلى فيديو وثائقي خلال 30 ثانية | Deep Documentary",
       "image": "https://static-cse.canva.com/blob/1787172/create_short-video-maker_hero_desktop-min.0225f31f.jpg"
     },
     {
       "slug": "chernobyl",
       "series": "mysteries",
       "ar": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟",
-      "en": "Chernobyl: What Happened on April 26, 1986?",
+      "en": "كارثة تشيرنوبل: ماذا حدث ليلة 26 أبريل 1986؟ | Deep Documentary",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chernobyl_nuclear_plant.jpg?width=1600",
       "eventYear": 1986,
       "era": "modern"
@@ -52,7 +52,7 @@
       "slug": "library-of-alexandria",
       "series": "history",
       "ar": "مكتبة الإسكندرية: كيف اختفت أعظم مكتبات العالم القديم؟",
-      "en": "The Library of Alexandria: How Did It Disappear?",
+      "en": "مكتبة الإسكندرية: كيف اختفت أعظم مكتبات العالم القديم؟",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexSarapeionTemple.jpg",
       "eventYear": -280,
       "era": "ancient",
@@ -63,20 +63,20 @@
       "series": "mysteries",
       "ar": "لغز مستعمرة رونوك المفقودة: كيف اختفى 117 مستوطنًا دون أثر؟",
       "en": "لغز مستعمرة رونوك المفقودة: كيف اختفى 117 مستوطنًا دون أثر؟",
-      "image": "assets/images/roanoke/article-cover.svg"
+      "image": null
     },
     {
       "slug": "lost-colony-of-roanoke-en",
       "series": "mysteries",
       "ar": "The Lost Colony of Roanoke: How Did 117 Settlers Vanish Without a Trace?",
       "en": "The Lost Colony of Roanoke: How Did 117 Settlers Vanish Without a Trace?",
-      "image": "assets/images/roanoke/article-cover.svg"
+      "image": null
     },
     {
       "slug": "mary-celeste",
       "series": "mysteries",
       "ar": "لغز سفينة ماري سيليست: اختفاء الطاقم",
-      "en": "The Mary Celeste Mystery: The Vanished Crew",
+      "en": "لغز سفينة ماري سيليست: اختفاء الطاقم | Deep Documentary",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=1187",
       "eventYear": 1872,
       "era": "modern"
@@ -85,14 +85,14 @@
       "slug": "passkeys-end-of-passwords-2026",
       "series": "technology",
       "ar": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟",
-      "en": "Passkeys: Is the Password Era Ending?",
+      "en": "مفاتيح المرور 2026: هل انتهى عصر كلمة السر؟ | Deep Documentary",
       "image": "assets/images/passkeys-end-of-passwords-2026/passkeys-01.webp"
     },
     {
       "slug": "wow-signal-mystery",
       "series": "mysteries",
       "ar": "إشارة WOW! الغامضة: هل تلقّت الأرض رسالة من حضارة فضائية؟",
-      "en": "The Mysterious WOW! Signal: A Message from Space?",
+      "en": "إشارة WOW! الغامضة: هل تلقّت الأرض رسالة من حضارة فضائية؟",
       "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1400&q=85"
     }
   ]
