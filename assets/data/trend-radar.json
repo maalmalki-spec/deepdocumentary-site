@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-10T13:14:29.372688+00:00",
+  "updatedAt": "2026-11-10T19:04:49.379718+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟",
+      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟ | CNN Arabic | CNN",
       "source": "CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJ1c3BLZGJMbDYyYmNPYlRHNHJzMG1uMWxYZEdLZlVrZnNOOTZPVEgzY0FkZ2owVG1lU2tfSEN5a0NteHB0dGZGN191aURCQllfaDRBRHNKLWkyWUcyWkxEdHhrWm1COHhYdE9QR1AxTHRITnNfNGQxeUJRclUtYk00NnRaOGdNVXM0ZzZIVkEtQ0xSRGRpcDRUVTVTVmI0WGthNmtjRlBuNTl3aEZ3?oc=5",
-      "published": "Thu, 05 Nov 2026 20:10:03 GMT",
+      "published": "Thu, 05 Nov 2026 20:12:38 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟"
+      "suggestedTitleAr": "خلف الخبر: إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟ | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -47,24 +47,24 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "ماذا لو طوّر الذكاء الاصطناعي نفسه وخرج عن سيطرة الإنسان؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQNDA0d3k2cl9ZR2pkeTFvSmdNeUZnSC1YbGRzajJ5Z1ZTdGpBQVl1QnNKTk4wWDE3UERZWlhrenAyMlZRUGZNWTN1ZlpIV3ZLeWVqYXZid3ZjdW5hYlRxNTBVZVkxUjJ6NU1oYUhQQVBGcmFaMXNaRnFQSHVqTHdiUnZJaTJLZ2QxUU14ZmxkU2pQcENZa3plaVJpZm1iX1A4dWdqblFsemdUU2JycjM0WTBtOHBZS0JUaXVPTjZRSFhBOW91YlZNa1RObEV0YWVqemozY0JHOGFGZ29OQ2RycVIzOU5GOUkwR3d4UjhMbDE2cTNXUXdYRUpVY3o0NGl6cEFVY0RNSDJnWTAwSXY2WlRFelMtLTdBd05ZdlhubHZEREI0TTBNYU16bnpvUlpkZUIzbEY3WDc3Zw?oc=5",
-      "published": "Tue, 03 Nov 2026 17:27:29 GMT",
+      "title": "حين يخرج الذكاء الاصطناعي عن السيطرة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ENjRaT3dHRmRVYzRrb056SERKZnRZaUFyNzhad3cybFQ4ejhsWm9PQWRHN05HNXpCeVEyaVJMajhhajJOZURILXluTUlqaE5RX2owMnhzWFBRSTdMaTFSSEFxSWU3b0dRMEE?oc=5",
+      "published": "Mon, 09 Nov 2026 23:54:52 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ماذا لو طوّر الذكاء الاصطناعي نفسه وخرج عن سيطرة الإنسان؟"
+      "suggestedTitleAr": "خلف الخبر: حين يخرج الذكاء الاصطناعي عن السيطرة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "economy",
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "ما السر الحقيقي وراء صمود الاقتصاد الأمريكي؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVmdhT2kwc3VsZFFNUXBoT3JjMWUzc2U0bENGZ2h1NTFqWHBNQW9MTUNVWjBFekIzakZsWkIyUS1YUmFmVEJlUDk5dWdYbWhQbFN5YXdkQzVtaUxsaFdYNDU0ZHl4LU1hWVh6SlBMbm1ZSi12eGczd2NlRjVTb2duZE55V3JWWkFmeVZyQ0x3TzZNamwxVGczQWRhbTBRcWFIMURORnNqelNralc3bTlneUNURklLRTN0NUU1SnRxM0xNRzhMeW0tRi01N0RRRWllZEkxVy1EN0U4XzczeXBuSHJaU01HeUMwdzNCOFk2cVB6M0dHa3RrbDdkUVA3TEZyZmtFOWxEWHhrS2FDWE44dG9DZ2U5SVJ1Si1DRGtQdUVfWHlSeXhsMU9VYkJZS1RuZEprTzZNdkljSk5Wd2VJN2s2dHJxYXhL?oc=5",
-      "published": "Tue, 03 Nov 2026 17:23:04 GMT",
+      "title": "نمو اقتصاد الصين 4.5% خلال الربع الثالث بدعم من الصادرات - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pa0Z1NDJMUHBHVDF2eUJLbER2UEU1aVpSUVVmMzRWZlRoVWlfR2prSFVUUFlPeEZKS0RkN3NKWi1USzJyRFA1eUxybDdCTVc4UjRBX19sVjFJX0ZOdmZjd0dzLVc4dzVFV0E?oc=5",
+      "published": "Sun, 08 Nov 2026 04:38:45 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ما السر الحقيقي وراء صمود الاقتصاد الأمريكي؟"
+      "suggestedTitleAr": "خلف الخبر: نمو اقتصاد الصين 4.5% خلال الربع الثالث بدعم من الصادرات - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU00blFTSlZlM0NsdXc4eDZ0cGZha3g3MUhNOHRCaXlCaVZXOHY4QlQzRG1tZG1yS2IzeDNfQ3U3VXJ5RU9haWZ1bi1FdXRxYUN3cFYzQ04ybEFrZjRiWUJFb2JQNXZjQkR3NjNKeGhCTVlKMjZrQmN1dk1ibFFHRDJlcG92QlBjOTdCNHFiVEU2WFptX0QwTw?oc=5",
-      "published": "Tue, 10 Nov 2026 10:53:00 GMT",
-      "suggestedTitleEn": "Behind the story: New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+      "title": "The World Has Changed: Insights From The New AI100 Report",
+      "source": "Stanford HAI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFRUQTZaUnp6azVPVjVIc3AzT3RaWW1JTUM5NDdCc2x4czEyYU5lTU5vWjhBWlpvUUt6TDhfTEhhWnYwcndqelhLd2VEWmdEdUZDemZjekt1X0RXZmQ1bEVLOGZxVE1IUHdTOFhHNElVeDZ6THk0RENxUE15YXIzVTczZkN1U2FPeEc4RmlRZw?oc=5",
+      "published": "Tue, 10 Nov 2026 13:56:45 GMT",
+      "suggestedTitleEn": "Behind the story: The World Has Changed: Insights From The New AI100 Report",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Smart News: History & Archaeology",
-      "source": "Smithsonian Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2RU5ITkJQY25UNWlUR3F6V05aUUp5OFdkQlYzVnpzalhsMHQ0djdTUms5XzRPV0IzbVNzWVBMX2UtM0ZsaEVkVkpLemhvMC1QdlFYSUpDek1mcFg2eHdHOUtDejJ0S1FCUjlqRzdkWVBFcVUtanlqdWxn?oc=5",
-      "published": "Tue, 10 Nov 2026 09:51:41 GMT",
-      "suggestedTitleEn": "Behind the story: Smart News: History & Archaeology",
+      "title": "Archaeology student found a lost Maya city on page 16 of a Google search",
+      "source": "Upworthy",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmNsbEh2Q2dWUXlNaXQxMnJTMGJDRE5vS3llRGlVQldiZHBEQzc0d1JJZjJZWkdBSzVVaDFqeVNjaXBtMElwTzZFQjVuR0NqZERvYTlMVTlJanhGUS01Q1drSXpwMlFGeEZoQ2xhZHpiRmpVUzdNUTd0T2ZaX3owTDI4WFkxWnhOQ1lQUUdYX2s?oc=5",
+      "published": "Tue, 10 Nov 2026 16:26:55 GMT",
+      "suggestedTitleEn": "Behind the story: Archaeology student found a lost Maya city on page 16 of a Google search",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "The Critical Role of Sample Storage in Drug Discovery and Development",
-      "source": "News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVdKcHZjd0dOMVU5T0tGWmg2TUF4dFhseHA2TjkwWGxCWVBlWE5JSlZvVDRuRkU0dzZ3cnFzS0JMTmdmRm1zcWU0X1k4MmpYZlZ4SVpuRHp1ZGN1ZFpOUGZhRVFvejVhbncxdEZxOTR2VGlyUkkzWmllLWJVTFdlbHo3WXpMV3FsdTRUVVBvVkpla0RlWEJVeEJOM0pScG0tU0RxdWlmTFFHalJGNG9CTWNjVFpXcklW?oc=5",
-      "published": "Tue, 10 Nov 2026 09:08:00 GMT",
-      "suggestedTitleEn": "Behind the story: The Critical Role of Sample Storage in Drug Discovery and Development",
+      "title": "PR News | The Courage to Question: Medicine’s Continuing Search for Truth - Tue., Nov. 10, 2026",
+      "source": "O'Dwyer's PR News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXIwNHFzZE9ESENvUjhpSHYxQW9PMm9Lc0d1N1ROVDl1em0zb3gzU0FiblVNVkx3a2lBWU53NVpaa1FCZFRkSlVZV3p0X1gwc1lnTjhWSWZCX2ZNTzNsa1hjY3VoQThPbjFfWjZUcjZ3WFEyX3dUWnhTejN2M09VQ3VoenNtRGRjekF4M3hwaXlvU19QQW9WUzU3Qi1QVkFtWFdudEZrLXZ1dWliY0hRai1HVUg?oc=5",
+      "published": "Tue, 10 Nov 2026 15:06:49 GMT",
+      "suggestedTitleEn": "Behind the story: PR News | The Courage to Question: Medicine’s Continuing Search for Truth - Tue., Nov. 10, 2026",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-      "published": "Sun, 08 Nov 2026 20:01:02 GMT",
-      "suggestedTitleEn": "Behind the story: Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+      "title": "Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMWFybWZVOUlBMWxJMlZHbmM5dWYzNWQ1LUFBUUFEOGxIWmh2dmY2b2F4T29va2JqOFRucmJtZmJQczdxbW9VS2FxeTdPX044a3c?oc=5",
+      "published": "Tue, 10 Nov 2026 13:51:47 GMT",
+      "suggestedTitleEn": "Behind the story: Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "AI and Africa’s creative economy: who gets the value?",
-      "source": "African Business",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRllCOGRONkMxSlVuM0F0cTVZcmhiMm52eDV5WndiZEw1N3hwZWk2SHNWVGExM3VFYUxKVnladWFxRDJxTlFnVXQwRU5ic0ZNXzVHVlRHSFFUTXNncEV5WTFEZ0YxWWg4LWR2V1gyRzJtMjdtYjRJZERQQUxhWWpwaUF2T1haTGU3aUVWMmhyZVdhZjRfWjJwdy1n?oc=5",
-      "published": "Tue, 10 Nov 2026 10:07:36 GMT",
-      "suggestedTitleEn": "Behind the story: AI and Africa’s creative economy: who gets the value?",
+      "title": "Governor Sherrill Launches “New Jersey Means Business” Economic Development Strategy to Boost the State’s Business Competitiveness, Grow the Economy, and Create Quality Jobs",
+      "source": "Insider NJ",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPZjM4ajYxaVdkQkV4TDJEbGF6c1hWdC1VeEg0cERIOHJjQ1JVT1JKS1diMTVTZ0tXZTN5aFRKUGlQVkdNRWc1MXJITHprTGdZVWtyTHNISEw0QXZwaHhsamlvSm1GQ2JaczA2dXM2R3hRSFRQRUtIV1lFZG5wX1pYclRaTzZlNTBIcnA4Q3NGTnZucmIzMUdpdGhWU3EtendhV29zYUE3YUdmeDFXXzR5VVE3eXNQdlpnNFgydUkzdXk5MU5CSEZJaWFTQ2Fma3pIUlh1bmRlaDZWYzVLZmNycmVpQXFKeGtKYnR2NHRpZkRzTkJDZFRteDg2aUVzWFZvbmFiallpSm9sSVNRcVhrdXZVYnp3Z1RzSzFHdkEwY2hEMW44T2EtZ0g2LXNKYVpoaDg4?oc=5",
+      "published": "Tue, 10 Nov 2026 18:16:00 GMT",
+      "suggestedTitleEn": "Behind the story: Governor Sherrill Launches “New Jersey Means Business” Economic Development Strategy to Boost the State’s Business Competitiveness, Grow the Economy, and Create Quality Jobs",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Carbon Tax Exemption for Canada Would Break World Trade Rules, EU Law",
-      "source": "WhoWhatWhy",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXg0a3FscmZRYW1fMTE2Wk1DYl9KbGZIbVlucUNUcmlmVzE2cXZ6Rm9oeF9FYnExblNVWDBQVGxHU19sUUxnVWRZdXJGZk5kcjBtMDBudlV6SUctbVptWWo4V2VESk53TkttQ2RNd1NteExwWWdpem5fd21LcTdoWlY1dHF0dVhrYWFnd2lPNHR3LUxQUEJiNVNBT0RIZkE0QjdGVHo4Sk91akdZNG10amtn?oc=5",
-      "published": "Tue, 10 Nov 2026 12:02:51 GMT",
-      "suggestedTitleEn": "Behind the story: Carbon Tax Exemption for Canada Would Break World Trade Rules, EU Law",
+      "title": "Nature, Peace, and Security Gains Momentum at COP17, but its Definition is Still Up for Grabs",
+      "source": "New Security Beat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSl9ueC1TTXdJdUZyVEhWQlJtNmRMZjJGYWJNUzRjOG1hWERtN0QxTVFKZlgyanhJd2RaMjU3Y3RDZUR2RWxMbG8tZU9YUk83SkdzUEt1ajd3eGpmY0xJM1hRS0NFMXV6UHJUUTNUM3A0VGhBSUJGcDlMQ09vVi1EYzJPVC14T3ZCRk9Gb2c5YzQ2eks4d3kzREIyc0t6NkRDV1R1enJNZXRYZ1JZdlpyQXdaclZ5LVVzakN3UTJVQmJYb19sUW4zbmowdw?oc=5",
+      "published": "Tue, 10 Nov 2026 13:32:24 GMT",
+      "suggestedTitleEn": "Behind the story: Nature, Peace, and Security Gains Momentum at COP17, but its Definition is Still Up for Grabs",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "What Does It Mean When People Look Down While They Talk to You, According to Psychology",
-      "source": "graziamagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVYwNWJBODJfUGRlSEVXWVRadlc0RkROUmJpMjVldUtKN2R4d0Zhd19PaU96ZGZETW1nR1hranVQU1NqOWZfblM1bm5FSjhwdVpzM3EwYXpkTVRCaXMtZml3T3hDSkVtMl9RdWNxZURPV3Z5cFB0SlFTS2xNRGxzOFR3TExFcGItN0JseXJfVGdKc2I4QzczeVl5bW1Pcm1xb2tKbGxyeTBvNjlZMV91c05pMHlpcHBlMXRkaVpiMVc5MWlIMmNNLWNJX0RZRUow?oc=5",
-      "published": "Tue, 10 Nov 2026 12:45:05 GMT",
-      "suggestedTitleEn": "Behind the story: What Does It Mean When People Look Down While They Talk to You, According to Psychology",
+      "title": "For Montana State student veteran Erin Alexander, research is personal",
+      "source": "Montana State University",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXBVbjNxNEtBU3BrZnBsdVR4SEgwTE1rc1RqQ29neDVvcGJ3OU1Ec0dUczhyQXpJb3hFbnA2SVNpRGdDNW52NGhiejg0Y3V6SzRYd1NqMkg4OXhBNDNrdDFpZGlDLXJZRGJUVnB1Y2lxUGhEOVp4eUd5ZUJ1azdQWS1EVUp6N3cwTHdpaklYVEpUbVZZbFFMSkc3aXBqNThobzRIYUhrVQ?oc=5",
+      "published": "Tue, 10 Nov 2026 15:32:30 GMT",
+      "suggestedTitleEn": "Behind the story: For Montana State student veteran Erin Alexander, research is personal",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Of mistletoe and murder: 7 holiday mysteries set in the past",
-      "source": "Crime Reads",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0hQcVVRdEIwdTVmNzVZNlBTUGh6Qk1mcDRpdkZQVWhrSXJQSnYydFRnZkZhZ0ZXRkc1ZnNWa3lQTHdGdG9KaUxCWkExdlUtNEM2Wl9lWXpwUVU3Vy1CUjBwMHMxYThZRFA3Q3ZJalhIWVRMbWR4eG85bDdHTDRHdmJVV3dRQS03V2hJ?oc=5",
-      "published": "Tue, 10 Nov 2026 11:15:00 GMT",
-      "suggestedTitleEn": "Behind the story: Of mistletoe and murder: 7 holiday mysteries set in the past",
+      "title": "‘Murdoch Mysteries’ Season 20 Episode 7 Release Date, Time and Where to Watch",
+      "source": "IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQ0VVLUItMjNXNzVKMjdQZWJsYWFLeXA2aTU1SzR6ZS1OUFVVaVZjd3VyWEZDOWtyZFZUc0Nhb0UwSG5BY19DX0JNQmhjS3c2Wl9OaFc0bERVbHJINkxWLWEteks?oc=5",
+      "published": "Tue, 10 Nov 2026 07:25:10 GMT",
+      "suggestedTitleEn": "Behind the story: ‘Murdoch Mysteries’ Season 20 Episode 7 Release Date, Time and Where to Watch",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Hubble Space Telescope (HST) | History, Discoveries, & Facts",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11NjVabmxlS0ViQ3ZBdFU2ODRINlJLOXJLR3ctRWhHU2VzX3o3NGluRW9zQzlNUjVZMFVVUEQ2Q0c4UEt0a2dzVkVGNUMza0VmRDNBeU5vU1VydmROUi04M3ZMRU0wZw?oc=5",
-      "published": "Tue, 10 Nov 2026 09:34:17 GMT",
-      "suggestedTitleEn": "Behind the story: Hubble Space Telescope (HST) | History, Discoveries, & Facts",
+      "title": "Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe | Newswise",
+      "source": "Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGFlZ1pPckFWQ2I2SHN2NGJaU3NaeG5KVDFVS2FvLWlONmlMU2FuV29tQ3pnWkNKTXo0MVhENG5Hbm04M0pVN2tUamNpcldBR1NtWlJZYnZhZi1iUDR4RjZDbmtZMGdqdHpkZjhQaHEtNm1Wak81bFYzamJJaVlRUVVqODMwbTNiWXdQQnRZem1HU1lLbjZZMkJSZTEtRGgwS2RQaHBBVjJzeHhaWWlDbHFLdkQ4cFVqbHB30gG7AUFVX3lxTE1UYWVnWk9yQVZDYjZIc3Y0YlpTc1p4bkpUMVVLYW8taU42aUxTYW5Xb21DemdaQ0pNejQxWEQ0bkdubTgzSlU3a1RqY2lyV0FHU21aUllidmFmLWJQNHhGNkNua1kwZ2p0emRmOFBocS02bVZqTzVsVjNqYklpWVFRVWo4MzBtM2JZd1BCdFl6bUdTWUtuNlkyQlJlMS1EaDBLZFBocEFWMnN4eFpZaUNscUt2RDhwVWpscHc?oc=5",
+      "published": "Tue, 10 Nov 2026 18:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe | Newswise",
       "suggestedTitleAr": ""
     }
   ],
