@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-11T13:21:53.283377+00:00",
+  "updatedAt": "2026-11-11T19:08:39.437177+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "ردّاًعلى عبدالملك الحوثي وما قاله عن السعودية بخطابه الأخير..وزير إعلام اليمن يبرز نقاطاً",
+      "title": "صاروخ يستهدف مبنىً لأرامكو بالرياض.. ووزارة الطاقة السعودية تعلق",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWJjZjFCYXFtMEcxTnozdE9XblpFRUlIMDVFTVQ4OVJpLVZxRmszVUV3MjctcVhyb3pSUU1jM0dOMFhBTDIzOXNsdGJmRlhzbTJibzExUEZ5dzEzNFpVQWlkV1N2YmtLMGZvNEtlSlhLeE9rdndQUjdDU1hfNVAybDZDcS1uWTRNUGdvZ3lldDdRR0Y4Q25hRHQzcTIyQ3U5S1d1dGU1TndtRllDUU80Snczb1h1Vlk?oc=5",
-      "published": "Wed, 11 Nov 2026 02:23:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGI4ZWFhY1FrVTlrQVBCd0VMZEdLTnJpZV9oa0tGLTZNWThnNTl2c2Q0SThCZFpxcjExNk00SnhkNXdKeWk2VnZLQ3ZlX0JCTzF3QVQ3VnZyR2pJSnB4RzVOTDJHdE5XemlsM0tnTkp4R3J3VHNxVWFwQzNxTEt4MnhCZWYtSWNhUEU4UWE3dHFmRnczRy1zc1hNNW1jcVdhME52aG9kUW14bXV1?oc=5",
+      "published": "Sun, 08 Nov 2026 09:48:57 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ردّاًعلى عبدالملك الحوثي وما قاله عن السعودية بخطابه الأخير..وزير إعلام اليمن يبرز نقاطاً"
+      "suggestedTitleAr": "خلف الخبر: صاروخ يستهدف مبنىً لأرامكو بالرياض.. ووزارة الطاقة السعودية تعلق"
     },
     {
       "category": "history",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "USDA Begins Hiring for Nation’s Largest Facility to Combat New World Screwworm",
-      "source": "USDA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVhBc1k3ZVZpcExheTRCd1VWM3pSZS1oS1cyOGlBanBOTS01WC1sdVZYUnQtZnJsUnFzTlRKUG9Cd2s1dVBZRnNEQTRVRHEyUEJ3MDZhbXNiZjRaQW1saEtJWE95SXB1VFRfYm1KWDREbFdVenp1bDliM0NMai1pN3hUTHRqOS1PQXBuZzRvSFR3SmFhOHNfSDlaQXBwNE9YTmZBRklSY0g2RFQtakgyeV9fRWw5UUg4Uk5jd0V6QmdsNEZ4eUZXWF8wNjFPUQ?oc=5",
-      "published": "Tue, 10 Nov 2026 20:45:00 GMT",
-      "suggestedTitleEn": "Behind the story: USDA Begins Hiring for Nation’s Largest Facility to Combat New World Screwworm",
+      "title": "Conflict must not distract from climate action, leaders warn COP31",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcy1FRWhTbVJwQjAtOUVzaXJGczgtR0hGWV9UeXlXZkwtT3Z5TXBKUV8yU3lEajg0NFlmdmMteW50ZlNYWnpaX3Jud2o5SWF1dE1mWkhBbXhNY05GWW1HLUdaM1ZnX2pEUEZfbUg4NGZLWlMxYl9uRVBiNHNWekFGM1lqWGJrRUxKZHZKMF9RZE1HcUo0VDI4aWdlUERkd2EyeUs4bTFTb2N5UFNsWDJDVDc2RQ?oc=5",
+      "published": "Wed, 11 Nov 2026 03:02:00 GMT",
+      "suggestedTitleEn": "Behind the story: Conflict must not distract from climate action, leaders warn COP31",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "'Not merely a mythological concept': Huckabee says Israel archaeology, Bible back Zionism",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zSXIya0dfMnBMXzAzODBPVXZ0LTNiNnNrVG5aLUhJS1V1anhSR21xMXk4OWJ2WmtKU1hJbTVtY0VoRk1PbWdna3dad1FkUjRsSF9zVzduZUpMRExV?oc=5",
-      "published": "Wed, 11 Nov 2026 03:00:46 GMT",
-      "suggestedTitleEn": "Behind the story: 'Not merely a mythological concept': Huckabee says Israel archaeology, Bible back Zionism",
+      "title": "Native American Heritage Month in St. Augustine: History & Sites",
+      "source": "Oldcity.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ncmZWMkRud1VuMkxtVHlpMU5hX3RrbEV3bnZaeGtGdHBsdndpaUdaeDA3c1hwd01vZU05OENiQ2JCXzZkM001WS1RVkVmZmNYaFF5c3VxUUdKZERISGdhdEY3MVRVRnFnenQ0dER5OTc4Zw?oc=5",
+      "published": "Wed, 11 Nov 2026 14:12:47 GMT",
+      "suggestedTitleEn": "Behind the story: Native American Heritage Month in St. Augustine: History & Sites",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Ptarmigan-1: A Structure-Free AI Drug Discovery Model",
-      "source": "The Scientist",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWhEMEJRLUVfUDd5NkpGZWkybjQ3amozVTVzVDJGdGZHbGNOR3cwU2ZiTUo3eWNmWUVUM29PS3JGMWZxTkRQR19SS0doSnN4ZkNGQmNhQTZZWEluZUZfeEpCSXUtMWRtOURCVnI5WGR1YkYzUUpUZTdWZWJfZnNIT1lrbUFGLWJyVGpkWU5WZmI0V1lqRS1CcEJEZWtjNmc?oc=5",
-      "published": "Wed, 11 Nov 2026 05:14:23 GMT",
-      "suggestedTitleEn": "Behind the story: Ptarmigan-1: A Structure-Free AI Drug Discovery Model",
+      "title": "Anthropic’s Drug Discovery Dreams: ‘It Is Not A Side Effort’",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHlvUzljLURLYVJfOEp0dXVWV21YN0dxRkMyRklNNmg3b29nZHpMd2E2Y0pUSFhSdkUyUEtsMnQzZkl2QzN4RmZvY29taFd5c2dZMWI3NkdCcWo5YXpmbVZfcmo3bUo5MURzamtyeUs4enM2Mm0zeDYtXzNwOTJRWHdVaGlDbndpMGpfcmRaOGpwZ2JaZzN5cUR0ZnBxSmFpeUFsQ0E0dkNvdzJWNWZV?oc=5",
+      "published": "Wed, 11 Nov 2026 14:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Anthropic’s Drug Discovery Dreams: ‘It Is Not A Side Effort’",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMWFybWZVOUlBMWxJMlZHbmM5dWYzNWQ1LUFBUUFEOGxIWmh2dmY2b2F4T29va2JqOFRucmJtZmJQczdxbW9VS2FxeTdPX044a3c?oc=5",
-      "published": "Wed, 11 Nov 2026 01:33:50 GMT",
-      "suggestedTitleEn": "Behind the story: Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
+      "title": "SMX Advances AI Technology to Bring Greater Precision to Industrial Material Development",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0M5V0pTMVlIX3E5SEc5VjJfaXZrNk5ibG1sbVZnNGxHU3E1T2N0TUo1ZVdCRzJLTm9LYmY0bGh4RWZlc2lMaDFadERFUmhvam5pa3NJQ2p3cEtlazQtN0laSkRsSXJFZzBHand1NkV0SlhSX1lQQ2kwQlVXdnZwbm55T09vMk96elVUNmp2VC1nZjFnXzY2WWZMX0g?oc=5",
+      "published": "Wed, 11 Nov 2026 18:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: SMX Advances AI Technology to Bring Greater Precision to Industrial Material Development",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "IU business experts discuss factors in 2027 economy at Futurecast",
-      "source": "News at IU",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVlhTnM2cGtPeEltamtMXzZjUEJSdldYUGhrZC1DTXU4MDR1eVA3NWNUUnRoNmY3Vi0ydWZHQWdxZ1JHSFB1Z01tUkxKRm90aVA5TExfdUVrMVdxMDdrZ0NkR29fNm1rSWVyVVNmLTF1Nl90aTczQThIcmxuUlY1dmd1dUJ2Ry1JXzB5bGlKQQ?oc=5",
-      "published": "Wed, 11 Nov 2026 05:31:13 GMT",
-      "suggestedTitleEn": "Behind the story: IU business experts discuss factors in 2027 economy at Futurecast",
+      "title": "National Governors Association Welcomes Governors to B20 Economic Forum",
+      "source": "National Governors Association",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjlsZXdqM05KV0Q5SHdZSTdWUEZVTzBWSDZqbXdVeDh5TWljVlNodkxZdVlXNFRKdlpsS1NQOUVSN255TVh1Y213dFZFTFBNa0dib2djNnhlUW82V3hzcjVFdVVnMWRGNHlQNGNNMHBBb04zR3ZhbjFsMDFmc3B0Ulk0T2F3SGFjRTAwR0sxUDFLZ0JUYXpRSTlENk5HZ0hwVEhPM2xTQnN6cjRMTmxUb2N3?oc=5",
+      "published": "Wed, 11 Nov 2026 16:44:43 GMT",
+      "suggestedTitleEn": "Behind the story: National Governors Association Welcomes Governors to B20 Economic Forum",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "For Montana State student veteran Erin Alexander, research is personal",
-      "source": "Montana State University",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXBVbjNxNEtBU3BrZnBsdVR4SEgwTE1rc1RqQ29neDVvcGJ3OU1Ec0dUczhyQXpJb3hFbnA2SVNpRGdDNW52NGhiejg0Y3V6SzRYd1NqMkg4OXhBNDNrdDFpZGlDLXJZRGJUVnB1Y2lxUGhEOVp4eUd5ZUJ1azdQWS1EVUp6N3cwTHdpaklYVEpUbVZZbFFMSkc3aXBqNThobzRIYUhrVQ?oc=5",
-      "published": "Tue, 10 Nov 2026 15:32:30 GMT",
-      "suggestedTitleEn": "Behind the story: For Montana State student veteran Erin Alexander, research is personal",
+      "title": "Family activities, volunteering and exercise show links to greater psychological resilience, study finds",
+      "source": "Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbG9OSlpDUDFNbjhBa2RnQl8xbVg5YzBkWThVbHRscEVwTG5Ndm91SW9SME5OdmkwRlhPWDFZTjdTbjEtNFYwRVNIWl94enp5czhHNGJUQ3o5bDJZYTVXOGxfamVHalZDRGUxQnBXU2J6WlRGNlZ1QWUya3Jjdjk4b3RYc3RfVW4wWW9TVFZZbTZrZHpWbVE?oc=5",
+      "published": "Wed, 11 Nov 2026 17:40:01 GMT",
+      "suggestedTitleEn": "Behind the story: Family activities, volunteering and exercise show links to greater psychological resilience, study finds",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "‘Avedon’ Review: Netflix’s Documentary on a Defining Portraitist",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlQ1WWNOMy1XOHlxS0VSNFFGcW9Rb2ZJTjZSUk9DLVh1aDV6S2FSTG9ZWm5KZnNFaWJneEdOUUVFU0VVNjFPWkhJQ2JDRWRjQ2pSWGJmRFBJYkM4RnFFcHhSZHJhQlhqVU1BMUw2YTVtTzJHUzFDSWpLNmVOMVRtTERnMnU5Z21tbFNvWWVaTlQ1blN1Z2FoY3NLcEdWSkZEQWJvN2R4cV9ZRDNCMmROc3ZpZw?oc=5",
-      "published": "Tue, 10 Nov 2026 21:44:55 GMT",
-      "suggestedTitleEn": "Behind the story: ‘Avedon’ Review: Netflix’s Documentary on a Defining Portraitist",
+      "title": "OCAF Fundraiser Screens Local Documentary The World’s Smallest Airport",
+      "source": "Flagpole",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjZFZGxSaEFsQkZ3bjMwNzV5OHFMZ2xhOHpMYzd1Q3dzLTlRVHVpM0tIb1Rza0g2a1RWOFB0eEwtOVZSZWlyNDJSY2FVdGtrVXlRRmNPOGJnR0F2ZHp3Y0pPX2U0SktUQVBDSVlzRkRfeWhUZDdFaG9KbERiQ2N1YjMxaklhQWQwOFRTSXpwb090S3RpYzI2YWhJQVMxcVFBRmd2MmJFMDZpb3JILXhlY1ByMjFaTHVpQU1zUFJqTEtSQnAzRElDZnFsa0VJYUVndW5B?oc=5",
+      "published": "Wed, 11 Nov 2026 16:12:12 GMT",
+      "suggestedTitleEn": "Behind the story: OCAF Fundraiser Screens Local Documentary The World’s Smallest Airport",
       "suggestedTitleAr": ""
     },
     {
@@ -229,8 +229,8 @@
       "region": "global",
       "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
       "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GZTJaaEJVTEVKNDZiYTEyMlBXdjBqOXM3WnZzejZtTFBZYnJjazhCNm05U0ZRNnZwR0lUbVpzNmFFT2xHekUxems4ckVpM1FZSGRNNEtGMkh2dlpFaWJGOFZXMWpaTjdQakVPdVNn?oc=5",
-      "published": "Wed, 11 Nov 2026 10:51:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWENyX0RzVVR1RXdLcHg1alZmUnF3T2IxcnlCT3pWNE5pOHA2SXJxQnVEaFlnd2F1dVo1a2RDd3VVOFhqUHExbzFHNUtraGM2YVVibWY5ZGhRQzRlejRITEVMcFpOV3VLNXdVcHJNZw?oc=5",
+      "published": "Wed, 11 Nov 2026 10:49:49 GMT",
       "suggestedTitleEn": "Behind the story: Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
       "suggestedTitleAr": ""
     },
