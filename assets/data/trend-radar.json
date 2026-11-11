@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-10T19:04:49.379718+00:00",
+  "updatedAt": "2026-11-11T01:16:00.228094+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟ | CNN Arabic | CNN",
+      "title": "إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟",
       "source": "CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJ1c3BLZGJMbDYyYmNPYlRHNHJzMG1uMWxYZEdLZlVrZnNOOTZPVEgzY0FkZ2owVG1lU2tfSEN5a0NteHB0dGZGN191aURCQllfaDRBRHNKLWkyWUcyWkxEdHhrWm1COHhYdE9QR1AxTHRITnNfNGQxeUJRclUtYk00NnRaOGdNVXM0ZzZIVkEtQ0xSRGRpcDRUVTVTVmI0WGthNmtjRlBuNTl3aEZ3?oc=5",
-      "published": "Thu, 05 Nov 2026 20:12:38 GMT",
+      "published": "Thu, 05 Nov 2026 20:10:03 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟ | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: إلغاء مباراتي السعودية أمام قطر والأردن.. ما السبب؟"
     },
     {
       "category": "history",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "نمو اقتصاد الصين 4.5% خلال الربع الثالث بدعم من الصادرات - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "title": "ولي العهد: الظروف الحالية دليل على مرونة الاقتصاد الوطني واستدامته المالية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pa0Z1NDJMUHBHVDF2eUJLbER2UEU1aVpSUVVmMzRWZlRoVWlfR2prSFVUUFlPeEZKS0RkN3NKWi1USzJyRFA1eUxybDdCTVc4UjRBX19sVjFJX0ZOdmZjd0dzLVc4dzVFV0E?oc=5",
-      "published": "Sun, 08 Nov 2026 04:38:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paWJhUHU2ckFZbFo2UUlyVjhPWVVUc05UNEg4cVFaYkVpV2szdFN2bGRTUXE4YUdxYTkyQXozeXlLcGdaVjczb2drYTE1eG90TlV1am90VGZPczZPMmpfbEdvaDdmcUFJQmc?oc=5",
+      "published": "Tue, 10 Nov 2026 16:38:45 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: نمو اقتصاد الصين 4.5% خلال الربع الثالث بدعم من الصادرات - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: ولي العهد: الظروف الحالية دليل على مرونة الاقتصاد الوطني واستدامته المالية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
@@ -86,7 +86,7 @@
       "title": "إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdXM0RHdlNGk2RHBhVUtPRU9Md05OeEZvMjQwRzhzNWNfQ0VHNXZqSU1lYnR0NmdfM01RU1hNZDRVbDVWOElhRW5hS25TN1hab19oay13QldaMG8zeGs2QjFiM0pGNkdVVEE?oc=5",
-      "published": "Sun, 08 Nov 2026 03:39:01 GMT",
+      "published": "Tue, 10 Nov 2026 04:28:27 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
@@ -95,12 +95,12 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "05 نوفمبر 2026 الأمين العام",
-      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03UHBaakx6QnFZemM3dG52NmFLQV95M29XVDFSclMyU1hwcjdUVEt4SWcxemdHdktrNGxiTW5xZnJQYjNxSkhGaEpBSTJUSWtSSmNMTXFoc25Sd1VYMjRvSmdCY0R5Q0RJTWpkMlFySXZnU1NXT1JOc25B?oc=5",
-      "published": "Thu, 05 Nov 2026 16:46:45 GMT",
+      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
+      "published": "Tue, 10 Nov 2026 18:18:09 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: 05 نوفمبر 2026 الأمين العام"
+      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "mystery",
@@ -119,23 +119,23 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "التكنولوجيات النووية في الفضاء: من البطاريات إلى صواريخ المستقبل",
-      "source": "International Atomic Energy Agency",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ21Md2hNZEp0Z2FiSjhKdmROZzFnZ3I3QUhuMzlsSlVRYnNaTWNiSDZuOEsyNHVPbjkwV1RrTlRyel9ZeEVUVTZTT0ZZZE1FM3BXVFdSVFVlTkdvcHJ1Nk1rV1pqTUpNWm9LUjcyVFN4MUdYNURZX0o4bnhQaXhYY3BqR0VGMkVLZ3A4bnlScGhVZERZZl81MDR4XzE2NEN1ZWt0eU4xSmlPQ0xGb3ZnWGhjekRwT2FrS1pidlpvTQ?oc=5",
-      "published": "Fri, 06 Nov 2026 10:11:24 GMT",
+      "title": "سباق تسلح يصل إلى الفضاء.. أوروبا تطور صواريخ بمدى \"غير محدود\"",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOQzBhYmpobEJGd19NRlRnOGgxVnM2Y0FiU3NEakllamlLQmZZdlhVX1o4bHowazh0bGh3RmpJSmQ5QWxtVHJ4VkI4WGZ0SW9fWG5ROHZMWUVPQWNEbk1scnJpc1lTaVc5WTgtM200bDRidE5ycGJvSFpZQ2VVeDJjR3dSb1NST0xOaWNlN2MtbnZaSFNDM0UyeDY3TmdfSlpENzZuM19NMzlwY2tBY0NTbkxxYk5nWXRHNTJYaHZwNFZsU2c1SDB6OENuOWRibVJPVjNjVUpnalVxMUxtdGtlcVhtVVVFSUlFeE1Od29xZjl3Z2JLOXRZNnQxMTlwdXRzdW82TWVxOXJPWEhQTlNoLWRhWkk1SmhiNnNjNExWb0lFekVYYUtNRzNnaTY0MGZ5RkVZeVAzaWxiQ3phSWpheEl3N283dXdMdFFjY2xpZmI?oc=5",
+      "published": "Fri, 06 Nov 2026 17:32:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: التكنولوجيات النووية في الفضاء: من البطاريات إلى صواريخ المستقبل"
+      "suggestedTitleAr": "خلف الخبر: سباق تسلح يصل إلى الفضاء.. أوروبا تطور صواريخ بمدى \"غير محدود\""
     },
     {
       "category": "world",
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "The World Has Changed: Insights From The New AI100 Report",
-      "source": "Stanford HAI",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFRUQTZaUnp6azVPVjVIc3AzT3RaWW1JTUM5NDdCc2x4czEyYU5lTU5vWjhBWlpvUUt6TDhfTEhhWnYwcndqelhLd2VEWmdEdUZDemZjekt1X0RXZmQ1bEVLOGZxVE1IUHdTOFhHNElVeDZ6THk0RENxUE15YXIzVTczZkN1U2FPeEc4RmlRZw?oc=5",
-      "published": "Tue, 10 Nov 2026 13:56:45 GMT",
-      "suggestedTitleEn": "Behind the story: The World Has Changed: Insights From The New AI100 Report",
+      "title": "USDA Begins Hiring for Nation’s Largest Facility to Combat New World Screwworm",
+      "source": "USDA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVhBc1k3ZVZpcExheTRCd1VWM3pSZS1oS1cyOGlBanBOTS01WC1sdVZYUnQtZnJsUnFzTlRKUG9Cd2s1dVBZRnNEQTRVRHEyUEJ3MDZhbXNiZjRaQW1saEtJWE95SXB1VFRfYm1KWDREbFdVenp1bDliM0NMai1pN3hUTHRqOS1PQXBuZzRvSFR3SmFhOHNfSDlaQXBwNE9YTmZBRklSY0g2RFQtakgyeV9fRWw5UUg4Uk5jd0V6QmdsNEZ4eUZXWF8wNjFPUQ?oc=5",
+      "published": "Tue, 10 Nov 2026 20:45:00 GMT",
+      "suggestedTitleEn": "Behind the story: USDA Begins Hiring for Nation’s Largest Facility to Combat New World Screwworm",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "PR News | The Courage to Question: Medicine’s Continuing Search for Truth - Tue., Nov. 10, 2026",
-      "source": "O'Dwyer's PR News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXIwNHFzZE9ESENvUjhpSHYxQW9PMm9Lc0d1N1ROVDl1em0zb3gzU0FiblVNVkx3a2lBWU53NVpaa1FCZFRkSlVZV3p0X1gwc1lnTjhWSWZCX2ZNTzNsa1hjY3VoQThPbjFfWjZUcjZ3WFEyX3dUWnhTejN2M09VQ3VoenNtRGRjekF4M3hwaXlvU19QQW9WUzU3Qi1QVkFtWFdudEZrLXZ1dWliY0hRai1HVUg?oc=5",
-      "published": "Tue, 10 Nov 2026 15:06:49 GMT",
-      "suggestedTitleEn": "Behind the story: PR News | The Courage to Question: Medicine’s Continuing Search for Truth - Tue., Nov. 10, 2026",
+      "title": "The Critical Role of Sample Storage in Drug Discovery and Development",
+      "source": "News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVdKcHZjd0dOMVU5T0tGWmg2TUF4dFhseHA2TjkwWGxCWVBlWE5JSlZvVDRuRkU0dzZ3cnFzS0JMTmdmRm1zcWU0X1k4MmpYZlZ4SVpuRHp1ZGN1ZFpOUGZhRVFvejVhbncxdEZxOTR2VGlyUkkzWmllLWJVTFdlbHo3WXpMV3FsdTRUVVBvVkpla0RlWEJVeEJOM0pScG0tU0RxdWlmTFFHalJGNG9CTWNjVFpXcklW?oc=5",
+      "published": "Tue, 10 Nov 2026 09:08:00 GMT",
+      "suggestedTitleEn": "Behind the story: The Critical Role of Sample Storage in Drug Discovery and Development",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMWFybWZVOUlBMWxJMlZHbmM5dWYzNWQ1LUFBUUFEOGxIWmh2dmY2b2F4T29va2JqOFRucmJtZmJQczdxbW9VS2FxeTdPX044a3c?oc=5",
-      "published": "Tue, 10 Nov 2026 13:51:47 GMT",
-      "suggestedTitleEn": "Behind the story: Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
+      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpJYzllMkoxeFFPVDVISGp6T1hLcDc2Vm9oVnk5SFFGWWVPdjBXY2hGNG1lLTJ6cm1Dc2tpVlJOc0pqMjF1b0FCY3lYeU96QlFOaGM4TlNZZEtzNXN1MXFPNzBTY01UNFM4OG0zOXRnWmJkMVI5b2UwZFNzTkFWdUVTMWc?oc=5",
+      "published": "Tue, 10 Nov 2026 22:36:00 GMT",
+      "suggestedTitleEn": "Behind the story: How A.I. Just Blew Up a Key Tenet of Computer Science",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Governor Sherrill Launches “New Jersey Means Business” Economic Development Strategy to Boost the State’s Business Competitiveness, Grow the Economy, and Create Quality Jobs",
-      "source": "Insider NJ",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPZjM4ajYxaVdkQkV4TDJEbGF6c1hWdC1VeEg0cERIOHJjQ1JVT1JKS1diMTVTZ0tXZTN5aFRKUGlQVkdNRWc1MXJITHprTGdZVWtyTHNISEw0QXZwaHhsamlvSm1GQ2JaczA2dXM2R3hRSFRQRUtIV1lFZG5wX1pYclRaTzZlNTBIcnA4Q3NGTnZucmIzMUdpdGhWU3EtendhV29zYUE3YUdmeDFXXzR5VVE3eXNQdlpnNFgydUkzdXk5MU5CSEZJaWFTQ2Fma3pIUlh1bmRlaDZWYzVLZmNycmVpQXFKeGtKYnR2NHRpZkRzTkJDZFRteDg2aUVzWFZvbmFiallpSm9sSVNRcVhrdXZVYnp3Z1RzSzFHdkEwY2hEMW44T2EtZ0g2LXNKYVpoaDg4?oc=5",
-      "published": "Tue, 10 Nov 2026 18:16:00 GMT",
-      "suggestedTitleEn": "Behind the story: Governor Sherrill Launches “New Jersey Means Business” Economic Development Strategy to Boost the State’s Business Competitiveness, Grow the Economy, and Create Quality Jobs",
+      "title": "Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
+      "source": "U.S. Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcl9ob0pHOERwam10OXltNkpoQnJDSG5vZ1lRZ19Ec1ZqZzdLeWpLelgzRGg3TlE0ZmtCUHp0enkwcUJmandreVhGZ0xPZVlQZXo3MXdOX3RUbFA5Z0FjbkYwMlBkM0xmdUJhRS1NZ0YtZ1duRUV4NXdFbEs1LXVkWjNRbTdvX1BYRTRKYVBFNV9RcWlLVVZLOFJhRXNjeFh2ekpHNHRrWTlYekhuNDR5YlFRUFhTYVhPeWFrcDFXdVYwWFc2UGlPMFJ3UlAzYzZDSmc?oc=5",
+      "published": "Tue, 10 Nov 2026 22:18:45 GMT",
+      "suggestedTitleEn": "Behind the story: Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "A new documentary series explores the history of US prisons",
-      "source": "The Christian Science Monitor",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUE3c0dTanlzNHNmZWxJcEpFZGtmZXZ5TjVRRHBwQ0xmV19KWHpVd1JSZzJ5MHF1RTk4WnhlUEotOXJaMk9LQ0N4LVRUelFrd1d5WHNqR2lFM1l1UExNRmg5ZzNGV1hqWWFWTkZ1YTNoaUsxemx6alNaTWFZcnVvVEljU1M4bzJfM3VIcG9XVU1VdnBFeGtUNEdqdkZzZjgyVl9ndmtPZHNERFB0?oc=5",
-      "published": "Tue, 10 Nov 2026 05:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: A new documentary series explores the history of US prisons",
+      "title": "‘Avedon’ Review: Netflix’s Documentary on a Defining Portraitist",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlQ1WWNOMy1XOHlxS0VSNFFGcW9Rb2ZJTjZSUk9DLVh1aDV6S2FSTG9ZWm5KZnNFaWJneEdOUUVFU0VVNjFPWkhJQ2JDRWRjQ2pSWGJmRFBJYkM4RnFFcHhSZHJhQlhqVU1BMUw2YTVtTzJHUzFDSWpLNmVOMVRtTERnMnU5Z21tbFNvWWVaTlQ1blN1Z2FoY3NLcEdWSkZEQWJvN2R4cV9ZRDNCMmROc3ZpZw?oc=5",
+      "published": "Tue, 10 Nov 2026 21:43:00 GMT",
+      "suggestedTitleEn": "Behind the story: ‘Avedon’ Review: Netflix’s Documentary on a Defining Portraitist",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "‘Murdoch Mysteries’ Season 20 Episode 7 Release Date, Time and Where to Watch",
-      "source": "IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQ0VVLUItMjNXNzVKMjdQZWJsYWFLeXA2aTU1SzR6ZS1OUFVVaVZjd3VyWEZDOWtyZFZUc0Nhb0UwSG5BY19DX0JNQmhjS3c2Wl9OaFc0bERVbHJINkxWLWEteks?oc=5",
-      "published": "Tue, 10 Nov 2026 07:25:10 GMT",
-      "suggestedTitleEn": "Behind the story: ‘Murdoch Mysteries’ Season 20 Episode 7 Release Date, Time and Where to Watch",
+      "title": "Of mistletoe and murder: 7 holiday mysteries set in the past",
+      "source": "Crime Reads",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0hQcVVRdEIwdTVmNzVZNlBTUGh6Qk1mcDRpdkZQVWhrSXJQSnYydFRnZkZhZ0ZXRkc1ZnNWa3lQTHdGdG9KaUxCWkExdlUtNEM2Wl9lWXpwUVU3Vy1CUjBwMHMxYThZRFA3Q3ZJalhIWVRMbWR4eG85bDdHTDRHdmJVV3dRQS03V2hJ?oc=5",
+      "published": "Tue, 10 Nov 2026 11:24:09 GMT",
+      "suggestedTitleEn": "Behind the story: Of mistletoe and murder: 7 holiday mysteries set in the past",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe | Newswise",
-      "source": "Newswise",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGFlZ1pPckFWQ2I2SHN2NGJaU3NaeG5KVDFVS2FvLWlONmlMU2FuV29tQ3pnWkNKTXo0MVhENG5Hbm04M0pVN2tUamNpcldBR1NtWlJZYnZhZi1iUDR4RjZDbmtZMGdqdHpkZjhQaHEtNm1Wak81bFYzamJJaVlRUVVqODMwbTNiWXdQQnRZem1HU1lLbjZZMkJSZTEtRGgwS2RQaHBBVjJzeHhaWWlDbHFLdkQ4cFVqbHB30gG7AUFVX3lxTE1UYWVnWk9yQVZDYjZIc3Y0YlpTc1p4bkpUMVVLYW8taU42aUxTYW5Xb21DemdaQ0pNejQxWEQ0bkdubTgzSlU3a1RqY2lyV0FHU21aUllidmFmLWJQNHhGNkNua1kwZ2p0emRmOFBocS02bVZqTzVsVjNqYklpWVFRVWo4MzBtM2JZd1BCdFl6bUdTWUtuNlkyQlJlMS1EaDBLZFBocEFWMnN4eFpZaUNscUt2RDhwVWpscHc?oc=5",
-      "published": "Tue, 10 Nov 2026 18:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe | Newswise",
+      "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcE5wLXJMeERscUd0MDAxTkp2VUh1VVAxeU5pdUxvZ2JrZWE3ODlYY05XcFpza1RIekNMNlB4bDBVT2hGYkhTcjM1QWRLbUd2Um1GX0hyeVQ3OWwyWkdQUl90cmtuMzNRUzdIMi0xV29yVXJyYXFjb25ycVBTVi1NRkRlZmJhUmZnUm5uUHhqRjB4MDN3a3V5blFaTGU1b01pVGY4SXRRZlJzQUliZGcwUk54c3l4NWRTZHFrUFo2N0lRWEY0Y1E?oc=5",
+      "published": "Tue, 10 Nov 2026 21:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
       "suggestedTitleAr": ""
     }
   ],
