@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-12T01:24:55.926147+00:00",
+  "updatedAt": "2026-11-12T07:30:14.176969+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "ردّاًعلى عبدالملك الحوثي وما قاله عن السعودية بخطابه الأخير..وزير إعلام اليمن يبرز نقاطاً",
+      "title": "السعودية.. الداخلية تعلن إعدام 5 أشخاص وتكشف عن أسمائهم وجريمتهم | CNN Arabic | CNN",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWJjZjFCYXFtMEcxTnozdE9XblpFRUlIMDVFTVQ4OVJpLVZxRmszVUV3MjctcVhyb3pSUU1jM0dOMFhBTDIzOXNsdGJmRlhzbTJibzExUEZ5dzEzNFpVQWlkV1N2YmtLMGZvNEtlSlhLeE9rdndQUjdDU1hfNVAybDZDcS1uWTRNUGdvZ3lldDdRR0Y4Q25hRHQzcTIyQ3U5S1d1dGU1TndtRllDUU80Snczb1h1Vlk?oc=5",
-      "published": "Wed, 11 Nov 2026 02:23:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3kwaEhQZWxRYS1UTllpczlKWXYxN05yN2Rva1ZPWE45VHlyVmF1Skg4T2R1TmVfaEFoMUoyVkVsM09nSkZKUzctWVBPNXpZS1Z5YmV0UUJMejd0RzlpS1BrZFNaRjBjNWdXS3VXaDNnN3FvOWd4S1M3Q0tJR0ZYUEpIb3pTNWRuQ25NcUtxVWFGQXFKVmw0Vg?oc=5",
+      "published": "Thu, 05 Nov 2026 16:39:14 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ردّاًعلى عبدالملك الحوثي وما قاله عن السعودية بخطابه الأخير..وزير إعلام اليمن يبرز نقاطاً"
+      "suggestedTitleAr": "خلف الخبر: السعودية.. الداخلية تعلن إعدام 5 أشخاص وتكشف عن أسمائهم وجريمتهم | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -35,12 +35,12 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "علوم تقنيات / معرض جدة الدولي للسيارات يجمع أربع تقنيات للمحركات ترسم مستقبل النقل في المملكة",
+      "title": "علوم وتقنيات / قمة الرياض العالمية للتقنية الحيوية الطبية تختتم أعمالها بمخرجات تتجاوز قيمتها التقديرية 5 مليارات ريال",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IeWhfdE1kRG5nTTVLNlVoWERDd2tRRnBMcWdBVlJoalIyd0kyU0RwcWF0OE1HYTIxMUlSVlhwYjk3YzlHMHc?oc=5",
-      "published": "Thu, 05 Nov 2026 18:01:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mSVhOUFZlQ3VGNXlnQkZ0TVZDNW50RXhGclExT19CWHVqTllFUXIwODBvbkg0Vm9vbG5WakRFblNhTTlhcndfQmRR?oc=5",
+      "published": "Wed, 11 Nov 2026 11:13:26 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: علوم تقنيات / معرض جدة الدولي للسيارات يجمع أربع تقنيات للمحركات ترسم مستقبل النقل في المملكة"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / قمة الرياض العالمية للتقنية الحيوية الطبية تختتم أعمالها بمخرجات تتجاوز قيمتها التقديرية 5 مليارات ريال"
     },
     {
       "category": "technology",
@@ -74,7 +74,7 @@
       "title": "بيئي / الأمن البيئي يضبط (4) مخالفين لنظام البيئة لارتكابهم مخالفة الصيد دون ترخيص في المنطقة الشرقية",
       "source": "وكالة الأنباء السعودية",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJeFdwUmpsOEdDRVhsX0RiQmlIWWx5ZkdMZV9BTFZCc21TWFQxUmF3bHp3ZGd0S3otMG9OSTR3aGxWeGhCRHhmVEVR?oc=5",
-      "published": "Fri, 06 Nov 2026 04:12:40 GMT",
+      "published": "Thu, 05 Nov 2026 08:50:51 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: بيئي / الأمن البيئي يضبط (4) مخالفين لنظام البيئة لارتكابهم مخالفة الصيد دون ترخيص في المنطقة الشرقية"
     },
@@ -95,24 +95,24 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
-      "published": "Wed, 11 Nov 2026 10:48:09 GMT",
+      "title": "«ذاكرة الثقافة» مركز سعودي لحفظ التراث رقمياً",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTXVYVjM0QTRYNF91MHVhVGJvVXJOZnJEcGdmbUhYRXZIZ3VmZTJGcUlnczUyX295NTlXRmxlWkZFTDNuMGN5bWtKWlBDSHJ4bnhCT2ZKT05OMVR2VEhMUjZ2Z0xMOXBOcDYwakE2Q0tCN0hGSFpZLTVkSG1nNjdsSjN4LUNwM2F4RUFHUWQ0MXpBVHlZaTR5NjQ0WGpWVXRuSmwyOE5jNXB2QWxrQWh4VHVsc0Z5dVFHTEp5VzBiMV9aS1U4a09BX053emxOR0RMMTFfcXJieTFQRklma2pNeW9JNktlbTNGM1pEYWlLMXRmZjktRDJmTnNidVpfV0xBYUxLalZoeUpOLXNYSkY4RHpxX3ZhYjQ2Mk1UeWFzdnFUX0tEY2FVdlFLNzJ6a2w2ZDdsWjJKQktCWTRIRnVpczBfdi1FRk16ODJnMzBSbWJVclhvUzc1ZlJ1bm9pU0dhMjdtTjY4WFFKYXVyYVY0ck01ZmxYQUtGVW1SZDl1M3NXZmpyMUU4dlRKVzIwcEpmMnlhM1ZhRGhDMFFlclJLQ3dXcTZBLWJmZnFiWVl3U1FmM1N0bGk3Yi1jZEl5MktGaGtrNFNKSXZCZm8?oc=5",
+      "published": "Mon, 09 Nov 2026 21:03:51 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: «ذاكرة الثقافة» مركز سعودي لحفظ التراث رقمياً"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "جماجم عمرها 5 آلاف عام تكشف لغز موت حاشية ملوك مصر",
-      "source": "عكاظ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16RGlUWXE0RHYwVXNaSEhza1JBQ1JDMkd4aXdnNTh0SmpMRWZMQkxhalVocnphTk82VWdUWWVXSl9nSnA3V21oVlZIUEozT0ZvbE51Z9IBVEFVX3lxTFB2bFVoUGhpUURwZndkanRRLTZNQXh6VG5kMVVwQXVfWTlhQkhwRzM4OHN3N3gwZGtGc0c3LUYzRlMtOVNnSW84YnBOWGE0aFU3cjBxaw?oc=5",
-      "published": "Tue, 10 Nov 2026 17:37:00 GMT",
+      "title": "لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGplSmFVNGtlb2NMVDYtejAxbXZwSGhlTVVHQWRyVzZ2djlrZTI5UTdSZFhjeW9pTm9ZLXVqNks3MU1xZWczZ2gtQTA3UlpSX0R3OUVLT05VX25UWW9NYTMwNGROTllqYWRzUUJDMktXZUZ3WHJOejQ0SHBkT3ZJdXJMNG5GOVozc0hocHBRVGxtRGdUTV9VU3VZZlBxMno2dHpuSmQ5cmU0d2ZWUHdSUUV0aUJhRVNsQWJDQWRHM09VQzM5ekJFbjgzMEZWeDJwVEowNHRIZ0dKRmVqOU93WWdMb1VUc2dxNlRXZVRQc2JFYl95QnRJbmhGeUQ2NUJNLTh5VE5YYllXbVdrX1ozQ2VERDNJa1NEOUU2Zk9KT0lkWlNTWWdTUnpuYnc3d0I4R25PamlWT1pRd29FRlkydA?oc=5",
+      "published": "Thu, 12 Nov 2026 04:17:54 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: جماجم عمرها 5 آلاف عام تكشف لغز موت حاشية ملوك مصر"
+      "suggestedTitleAr": "خلف الخبر: لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي"
     },
     {
       "category": "space",
@@ -146,7 +146,7 @@
       "title": "Smart News: History & Archaeology",
       "source": "Smithsonian Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2RU5ITkJQY25UNWlUR3F6V05aUUp5OFdkQlYzVnpzalhsMHQ0djdTUms5XzRPV0IzbVNzWVBMX2UtM0ZsaEVkVkpLemhvMC1QdlFYSUpDek1mcFg2eHdHOUtDejJ0S1FCUjlqRzdkWVBFcVUtanlqdWxn?oc=5",
-      "published": "Thu, 12 Nov 2026 00:07:23 GMT",
+      "published": "Thu, 12 Nov 2026 06:01:44 GMT",
       "suggestedTitleEn": "Behind the story: Smart News: History & Archaeology",
       "suggestedTitleAr": ""
     },
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Financing Cancer Discovery Research: Models to Accelerate Breakthroughs",
-      "source": "Milken Institute",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEZRQjVHTzM4QWUxd1MwX1NvWXR0SlNMVllIbmI3OHBJckZ0OEhnRWY4czZONWczaU1uOTg4eWxIM3psQ2hIRGFkWmQzbld2TVV3RXVySXZ6bkpJa1RScktrY2g5Yl9PR0VhUnVtRi01eDE4S2lVd2dpZEVIR2x2V2dzeGoyNGVLSXdnVm5wQkhJZGhEMnVRdDRWUXZKNGF1U3dFaG9KYi1lellFWDNLQmhVeTFrdzZzUjJoNmUxWnczWXZZV3RyWVFyWEdGQmNobFE?oc=5",
-      "published": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Financing Cancer Discovery Research: Models to Accelerate Breakthroughs",
+      "title": "Cedarville University preparing Jasper's Isabelle Gaug for scientific discovery",
+      "source": "Dubois County Herald",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdnlIUEFjdDE1TklUbFVQNVh2VXpGSGl5MXlFZjNpcHlqREN6MlZHODlVVEhPd19IUGhISXNBWXAwSklVNS1HLWE0R21YT0t0aGdpal8yTll2V3J1WEtlU2tzenN6cFBETlpsM19Kb1FkcVRMMUQ5b2VxRmRPbXVwblRlVzFwbVV0YjcyR0dmTjNfeXltdFF0bmhHRGdjcmJFMVk2QUxlZm53YkZoZTZzM2VJSjVrWm5YaUp2ZFhSRzNsZzF3SnJRSXRoS1J6RVBISXJKUFdTNGJKVzRMOEZ4NDBKOFdtRmRFbmtMOHdlbmx6cDZOOGYwRXJiOVZsNlpONzhRaVFzT28tc1huNW82YVVkQmxoVmha?oc=5",
+      "published": "Thu, 12 Nov 2026 06:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Cedarville University preparing Jasper's Isabelle Gaug for scientific discovery",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Citrus County Sheriff's Office using AI to help screen calls, save time for emer­gencies",
-      "source": "Bay News 9",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdjk3WGt2NHNxb3FTeGhEczFuRmx3TzJGTmpyUHNKX1hKZEJFQTA5aWhya1pRT1NDQXlESUx5WlNVX1FjNnR2S2U0aWtmclNVeW9peW5meHZKXzJNanl2TXFIV2ZKbS0zVTBjZTVjZkNXM0hKN2c2V2ZtbHFqSjJ5eGU4a19HMTlQTjdIZ1Qyd19zdENua1BMNlhScmFiTC1fSmpwdXppcVg2MkRWblVkNnVOOXAtYUZxZFZwWGo5MU9OQVZzdThkQklJRDBSZWFkQy01cERDUVV3TGpwZ2lSalk4ZzJwdVJFd0VOaVNxQWp3RXBuWG9xMmdSNjVGLVky?oc=5",
-      "published": "Wed, 11 Nov 2026 23:10:00 GMT",
-      "suggestedTitleEn": "Behind the story: Citrus County Sheriff's Office using AI to help screen calls, save time for emer­gencies",
+      "title": "Artificial Intelligence and the Future of K-12 Education: What Do Parents Want?",
+      "source": "Institute for Family Studies",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUlsYldReTV1azdwQ0JxWWJvVGhON241MktSVzdKdGhCanhLMmphcld1NXBGei13c0NwNjZJd0VDcEhreUhDV2xWaXVaNmJFNVFpSE5CR092Z3hwaGV2NEx1b0Mwa0Yya2t0SjBqdWtoUXN2RjMxNWhZU3FuRm5QanEtTDkxbFZnX0syOENOQ0s3bVk1SWdwWDRkeHlCbmJMWG5HeVlHRVNselVkSnlMTTVn?oc=5",
+      "published": "Wed, 11 Nov 2026 23:12:39 GMT",
+      "suggestedTitleEn": "Behind the story: Artificial Intelligence and the Future of K-12 Education: What Do Parents Want?",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Economic Report: La Quinta Invests in Housing, Hospitality, and Local Business",
-      "source": "Palm Springs Life",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2NkNXVieU44U1JDUlJWTlBJaU5NSVZWZnpFOFJZU1lLbmRmNU13NjY3UEZ5Y3FnMlI1Y0FzN3lCM2FUQ3ZSWGJyZC1CbE43Ym4yMDVPZDItMHBHbXV1ZGc5eDRQRUNEQjYyYjZUUFM0NzZHZU82NG0wSTNVLV8zeHRLRlUxYi1ES1NoSTdDMUViVGh2NkF6SEd3eWxxS1dJMV9KM3QxRkZWWTQwT1RHN2lKT19vUQ?oc=5",
-      "published": "Wed, 11 Nov 2026 19:34:36 GMT",
-      "suggestedTitleEn": "Behind the story: Economic Report: La Quinta Invests in Housing, Hospitality, and Local Business",
+      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+      "published": "Thu, 12 Nov 2026 03:35:24 GMT",
+      "suggestedTitleEn": "Behind the story: Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Europe’s unique landscapes at risk amid human development, impacts of climate change and pollution",
-      "source": "European Environment Agency (EEA)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjB5OGVYdUltQTB3TXUwX3hTZHZzRTZ5N2ZIMjVjTFd6dG5mTVdVZjJ4VUJVQW9WMS1QUXNBRUt4WmRWTkczcTNMZmxSVzhCQk8yWlBOc1NQb1FwWHBSSGdGNW9pWHVXLWFnNVFsMFFQdXRQLTVZajZjNDBraF9pOUlR?oc=5",
-      "published": "Wed, 11 Nov 2026 09:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Europe’s unique landscapes at risk amid human development, impacts of climate change and pollution",
+      "title": "The hidden environmental cost of AI data centers",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
+      "published": "Wed, 11 Nov 2026 23:37:59 GMT",
+      "suggestedTitleEn": "Behind the story: The hidden environmental cost of AI data centers",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "OCAF Fundraiser Screens Local Documentary The World’s Smallest Airport",
-      "source": "Flagpole",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjZFZGxSaEFsQkZ3bjMwNzV5OHFMZ2xhOHpMYzd1Q3dzLTlRVHVpM0tIb1Rza0g2a1RWOFB0eEwtOVZSZWlyNDJSY2FVdGtrVXlRRmNPOGJnR0F2ZHp3Y0pPX2U0SktUQVBDSVlzRkRfeWhUZDdFaG9KbERiQ2N1YjMxaklhQWQwOFRTSXpwb090S3RpYzI2YWhJQVMxcVFBRmd2MmJFMDZpb3JILXhlY1ByMjFaTHVpQU1zUFJqTEtSQnAzRElDZnFsa0VJYUVndW5B?oc=5",
-      "published": "Wed, 11 Nov 2026 17:12:16 GMT",
-      "suggestedTitleEn": "Behind the story: OCAF Fundraiser Screens Local Documentary The World’s Smallest Airport",
+      "title": "‘Avedon’ breathes new life into prolific photographer’s life and work",
+      "source": "Brown Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdDJfWUROSTZtT2RZeEVkMzZyWnk2d1ZLcjF5U1BHYnNhaWxXd0dsWE1BbEo1T3dpZGR1b3pCM2NFQVd0OWExbDlQTk9nNEV2MjViRk5fd1I0em5Qc1BsQzFUR0dpSFc4SWpLYzEtV09oLW1rUGZiSXBXcEpZVU91UlNnVDNpel9sWlMtTVNsdmZWNFptcTZSLW02b1Zhb3Z4bHJ0XzJlbER5T2h4Ri1VNVpVS3V1a0U?oc=5",
+      "published": "Thu, 12 Nov 2026 01:34:20 GMT",
+      "suggestedTitleEn": "Behind the story: ‘Avedon’ breathes new life into prolific photographer’s life and work",
       "suggestedTitleAr": ""
     },
     {
