@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-12T07:30:14.176969+00:00",
+  "updatedAt": "2026-11-12T13:25:05.397596+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية.. الداخلية تعلن إعدام 5 أشخاص وتكشف عن أسمائهم وجريمتهم | CNN Arabic | CNN",
+      "title": "السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3kwaEhQZWxRYS1UTllpczlKWXYxN05yN2Rva1ZPWE45VHlyVmF1Skg4T2R1TmVfaEFoMUoyVkVsM09nSkZKUzctWVBPNXpZS1Z5YmV0UUJMejd0RzlpS1BrZFNaRjBjNWdXS3VXaDNnN3FvOWd4S1M3Q0tJR0ZYUEpIb3pTNWRuQ25NcUtxVWFGQXFKVmw0Vg?oc=5",
-      "published": "Thu, 05 Nov 2026 16:39:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0JDX2dJNDRTQjZjU0tfcXFtb0c5YmxSWUlGS0dCTjNVQmljVkhMbXc2b2pPWjBsQzFhT3d1djBaS1ZVZFhEbm0xM3hSbW5CWXBOQ3kzMFVSallUeDBHU3ZSODlwRnZIcW80dzVZc0xwR0NCWTBneGtNaUtIaUIwY1ZUZEtPUHZGUFlvN1p3NXVUMHd4N0gxbmhwdGZ0RGdObWJxTzd1M3hYRkZIczJvbDdCWFlZM0Z1SkUwUTBZVjFkZGM5c3I0?oc=5",
+      "published": "Thu, 12 Nov 2026 00:19:38 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية.. الداخلية تعلن إعدام 5 أشخاص وتكشف عن أسمائهم وجريمتهم | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة"
     },
     {
       "category": "history",
@@ -71,12 +71,12 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / الأمن البيئي يضبط (4) مخالفين لنظام البيئة لارتكابهم مخالفة الصيد دون ترخيص في المنطقة الشرقية",
+      "title": "بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\"",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJeFdwUmpsOEdDRVhsX0RiQmlIWWx5ZkdMZV9BTFZCc21TWFQxUmF3bHp3ZGd0S3otMG9OSTR3aGxWeGhCRHhmVEVR?oc=5",
-      "published": "Thu, 05 Nov 2026 08:50:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uaXFGWUFib1JfempNSDJBbFlFOHlYbGZibWtUcGN2MlAteEU4T0lJdmpULW9SbkxIMjRsWkVfc3dkdHZtREE?oc=5",
+      "published": "Tue, 10 Nov 2026 19:58:07 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / الأمن البيئي يضبط (4) مخالفين لنظام البيئة لارتكابهم مخالفة الصيد دون ترخيص في المنطقة الشرقية"
+      "suggestedTitleAr": "خلف الخبر: بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\""
     },
     {
       "category": "society",
@@ -95,12 +95,12 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "«ذاكرة الثقافة» مركز سعودي لحفظ التراث رقمياً",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTXVYVjM0QTRYNF91MHVhVGJvVXJOZnJEcGdmbUhYRXZIZ3VmZTJGcUlnczUyX295NTlXRmxlWkZFTDNuMGN5bWtKWlBDSHJ4bnhCT2ZKT05OMVR2VEhMUjZ2Z0xMOXBOcDYwakE2Q0tCN0hGSFpZLTVkSG1nNjdsSjN4LUNwM2F4RUFHUWQ0MXpBVHlZaTR5NjQ0WGpWVXRuSmwyOE5jNXB2QWxrQWh4VHVsc0Z5dVFHTEp5VzBiMV9aS1U4a09BX053emxOR0RMMTFfcXJieTFQRklma2pNeW9JNktlbTNGM1pEYWlLMXRmZjktRDJmTnNidVpfV0xBYUxLalZoeUpOLXNYSkY4RHpxX3ZhYjQ2Mk1UeWFzdnFUX0tEY2FVdlFLNzJ6a2w2ZDdsWjJKQktCWTRIRnVpczBfdi1FRk16ODJnMzBSbWJVclhvUzc1ZlJ1bm9pU0dhMjdtTjY4WFFKYXVyYVY0ck01ZmxYQUtGVW1SZDl1M3NXZmpyMUU4dlRKVzIwcEpmMnlhM1ZhRGhDMFFlclJLQ3dXcTZBLWJmZnFiWVl3U1FmM1N0bGk3Yi1jZEl5MktGaGtrNFNKSXZCZm8?oc=5",
-      "published": "Mon, 09 Nov 2026 21:03:51 GMT",
+      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
+      "published": "Wed, 11 Nov 2026 10:48:09 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: «ذاكرة الثقافة» مركز سعودي لحفظ التراث رقمياً"
+      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "mystery",
@@ -134,7 +134,7 @@
       "title": "Top 50 English-language news sites in the world: New York Times bucks traffic decline among top ten in October",
       "source": "Press Gazette",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmduWnZNVXc2TzZCMlgxS252a0pzdnBDR3c3MXRZMjI2U3lVMzBqNU96aVdabldJUUVYalpCSDNHYnFSRTlvYjRrb0lSVVJMdmdfUDk2bmo0X2Y3QWJnWHZ4MFZHR0dhVmE3aEVBdTZFemhDT2pqdXBibFBUTV94V1pISWxSbU9SUUl6Z2hGOVQ2SlZjc05SNDBiUFN5UV9DTXFBRG0wTkNGZHRObC1KbFV2aHdmRFA5?oc=5",
-      "published": "Wed, 11 Nov 2026 17:50:53 GMT",
+      "published": "Thu, 12 Nov 2026 09:32:16 GMT",
       "suggestedTitleEn": "Behind the story: Top 50 English-language news sites in the world: New York Times bucks traffic decline among top ten in October",
       "suggestedTitleAr": ""
     },
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Smart News: History & Archaeology",
-      "source": "Smithsonian Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2RU5ITkJQY25UNWlUR3F6V05aUUp5OFdkQlYzVnpzalhsMHQ0djdTUms5XzRPV0IzbVNzWVBMX2UtM0ZsaEVkVkpLemhvMC1QdlFYSUpDek1mcFg2eHdHOUtDejJ0S1FCUjlqRzdkWVBFcVUtanlqdWxn?oc=5",
-      "published": "Thu, 12 Nov 2026 06:01:44 GMT",
-      "suggestedTitleEn": "Behind the story: Smart News: History & Archaeology",
+      "title": "Lecture to spotlight thousands of years of Cannon's Point history",
+      "source": "The Brunswick News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZBUUMteWtMWmctRDBxWGtpdmZpXzhiNlBHTml5SkNoYkJqUGhzOHhnbWFDUDUwYXJ4blB0VEpJdk85bklJaV9QTTJSUWk3aFpRUmRqOFdPNVNYTjRBTGdnOWxBS3ZUVTdXN1hVNHZEaVBpUXVqOHhYd1lPLXpWS2N2N2pIN0dEeTF1bHlOVzlmOFE0dDRhd2l1SU5DdE5QQ2tSZkZfcE4wUFZPU2ZVc1pDd19laDNJWElzSjR0RHNzVE5NY29xLTBBY1F0bTVGVjVZWm1JT1prYTdCSzBkaXpB?oc=5",
+      "published": "Thu, 12 Nov 2026 05:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Lecture to spotlight thousands of years of Cannon's Point history",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Cedarville University preparing Jasper's Isabelle Gaug for scientific discovery",
-      "source": "Dubois County Herald",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdnlIUEFjdDE1TklUbFVQNVh2VXpGSGl5MXlFZjNpcHlqREN6MlZHODlVVEhPd19IUGhISXNBWXAwSklVNS1HLWE0R21YT0t0aGdpal8yTll2V3J1WEtlU2tzenN6cFBETlpsM19Kb1FkcVRMMUQ5b2VxRmRPbXVwblRlVzFwbVV0YjcyR0dmTjNfeXltdFF0bmhHRGdjcmJFMVk2QUxlZm53YkZoZTZzM2VJSjVrWm5YaUp2ZFhSRzNsZzF3SnJRSXRoS1J6RVBISXJKUFdTNGJKVzRMOEZ4NDBKOFdtRmRFbmtMOHdlbmx6cDZOOGYwRXJiOVZsNlpONzhRaVFzT28tc1huNW82YVVkQmxoVmha?oc=5",
-      "published": "Thu, 12 Nov 2026 06:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Cedarville University preparing Jasper's Isabelle Gaug for scientific discovery",
+      "title": "Stanford Medicine builds on a century of surgical discovery",
+      "source": "Stanford Report",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHB3RlpJZm1zTjdaWHFFazgwUXp3elByRnBhbFVZVWJacDlzdmxYVmpTaEhYRzIteElsYUktNU9qQzJBdjg1M1Q0bEt2WFN1UmZ4QW42QzV6WXdrcWNfTlRaS2NHdkJoOXFLZzlUVVpBR1M3VHB2N2dlM0hmeGlKaVppbEZHVDVrQkQybHdIOFNJRWc?oc=5",
+      "published": "Thu, 12 Nov 2026 08:44:36 GMT",
+      "suggestedTitleEn": "Behind the story: Stanford Medicine builds on a century of surgical discovery",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
-      "published": "Thu, 12 Nov 2026 03:35:24 GMT",
-      "suggestedTitleEn": "Behind the story: Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "title": "Colorado was recently dinged for its business climate. Here’s how companies want to fix it.",
+      "source": "The Colorado Sun",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTlfbWU5QVlZak1RMnRuQlpoaXp5ODdaaHJHUmoyNWFwZWdaM3MySnVPa2Nmc3lqcVAwQ2JUSXlRaDctamJJTW5yb0lIWFg2NkRFUEcxQUZLMlV3QnpMU1BsR0ZxYUZZNW5lSUdXWVJfVlpmRV9qRWZJdVNvQVVWZ2dYa21IM3R4OUpVRFhQdENfS1dIRkExVkRR?oc=5",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Colorado was recently dinged for its business climate. Here’s how companies want to fix it.",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "The hidden environmental cost of AI data centers",
+      "title": "Money, targets, ambition: Can global leaders put their money where their mouth is on climate?",
       "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
-      "published": "Wed, 11 Nov 2026 23:37:59 GMT",
-      "suggestedTitleEn": "Behind the story: The hidden environmental cost of AI data centers",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGlWV1YxSlNWaVNfM0RWS1NnRGpsYURrdWc1WHktTHlYVEJxS0V0MlNCQmpFVTBFaEpsUXZpVVlEMHhNdFlFRGYtZ0RiYlN0a040QWZOXzdHdU94S0JjR2owYjUwZmg2OXhvbHBzMzlGb3h2MDM5cVNXMGJiNEFBNndPaXlCMkpXb1pkSUw1TkpJQzZUeExZcXp1cmIxREkz0gGgAUFVX3lxTE5sSnVkQjNFdDMyLVI0eHRyUTQzRTg4SEFWSTJwaDF6ZEgzRmp1QlpvSF9DUVBuZ1Z0bDlyVTZ3R1JqRk1ySkprSWQwT3lNQ09JYjczeGtSdHVYLXN0NzB5MVBzSVYtT3A4ZWFiZnhIQk5Ya0Q2QXJKS1BlZDA3OWZ2MFZkWHBsZFBWemNmNVJiaVNPS05qQUk3Y1RqTXpZSXA?oc=5",
+      "published": "Wed, 11 Nov 2026 23:40:08 GMT",
+      "suggestedTitleEn": "Behind the story: Money, targets, ambition: Can global leaders put their money where their mouth is on climate?",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Psychology Says People Whose Parents Rarely Said 'I Love You' Often Struggle With Boundaries for Decades, and Harvard Research Links Childhood Warmth to Midlife Well-Being",
-      "source": "Grazia",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQcVppRFl0RnhHaTdybkZFVmI3VmRjNXNHeU5Id3Vsd1l3c3U4QUdHZ0pTaUFrbzdacWhVbnZYc2FXc1FMXzU1TXZXNjhWLWVGRG5rQ1FEcDBjV1hVRnZRVzB0eGYtSzBUeHZQZUtteHphMlVjNGhIaERQY0c1cGpWemR0ZjYwSEljZzJlZHUzbGtSRXZVT194aXBNOXRXejhhOFYyaGZBMWd6dnhXZ0ZNYVJCcG5PNHB1b29qSjRvT3FEcVFkZ0NUNGx5U21mbXFTcjM4ZHYzX1hpamhLWVQxZnAwMjA2WmFtT25zSmdWQ1U4aEF3Y19FYms0WUxuUVFvTFJ2SFluNkZLcWVaNU5MSUt2cjBzckYzUGNjZWxsZUxEa1c5amRuM1dWMjRwWWI0U083cXJob2dBQQ?oc=5",
-      "published": "Wed, 11 Nov 2026 23:23:30 GMT",
-      "suggestedTitleEn": "Behind the story: Psychology Says People Whose Parents Rarely Said 'I Love You' Often Struggle With Boundaries for Decades, and Harvard Research Links Childhood Warmth to Midlife Well-Being",
+      "title": "Study on teaching practices of etiquette education: fostering cultural sensitivity among multi-ethnic college students",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHakh4RHZvWXRiSXJDNk9XZmlEWlhxU2xKQXNQcGhFeG4tOGVNdm9iVHFfVnZpMm1IMWFhUU0xMmFUOGdQaDNlN2xYVURjSmM2Yi1XQTltenAyNVFoV21Sc3h3NGFWdTZjajg0OF9ibnc?oc=5",
+      "published": "Thu, 12 Nov 2026 10:04:17 GMT",
+      "suggestedTitleEn": "Behind the story: Study on teaching practices of etiquette education: fostering cultural sensitivity among multi-ethnic college students",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Of mistletoe and murder: 7 holiday mysteries set in the past",
-      "source": "Crime Reads",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0hQcVVRdEIwdTVmNzVZNlBTUGh6Qk1mcDRpdkZQVWhrSXJQSnYydFRnZkZhZ0ZXRkc1ZnNWa3lQTHdGdG9KaUxCWkExdlUtNEM2Wl9lWXpwUVU3Vy1CUjBwMHMxYThZRFA3Q3ZJalhIWVRMbWR4eG85bDdHTDRHdmJVV3dRQS03V2hJ?oc=5",
-      "published": "Tue, 10 Nov 2026 11:24:09 GMT",
-      "suggestedTitleEn": "Behind the story: Of mistletoe and murder: 7 holiday mysteries set in the past",
+      "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWENyX0RzVVR1RXdLcHg1alZmUnF3T2IxcnlCT3pWNE5pOHA2SXJxQnVEaFlnd2F1dVo1a2RDd3VVOFhqUHExbzFHNUtraGM2YVVibWY5ZGhRQzRlejRITEVMcFpOV3VLNXdVcHJNZw?oc=5",
+      "published": "Wed, 11 Nov 2026 10:49:49 GMT",
+      "suggestedTitleEn": "Behind the story: Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMzZIMTdyMXdtSDFpY1BRdUlMcXp4MzRxdnc3XzNmd0tiMTluTXRVdzdHY09HLXhVSllCenMwYWllajJFSXZlc0htcGNVSVQtT3B2enlwY2JQLW9Ddlh2UmJ4OVJVLWlkWkZWMzlKSQ?oc=5",
-      "published": "Tue, 10 Nov 2026 23:57:44 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers discover hidden alien planet in James Webb images",
+      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQndfd0d1T0hQNG1QZEF5WWx2Tm56Nmo3ai1QWU9tZmktSnpvbWhqZHZnMlFQemVCZm5jcjQxQXlHTGYxMV9WeU53bHBiNlBHakRBOGF6OTJKcVAxS2N4d0J2VVNiRkJ6SktVQkhiVE8tRWQ0OUk5R2UtNFNoWl9nOWh4R1dDSk1MOFk5X0FGbGw4YkFZenhsWDV0a0oyWk5nMWJuWWM2Wko0djF2OGlQWjFoYWJoS0RzQkt2OTM0cENYbFpBMGtvUWw4Y2RXVHU3TERTQ3VDeE11VmNlX3A3QzljeV9xRXRhS1E?oc=5",
+      "published": "Thu, 12 Nov 2026 13:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
       "suggestedTitleAr": ""
     }
   ],
