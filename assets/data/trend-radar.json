@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-13T01:20:31.642453+00:00",
+  "updatedAt": "2026-11-13T07:27:50.226540+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -71,12 +71,12 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\"",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uaXFGWUFib1JfempNSDJBbFlFOHlYbGZibWtUcGN2MlAteEU4T0lJdmpULW9SbkxIMjRsWkVfc3dkdHZtREE?oc=5",
-      "published": "Wed, 11 Nov 2026 00:37:35 GMT",
+      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
+      "published": "Fri, 13 Nov 2026 01:08:11 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\""
+      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "society",
@@ -85,7 +85,7 @@
       "region": "arab",
       "title": "المجتمع في فكر الأمير محمد بن سلمان: شريك في صناعة التحول (28)",
       "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxObDhnWE1VRjU2NzdadE92OUxfU045dk00b1dZaVpWZXBCck1yaFJPWi1uWUNiWU1HWTBvckY4a3BHQzlQQUM4dEFpUGVXZzhtQ1JJNWtTZFlRdU0tMzRCR0dRZTd0VnlkWmEwcmxUUFlGQXpXNWlvdDRVQVRxd1l5N19VU1UtZzBfZUZlTXpIRlpRUzhoRC1Dem9zbVFlc01XZkN5cURqT2ZXUzV5VnJvVC1BeVJFX05GZUljZTdrN29QNTJKT2kwWll5Unk0QUpfd0xad2QxZTB5Y0s4STRxejR6dnVFU1A3TmJ1cVJEY1JBQkRMSFdyM3JEQl9Oa1pjcmRRSnRueDAxdlFGandzOTVTQnUtSEQ1Ym5BTDcxODdjRU43a1dLWHBHeTQxM1BlMXFuM04wYnUtSkhJcWZhMmJDRjcwNHVzLVNGNHJybks2VTlsWnJqUGlXR2hoaGprcjM1UU5DakdPUWtrWWduQThOQmxkRzQ0OUEyVy10V2M0MG92MklITE9heWJVbWViRjZST2FIbGtYWE1aVWdjT1MxWTkwY1Z5R1hPUDI5bGttS0hwUjBwbkUtZDZOLWktNHhyWG16S0VXUkFZTWNScTBnYTNrOXNNcTAtQ093ZEE3X1BoSkE1TGlNYkNxZ9IB7gNBVV95cUxObDhnWE1VRjU2NzdadE92OUxfU045dk00b1dZaVpWZXBCck1yaFJPWi1uWUNiWU1HWTBvckY4a3BHQzlQQUM4dEFpUGVXZzhtQ1JJNWtTZFlRdU0tMzRCR0dRZTd0VnlkWmEwcmxUUFlGQXpXNWlvdDRVQVRxd1l5N19VU1UtZzBfZUZlTXpIRlpRUzhoRC1Dem9zbVFlc01XZkN5cURqT2ZXUzV5VnJvVC1BeVJFX05GZUljZTdrN29QNTJKT2kwWll5Unk0QUpfd0xad2QxZTB5Y0s4STRxejR6dnVFU1A3TmJ1cVJEY1JBQkRMSFdyM3JEQl9Oa1pjcmRRSnRueDAxdlFGandzOTVTQnUtSEQ1Ym5BTDcxODdjRU43a1dLWHBHeTQxM1BlMXFuM04wYnUtSkhJcWZhMmJDRjcwNHVzLVNGNHJybks2VTlsWnJqUGlXR2hoaGprcjM1UU5DakdPUWtrWWduQThOQmxkRzQ0OUEyVy10V2M0MG92MklITE9heWJVbWViRjZST2FIbGtYWE1aVWdjT1MxWTkwY1Z5R1hPUDI5bGttS0hwUjBwbkUtZDZOLWktNHhyWG16S0VXUkFZTWNScTBnYTNrOXNNcTAtQ093ZEE3X1BoSkE1TGlNYkNxZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQUC0tNG1kOEtvdG9pN3Y0MzRHTU50UENkT1RoTnJ2ZUtKeXk2ZElRTDIxdVhOSzcwMnREWjV5eXlVZ1o5Z1JOaVdSMk14MVVKU1ZoNjQzcjdYcDNfZnZQWEluR0FCeFQwQTJzSkVVc2o5Y1RYQUJsMFBDMUZtTENQTW1kLU5OS082UUk2Tmx6bllkZlR6N3djWEhBbkI1VTNWd1VqU2pQaVZDMEZobXM1UHB3eG04RHhURm5vcTR2X1gxaHpPdW9GR2hBaHpVN1ZQbUI0cEpON0RMdEtUbC0wX2d6U1JIRHczWEI1QWp2YkkzcFZzOWxuREJ1M0xUOTZLN1lCMkdHc3N1bFBjQjNyRTBDYmwzR3pQNnlBNmRsbXJfdGJBZUdSTnVsbG92TEozTk8yQVVKWTN2eU9QRnFqTW5jX3IxNV9CbkVRZElRYjJnU0JldVRiMzR3UU00MTZqSTJRa0tQbGdoTEMzTmFsUlBrcEI2WXhmcFJBVEFOY1RGX1RkaGhwd2JBZDZrdkhEU0x0bWdNQnJ2RHNLckttX2N2Mzl5cjFRY0ZRNDYtcDhEYjd2eE5vZTZOYzVaZ1JPY0g3andMcW92YXJkNkdKTWlpNGNxUTRvdmxXM181R0J0SUV5OFJqR9IB7gNBVV95cUxObDhnWE1VRjU2NzdadE92OUxfU045dk00b1dZaVpWZXBCck1yaFJPWi1uWUNiWU1HWTBvckY4a3BHQzlQQUM4dEFpUGVXZzhtQ1JJNWtTZFlRdU0tMzRCR0dRZTd0VnlkWmEwcmxUUFlGQXpXNWlvdDRVQVRxd1l5N19VU1UtZzBfZUZlTXpIRlpRUzhoRC1Dem9zbVFlc01XZkN5cURqT2ZXUzV5VnJvVC1BeVJFX05GZUljZTdrN29QNTJKT2kwWll5Unk0QUpfd0xad2QxZTB5Y0s4STRxejR6dnVFU1A3TmJ1cVJEY1JBQkRMSFdyM3JEQl9Oa1pjcmRRSnRueDAxdlFGandzOTVTQnUtSEQ1Ym5BTDcxODdjRU43a1dLWHBHeTQxM1BlMXFuM04wYnUtSkhJcWZhMmJDRjcwNHVzLVNGNHJybks2VTlsWnJqUGlXR2hoaGprcjM1UU5DakdPUWtrWWduQThOQmxkRzQ0OUEyVy10V2M0MG92MklITE9heWJVbWViRjZST2FIbGtYWE1aVWdjT1MxWTkwY1Z5R1hPUDI5bGttS0hwUjBwbkUtZDZOLWktNHhyWG16S0VXUkFZTWNScTBnYTNrOXNNcTAtQ093ZEE3X1BoSkE1TGlNYkNxZw?oc=5",
       "published": "Mon, 09 Nov 2026 07:25:00 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: المجتمع في فكر الأمير محمد بن سلمان: شريك في صناعة التحول (28)"
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "FIFA loses New York court ruling against UEFA in World Cup investor case",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZUcEMyMFlhX0xlb1g1TE1ibVZPeUNjcllwUmJ2aXRTeTdWQjJrR2k4bDdHcmx6NkN0WmVveWFCTFo5eXY1SG13U0JYUE44bXBXMHRURjRZT3BtNXZibFI4cGhXc2tyZDJyUEQ0S0tmNTBaUDZubVVzNE93Ync5cXA3cmRueFhGQ1I3aE5haGl1Mzl1Q2lPT0NjWXI5b1J1RHBUaFNvVkc?oc=5",
-      "published": "Thu, 12 Nov 2026 23:16:00 GMT",
-      "suggestedTitleEn": "Behind the story: FIFA loses New York court ruling against UEFA in World Cup investor case",
+      "title": "As Trump abandons America’s allies, Governor Newsom rallies world leaders at UN climate summit, meets with Brazil’s President Lula, and signs new partnership with Portugal",
+      "source": "California State Portal | CA.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd0hVOHRZTHFNc28xanRaUjlYbkNUUE5nWDZubjBublZOak1VTVZkdHVpMnF1dUQtRDJ6WVlMQmx1a2pBRFRrRk5WZkNNWUNXaXhQV3NDeXVpdk5PZmJ5eE10dHJEeTliMXoxc3E5Zk42MzYya3FvWExRcE1PaTh2UlctMGh4dHBhUjRjN0tlLUZ4MmtjRERtVGFNUWNSODQtTUFDa0JfQm1PNlowR2J6QllzV0NhSVo4UEVNNjdFZUtwRWE3ZzBSZjVWZWZUWFY1ckcyNVBpejBzcDhHYVZiUzVwN1hzVGd6WWxPMHJ6ZFViN2NXSm53REpmUkpPZDdNTG5ZZHEzUDYwMW4wTmdMUlVkRDA2dGVrQ01SOWxxMHJsUmUyek9hdg?oc=5",
+      "published": "Thu, 12 Nov 2026 23:40:05 GMT",
+      "suggestedTitleEn": "Behind the story: As Trump abandons America’s allies, Governor Newsom rallies world leaders at UN climate summit, meets with Brazil’s President Lula, and signs new partnership with Portugal",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "How the discovery of a Roman fort rekindled interest in an emperor immortalised in Welsh mythology",
-      "source": "The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2gwakRjMjdGdDhLdG54LWktREJOOW5vNUhpS1N5LVNrOWhtUF9OUnFYcTBDS2luY3hFTFN1cEVVQ1RrY0VCNmJHNXBfbTBhSG5icnRDLVZWa0hzTFMyMmY2al8wQVROYmQyWHhMZ3JIeEljWW91c0RZcVhGMllsSDB4SS15ZlVtVFBrdmRzTnhZSTZsZE9Jdkk5ZnRNbWd2VkJ4NGNydlk3cEswcFNsUHNUYU15OHVOd1NOMHFQQ0RYX1g2RjF5dEtqUXNsUQ?oc=5",
-      "published": "Thu, 12 Nov 2026 14:59:20 GMT",
-      "suggestedTitleEn": "Behind the story: How the discovery of a Roman fort rekindled interest in an emperor immortalised in Welsh mythology",
+      "title": "When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
+      "source": "Popular Archeology",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOakdGNjluM1RyRU9iMWpCeEZkT1pTTGRtWVRWN0JMOURJZHRUTEpkZnRFV3JqNC1RWGpUR1lIdnViSk9Xd1ljOXloMnNBWXZ2XzdRdFRYZGdGdVJxT3lVTVhlY294cEdCQ0JYckVHemEtRGVpU1d6UTQ4NHdZWkFDNHFabXRlZXRJUWdMYVRrM2E2NzVJbnFOOGFCUG9DYTIyVC1SWGg4ZTRCcHEyU2E5MWt1MWgtOHp0ZVhRTFNxZVdmbWpseE9Hb0J3?oc=5",
+      "published": "Thu, 12 Nov 2026 23:36:23 GMT",
+      "suggestedTitleEn": "Behind the story: When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Advancing cancer drug discovery with patient-derived organoids",
+      "title": "New light-based tool reveals how cells regulate autophagy",
       "source": "News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1l5ZEdqQTBtOVdodzF6blNWOFlxRFFLX05RUEtPWXluaTdaMzFtQXFFWVktcFJsOW9zdVdxTWJaclRRdUlFNFpyUVl1ZnhTUHpuM1Jad2ZZUVlOWnBrQTN3RFZyOXJmY1h5NWFWMVF2b0kxMDk2VUxXLTZlMThkeTFUdk05bGRMbTJnZUJ6alFEa3ZyNlU4djVENnA5NTBkSjRBWGtn?oc=5",
-      "published": "Thu, 12 Nov 2026 12:25:45 GMT",
-      "suggestedTitleEn": "Behind the story: Advancing cancer drug discovery with patient-derived organoids",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1ZFRjlPUlNKVXUtUG9SM1g4VjhBaUJOc1hLbVdXaHVhUlp4c1V6NkV5SS1DVWVkYnhfWlNLZG00NmFkWWV5VWFFMjhxT2F5N2Q0VWMza2tBdi1SLTlSZ2dUNFkyM0RuTnE1V3lHZUtrakI3S0JQTk1oa3hRU040cWNJWFNOc0VvbUtEYng1NGNnY1pPMG04MTNSU3QxbURFUTNwU3VDLVA?oc=5",
+      "published": "Fri, 13 Nov 2026 02:32:00 GMT",
+      "suggestedTitleEn": "Behind the story: New light-based tool reveals how cells regulate autophagy",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
-      "published": "Wed, 11 Nov 2026 21:55:36 GMT",
-      "suggestedTitleEn": "Behind the story: Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "title": "DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVZkYzUyTVJyVzFYM1dJM1lBRXR1eUNGYTh4dV9QNkg4Y0pxOWNwQ1BIaFlTN092MmhzWDhxbHRGN2J3ZGtMX1lzU3hkQlN0QWZ4ZTBFSXZnd2ZVUzJvc0ZfLVI1bDZ1b3pLZE9NajY5Z2JSWHE2cDdDYTdOSXJuYlpTam1wMTlUaTlEeXdTUjh6QVFxTnE5SkV2dXJHYng4bm9jQ0U1Y1dkNG1J?oc=5",
+      "published": "Thu, 12 Nov 2026 21:30:00 GMT",
+      "suggestedTitleEn": "Behind the story: DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Faculty Spotlight: Reed Orchinik",
-      "source": "Carnegie Mellon University",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjRsTVJ3ZTJXOGhDMnJyMS03SEJYcEp6b3NHZlRMYzktTHdmLTBxaEFLX2lfSjFHX0RLWjRLb2JlUnF6Tkp0cXBZYkV3VHNoaXV4TlBKWDJLNXJkS284N1M5RlZLRlhzUnBnU3dNUi15RnZybk9BTkdsbHBzbktvVF9IMGFPNGdjMjZF?oc=5",
-      "published": "Thu, 12 Nov 2026 17:00:13 GMT",
-      "suggestedTitleEn": "Behind the story: Faculty Spotlight: Reed Orchinik",
+      "title": "BPS 125: Psychology Then, Now and Next",
+      "source": "British Psychological Society",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iMmkxWWVjWjM2X28zckVZak16ZFpSaWFhSXQ2VzRlNXpUOGdQYnQtQllhaWZfanQzUkxQd3JLMmc1aDlRZGlMeGFQc2ltVU1RRDBGejJEYWZORkNfTDFtWEJVY1BOYlFZdHFF?oc=5",
+      "published": "Fri, 13 Nov 2026 05:10:35 GMT",
+      "suggestedTitleEn": "Behind the story: BPS 125: Psychology Then, Now and Next",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
+      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5",
-      "published": "Thu, 12 Nov 2026 17:28:20 GMT",
-      "suggestedTitleEn": "Behind the story: Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQndfd0d1T0hQNG1QZEF5WWx2Tm56Nmo3ai1QWU9tZmktSnpvbWhqZHZnMlFQemVCZm5jcjQxQXlHTGYxMV9WeU53bHBiNlBHakRBOGF6OTJKcVAxS2N4d0J2VVNiRkJ6SktVQkhiVE8tRWQ0OUk5R2UtNFNoWl9nOWh4R1dDSk1MOFk5X0FGbGw4YkFZenhsWDV0a0oyWk5nMWJuWWM2Wko0djF2OGlQWjFoYWJoS0RzQkt2OTM0cENYbFpBMGtvUWw4Y2RXVHU3TERTQ3VDeE11VmNlX3A3QzljeV9xRXRhS1E?oc=5",
+      "published": "Thu, 12 Nov 2026 13:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
       "suggestedTitleAr": ""
     }
   ],
