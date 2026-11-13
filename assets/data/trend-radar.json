@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-13T07:27:50.226540+00:00",
+  "updatedAt": "2026-11-13T13:20:47.604007+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -35,12 +35,12 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "علوم وتقنيات / قمة الرياض العالمية للتقنية الحيوية الطبية تختتم أعمالها بمخرجات تتجاوز قيمتها التقديرية 5 مليارات ريال",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mSVhOUFZlQ3VGNXlnQkZ0TVZDNW50RXhGclExT19CWHVqTllFUXIwODBvbkg0Vm9vbG5WakRFblNhTTlhcndfQmRR?oc=5",
-      "published": "Wed, 11 Nov 2026 11:13:26 GMT",
+      "title": "اليوم العالمي للعلوم من أجل السلام والتنمية",
+      "source": "UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTDh5RW1lMHpldkVzdGZLVHFOa2h3VEtUZGg0WWNPYzdrVDJmdVh5WUp2S2R6UFNKM3FaWElkWWthMnBTQzh0SXl6eGItSTRqU0V4RDI4dExBVUtPWHZXc1JPYTQ4TVE?oc=5",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / قمة الرياض العالمية للتقنية الحيوية الطبية تختتم أعمالها بمخرجات تتجاوز قيمتها التقديرية 5 مليارات ريال"
+      "suggestedTitleAr": "خلف الخبر: اليوم العالمي للعلوم من أجل السلام والتنمية"
     },
     {
       "category": "technology",
@@ -95,36 +95,36 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "وزارة الثقافة السعودية تنتقل لمقرها الجديد في الدرعية",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOQWpXZ0ZBREwxUmZiUUJzVFJxRnFNeWdIWU02SHpnMDdQRlprRGJKLXNCTHFhSXBLTzlnblVxQ2FXU0diQ0ZDU2x4Nkdqcm5EdFA0ajFKZGdUOEdoY01JR3hTMUM0VFZGV0ZCb200aTQ5WUVTYnlXdm9ZWnA4aUZVc2dBWXdtcEhqdFNZS1MyQzRERjFjcm5EWFdKdzgyMVFZX1RlMVQ3QkdTb2pENkl5WGppRU45cXZUTmZUTzZoRDh4RmJ2N2hZMjlFMi05T25qZTl4U0x1eVZ0V0llNUNzTjdGMXRyWV9TMVBkOGtLMWJ1RlFJdlF4cmcwNThnUFZ2Vmx6bVBqOWdTd2dBZHp2aUd3TTVvVG9tZE92NlFoNWk0V1paelg4N3NSMGY5MjJsU1NlX0lXMkpqNktFVGFNY2F0c2ttbkx1b0xnc2lzNGlwb002VnlZWU9PMUdfQXNCQ0hPVGxOelkzb0MweC1scmdBcTlfcEh2Q0hnRTREeXFGSzRuY0VTcWNmMWlUZXp5UGhRT3RGQ18xck9QZ1phOUdidkRNRWkzTUhKbUIxQUZRMVA2WXRHMGoxcjNnZDlCdmp6SFMzbW5WZXRqMUhmeGRRSWs4MXJMMnE3MFg1ZGF6UkFubjZDTEhnQ3U5blJzWTh3R2hhekI0TWplUHVESERKYlpfd01mZ3VfTEZTeEVBaVU4?oc=5",
-      "published": "Thu, 12 Nov 2026 11:05:09 GMT",
+      "title": "ثقافي / وزارة الثقافة تشارك في الاجتماع الثلاثين لوزراء الثقافة بدول مجلس التعاون الخليجي",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqMG05dF9xb0N5N2RUdVZ6MVQwc0VkS1VIWGRLNEhuTG1lQXI1RjNWNGNYTFg4ajliX1NGTUwxbk54Z2VQQ1E?oc=5",
+      "published": "Sat, 07 Nov 2026 02:05:22 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: وزارة الثقافة السعودية تنتقل لمقرها الجديد في الدرعية"
+      "suggestedTitleAr": "خلف الخبر: ثقافي / وزارة الثقافة تشارك في الاجتماع الثلاثين لوزراء الثقافة بدول مجلس التعاون الخليجي"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي",
+      "title": "عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGplSmFVNGtlb2NMVDYtejAxbXZwSGhlTVVHQWRyVzZ2djlrZTI5UTdSZFhjeW9pTm9ZLXVqNks3MU1xZWczZ2gtQTA3UlpSX0R3OUVLT05VX25UWW9NYTMwNGROTllqYWRzUUJDMktXZUZ3WHJOejQ0SHBkT3ZJdXJMNG5GOVozc0hocHBRVGxtRGdUTV9VU3VZZlBxMno2dHpuSmQ5cmU0d2ZWUHdSUUV0aUJhRVNsQWJDQWRHM09VQzM5ekJFbjgzMEZWeDJwVEowNHRIZ0dKRmVqOU93WWdMb1VUc2dxNlRXZVRQc2JFYl95QnRJbmhGeUQ2NUJNLTh5VE5YYllXbVdrX1ozQ2VERDNJa1NEOUU2Zk9KT0lkWlNTWWdTUnpuYnc3d0I4R25PamlWT1pRd29FRlkydA?oc=5",
-      "published": "Thu, 12 Nov 2026 04:17:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbjdDTTh5ZVJHSDJndzFkRHo0aS1tRUg5X0dFTDlhWnM3bXFBdkRENklnNTdPOFRfSTFONFd4LVFaRFFPNE0tcHdOcGg0bVpLbk8tVDRIRTFaRktHX1hyZDFoMkxHZ2NMMjkzVzVCZFBjU0VkMG1VZzBOT2ptUFlRc0EzWG1ZZmVTcllDMlJuMnJyT3N6NFFUdXhRamt1N0p2c3Bxd1pKMTdrX0ZjS0FvZHNXZExQNFV4eThZSU1SOC1zNkZXa0Nsbks4LTRXbDlwOVZpdkdNVzBsSXN1akc2cUpRczhodW1MNFlySEVMRDE4SWtrRXMxTHRLM0VaX3VEcVV0LTRMcjU3Wmg3M2VQLXBRM1RCY3otbGRjMU5scm5iTGxtcXdnRGNaMGhiQ3FfdjkzcXVmTlZPbGN6UHplQQ?oc=5",
+      "published": "Wed, 11 Nov 2026 08:59:27 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي"
+      "suggestedTitleAr": "خلف الخبر: عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟"
     },
     {
       "category": "space",
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "سباق تسلح يصل إلى الفضاء.. أوروبا تطور صواريخ بمدى \"غير محدود\"",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOQzBhYmpobEJGd19NRlRnOGgxVnM2Y0FiU3NEakllamlLQmZZdlhVX1o4bHowazh0bGh3RmpJSmQ5QWxtVHJ4VkI4WGZ0SW9fWG5ROHZMWUVPQWNEbk1scnJpc1lTaVc5WTgtM200bDRidE5ycGJvSFpZQ2VVeDJjR3dSb1NST0xOaWNlN2MtbnZaSFNDM0UyeDY3TmdfSlpENzZuM19NMzlwY2tBY0NTbkxxYk5nWXRHNTJYaHZwNFZsU2c1SDB6OENuOWRibVJPVjNjVUpnalVxMUxtdGtlcVhtVVVFSUlFeE1Od29xZjl3Z2JLOXRZNnQxMTlwdXRzdW82TWVxOXJPWEhQTlNoLWRhWkk1SmhiNnNjNExWb0lFekVYYUtNRzNnaTY0MGZ5RkVZeVAzaWxiQ3phSWpheEl3N283dXdMdFFjY2xpZmI?oc=5",
-      "published": "Fri, 06 Nov 2026 17:32:00 GMT",
+      "title": "ناسا تفتح باب التقديم لرواد فضاء جدد للعيش على القمر",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNLUtySjlkQ1U5WnNQUWNYVkJScDRCbmxBcGhsNHptejN5dF94OUJyUHFadllhMlpoN3VvMHlwb2ZwbnhPX2d1cENqX3lnenpBaUg2YTBwdUN2c1ZveExueEY3M1ZveWVOdVFUMVp3TDlod1BNN3BBaHpOam92SnBVTVB3SzdsS2dteXB5MFRGV0NyWDdwbU42cHM3aXU1ZWU5bTVBWE5qRktLWWVQUWprVmk3T2pOVWlIOXlzUEN0cDl3WGNkRnJxMFp1eTNOREJ3REVRRnA1Vl91T3IzazRBNGJMZnBzV2NXQlRKU2pQN3RjX2lNNk42YWR2RUFFYWRoZk9pb2tUSUxPSlJNcHBES0JKTkVEaE05andfR2c0a2Q3UmNQREVoSEozdTNoY2E5b0RfT01OWjVXMmJEbG1CMy1GZ2xRc3I4dHhzeWJGZXdjYXk1N3ZQNXRzdG1SVUptYmtxOWctNDRMa0hIazI2dHBrSWQwbWk2dDRfTkgyalcyWlZYNE1EZUZodDhTU2xOcUpBUjRjMFdOTmRaMVhlMUh1Q3M0RnZLLTF1NHZNcFlpTC1QeFo5OV9UR2LSAcIDQVVfeXFMUFdNMlphc2lodkZ1UGtGeHFaX2pCTXdrTFJDNjF4bFRPaExUOFBJcHBoZXNjYzNZUVJZNFJ2OE80eTctYVVqV3VtZ3NQVlBqM2pHQXZWNURVaE9BYXhvSVBobmF3N3pucHRuUHlBckprM2lCWVJUUU5HdW5DTVJpX1JrRndjRVdzTGNteS1xZEJyZkZEYUxBQnd2RV9nUTFKWXZLWS10S3JvbUFVX21WY3NlbmFDR1N6UUZiU1RJbFpRZXNHcnk1RS1udVBSS05qb0ZYOG1hSmF3SkZXTzNhSkFGQjB6NlNuTmZYaXpNMlVrZ3pXMTg0SFNNcXRKS1owRGszaUhaQWpJWkhPVEE1bnQ0WVI2RWl4MzRIYWlXVVFvMDFMdGZla29RVjNYdnBva1NwbFM3aEgxVGpndk5QS0hvV1ZWYnpmWktmbG04RUJyUTZJM0dNSFAzRnV3YVhVYlJJZU4tRERYUlJ5bGs3YUJuS2pzeDFyNkhPYUo2RG9uSXBMNFd5RTdYX3o2OC1fWjI5NnhTbXRWSXpZV2g5Y1RocGlrMHJBb09rV1Z4TVpuWEtOS21PcmZZS1EwQnFBMG5R?oc=5",
+      "published": "Sun, 08 Nov 2026 17:44:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: سباق تسلح يصل إلى الفضاء.. أوروبا تطور صواريخ بمدى \"غير محدود\""
+      "suggestedTitleAr": "خلف الخبر: ناسا تفتح باب التقديم لرواد فضاء جدد للعيش على القمر"
     },
     {
       "category": "world",
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "New light-based tool reveals how cells regulate autophagy",
-      "source": "News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1ZFRjlPUlNKVXUtUG9SM1g4VjhBaUJOc1hLbVdXaHVhUlp4c1V6NkV5SS1DVWVkYnhfWlNLZG00NmFkWWV5VWFFMjhxT2F5N2Q0VWMza2tBdi1SLTlSZ2dUNFkyM0RuTnE1V3lHZUtrakI3S0JQTk1oa3hRU040cWNJWFNOc0VvbUtEYng1NGNnY1pPMG04MTNSU3QxbURFUTNwU3VDLVA?oc=5",
-      "published": "Fri, 13 Nov 2026 02:32:00 GMT",
-      "suggestedTitleEn": "Behind the story: New light-based tool reveals how cells regulate autophagy",
+      "title": "Once considered junk, cellular 'chimeras' emerge as key to better cancer care",
+      "source": "Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVpWSjg2bDVKVGFFUWV2ZUw3bm5LSUpYeDFiWEc1RkNSSmFzcTd3enpKeFI0aXdydVRKSEtlamN0VUNiUXNnMG5sTTlyY0Z2OXFMaUQtdmpHa2t3cnNXV1RmWTZlak9yOWpxYUdoeTB4VXZsTDFnNXBFajZoOE45OTROVQ?oc=5",
+      "published": "Thu, 12 Nov 2026 22:20:10 GMT",
+      "suggestedTitleEn": "Behind the story: Once considered junk, cellular 'chimeras' emerge as key to better cancer care",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVZkYzUyTVJyVzFYM1dJM1lBRXR1eUNGYTh4dV9QNkg4Y0pxOWNwQ1BIaFlTN092MmhzWDhxbHRGN2J3ZGtMX1lzU3hkQlN0QWZ4ZTBFSXZnd2ZVUzJvc0ZfLVI1bDZ1b3pLZE9NajY5Z2JSWHE2cDdDYTdOSXJuYlpTam1wMTlUaTlEeXdTUjh6QVFxTnE5SkV2dXJHYng4bm9jQ0U1Y1dkNG1J?oc=5",
-      "published": "Thu, 12 Nov 2026 21:30:00 GMT",
-      "suggestedTitleEn": "Behind the story: DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
+      "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "published": "Fri, 13 Nov 2026 11:39:41 GMT",
+      "suggestedTitleEn": "Behind the story: EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "In a challenging year, Vermont’s outdoor business leaders are full of optimism",
-      "source": "VTDigger",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclJFMEJoRXZMcTlCaDROemVkd0VrQ1lnb3YwQ0I3NlRmdnB4RnlBWnkyVEF6ZUNURWJyanZ2RE8yNmdhdFNKNmFnbnpTYVpQZXpuVjlWM2lFaF9lNlNoM2xMaU1hZHdzWWZsc1p1eTd5WEJvbkRqZ2U3MjN2UnBHdWxsLXdpVFlXNEJ0Szl2MTVkRHV6WnNKQnNia3VHR2lZMlR0YnVNQ3pLU0NUTGc?oc=5",
-      "published": "Thu, 12 Nov 2026 22:59:37 GMT",
-      "suggestedTitleEn": "Behind the story: In a challenging year, Vermont’s outdoor business leaders are full of optimism",
+      "title": "Manufacturing remains economic engine as projects take shape",
+      "source": "Business Record",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1VNVkdFcXVkVlpJcXZodGFDVk1NaEFmQ0VkSXZ0VkYwU010bklrR1NoU1laWDBKeVRlM004bVdmUk44MFl6RmVJWUNrNTRadnJVam1INW44V0lKV0ctOTZJWWJ2dzNBczNWYnFWMk5QcVl1MVBSMTdZcE9XSk00M1M2dGM5U3JnbjlkdXdXS2c0dmhpeGNZ?oc=5",
+      "published": "Fri, 13 Nov 2026 12:02:27 GMT",
+      "suggestedTitleEn": "Behind the story: Manufacturing remains economic engine as projects take shape",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Rooted in resilience: Nature, biodiversity and climate as security assets | BCSC 2026",
-      "source": "Climate Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbXVQZV9nelFMd0IxV3JFdXJJeU51UGlYQVh4TWZWc2xZcGQwM3ZOZGp3RDVmNDNXbHc4M0ZNTW1JVlJFbU0xaGtkWE0yd1Bib2pUcVZrbzNsSExrVDI1Mmo4QXFRb0g4YmZFaU5taXFiMXpISG15cEdpRXlURl9iYmdBSEVURlNtZGtzVHJMdlVEUGZ5RDM4WFZBWlRoa2lCQXRRSG5SYnNlMjNlWXd4SDZWRTZQN1A3cDRtT3pYREdvWVNR?oc=5",
-      "published": "Thu, 12 Nov 2026 11:47:46 GMT",
-      "suggestedTitleEn": "Behind the story: Rooted in resilience: Nature, biodiversity and climate as security assets | BCSC 2026",
+      "title": "Declining environmental predictability erodes reproduction in a tropical seabird",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV2YzNnFsenAzYUdCOVpXdGFXc3ZHRm1DQlhaYTd4cFhQMVFEUnBsdi1qMTVZdE9HNWYyQWtscDNLSjBKX1lhMkttLU8xaXJRNUJtZGZ2MlFOOWdoUUFr?oc=5",
+      "published": "Fri, 13 Nov 2026 10:22:33 GMT",
+      "suggestedTitleEn": "Behind the story: Declining environmental predictability erodes reproduction in a tropical seabird",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "BPS 125: Psychology Then, Now and Next",
-      "source": "British Psychological Society",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iMmkxWWVjWjM2X28zckVZak16ZFpSaWFhSXQ2VzRlNXpUOGdQYnQtQllhaWZfanQzUkxQd3JLMmc1aDlRZGlMeGFQc2ltVU1RRDBGejJEYWZORkNfTDFtWEJVY1BOYlFZdHFF?oc=5",
-      "published": "Fri, 13 Nov 2026 05:10:35 GMT",
-      "suggestedTitleEn": "Behind the story: BPS 125: Psychology Then, Now and Next",
+      "title": "Achievements | Honors, appointments and publications for Nov. 13",
+      "source": "Nebraska Today",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkdvTTlPODVCZk9DTE5jWTZwU2JpWm1rR0x1LW1XSk5Nc1JHWnIzaEdxVjRnaV9jUEVfTDR1VGZSdUl3M2FCb0xuUDhsRnZQMlZBRnY0eUF3N2c2SGpoRnZtajh5cDZxWjhKZEFUMmY5a2pEamt5OU9ybEFQWlowYTdzSE9NQ2JJS2RRUWJON1JiSFE?oc=5",
+      "published": "Fri, 13 Nov 2026 06:32:17 GMT",
+      "suggestedTitleEn": "Behind the story: Achievements | Honors, appointments and publications for Nov. 13",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Cultural Arts Center to host documentary film screening",
-      "source": "News and Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMmM5ZVVXazdRYnMtUDhHb0RIMFdzYTYwajZXdmE1ZFMtNmxvY3JudU02bDBjZDZqNXp2VmRZWjVUQlkzekd2U2pTcEJVdk1tRE1YRjJVR1UwMVA2elpGRmdnMFZiSHdKaFdRTzlGS0pwT2dJSUNSX3lSWGxNXzdWbEhIUEdiNGI3SGRodC1OSmRYZlVoYks4Q3JwaG9xSlZHRE1XZl9JZ1VkV1FMbERfUWpGOUFSaE9xNklHV3FYc0ljM0xMUVRRWHpza1kwc01zNWczcmduWkE?oc=5",
-      "published": "Thu, 12 Nov 2026 17:44:00 GMT",
-      "suggestedTitleEn": "Behind the story: Cultural Arts Center to host documentary film screening",
+      "title": "Colorado: Film's Next Frontier - Sponsor Content - Visit Colorado",
+      "source": "The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVhveWgtcWUxMF80SWZ3Y0VCZ0pQeVJJeUM0RG8tSkxsQW5lbjVZdzNyNzBQMVRGcFNQeGRzQnRLQkRDNmJBb1hOcnlMQkVuMXR2QUdBYlMwX1dNbjNqdDdQLV9fY1hWdnZKYVdOZm5aQ2pZVWgyRkg0dmx6Wmt1SHlvaF9rbHNpWmYtZHNSaVZ0RmxqSm40LWVmamVtYUNSQ1pjUw?oc=5",
+      "published": "Fri, 13 Nov 2026 07:06:04 GMT",
+      "suggestedTitleEn": "Behind the story: Colorado: Film's Next Frontier - Sponsor Content - Visit Colorado",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
+      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQndfd0d1T0hQNG1QZEF5WWx2Tm56Nmo3ai1QWU9tZmktSnpvbWhqZHZnMlFQemVCZm5jcjQxQXlHTGYxMV9WeU53bHBiNlBHakRBOGF6OTJKcVAxS2N4d0J2VVNiRkJ6SktVQkhiVE8tRWQ0OUk5R2UtNFNoWl9nOWh4R1dDSk1MOFk5X0FGbGw4YkFZenhsWDV0a0oyWk5nMWJuWWM2Wko0djF2OGlQWjFoYWJoS0RzQkt2OTM0cENYbFpBMGtvUWw4Y2RXVHU3TERTQ3VDeE11VmNlX3A3QzljeV9xRXRhS1E?oc=5",
-      "published": "Thu, 12 Nov 2026 13:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5",
+      "published": "Thu, 12 Nov 2026 17:28:20 GMT",
+      "suggestedTitleEn": "Behind the story: Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
       "suggestedTitleAr": ""
     }
   ],
