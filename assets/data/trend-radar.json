@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-14T13:01:53.201059+00:00",
+  "updatedAt": "2026-11-14T18:54:38.522808+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,12 +23,12 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "بعد 9 سنوات.. آثار \"أم القنابل\" لا تزال تطارد سكان أفغانستان",
+      "title": "للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMEtuaUZCZmdqYV93MjgzcWhjZlNmc1ZNZWtpQzFOdmVBMXkyeVdNV1ZNcDNSQ3pHRGt3dnJKVTFWYWtsNTdXaHJ3bXpkT2NVRHRNc1duZ3JxSmJsUzhJM1ZRLU5BSENVeWhtenRXSkNYREhRVDh4eGpBNFFkdjRWYXpYMHZIZmZzYjB5UDZiNnZLYnR1LXd3Y2dPYnp5YlZYUVV5bWV1RDEtS0ZEYkhPdnJ0M0pKb1gwMnB3ZU5QZ0pfN29MYzM0SzFxbGFtUm9ZeU5RU2kxQkFfem9ZczBzVGhmMmppakQxM09vbFBwNDFRSndSREpuZHdOMlZjYm5yT0NNOTl6RlZsZVBscnlZNHFJMDU2RlZ5WTkzV0tHV2RXcWE2T1BLeWRyWWpkVXVNbEN5NjJrQlpvdzA?oc=5",
-      "published": "Sat, 07 Nov 2026 17:39:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWXh6aU01ZzhVNXZDVzN2aEVic1NSQXJJdnBfM08xNlZMTUtjemt1MlJQTXZ6ZmREVGZCYklJV1pZOUl0ZW1zR2dIVGRaei1pcmI3RDVyUXlwVklRQ3ppSWZDZEhPRmNfVFBGUWNwWE56dEFXTmtfdy1zTzY5VlIwcW5ocllBd2QyRVdseXVva2JULTU4TkFJbVBjMThkNW40QzN0ZDdHMGtPSUxodUYzTWtfTnBLX2JnSzg0aVN4d3ZZaHZfSUdMMjYwMmNVNWZabFEySmtFWTRJVzRhR0NNajQwNGUzNmJLcW5HaUJlQXlxU0tIRHJfekdPZjZ4MGhEdWZoeGNLTUpnWTd3WjU0aVY2OGZYTGZMbFFzN3VNdEs5Y1NKZDBqOEN6ZV9DTlZibEcyMU9CMUwzblhjMmhSS1NhajFhY2ZrQVJrODRTUHRxSGpyVXJncjhuWW9Semc?oc=5",
+      "published": "Sun, 08 Nov 2026 14:52:33 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بعد 9 سنوات.. آثار \"أم القنابل\" لا تزال تطارد سكان أفغانستان"
+      "suggestedTitleAr": "خلف الخبر: للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة"
     },
     {
       "category": "science",
@@ -83,24 +83,24 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "المجتمع الطبية تنهي تعاقدها مع شركة الشاشات المضيئة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQb2dpSDh3aGxDbjdGbzZBbFE2OE92ZkFfQ2dlQXByRVBZbUlDYnE5S24zSFBkbTdRb2JSYmFKNElfUzlhS253alM2S0tscXRLZFpsWW5fUFdNSVZpRUpvNk1zYnZ6YjRHbEE?oc=5",
-      "published": "Fri, 13 Nov 2026 18:11:58 GMT",
+      "title": "محافظ تعز عن الحصار: المجتمع الدولي اكتفى ببيانات الإدانة",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPYzdDMjNwbnF5amRsRkpxMW9MWnFUNE9jMHdUSzYyRkFoOVVmV0F6NDBCbFVtNENLOTUxa3RUSGktbVZNRE93bEZUX1NDTTR0b0czM1N5R2R2OWJQeVBUU181Z2lvMUNfZ04xYzR6YTNpZndlU3p3NGVJMGt3WGVvYUNlaXNfSW5fTTVyTlZQazd6WFdrcGdtTHQ4U3RKNElEc2pCR3hKR3JKNTBxb3lKNnlrMjhXMnJENERnbWJCZUZqS1c2ekxOVEsyZkVna3FGMlNGTFEtb29yVjFENUxrajVWcXRWV195NnBHZm5GOGhMdUYzYVh2TE93WURxY3o1RVA5Rm5MN0hPeEoyeFBYanZSTUExWU5reWF3elc1SU96WVd6UExuUEFlZFdDTDM3WTVrZkF1cmsteXNRZ0hCVHJCanFaWjFyVlNBZXNjX0pRVERlVGtLdHdBX1ozUVc0ZHB5a3NTOHh2Z0w4Nkp2OWtmWmFhSTd5TkhrbEdRRUplcEFWckdJN2hxRVpVYzN4N0JlTTZCdzR1YWRHRXpodHRRb0trTkVNT29mQ1hSOWIwNlRTdDZzLTM3dmVjRTllMTNQT2ZsWEdmZTlEV2dreGlvcEwtTF96SmVqdkJZcXFhMmVBREd3M2pFUUNtQXBPNDVNYlNZaGtkSHEtMHVCTGY4QXRTUmNPZE1LTmlXM2dDdTFqQmQ0eEgwM2VMeVAtQm1ZR241R2dLWUVfbDBKdEhjMk1YVmdmbE1nOGdOZkF4N2NWanBnVG5UcF9DTk5Wb3NUamVMYXFrOWxYbUlF?oc=5",
+      "published": "Sat, 14 Nov 2026 11:30:56 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: المجتمع الطبية تنهي تعاقدها مع شركة الشاشات المضيئة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: محافظ تعز عن الحصار: المجتمع الدولي اكتفى ببيانات الإدانة"
     },
     {
       "category": "culture",
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "شري للتجارة تتسلم ترسية مشروع تأجير سيارات من وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kQkJDTzRoYml5OEszQlY4elNaeElIU1BBLUhJXy1OMVJiSzJzZDBsYWNGM0F4V25rTkQxODBwYU15ZkRXT0J0cnkxMFJ1ZGFtWDNhcmt3dUEyRHg3Q3BKYUJFQ20tYjJXMlE?oc=5",
-      "published": "Thu, 12 Nov 2026 23:39:56 GMT",
+      "title": "وزارة الثقافة: اتجاه لاستحداث لجنة مستقلة للنظر في التظلمات وتحديد آلية الاعتراض على قرارات مخالفات الآثار والتراث",
+      "source": "صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYWIzYk53NTFqUHZ4RTZqcGRYeHRHeFJKbERNRTBEeUFKUTRTUkdDNVFZdktOQ2JrT2o5MnJBZU54RDk0SWQ0d09kS2hDNjdHV2pGbkFLSmZEQnY5UUt6NUlFTHgtLW5GQThaeHFxYjRiTXF2d3Y5MHdSRkZabE82cC1obng5OG5STjhKeWt4ZW9tSFFLRnBHTnl1MDB6UFdIbUNqQl9LbnR6cEt0MDZtbGFDZzc3c19GZnI5X2V2WER1bl9Vc0RwV2QwWEE2SXVhRDE5N1ktd1dNSElEb1doX0lVNDM1WmV3Z0lwZUcwbXlPYUE?oc=5",
+      "published": "Tue, 10 Nov 2026 08:17:54 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: شري للتجارة تتسلم ترسية مشروع تأجير سيارات من وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: وزارة الثقافة: اتجاه لاستحداث لجنة مستقلة للنظر في التظلمات وتحديد آلية الاعتراض على قرارات مخالفات الآثار والتراث"
     },
     {
       "category": "mystery",
@@ -134,7 +134,7 @@
       "title": "F.A.A. Ends Nationwide Ground Stop but Delays Persist",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-      "published": "Sat, 14 Nov 2026 10:46:00 GMT",
+      "published": "Sat, 14 Nov 2026 16:52:00 GMT",
       "suggestedTitleEn": "Behind the story: F.A.A. Ends Nationwide Ground Stop but Delays Persist",
       "suggestedTitleAr": ""
     },
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Miller School of Medicine Drug Discovery Symposium Charts a Path From Discovery to Development",
-      "source": "University of Miami",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vSWR6bllnY29vY1Z6a25IUk4wSU9ENnNQR3E2SXVQbmFYclctSWladHdta2NUWFctUWFoREp3Z1V1amxHYm8zZkdkTUc0Zl9RZDJKaTNuSjlBaDdoYXpHSHZMSmtqai1BTlV3bEpsWkpXTXhk?oc=5",
-      "published": "Fri, 13 Nov 2026 18:23:22 GMT",
-      "suggestedTitleEn": "Behind the story: Miller School of Medicine Drug Discovery Symposium Charts a Path From Discovery to Development",
+      "title": "Can organ-on-chip replace animal testing?",
+      "source": "Drug Discovery News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPampqQkJnRjFaTGwxUGgxTjR5U19QWG1fNldKMzEyWVoxb25rbXNGal9CbjBTdTdZRm9kTTRlTVBQeXNXYUxYYWFSWUR4NFJ2RXAyQjdZQWthWllRX1ZXUVdnTjhPUnkzbU90Qmt6cl9IczA3RnNva1JENEwycTh5d0N2UjVLdTg?oc=5",
+      "published": "Sat, 14 Nov 2026 14:32:29 GMT",
+      "suggestedTitleEn": "Behind the story: Can organ-on-chip replace animal testing?",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Governor Hochul Announces 2026 Winners Selected for Eighth Round of $3 Million Grow-NY Food and Agriculture Business Competition",
-      "source": "Governor Kathy Hochul (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdmdzN4TTZTR2RibExPOXFSNW9WRVlXRVd3NVhNSENlMW1Cc0pEM3Y4RktZam43cXBIbV9pTE81a2Z5TEtvZTB2cXdFUFJLeUdOcEJlN0JjU2Z0TWYyU3Axd1lBRlpPclhUdjY4a2F6MkdrN0l3b3kzOXdINVBCaXpmalpVOVJKYVJadTV1QWpNdHp6LV93b3puN3FxVnFwc3Y2QTE4TjRScmpYSFBOTWdmUE1MUVg1SHdDRg?oc=5",
-      "published": "Fri, 13 Nov 2026 22:42:37 GMT",
-      "suggestedTitleEn": "Behind the story: Governor Hochul Announces 2026 Winners Selected for Eighth Round of $3 Million Grow-NY Food and Agriculture Business Competition",
+      "title": "In a challenging year, Vermont’s outdoor business leaders are full of optimism",
+      "source": "Valley News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMGxuR1kyZUhGVUVBSkRmODZUaW9hY0QwV2VqX1N5QVNTdnJ0UXRtNFN0ZlNqbEJoVkVhczdjNXFDTnZJNEVZNFE0aFg3SzRRSjBhbWw0eVFVbFcwaVJCZURCN2NJRG5KLXdfTGV4VlB3UQ?oc=5",
+      "published": "Sat, 14 Nov 2026 16:38:00 GMT",
+      "suggestedTitleEn": "Behind the story: In a challenging year, Vermont’s outdoor business leaders are full of optimism",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Declining environmental predictability erodes reproduction in a tropical seabird",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV2YzNnFsenAzYUdCOVpXdGFXc3ZHRm1DQlhaYTd4cFhQMVFEUnBsdi1qMTVZdE9HNWYyQWtscDNLSjBKX1lhMkttLU8xaXJRNUJtZGZ2MlFOOWdoUUFr?oc=5",
-      "published": "Fri, 13 Nov 2026 10:22:33 GMT",
-      "suggestedTitleEn": "Behind the story: Declining environmental predictability erodes reproduction in a tropical seabird",
+      "title": "COP31: Protesters, UN urge swift climate deal",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeURSTlJ1UlpqamctWXM5eTBmakNQZlBkekJuaVVENzlXVXRkNUMyajNzQ045VGtNbUozRXdaYXgyc0V4RXRwTXVCMlU4Uk9ja3RYSTJBMF9TVDM0VEVwRjhmLVpRSVZQSjFoOW1kbWJGNlpmbkNzSE5CbnhPRVpmamV30gGCAUFVX3lxTE5XNEJHRGc0N3pDMld6OUNaWnJOaVVRNE5iNEZsMnpUTlFJbEZLVGRHSVlZYzV6WlItQWJJMWJiQ1RDMmZLWHB1cmZBZmxPekJxaV8xTWdWR0h3eUlXeWh5R09CMTd3dnpmYkhCRUlQMzZ5U1lrVW5iU2x5SW40ZF83T0E?oc=5",
+      "published": "Sat, 14 Nov 2026 17:24:22 GMT",
+      "suggestedTitleEn": "Behind the story: COP31: Protesters, UN urge swift climate deal",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "5 fearsome sea monster legends",
-      "source": "Sky HISTORY TV channel",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRUU3cVhUWjNJQnVtZThSZzcwWU1Ka0VxTlpwWWgyU0ZSSGxDV1ZsVGdCWVVQZS1YNDgzckd1VWo3NUNwc0N1dzAyeFEzeGVuVWZpeFloME5DUGZwTGdVMGVxc21OTmlm?oc=5",
-      "published": "Sat, 14 Nov 2026 10:15:36 GMT",
-      "suggestedTitleEn": "Behind the story: 5 fearsome sea monster legends",
+      "title": "Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcE1aNmpVQloxb18tNWlVSk5MX3J6ZGdWd28wMEZ2b01hMnQ0T214d3c3RnBuNGdKbmhLb3VSNDZ6bmxQa3RBWk15NTUycUZsZ2V5YmtZcmJQTmpyR0NTNFZuMWlNb2ZwNG9OaDJ1T19FbEdaanlkQlozUHVKXzBvUFl0c0dxTnJzUkZXajkyaTYyTV9kdnhtSnlkRmJzSC0xZ3h2MQ?oc=5",
+      "published": "Sat, 14 Nov 2026 13:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5",
-      "published": "Thu, 12 Nov 2026 17:28:20 GMT",
-      "suggestedTitleEn": "Behind the story: Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
+      "title": "Astronomers discover Nāpōwawāʻenakaulua, the oldest compact quasar pair in universe",
+      "source": "Big Island Now",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWG1WMkp0TFVyQjY2OGI3OUttRWxJV3JUaW9ZeDFET3RydzFQUjFzcFRHSVd5cVlrYUhHdTZXa3U3aG9mQ0N6LUVCaXQxSjNCS2NTdzlrQmpEVG8yMkgwVDRxS0d3MnpCNEktRGcwbTFSdV9jNHNhS3FNdG9mckNENGxxVDVVeUx0T2dFcUhaQWtIeXNZc3JiNEs3T0xDS2pnQlIxS3JBdkZFQ1M0WDltUlNmR2t0Vm95bldCVUVlSmRKZw?oc=5",
+      "published": "Fri, 13 Nov 2026 13:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers discover Nāpōwawāʻenakaulua, the oldest compact quasar pair in universe",
       "suggestedTitleAr": ""
     }
   ],
