@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-14T07:13:43.471360+00:00",
+  "updatedAt": "2026-11-14T13:01:53.201059+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,12 +23,12 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة",
+      "title": "بعد 9 سنوات.. آثار \"أم القنابل\" لا تزال تطارد سكان أفغانستان",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWXh6aU01ZzhVNXZDVzN2aEVic1NSQXJJdnBfM08xNlZMTUtjemt1MlJQTXZ6ZmREVGZCYklJV1pZOUl0ZW1zR2dIVGRaei1pcmI3RDVyUXlwVklRQ3ppSWZDZEhPRmNfVFBGUWNwWE56dEFXTmtfdy1zTzY5VlIwcW5ocllBd2QyRVdseXVva2JULTU4TkFJbVBjMThkNW40QzN0ZDdHMGtPSUxodUYzTWtfTnBLX2JnSzg0aVN4d3ZZaHZfSUdMMjYwMmNVNWZabFEySmtFWTRJVzRhR0NNajQwNGUzNmJLcW5HaUJlQXlxU0tIRHJfekdPZjZ4MGhEdWZoeGNLTUpnWTd3WjU0aVY2OGZYTGZMbFFzN3VNdEs5Y1NKZDBqOEN6ZV9DTlZibEcyMU9CMUwzblhjMmhSS1NhajFhY2ZrQVJrODRTUHRxSGpyVXJncjhuWW9Semc?oc=5",
-      "published": "Sun, 08 Nov 2026 14:52:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMEtuaUZCZmdqYV93MjgzcWhjZlNmc1ZNZWtpQzFOdmVBMXkyeVdNV1ZNcDNSQ3pHRGt3dnJKVTFWYWtsNTdXaHJ3bXpkT2NVRHRNc1duZ3JxSmJsUzhJM1ZRLU5BSENVeWhtenRXSkNYREhRVDh4eGpBNFFkdjRWYXpYMHZIZmZzYjB5UDZiNnZLYnR1LXd3Y2dPYnp5YlZYUVV5bWV1RDEtS0ZEYkhPdnJ0M0pKb1gwMnB3ZU5QZ0pfN29MYzM0SzFxbGFtUm9ZeU5RU2kxQkFfem9ZczBzVGhmMmppakQxM09vbFBwNDFRSndSREpuZHdOMlZjYm5yT0NNOTl6RlZsZVBscnlZNHFJMDU2RlZ5WTkzV0tHV2RXcWE2T1BLeWRyWWpkVXVNbEN5NjJrQlpvdzA?oc=5",
+      "published": "Sat, 07 Nov 2026 17:39:21 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة"
+      "suggestedTitleAr": "خلف الخبر: بعد 9 سنوات.. آثار \"أم القنابل\" لا تزال تطارد سكان أفغانستان"
     },
     {
       "category": "science",
@@ -47,12 +47,12 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "مصر تخطط لإنشاء مركز ضخم لبيانات الذكاء الاصطناعي بكلفة مليار دولار",
+      "title": "هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟",
       "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOVzVoN0R5SFBTOTJ3dnNNNzRtd3p6Y1RBdEJ0VzRDd1A1dm5TN19DMDBGODl5YzQ4WGZLdUxpR1NBZnhubzMxZVctV2FCbXFjNEVyRnZ1OG1iekpTOU52TDczcDU2ZFdvck9uaGkzQnZfZmljei1FOXlVMFVVNVozb213cEEwNU1KaVk2ZVdNVEdCZEJ0bjQ4aFJYLS01U0dXZnZYYjRmazRzZ3dFZV9NM3BFZWFmcnZncDdqWGhIWmZqQkYtUW9jYXRfVkRES01JX3RWUUYtV1UzTW9aNEJnbElzU3Vyb3FvZkEtZFJsdkdPUGF0SnEyWGZ4SDhhSzhENURsMzgtb193WGFTNE5ZY09WSDZvQ1RXNzEteEJxRVZTenl2SmFsQ1FWQ3plZTJENllwTHd6UzZCdEw3VHctdllfZW1ZY0c2OFNtSm1vcDlkazZIR19NeG9Wb3ZQZ0ZnR3Q2eHBaU3RaTGZaY0c4amxOTjBWTjM3czlPVDg3NGVLVlZManVDSDlOUk82dTZqNW1MVzlhRWVjMWU1TkdsWV9od2tyX2I0aDlrMFJhNE9HSFYybGxqX1FGZDFka1ZvaGs3Q2JIYzZDRXJxUktvM1NvSXB6RFVTOGxyTXI3OVpLemVmOEp5WnQwa2RtdkVtTEJVV1N0UHBZVnlWTFM1MUxoc0I5RlNyeHhZZ3pVYnMwVkFnTlFzeWhNUGVUdFk3TVpEaDNTVnVsem9fZGVVZmZiVnhCamsybHJYY2FjY3Q5SUFzemp3R2I5Z2lDbXlReWhaTDN3VQ?oc=5",
-      "published": "Fri, 13 Nov 2026 10:03:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5",
+      "published": "Sat, 14 Nov 2026 09:30:15 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: مصر تخطط لإنشاء مركز ضخم لبيانات الذكاء الاصطناعي بكلفة مليار دولار"
+      "suggestedTitleAr": "خلف الخبر: هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟"
     },
     {
       "category": "economy",
@@ -83,36 +83,36 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "المجتمع في فكر الأمير محمد بن سلمان: شريك في صناعة التحول (28)",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQUC0tNG1kOEtvdG9pN3Y0MzRHTU50UENkT1RoTnJ2ZUtKeXk2ZElRTDIxdVhOSzcwMnREWjV5eXlVZ1o5Z1JOaVdSMk14MVVKU1ZoNjQzcjdYcDNfZnZQWEluR0FCeFQwQTJzSkVVc2o5Y1RYQUJsMFBDMUZtTENQTW1kLU5OS082UUk2Tmx6bllkZlR6N3djWEhBbkI1VTNWd1VqU2pQaVZDMEZobXM1UHB3eG04RHhURm5vcTR2X1gxaHpPdW9GR2hBaHpVN1ZQbUI0cEpON0RMdEtUbC0wX2d6U1JIRHczWEI1QWp2YkkzcFZzOWxuREJ1M0xUOTZLN1lCMkdHc3N1bFBjQjNyRTBDYmwzR3pQNnlBNmRsbXJfdGJBZUdSTnVsbG92TEozTk8yQVVKWTN2eU9QRnFqTW5jX3IxNV9CbkVRZElRYjJnU0JldVRiMzR3UU00MTZqSTJRa0tQbGdoTEMzTmFsUlBrcEI2WXhmcFJBVEFOY1RGX1RkaGhwd2JBZDZrdkhEU0x0bWdNQnJ2RHNLckttX2N2Mzl5cjFRY0ZRNDYtcDhEYjd2eE5vZTZOYzVaZ1JPY0g3andMcW92YXJkNkdKTWlpNGNxUTRvdmxXM181R0J0SUV5OFJqR9IB7gNBVV95cUxObDhnWE1VRjU2NzdadE92OUxfU045dk00b1dZaVpWZXBCck1yaFJPWi1uWUNiWU1HWTBvckY4a3BHQzlQQUM4dEFpUGVXZzhtQ1JJNWtTZFlRdU0tMzRCR0dRZTd0VnlkWmEwcmxUUFlGQXpXNWlvdDRVQVRxd1l5N19VU1UtZzBfZUZlTXpIRlpRUzhoRC1Dem9zbVFlc01XZkN5cURqT2ZXUzV5VnJvVC1BeVJFX05GZUljZTdrN29QNTJKT2kwWll5Unk0QUpfd0xad2QxZTB5Y0s4STRxejR6dnVFU1A3TmJ1cVJEY1JBQkRMSFdyM3JEQl9Oa1pjcmRRSnRueDAxdlFGandzOTVTQnUtSEQ1Ym5BTDcxODdjRU43a1dLWHBHeTQxM1BlMXFuM04wYnUtSkhJcWZhMmJDRjcwNHVzLVNGNHJybks2VTlsWnJqUGlXR2hoaGprcjM1UU5DakdPUWtrWWduQThOQmxkRzQ0OUEyVy10V2M0MG92MklITE9heWJVbWViRjZST2FIbGtYWE1aVWdjT1MxWTkwY1Z5R1hPUDI5bGttS0hwUjBwbkUtZDZOLWktNHhyWG16S0VXUkFZTWNScTBnYTNrOXNNcTAtQ093ZEE3X1BoSkE1TGlNYkNxZw?oc=5",
-      "published": "Mon, 09 Nov 2026 07:25:00 GMT",
+      "title": "المجتمع الطبية تنهي تعاقدها مع شركة الشاشات المضيئة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQb2dpSDh3aGxDbjdGbzZBbFE2OE92ZkFfQ2dlQXByRVBZbUlDYnE5S24zSFBkbTdRb2JSYmFKNElfUzlhS253alM2S0tscXRLZFpsWW5fUFdNSVZpRUpvNk1zYnZ6YjRHbEE?oc=5",
+      "published": "Fri, 13 Nov 2026 18:11:58 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: المجتمع في فكر الأمير محمد بن سلمان: شريك في صناعة التحول (28)"
+      "suggestedTitleAr": "خلف الخبر: المجتمع الطبية تنهي تعاقدها مع شركة الشاشات المضيئة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "culture",
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "“المبرادة”.. أيقونة الكرم وجسر الثقافة في رحلة القهوة السعودية",
-      "source": "Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLV1pmZDdRUHRqRThWRGVCVUN3UUd4RjNpaVI4WC1SeHdDcHlpdDhkbE16X1JaMWI5Tk5Z?oc=5",
-      "published": "Fri, 13 Nov 2026 13:33:15 GMT",
+      "title": "شري للتجارة تتسلم ترسية مشروع تأجير سيارات من وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kQkJDTzRoYml5OEszQlY4elNaeElIU1BBLUhJXy1OMVJiSzJzZDBsYWNGM0F4V25rTkQxODBwYU15ZkRXT0J0cnkxMFJ1ZGFtWDNhcmt3dUEyRHg3Q3BKYUJFQ20tYjJXMlE?oc=5",
+      "published": "Thu, 12 Nov 2026 23:39:56 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: “المبرادة”.. أيقونة الكرم وجسر الثقافة في رحلة القهوة السعودية"
+      "suggestedTitleAr": "خلف الخبر: شري للتجارة تتسلم ترسية مشروع تأجير سيارات من وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "جماجم عمرها 5 آلاف عام تكشف لغز موت حاشية ملوك مصر",
-      "source": "عكاظ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16RGlUWXE0RHYwVXNaSEhza1JBQ1JDMkd4aXdnNTh0SmpMRWZMQkxhalVocnphTk82VWdUWWVXSl9nSnA3V21oVlZIUEozT0ZvbE51Z9IBVEFVX3lxTFB2bFVoUGhpUURwZndkanRRLTZNQXh6VG5kMVVwQXVfWTlhQkhwRzM4OHN3N3gwZGtGc0c3LUYzRlMtOVNnSW84YnBOWGE0aFU3cjBxaw?oc=5",
-      "published": "Tue, 10 Nov 2026 17:37:00 GMT",
+      "title": "عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbjdDTTh5ZVJHSDJndzFkRHo0aS1tRUg5X0dFTDlhWnM3bXFBdkRENklnNTdPOFRfSTFONFd4LVFaRFFPNE0tcHdOcGg0bVpLbk8tVDRIRTFaRktHX1hyZDFoMkxHZ2NMMjkzVzVCZFBjU0VkMG1VZzBOT2ptUFlRc0EzWG1ZZmVTcllDMlJuMnJyT3N6NFFUdXhRamt1N0p2c3Bxd1pKMTdrX0ZjS0FvZHNXZExQNFV4eThZSU1SOC1zNkZXa0Nsbks4LTRXbDlwOVZpdkdNVzBsSXN1akc2cUpRczhodW1MNFlySEVMRDE4SWtrRXMxTHRLM0VaX3VEcVV0LTRMcjU3Wmg3M2VQLXBRM1RCY3otbGRjMU5scm5iTGxtcXdnRGNaMGhiQ3FfdjkzcXVmTlZPbGN6UHplQQ?oc=5",
+      "published": "Wed, 11 Nov 2026 08:59:27 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: جماجم عمرها 5 آلاف عام تكشف لغز موت حاشية ملوك مصر"
+      "suggestedTitleAr": "خلف الخبر: عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Celebrate World Kindness Day with One Last Order",
-      "source": "Netflix",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mNThvMWNEdF82M2FhS3YyY0JiOU5GMFhMWXFRRGdZUkRPM0tqQ1hkZlZqS2xBMHBvbVJGSktFc2ctd0NfMy1ucjg4TDdwalgxTld5bkRqQi0xeEdLZVNGUUtxRnBKa25jenBkTUJ1aFY1YWxmYlU4?oc=5",
-      "published": "Fri, 13 Nov 2026 20:02:33 GMT",
-      "suggestedTitleEn": "Behind the story: Celebrate World Kindness Day with One Last Order",
+      "title": "F.A.A. Ends Nationwide Ground Stop but Delays Persist",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
+      "published": "Sat, 14 Nov 2026 10:46:00 GMT",
+      "suggestedTitleEn": "Behind the story: F.A.A. Ends Nationwide Ground Stop but Delays Persist",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Key Considerations for Evaluating an AI Vendor",
-      "source": "Morgan Lewis",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVS1xdktscThwc0p0RDlDTTJISzl3dE9tRzc0blJxQllDTjFyLWs2dlVMVngxNnNrbjgxVGpDc2ZtMzVsVk5aZWFRaV94a1lNSElzSWZBd0VtQVpxWEI1akoyUkZpMVJ0OUZYMklFY0syQU9DVUI2STd6OTFTbGlPcGNlUEZ4YThBY0FxSzNBTlk0dmpNLWMyYjNJY3IxbFJNLWd6SjJ1T0VrVGZ4SlRZ?oc=5",
-      "published": "Fri, 13 Nov 2026 21:50:19 GMT",
-      "suggestedTitleEn": "Behind the story: Key Considerations for Evaluating an AI Vendor",
+      "title": "The China Shock in the AI Era",
+      "source": "Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+      "published": "Sat, 14 Nov 2026 12:00:04 GMT",
+      "suggestedTitleEn": "Behind the story: The China Shock in the AI Era",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "A report says nature-based solutions could be answer to climate change issues",
-      "source": "KRWG Public Media",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1ZfbW5Jc0xnTU1wNC1hTnZMODRPc29BVFJwMU1SazVxenhBZWdjWjI0alRpUmlsTXBiQ2dubVFrdmR0emFEaVdLQnpZc0p5TTRsVFNDVHNtZjR6T2ViOG9sYXJlczVheWxUVGtJTTFKd3EwRlVrcXE1RjZEdkdVOUNBRDJLTEJaaXpjZGRlMHo1TnJSc2ZKZHdvdklNVW5QY1p0SkVtUm9BRlhWVjlpSzJydlVHbzVKTFQ4?oc=5",
-      "published": "Fri, 13 Nov 2026 11:45:00 GMT",
-      "suggestedTitleEn": "Behind the story: A report says nature-based solutions could be answer to climate change issues",
+      "title": "Declining environmental predictability erodes reproduction in a tropical seabird",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV2YzNnFsenAzYUdCOVpXdGFXc3ZHRm1DQlhaYTd4cFhQMVFEUnBsdi1qMTVZdE9HNWYyQWtscDNLSjBKX1lhMkttLU8xaXJRNUJtZGZ2MlFOOWdoUUFr?oc=5",
+      "published": "Fri, 13 Nov 2026 10:22:33 GMT",
+      "suggestedTitleEn": "Behind the story: Declining environmental predictability erodes reproduction in a tropical seabird",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Madison’s Black Film Festival: From cultural critiques to nostalgic holidays",
-      "source": "Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVF9Wbm9yeVhVQWFSU1piTlFpRDlVVC16MHAzdlpZakFSRU1iQUxuUXZkcUFRSnNKX2ZXeU9nTUFSdzVheGZ6bkJ1bUFIakhYZDBtRGt3VGV3NEhZRHZnajFLZmlZTmE5Um1TT0JseEpxU3pPM2RFZWN2U2VpanFHYkMwTjZ3WXc?oc=5",
-      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Madison’s Black Film Festival: From cultural critiques to nostalgic holidays",
+      "title": "Commentary: Russell Brand doc excoriates a predatory chameleon and the culture that celebrated him",
+      "source": "Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5QeUk5QjJYemo4Mlp1N2FyQnlnb044T284VGZwV0F0Mng2SFJJLWNuaElhMDB0d0xRR3FLckd3UU9GUHVCZHJvU1QwS0l3T3VfR05BdmZfa2psUUFGLXhGSEZwaG02THhfZGoxRnVyaGRsel9tNllHaE0zcl9rVXVZM0h3TElYZS1XMUstRnlKUEpINVVTOTM4RUx6c2c0VlZZQ3hxN3FZaWtGQTFpMlJCSDhOQTE4ZnBIRjdFMFZEMUk?oc=5",
+      "published": "Sat, 14 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Commentary: Russell Brand doc excoriates a predatory chameleon and the culture that celebrated him",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "‘Chronovisor’ Review: Reading Into the Abyss",
-      "source": "The Movie Buff",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTldKMTV2ZmRZVlVRWV8xNFFQZ05ucjBoZUwwOGxVUkNSOWpqR0U3a25rb2Rhc2phdDZRWUJLVWVuRE1QQnBWUEdKX295ZTlTYVlIdTRrNGJxaVhLNzdITk51dldxVWdFZXhlelEtLUZlZEVDVV9VaWFFc19kN2J3a00yZGhRQQ?oc=5",
-      "published": "Fri, 13 Nov 2026 12:49:53 GMT",
-      "suggestedTitleEn": "Behind the story: ‘Chronovisor’ Review: Reading Into the Abyss",
+      "title": "5 fearsome sea monster legends",
+      "source": "Sky HISTORY TV channel",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRUU3cVhUWjNJQnVtZThSZzcwWU1Ka0VxTlpwWWgyU0ZSSGxDV1ZsVGdCWVVQZS1YNDgzckd1VWo3NUNwc0N1dzAyeFEzeGVuVWZpeFloME5DUGZwTGdVMGVxc21OTmlm?oc=5",
+      "published": "Sat, 14 Nov 2026 10:15:36 GMT",
+      "suggestedTitleEn": "Behind the story: 5 fearsome sea monster legends",
       "suggestedTitleAr": ""
     },
     {
