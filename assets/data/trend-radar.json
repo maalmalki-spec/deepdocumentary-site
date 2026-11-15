@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-15T01:18:45.498837+00:00",
+  "updatedAt": "2026-11-15T07:15:27.360798+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
-      "published": "Sat, 14 Nov 2026 11:04:10 GMT",
-      "suggestedTitleEn": "Behind the story: Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+      "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVJaNmpaaGdfSkd4dWhzZE8wMEx3dFZha3JtM0FZanNic0tnbEh2dXhaUm9kUkRtMi1mWnVCNVFXSU85VV9wVl9qd1A3cVhxQTBpaDg0djlmMkhRc1JNQm1KOFBxMExkSU5iOXB5RUJvcEFHb3kxcnhRZ3plY095UFN0SFFNYkYyVHVUQ0hjYWZpckpFWGVGNjJXaFlHVlRDODk4dy0tdDkweUx4N2h1OTgzdFV2MEtlaWfSAb8BQVVfeXFMTVEyNzBjU1YwN0lpendMNWhrNldxTUlLZ2VWSHRlTDVJcG15TUNrZHBNdmZFcnBwTlFZMk9LYmlCTVB4cEV1UUVCYzB4YUVlNHI0eFFNczExVlZaVjIwREFPN0IyanRDTXFBVTFDTnRmSFFSVzVWMHVZRHhnSGpCSndNak1sa0cxc1lRWUFDZEs1MU1yQUxmSzJhZFRqTEdybFJtS2Q0ZXVUYTFQMTFUMjktNFpYQWV0al9US2REQ2c?oc=5",
+      "published": "Sat, 14 Nov 2026 20:23:29 GMT",
+      "suggestedTitleEn": "Behind the story: Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
       "suggestedTitleAr": ""
     },
     {
@@ -157,7 +157,7 @@
       "region": "global",
       "title": "AI discovers a hidden heart signal that could predict sudden death",
       "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GMWxBeEhtR2JhRG1PRkhad0NBbGNkT18tbTZIYVRFdkdHYm1HN3BRTGE4anpTRlljek1tNUliM0Zwc0NfSi04Z1J2Sk51Nm9vSF9IMm1aWGs0bERDY3I3ejZ0ekpiaHBNYWFxSDJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kRFh2aVNncWNIcVlXQVVRWXZVakUwd0Q4dGVyaG42SFhpUm11aW9kc0w4b2lQX1ZmWVJ0YUQ1Mk1aNmh4ZXp6Qko5V3lmdF94Y2ZQeDR2SGNRQ0wtbkNuQnVsSnFzU1RieGthdzhPUQ?oc=5",
       "published": "Sun, 15 Nov 2026 01:06:49 GMT",
       "suggestedTitleEn": "Behind the story: AI discovers a hidden heart signal that could predict sudden death",
       "suggestedTitleAr": ""
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "published": "Sat, 14 Nov 2026 21:27:20 GMT",
-      "suggestedTitleEn": "Behind the story: NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "title": "6 Technology Trends That Will Transform The World In The Next Decade",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5",
+      "published": "Sun, 15 Nov 2026 01:26:21 GMT",
+      "suggestedTitleEn": "Behind the story: 6 Technology Trends That Will Transform The World In The Next Decade",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "In a challenging year, Vermont’s outdoor business leaders are full of optimism",
-      "source": "Valley News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMGxuR1kyZUhGVUVBSkRmODZUaW9hY0QwV2VqX1N5QVNTdnJ0UXRtNFN0ZlNqbEJoVkVhczdjNXFDTnZJNEVZNFE0aFg3SzRRSjBhbWw0eVFVbFcwaVJCZURCN2NJRG5KLXdfTGV4VlB3UQ?oc=5",
-      "published": "Sat, 14 Nov 2026 16:38:00 GMT",
-      "suggestedTitleEn": "Behind the story: In a challenging year, Vermont’s outdoor business leaders are full of optimism",
+      "title": "Chamber's Choice Awards and Gala honors people, businesses, partnerships supporting DC's economy",
+      "source": "WUSA9",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVlBOeWRfTndwUXB1ZzVBVFJXT09ZczJXQ3FRNDN2cER2cnRWalFjZ1NpdjBOS1YxWS1NWk5iajdlOWFnQmkxYmNXRWxPelNXYnQtdnoxVW55NlJuOFhBZF95aVU1QnNYWF9ONG93SUlCVE1hZ19Sc1Z2NFpya3YwbnZXakpqdjVMVHpFS1g1MzJDZXNNcW9yWVFhX3kwRkpMdGtHbUxVYko0bk4zOE93T1RObjkwb19ZR3Rrd1lzLVRmQl9lTVd5d2RSVlU0NWhON1dUOU1CU192WVdIenh6YkpkNGlfQnJvVTRuWDZ5UlVZWlhPcmYzQw?oc=5",
+      "published": "Sun, 15 Nov 2026 03:15:00 GMT",
+      "suggestedTitleEn": "Behind the story: Chamber's Choice Awards and Gala honors people, businesses, partnerships supporting DC's economy",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "COP31: Protesters, UN urge swift climate deal",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeURSTlJ1UlpqamctWXM5eTBmakNQZlBkekJuaVVENzlXVXRkNUMyajNzQ045VGtNbUozRXdaYXgyc0V4RXRwTXVCMlU4Uk9ja3RYSTJBMF9TVDM0VEVwRjhmLVpRSVZQSjFoOW1kbWJGNlpmbkNzSE5CbnhPRVpmamV30gGCAUFVX3lxTE5XNEJHRGc0N3pDMld6OUNaWnJOaVVRNE5iNEZsMnpUTlFJbEZLVGRHSVlZYzV6WlItQWJJMWJiQ1RDMmZLWHB1cmZBZmxPekJxaV8xTWdWR0h3eUlXeWh5R09CMTd3dnpmYkhCRUlQMzZ5U1lrVW5iU2x5SW40ZF83T0E?oc=5",
-      "published": "Sat, 14 Nov 2026 17:24:22 GMT",
-      "suggestedTitleEn": "Behind the story: COP31: Protesters, UN urge swift climate deal",
+      "title": "Declining environmental predictability erodes reproduction in a tropical seabird",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV2YzNnFsenAzYUdCOVpXdGFXc3ZHRm1DQlhaYTd4cFhQMVFEUnBsdi1qMTVZdE9HNWYyQWtscDNLSjBKX1lhMkttLU8xaXJRNUJtZGZ2MlFOOWdoUUFr?oc=5",
+      "published": "Fri, 13 Nov 2026 10:22:33 GMT",
+      "suggestedTitleEn": "Behind the story: Declining environmental predictability erodes reproduction in a tropical seabird",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Commentary: Russell Brand doc excoriates a predatory chameleon and the culture that celebrated him",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5QeUk5QjJYemo4Mlp1N2FyQnlnb044T284VGZwV0F0Mng2SFJJLWNuaElhMDB0d0xRR3FLckd3UU9GUHVCZHJvU1QwS0l3T3VfR05BdmZfa2psUUFGLXhGSEZwaG02THhfZGoxRnVyaGRsel9tNllHaE0zcl9rVXVZM0h3TElYZS1XMUstRnlKUEpINVVTOTM4RUx6c2c0VlZZQ3hxN3FZaWtGQTFpMlJCSDhOQTE4ZnBIRjdFMFZEMUk?oc=5",
-      "published": "Sat, 14 Nov 2026 11:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Commentary: Russell Brand doc excoriates a predatory chameleon and the culture that celebrated him",
+      "title": "World premiere: Documentary: Rollie McKenna: Life and Photography at The United Theatre in Westerly",
+      "source": "CT Examiner",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYklGSVI5Rm5VWW1scDNuNWItNEpvZG43TnQxNXBOaEVkZ1JsMWozVDh5RG5pSWtoQkRaU3JhdnRMdXlvdFkzQ2NyNVdYTmQwSlF6dDlXTnU2RVFNMTdMOFdyVTVkdkMyTENQQ1BzQnVSMFpnN0NPOVhfZlo5YURLS0pSS0g5Vnl5dGdCZDV3Uk5nTElQQ2ZMZmJHTzVMNDZVX0ZKUXo3SUtfeUU1UW1Wa0F2ODR4WjQ5X0ZfamRuSFg3VjFTZkE?oc=5",
+      "published": "Sun, 15 Nov 2026 05:21:52 GMT",
+      "suggestedTitleEn": "Behind the story: World premiere: Documentary: Rollie McKenna: Life and Photography at The United Theatre in Westerly",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcE1aNmpVQloxb18tNWlVSk5MX3J6ZGdWd28wMEZ2b01hMnQ0T214d3c3RnBuNGdKbmhLb3VSNDZ6bmxQa3RBWk15NTUycUZsZ2V5YmtZcmJQTmpyR0NTNFZuMWlNb2ZwNG9OaDJ1T19FbEdaanlkQlozUHVKXzBvUFl0c0dxTnJzUkZXajkyaTYyTV9kdnhtSnlkRmJzSC0xZ3h2MQ?oc=5",
-      "published": "Sat, 14 Nov 2026 13:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
+      "title": "Jorge Garcia on What He Misses Most About ‘Lost’ & Hosting ‘History’s Mystery Files’",
+      "source": "IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tYzloQ0YzVno0c1hrSVdLTC1RMFd0VW1JMEJkNFZJaVdNR2czLUVDZThJNlI3WU15Y0RHU0xMdXNoemh0YXBSTXZsZUx1SFNZeXpEeWhBZzFaUTlaYklmeVZZb2hUUQ?oc=5",
+      "published": "Sun, 15 Nov 2026 00:48:02 GMT",
+      "suggestedTitleEn": "Behind the story: Jorge Garcia on What He Misses Most About ‘Lost’ & Hosting ‘History’s Mystery Files’",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUxfc21OVTlJcGpFUHdzWGVtX1hVZ2s4QzdIX2NRYmNvODN6RTM1RnYwOWdQTmxyWTcwVmhfYW5sOFJSWTU0VlZBeVV6ZUVaUDFXTExlM2NZLWhEZS1RSzRMZlBoakV0REotWkJBTkF1UWtOWnN1UGhXTEtFekZkby1FUHg5eUwxSzk0TFQxdHdZX2lLd3RZempoUEp3T1RsaHMxdW1sX0h2NV9vQ2MtWTRTNExOaFpENno1YnlNc0hvaTAwWjhrOHlPemJpNHhBU2c?oc=5",
-      "published": "Fri, 13 Nov 2026 17:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
+      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU21DbHJHdEpYUndXWUFtemVKMThwVmVXM3phREtBdmFEeTlwZDhoWlZNakZYRm1paVJpZzFTek51VkJMYml5UmJFd21SVEtabjgwYTBkNW43NnJzYVNqUGVMMFZGNm9QbHB5LWhLekJ4alQ1aGVpTVNfUFJvdG5pMw?oc=5",
+      "published": "Sat, 14 Nov 2026 18:20:01 GMT",
+      "suggestedTitleEn": "Behind the story: A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
       "suggestedTitleAr": ""
     }
   ],
