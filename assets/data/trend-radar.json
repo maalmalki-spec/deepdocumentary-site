@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-15T13:03:56.967319+00:00",
+  "updatedAt": "2026-11-15T18:55:56.137043+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,12 +23,12 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWXh6aU01ZzhVNXZDVzN2aEVic1NSQXJJdnBfM08xNlZMTUtjemt1MlJQTXZ6ZmREVGZCYklJV1pZOUl0ZW1zR2dIVGRaei1pcmI3RDVyUXlwVklRQ3ppSWZDZEhPRmNfVFBGUWNwWE56dEFXTmtfdy1zTzY5VlIwcW5ocllBd2QyRVdseXVva2JULTU4TkFJbVBjMThkNW40QzN0ZDdHMGtPSUxodUYzTWtfTnBLX2JnSzg0aVN4d3ZZaHZfSUdMMjYwMmNVNWZabFEySmtFWTRJVzRhR0NNajQwNGUzNmJLcW5HaUJlQXlxU0tIRHJfekdPZjZ4MGhEdWZoeGNLTUpnWTd3WjU0aVY2OGZYTGZMbFFzN3VNdEs5Y1NKZDBqOEN6ZV9DTlZibEcyMU9CMUwzblhjMmhSS1NhajFhY2ZrQVJrODRTUHRxSGpyVXJncjhuWW9Semc?oc=5",
-      "published": "Sun, 08 Nov 2026 14:52:33 GMT",
+      "title": "عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQRERwWDU1bHFCMHV2VTVSb2MzUF9ZblBZdVpncnBWbXNwTkFiMm9PcmJhOXFrSVpjWk4zTnpXN2lpZW5TMGVXWjQ5ek1oeW1PU3ZWdFZ5RFZxRm5PZFBwazhxYXZyUm1raHIxaV85b2ZMclB3VGdyazlzSmdXam5PTm15OVY4bi1yaTdIRWNVZ01semtqdzFHTHp0QnZBVzMta2x1XzFOblJoU3BZT2VVZjV1dktJLTR2Y0tGb0xlcjVnR1dIRGZNV2dWZ19Xd2VfaFF4Wkp4bVZ4ZTJzN29TWUU4WHJoRlR5YTdYc211SFJ0ZXg2czJFQ0RYTkpvVW5sSTBqQnRnVG1DY2IzeUlaM2J2RURvUzBZMHRLb2FKWC03aUQzUndsdTZGWXl2dUd6RkxfUEItcEZHNTVoampmcUtGMTNWeGV1ZTRjX24tQnpBNFQteEJPVm4wTWx3SThVenpBdkpkUFZycTlteXhzWTJlNWF6Z21fQ2liRy1iOXUzMVIxeWlqWl84NTRKbDRnb3A4VGhJc01LV1RNemQ4bEdtZUVLUDV0Zkw0RXB0eEJnaEZaZHpVTHpXcVdWeG5mbzQyd211OWlqT25nYzczVE1uY2NMRFNmN3NEZlE5SGVLWTVKeWdlWXNvc2JKNjI2UHU2aFZBWUI4enVGaVVfMzdhRXRWLXgxaVhJVUIzWVJfdTAtek9vbTNTUHFzTVMxNS1fXy1LQkdMREd6Q0F0R2RYcWs4VWFqZEd6TUM3Nm1Td2VxVlZBV1RMLU5ZbW9Kay1HQVNPZVRDN2w3LXZoMXRMV2x1NXhkUkdlbUJRZURvQ3AwX3RlZk53?oc=5",
+      "published": "Mon, 09 Nov 2026 14:33:14 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: للمرة الأولى في التاريخ.. اكتشاف آثار دم ديناصور عمرها 115 مليون سنة"
+      "suggestedTitleAr": "خلف الخبر: عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟"
     },
     {
       "category": "science",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "أكثر 10 دول عربية مديونية في 2025",
+      "title": "لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYURhZmFHOTRNYjU1eE0zdm8xcC1rckxSWmlWZ052RkRMRnU3alp3TnRyTFZVRXBCajk4aEFrcVZJdEQ3REU4enFGU2hKMGlRRnhnS2NVSzI2YTdXYmptMWZuTDJfSGgyUzlMeXpld1JpMFdMT29jcWYtSGw0U0VNQWEybndfcVlUWndYNnBiZkt1dDZZQXBpQzh4YnhrWUhFMm9QQWdmY3BlTXBFSGRnRGtIeXpFYndYMUdYdW42djB1cFk3Q09YaXFjZ0tPb2x3emFWS3JGX1V6YUhsVkh2U3JweTluVlhtZC1ybnIxU2g0ZXhubW9TaHJJN3dxNmhjY25NZklZRndqT0VQVDQxMEk3SQ?oc=5",
-      "published": "Tue, 10 Nov 2026 23:28:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGplSmFVNGtlb2NMVDYtejAxbXZwSGhlTVVHQWRyVzZ2djlrZTI5UTdSZFhjeW9pTm9ZLXVqNks3MU1xZWczZ2gtQTA3UlpSX0R3OUVLT05VX25UWW9NYTMwNGROTllqYWRzUUJDMktXZUZ3WHJOejQ0SHBkT3ZJdXJMNG5GOVozc0hocHBRVGxtRGdUTV9VU3VZZlBxMno2dHpuSmQ5cmU0d2ZWUHdSUUV0aUJhRVNsQWJDQWRHM09VQzM5ekJFbjgzMEZWeDJwVEowNHRIZ0dKRmVqOU93WWdMb1VUc2dxNlRXZVRQc2JFYl95QnRJbmhGeUQ2NUJNLTh5VE5YYllXbVdrX1ozQ2VERDNJa1NEOUU2Zk9KT0lkWlNTWWdTUnpuYnc3d0I4R25PamlWT1pRd29FRlkydA?oc=5",
+      "published": "Thu, 12 Nov 2026 04:17:54 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: أكثر 10 دول عربية مديونية في 2025"
+      "suggestedTitleAr": "خلف الخبر: لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي"
     },
     {
       "category": "environment",
@@ -107,35 +107,35 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز الجمعة 13 نوفمبر 2026... هل تقترب نهاية العالم؟",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT19ldkl2dDVzMk1lYk1SamJadTQ1NnZ1eDZPclJzNlNqWUNGUm9KMjNQYzhkV0VDUTNONUVua1pHQmFEQWcweVNLbW55Qk9weGdnWVdCQVFoVW9VVnd2SlN0NmpFemdra1liQ01Ra19hVG1lQ3NRMFJQSXB2WWVJc0RMMlo2LTJDQTFwVkZ4dlBJRjN1T3hzZ3lhU050cGZpaFl2cXpleXVEZnlaLTVfUldwc1VVTkd3dHJBbmZFYWhkS2dNX2hrZHVxUGpmM1ljY0dkdmU3WlNpOHRQVWczczIzS2RxMjJOQy1MelMtTWpaNlFIY082VU16TGtKU0tlRkQ0Umx4bFFBVnVNZ2hSdUdNcHgtcTRpWWRWV1EzZ0REb2pTcVRTOWZLWC1ocmFURUNoTkxtYUp1WDZPWklEQzRTemVSVWRNRmY0WjZ4M3k1TFZ0bFZxQzVTcy14cV9LeW5xejdBUXJfLUxWSTR3VUdudmxpQmhwNHpnMnhTcUlpeDZ4VEw1b2JDelRxX0FqbDhqRkU5MVVyU0ZvTlFrdWJLZ1FtbWh6Um5ORWR6VF9STHNoV25DM3pUNUZlZw?oc=5",
-      "published": "Fri, 13 Nov 2026 08:00:09 GMT",
+      "title": "عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbjdDTTh5ZVJHSDJndzFkRHo0aS1tRUg5X0dFTDlhWnM3bXFBdkRENklnNTdPOFRfSTFONFd4LVFaRFFPNE0tcHdOcGg0bVpLbk8tVDRIRTFaRktHX1hyZDFoMkxHZ2NMMjkzVzVCZFBjU0VkMG1VZzBOT2ptUFlRc0EzWG1ZZmVTcllDMlJuMnJyT3N6NFFUdXhRamt1N0p2c3Bxd1pKMTdrX0ZjS0FvZHNXZExQNFV4eThZSU1SOC1zNkZXa0Nsbks4LTRXbDlwOVZpdkdNVzBsSXN1akc2cUpRczhodW1MNFlySEVMRDE4SWtrRXMxTHRLM0VaX3VEcVV0LTRMcjU3Wmg3M2VQLXBRM1RCY3otbGRjMU5scm5iTGxtcXdnRGNaMGhiQ3FfdjkzcXVmTlZPbGN6UHplQQ?oc=5",
+      "published": "Wed, 11 Nov 2026 08:59:27 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز الجمعة 13 نوفمبر 2026... هل تقترب نهاية العالم؟"
+      "suggestedTitleAr": "خلف الخبر: عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟"
     },
     {
       "category": "space",
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "غارديان: بقع نفط تُرى من الفضاء.. استهداف السفن يهدد بيئة الخليج",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNZl8xd3JJY0NEVUpQemJHRzNCVzBMVElsZkxoVjMwcDdjdGpCVGhZdTZ2dWl1V2JrbXdrRXFwbHNaSmVENVRVYkNTOW9TQTJrU0ZrZGVwMGIxVTJ1TnZFQmlqdGIzcjhnYkhPNklhbVBSVVduZkc2aDdZODVFRVZCTWs1MkRzc1pFVEN1d2M3cDAzVEZmd2x5bWN5RlJuZlIzOEJwWjZLU3pXTFl1V20zcGNTaXkxS1VNQkpBQll3U2V4VUgwTF9renN4cDNVSnFzX2hnMjE1WFNQRElOeFItNnFjOWtvNldZTlZiVDhEZ2l5c1B6ZWJiNllmUS1OaTlqRV9XclFPVWFONDJpRjlEZXF1aXNXMHR4WEEyLU9HR1hSbkFmRWJIVUFHT3VwMFpFTkVBLVVqMUI0OUlwY1A2dHhyMzk4czFiaEtCS2pIQm44SENZOGVfUUdn?oc=5",
-      "published": "Fri, 13 Nov 2026 10:10:22 GMT",
+      "title": "علوم وتقنيات/ المملكة تعزز تنظيم قطاع الفضاء وتدعم حوكمته الدولية",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sbmxVN3pNaWFqLW5ObVlrMXBmVDJaWjlSQS1rQXVSR1J4S2c3MWpreGlJeHZ4bkdpQUJPZVgxMjhOZndRaUE?oc=5",
+      "published": "Sun, 15 Nov 2026 08:29:45 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: غارديان: بقع نفط تُرى من الفضاء.. استهداف السفن يهدد بيئة الخليج"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات/ المملكة تعزز تنظيم قطاع الفضاء وتدعم حوكمته الدولية"
     },
     {
       "category": "world",
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlpBc2x1SzlWMFhTQTFndDBMT01qTnBhMWtBLTg3TkprT2NRdVhyeHVEZW4yX0xPMnVaakdKbkQ3ZDRwaHlfMEpZZVphZEo4bUpOcmtMOFl1QVFEU1VzcHZIc05lbFowS2xXcHBReHVJTjE2U2lvSVFTVVZBZkt6aXQ5MW9kYUNiY2N5ZGhHTzBhR1NqbTFWeTJYOG82X1ptYnJPeEtrYWFSUEhqRkRraDB0YlN4YkFGLUNraUxEVF9PUkVMZ0tvc2VyYXpzVTF3eWt2MTUxNmN6ay1EZHpGbjdidWhiLXd1X3l0NU9UYUY5VlNjNXc?oc=5",
-      "published": "Sun, 15 Nov 2026 12:22:30 GMT",
-      "suggestedTitleEn": "Behind the story: DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
+      "title": "Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai",
+      "source": "PGA Tour",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFmTDNqNVItVnNIekREbl9TVWc1c01jUTR2V0Rwb3IwTTdmekc2c3E5dUtqTUJXcnZQdmYzd3hoRzNpbDBlTldIM1p4OU9mUzBUTjlOSHhuTHlYdDVqQnBSb3VUZ3kwbDRUdl9UTVVMY3BRT1RjMTdRQmFZM0VGWlplQkZySlJFZzdETk51V1oxcEIyVWVLMHppdVdCUGNDSTFna2NSWDNyR1Z4aEUzdGNYbHVfQkpxSFFPemZwRnlrWWhQRUVBMDZZRXpyU2RKZVpQZ3ZnTTEyeW4zdUNpQ3J6Sy1md1FuSmpPYm5HSXo?oc=5",
+      "published": "Sun, 15 Nov 2026 15:31:48 GMT",
+      "suggestedTitleEn": "Behind the story: Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "A medieval sword, a portrait of a Swedish queen, and a 400-year-old typeface were found in Estonia",
-      "source": "Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlNabkprRHN4d1Q5TkhlUFA0ZWsteDdIQXRVTHd4MVlKd1JUbGJYQ200SmtJYllpQ2YwTHcyWXl5blN1X2FUMERiaXZXVFo0MENWel9jMFlJMFlpa0xzWlRXZEFQVmlDYUFwZzg0NFlMTnRXb21KbENyZGNTWmZiVVdxUWxjcmNtZFVuUGFHU1ktcTEyTmFFOHhpLXpZZW1oZXU0Rk81M0c4d3M2NFJLVncyTWlOc3ZvN2fSAboBQVVfeXFMT3ZTWm5Ka0RzeHdUOU5IZVBQNGVrLXg3SEF0VUx3eDFZSndSVGxiWENtNEprSWJZaUNmMEx3Mll5eW5TdV9hVDBEYml2V1RaNDBDVnpfYzBZSTBZaWtMc1pUV2RBUFZpQ2FBcGc4NDRZTE50V29tSmxDcmRjU1pmYlVXcVFsY3JjbWRVblBhR1NZLXExMk5hRTh4aS16WWVtaGV1NEZPNTNHOHdzNjRSS1Z3Mk1pTnN2bzdn?oc=5",
-      "published": "Sun, 15 Nov 2026 08:52:50 GMT",
-      "suggestedTitleEn": "Behind the story: A medieval sword, a portrait of a Swedish queen, and a 400-year-old typeface were found in Estonia",
+      "title": "Archaeology Discovery Weekend Concludes in Riverside",
+      "source": "MyNewsLA.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnZnb2lTTDBOd0hySUNmWk5YVkI5bWRrRmhTN056VVhsN091bXNfc3gtOUFGbWZUZXVpMFRsZHdLa200VmFMVDJPLWZUNWV1cHpSQUZSVXRsU29XUGVENDBvTGQyTFJNT25sMGdNX2JrSzJjczI1WG5tYlRrUmlaVWt2UDBHYTRsRWJJWTh1Qko0LXBL?oc=5",
+      "published": "Sun, 15 Nov 2026 15:26:13 GMT",
+      "suggestedTitleEn": "Behind the story: Archaeology Discovery Weekend Concludes in Riverside",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
       "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kRFh2aVNncWNIcVlXQVVRWXZVakUwd0Q4dGVyaG42SFhpUm11aW9kc0w4b2lQX1ZmWVJ0YUQ1Mk1aNmh4ZXp6Qko5V3lmdF94Y2ZQeDR2SGNRQ0wtbkNuQnVsSnFzU1RieGthdzhPUQ?oc=5",
-      "published": "Sun, 15 Nov 2026 01:06:49 GMT",
-      "suggestedTitleEn": "Behind the story: AI discovers a hidden heart signal that could predict sudden death",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50b2FpOU5ZRHhUSWRFVS1sSnFRNWplWGM1NGxaTURheURqNlU1V3pFN2dEYlZMMTJDUkJZUkNuaG9fSEwwdmhrRUFGRHRQX0lsMHllanRUaUc4dXNZakhvcURPcFkzOTlnWFF3NEJtaw?oc=5",
+      "published": "Sun, 15 Nov 2026 14:05:11 GMT",
+      "suggestedTitleEn": "Behind the story: A common osteoporosis drug blocked spinal damage in a surprising new study",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Artificial Intelligence: Why are traditional industries adopting it?",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
-      "published": "Sun, 15 Nov 2026 09:10:07 GMT",
-      "suggestedTitleEn": "Behind the story: Artificial Intelligence: Why are traditional industries adopting it?",
+      "title": "Regulating AI in the Employment Relationship in the European Union",
+      "source": "OnLabor",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlg2WGFVcEc5WXBheHV2U3ItOWpVcUs0SksxMDdHWEhwQVF4a2dTbDFaaFZSSHZORWx4VGdSUlJ3TlVkRktwNGszbi0zV0liU2pRcXFnY25PVzNfejhQOXdhd1V1Z3JyMlFhMkFxakhqS0lfeVhXbWdOSl9LYnFWNnpFdk1RVmg1a2JMVjdOMGc?oc=5",
+      "published": "Sun, 15 Nov 2026 15:22:13 GMT",
+      "suggestedTitleEn": "Behind the story: Regulating AI in the Employment Relationship in the European Union",
       "suggestedTitleAr": ""
     },
     {
@@ -206,7 +206,7 @@
       "title": "New research finds a surprising downside to bodily synchrony between strangers",
       "source": "PsyPost",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVklGb0pNbGoyWmd4cE1nLTVhRlUtZ3RPN0haaHVkMWp5RTRMN2Y5eXRtay0tajdNV3V6NmZHSURRcXdVR2hIaU44elJCUGZUTXhzeVNROWZwcUh6ZFQySXhMbWMtcmdyZzEyYUhCV1B4dzcyQUtMWnVYRkdGNmJ6WHNUUjFRZXNWQW9TNlB1OVU2TnplLVNMTkVfd0RWM2kyMUVPRXVR?oc=5",
-      "published": "Sun, 15 Nov 2026 11:13:25 GMT",
+      "published": "Sun, 15 Nov 2026 12:29:05 GMT",
       "suggestedTitleEn": "Behind the story: New research finds a surprising downside to bodily synchrony between strangers",
       "suggestedTitleAr": ""
     },
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Black Harvest Film Festival: TCB – THE TONI CADE BAMBARA SCHOOL OF ORGANIZING | 11/14/2026",
-      "source": "Choose Chicago",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0N5YWZHNzE5VjdqRFZtZWludF9nLWFKV0VMei1YSkVQdWpfN1daNjRHRmtFdXN4UDJJb1FTaklfLXBGR1hycnBSaXloTDJuN0RpRE5Va0MzM1ZIbmY4NWFMWGpVVkMyLXY1RG5SUk5NaG9pOVdVb3gtYVJ6bk1uNVZrS1E3bXFHMy15aUJ0c3c3MjlYemUwYU51ZXJ1MVZTM1picjRpOW5zMUdsQUQybUFaZnJVbFhEaER6Zkx0cw?oc=5",
-      "published": "Sun, 15 Nov 2026 09:47:54 GMT",
-      "suggestedTitleEn": "Behind the story: Black Harvest Film Festival: TCB – THE TONI CADE BAMBARA SCHOOL OF ORGANIZING | 11/14/2026",
+      "title": "Essay | The Problem with Loving Machines",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQODY5ODQ2Y3BSdmhXaHVHdkVmUFdjYkFKX1Y5TEFJTEpETE05RGs4U0Fibm5ZVVpzR012aFdnNFFyWjhvUGpNLWdIS212UzFfck5UaThPOFVWb0pVMkpyZVRtODh4bFU2X3VIUUNvNko5S0gxREhyQmltekQ5OGdXSm9GNDF6Zw?oc=5",
+      "published": "Sun, 15 Nov 2026 12:32:08 GMT",
+      "suggestedTitleEn": "Behind the story: Essay | The Problem with Loving Machines",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Jorge Garcia on What He Misses Most About ‘Lost’ & Hosting ‘History’s Mystery Files’",
-      "source": "IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tYzloQ0YzVno0c1hrSVdLTC1RMFd0VW1JMEJkNFZJaVdNR2czLUVDZThJNlI3WU15Y0RHU0xMdXNoemh0YXBSTXZsZUx1SFNZeXpEeWhBZzFaUTlaYklmeVZZb2hUUQ?oc=5",
-      "published": "Sun, 15 Nov 2026 00:48:02 GMT",
-      "suggestedTitleEn": "Behind the story: Jorge Garcia on What He Misses Most About ‘Lost’ & Hosting ‘History’s Mystery Files’",
+      "title": "Investigate Trump Like a Mob Boss",
+      "source": "The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0s1R2N0RzJ2VmdnOEt0cTZLQ2pnSnh2QlE2RmVwdXpvQTJvNy1hUFpKLUZ3VHlpeEVzQW1JTmNWaTNoQ2JXdi1YRTdHY29fdXI4Tmh0TWhjLUFySlRSSmZwZWZmMmZ4Z056b09YMmkzWmRTaV9jbFQtNkE1TFVfVFZ2T3Q?oc=5",
+      "published": "Sun, 15 Nov 2026 12:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Investigate Trump Like a Mob Boss",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
-      "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU21DbHJHdEpYUndXWUFtemVKMThwVmVXM3phREtBdmFEeTlwZDhoWlZNakZYRm1paVJpZzFTek51VkJMYml5UmJFd21SVEtabjgwYTBkNW43NnJzYVNqUGVMMFZGNm9QbHB5LWhLekJ4alQ1aGVpTVNfUFJvdG5pMw?oc=5",
-      "published": "Sat, 14 Nov 2026 18:20:01 GMT",
-      "suggestedTitleEn": "Behind the story: A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwcW9qNlRWdzREbTZpd3NvWm5FLUJ3dTBIVjJmWW9WRi1vc1E5S1ZaLTFMbkQ4RldoOWp5dTl6eHFmR0VfaUNYZTlFRDZCTnAzMzlVWV8zSkhRcjhJdTRwWEZORVRxMUIxWUVJMGplWQ?oc=5",
+      "published": "Sun, 15 Nov 2026 13:14:11 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
       "suggestedTitleAr": ""
     }
   ],
