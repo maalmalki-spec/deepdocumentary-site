@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-15T07:15:27.360798+00:00",
+  "updatedAt": "2026-11-15T13:03:56.967319+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -50,7 +50,7 @@
       "title": "هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟",
       "source": "الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5",
-      "published": "Sat, 14 Nov 2026 09:30:15 GMT",
+      "published": "Sun, 15 Nov 2026 07:12:35 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟"
     },
@@ -59,24 +59,24 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
-      "published": "Fri, 13 Nov 2026 18:06:00 GMT",
+      "title": "أكثر 10 دول عربية مديونية في 2025",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYURhZmFHOTRNYjU1eE0zdm8xcC1rckxSWmlWZ052RkRMRnU3alp3TnRyTFZVRXBCajk4aEFrcVZJdEQ3REU4enFGU2hKMGlRRnhnS2NVSzI2YTdXYmptMWZuTDJfSGgyUzlMeXpld1JpMFdMT29jcWYtSGw0U0VNQWEybndfcVlUWndYNnBiZkt1dDZZQXBpQzh4YnhrWUhFMm9QQWdmY3BlTXBFSGRnRGtIeXpFYndYMUdYdW42djB1cFk3Q09YaXFjZ0tPb2x3emFWS3JGX1V6YUhsVkh2U3JweTluVlhtZC1ybnIxU2g0ZXhubW9TaHJJN3dxNmhjY25NZklZRndqT0VQVDQxMEk3SQ?oc=5",
+      "published": "Tue, 10 Nov 2026 23:28:02 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: أكثر 10 دول عربية مديونية في 2025"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
-      "published": "Fri, 13 Nov 2026 21:53:26 GMT",
+      "title": "بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\"",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uaXFGWUFib1JfempNSDJBbFlFOHlYbGZibWtUcGN2MlAteEU4T0lJdmpULW9SbkxIMjRsWkVfc3dkdHZtREE?oc=5",
+      "published": "Wed, 11 Nov 2026 00:37:35 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\""
     },
     {
       "category": "society",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVJaNmpaaGdfSkd4dWhzZE8wMEx3dFZha3JtM0FZanNic0tnbEh2dXhaUm9kUkRtMi1mWnVCNVFXSU85VV9wVl9qd1A3cVhxQTBpaDg0djlmMkhRc1JNQm1KOFBxMExkSU5iOXB5RUJvcEFHb3kxcnhRZ3plY095UFN0SFFNYkYyVHVUQ0hjYWZpckpFWGVGNjJXaFlHVlRDODk4dy0tdDkweUx4N2h1OTgzdFV2MEtlaWfSAb8BQVVfeXFMTVEyNzBjU1YwN0lpendMNWhrNldxTUlLZ2VWSHRlTDVJcG15TUNrZHBNdmZFcnBwTlFZMk9LYmlCTVB4cEV1UUVCYzB4YUVlNHI0eFFNczExVlZaVjIwREFPN0IyanRDTXFBVTFDTnRmSFFSVzVWMHVZRHhnSGpCSndNak1sa0cxc1lRWUFDZEs1MU1yQUxmSzJhZFRqTEdybFJtS2Q0ZXVUYTFQMTFUMjktNFpYQWV0al9US2REQ2c?oc=5",
-      "published": "Sat, 14 Nov 2026 20:23:29 GMT",
-      "suggestedTitleEn": "Behind the story: Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+      "title": "DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlpBc2x1SzlWMFhTQTFndDBMT01qTnBhMWtBLTg3TkprT2NRdVhyeHVEZW4yX0xPMnVaakdKbkQ3ZDRwaHlfMEpZZVphZEo4bUpOcmtMOFl1QVFEU1VzcHZIc05lbFowS2xXcHBReHVJTjE2U2lvSVFTVVZBZkt6aXQ5MW9kYUNiY2N5ZGhHTzBhR1NqbTFWeTJYOG82X1ptYnJPeEtrYWFSUEhqRkRraDB0YlN4YkFGLUNraUxEVF9PUkVMZ0tvc2VyYXpzVTF3eWt2MTUxNmN6ay1EZHpGbjdidWhiLXd1X3l0NU9UYUY5VlNjNXc?oc=5",
+      "published": "Sun, 15 Nov 2026 12:22:30 GMT",
+      "suggestedTitleEn": "Behind the story: DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Major archaeological publication reveals lost history of medieval Hungary",
-      "source": "HeritageDaily",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalFVdnI3UlNWNjR4S0ljUVBvMHQySmZxRV92cTJHR2dkZDUyTUlhSFhQS0h2S0xNbkxMbDZVazlGOGkwd2s5MDZpb1pEaDJQVVhMN1pVcUNOSm1Oc254eE54bE0wOUNXZHJIb24zUVZOSzUtMU82c3AxNjM3YlFtYzJ3V0prX3c1NU44blBoZFJkNjJGaENrWTEtR3F5Tzd3LVliNFlmaXBFSlVfU25TX2VTcXpnZlRKQXc?oc=5",
-      "published": "Fri, 13 Nov 2026 21:10:55 GMT",
-      "suggestedTitleEn": "Behind the story: Major archaeological publication reveals lost history of medieval Hungary",
+      "title": "A medieval sword, a portrait of a Swedish queen, and a 400-year-old typeface were found in Estonia",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlNabkprRHN4d1Q5TkhlUFA0ZWsteDdIQXRVTHd4MVlKd1JUbGJYQ200SmtJYllpQ2YwTHcyWXl5blN1X2FUMERiaXZXVFo0MENWel9jMFlJMFlpa0xzWlRXZEFQVmlDYUFwZzg0NFlMTnRXb21KbENyZGNTWmZiVVdxUWxjcmNtZFVuUGFHU1ktcTEyTmFFOHhpLXpZZW1oZXU0Rk81M0c4d3M2NFJLVncyTWlOc3ZvN2fSAboBQVVfeXFMT3ZTWm5Ka0RzeHdUOU5IZVBQNGVrLXg3SEF0VUx3eDFZSndSVGxiWENtNEprSWJZaUNmMEx3Mll5eW5TdV9hVDBEYml2V1RaNDBDVnpfYzBZSTBZaWtMc1pUV2RBUFZpQ2FBcGc4NDRZTE50V29tSmxDcmRjU1pmYlVXcVFsY3JjbWRVblBhR1NZLXExMk5hRTh4aS16WWVtaGV1NEZPNTNHOHdzNjRSS1Z3Mk1pTnN2bzdn?oc=5",
+      "published": "Sun, 15 Nov 2026 08:52:50 GMT",
+      "suggestedTitleEn": "Behind the story: A medieval sword, a portrait of a Swedish queen, and a 400-year-old typeface were found in Estonia",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "6 Technology Trends That Will Transform The World In The Next Decade",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5",
-      "published": "Sun, 15 Nov 2026 01:26:21 GMT",
-      "suggestedTitleEn": "Behind the story: 6 Technology Trends That Will Transform The World In The Next Decade",
+      "title": "Artificial Intelligence: Why are traditional industries adopting it?",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
+      "published": "Sun, 15 Nov 2026 09:10:07 GMT",
+      "suggestedTitleEn": "Behind the story: Artificial Intelligence: Why are traditional industries adopting it?",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Chamber's Choice Awards and Gala honors people, businesses, partnerships supporting DC's economy",
-      "source": "WUSA9",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVlBOeWRfTndwUXB1ZzVBVFJXT09ZczJXQ3FRNDN2cER2cnRWalFjZ1NpdjBOS1YxWS1NWk5iajdlOWFnQmkxYmNXRWxPelNXYnQtdnoxVW55NlJuOFhBZF95aVU1QnNYWF9ONG93SUlCVE1hZ19Sc1Z2NFpya3YwbnZXakpqdjVMVHpFS1g1MzJDZXNNcW9yWVFhX3kwRkpMdGtHbUxVYko0bk4zOE93T1RObjkwb19ZR3Rrd1lzLVRmQl9lTVd5d2RSVlU0NWhON1dUOU1CU192WVdIenh6YkpkNGlfQnJvVTRuWDZ5UlVZWlhPcmYzQw?oc=5",
-      "published": "Sun, 15 Nov 2026 03:15:00 GMT",
-      "suggestedTitleEn": "Behind the story: Chamber's Choice Awards and Gala honors people, businesses, partnerships supporting DC's economy",
+      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWhGekFJVFlIX3dxc1VQbmYyNHd3ekNyRGh3R01rdmgyZjBjZi1LS2ZrbXFTQ3Nub0xCMlA3X1ZaSXpHLWF0NDF6WHl1RUZKQk51VFJYMjZoZEpsNmppbkEwZjBTQ3dqNU5pdVFXTkdwbl9ROTFodl9YekRTbWZhQTJxZ08tZk85VkxNUFhlUjFKY0VWTWVORkFrOXNaX0hBN1hqa21PZHI1R3N0aVEyWjFlNWZkb0HSAbwBQVVfeXFMTlU4OVowYmxBYnhLZGZWbjVoZ3hlZ3hQby1kQVkwbWNzaXZvUVJzbWxRckdRbk9QRFBIeVp1MTNJSlFXRFV6MHZPdm1DOWo3cVFIZXcyVDNid2FVcGJQeWM4UTBfTFdqRjBZZTQ4UTM3WmxvM3NzT3M5RUlOOW4wQ1drYmhhWmFPNFY0ZVo5V2JiTDB1N1Fjc0xNekNHbTZhSXBqNDdHNUk4akpNUkZSQUplTmFqZk5BU0pDM00?oc=5",
+      "published": "Sun, 15 Nov 2026 12:09:50 GMT",
+      "suggestedTitleEn": "Behind the story: Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Declining environmental predictability erodes reproduction in a tropical seabird",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV2YzNnFsenAzYUdCOVpXdGFXc3ZHRm1DQlhaYTd4cFhQMVFEUnBsdi1qMTVZdE9HNWYyQWtscDNLSjBKX1lhMkttLU8xaXJRNUJtZGZ2MlFOOWdoUUFr?oc=5",
-      "published": "Fri, 13 Nov 2026 10:22:33 GMT",
-      "suggestedTitleEn": "Behind the story: Declining environmental predictability erodes reproduction in a tropical seabird",
+      "title": "Why do people keep dumping buckets of fish into Montana’s lakes?",
+      "source": "Vox",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0ZEZVM3VTdBZ2dNcDBfb0JheEc0dFdnaTU4ejRxVnhKUnRBMmpqTGVlN0xlZVhrRWx3SkRKQVdmNDFpUTU1TWxNZDFaSVFoUFl4clFoU28xbmVzMV9zLUxXQ1lfa1hWeE05Q1hQYm01MkQyNzN1OWRmcXlTSTNySU5ISkY?oc=5",
+      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Why do people keep dumping buckets of fish into Montana’s lakes?",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Growing Up Online: Social Media, Comparison Culture, and the Rise in Teen Anxiety",
-      "source": "Notre Dame de Namur University",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJZbG1GUnhzcDlvUWJ6bkkwTXFTWFdMNFFVa1VYRjRfVVgwZ09hdTdKWVIwTXVMZ1lsa3ZvSXdRaUI2NkRwVVNjRVJvWlZHNXJtMWJ3ZGg3RnlBWXNRNE9GMTFURVpjQ0k1WTJ0MER3LVRRbV9CZ1NuQkpVVXM1MWVQTC1yZzZaWi1EcFlfdHE3TnM0VEl5dTkwRWdXeW1kMURSb0N0MVQydlo2X0FhY2FzRlpsWEJTd254aGZabFNxdw?oc=5",
-      "published": "Sat, 14 Nov 2026 19:07:19 GMT",
-      "suggestedTitleEn": "Behind the story: Growing Up Online: Social Media, Comparison Culture, and the Rise in Teen Anxiety",
+      "title": "New research finds a surprising downside to bodily synchrony between strangers",
+      "source": "PsyPost",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVklGb0pNbGoyWmd4cE1nLTVhRlUtZ3RPN0haaHVkMWp5RTRMN2Y5eXRtay0tajdNV3V6NmZHSURRcXdVR2hIaU44elJCUGZUTXhzeVNROWZwcUh6ZFQySXhMbWMtcmdyZzEyYUhCV1B4dzcyQUtMWnVYRkdGNmJ6WHNUUjFRZXNWQW9TNlB1OVU2TnplLVNMTkVfd0RWM2kyMUVPRXVR?oc=5",
+      "published": "Sun, 15 Nov 2026 11:13:25 GMT",
+      "suggestedTitleEn": "Behind the story: New research finds a surprising downside to bodily synchrony between strangers",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "World premiere: Documentary: Rollie McKenna: Life and Photography at The United Theatre in Westerly",
-      "source": "CT Examiner",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYklGSVI5Rm5VWW1scDNuNWItNEpvZG43TnQxNXBOaEVkZ1JsMWozVDh5RG5pSWtoQkRaU3JhdnRMdXlvdFkzQ2NyNVdYTmQwSlF6dDlXTnU2RVFNMTdMOFdyVTVkdkMyTENQQ1BzQnVSMFpnN0NPOVhfZlo5YURLS0pSS0g5Vnl5dGdCZDV3Uk5nTElQQ2ZMZmJHTzVMNDZVX0ZKUXo3SUtfeUU1UW1Wa0F2ODR4WjQ5X0ZfamRuSFg3VjFTZkE?oc=5",
-      "published": "Sun, 15 Nov 2026 05:21:52 GMT",
-      "suggestedTitleEn": "Behind the story: World premiere: Documentary: Rollie McKenna: Life and Photography at The United Theatre in Westerly",
+      "title": "Black Harvest Film Festival: TCB – THE TONI CADE BAMBARA SCHOOL OF ORGANIZING | 11/14/2026",
+      "source": "Choose Chicago",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0N5YWZHNzE5VjdqRFZtZWludF9nLWFKV0VMei1YSkVQdWpfN1daNjRHRmtFdXN4UDJJb1FTaklfLXBGR1hycnBSaXloTDJuN0RpRE5Va0MzM1ZIbmY4NWFMWGpVVkMyLXY1RG5SUk5NaG9pOVdVb3gtYVJ6bk1uNVZrS1E3bXFHMy15aUJ0c3c3MjlYemUwYU51ZXJ1MVZTM1picjRpOW5zMUdsQUQybUFaZnJVbFhEaER6Zkx0cw?oc=5",
+      "published": "Sun, 15 Nov 2026 09:47:54 GMT",
+      "suggestedTitleEn": "Behind the story: Black Harvest Film Festival: TCB – THE TONI CADE BAMBARA SCHOOL OF ORGANIZING | 11/14/2026",
       "suggestedTitleAr": ""
     },
     {
