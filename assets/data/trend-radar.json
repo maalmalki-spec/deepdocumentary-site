@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-16T01:34:50.358302+00:00",
+  "updatedAt": "2026-11-16T08:56:47.056393+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة",
+      "title": "السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة | CNN Arabic | CNN",
       "source": "CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0JDX2dJNDRTQjZjU0tfcXFtb0c5YmxSWUlGS0dCTjNVQmljVkhMbXc2b2pPWjBsQzFhT3d1djBaS1ZVZFhEbm0xM3hSbW5CWXBOQ3kzMFVSallUeDBHU3ZSODlwRnZIcW80dzVZc0xwR0NCWTBneGtNaUtIaUIwY1ZUZEtPUHZGUFlvN1p3NXVUMHd4N0gxbmhwdGZ0RGdObWJxTzd1M3hYRkZIczJvbDdCWFlZM0Z1SkUwUTBZVjFkZGM5c3I0?oc=5",
-      "published": "Thu, 12 Nov 2026 00:19:38 GMT",
+      "published": "Thu, 12 Nov 2026 00:21:43 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة"
+      "suggestedTitleAr": "خلف الخبر: السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -26,7 +26,7 @@
       "title": "عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟",
       "source": "الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQRERwWDU1bHFCMHV2VTVSb2MzUF9ZblBZdVpncnBWbXNwTkFiMm9PcmJhOXFrSVpjWk4zTnpXN2lpZW5TMGVXWjQ5ek1oeW1PU3ZWdFZ5RFZxRm5PZFBwazhxYXZyUm1raHIxaV85b2ZMclB3VGdyazlzSmdXam5PTm15OVY4bi1yaTdIRWNVZ01semtqdzFHTHp0QnZBVzMta2x1XzFOblJoU3BZT2VVZjV1dktJLTR2Y0tGb0xlcjVnR1dIRGZNV2dWZ19Xd2VfaFF4Wkp4bVZ4ZTJzN29TWUU4WHJoRlR5YTdYc211SFJ0ZXg2czJFQ0RYTkpvVW5sSTBqQnRnVG1DY2IzeUlaM2J2RURvUzBZMHRLb2FKWC03aUQzUndsdTZGWXl2dUd6RkxfUEItcEZHNTVoampmcUtGMTNWeGV1ZTRjX24tQnpBNFQteEJPVm4wTWx3SThVenpBdkpkUFZycTlteXhzWTJlNWF6Z21fQ2liRy1iOXUzMVIxeWlqWl84NTRKbDRnb3A4VGhJc01LV1RNemQ4bEdtZUVLUDV0Zkw0RXB0eEJnaEZaZHpVTHpXcVdWeG5mbzQyd211OWlqT25nYzczVE1uY2NMRFNmN3NEZlE5SGVLWTVKeWdlWXNvc2JKNjI2UHU2aFZBWUI4enVGaVVfMzdhRXRWLXgxaVhJVUIzWVJfdTAtek9vbTNTUHFzTVMxNS1fXy1LQkdMREd6Q0F0R2RYcWs4VWFqZEd6TUM3Nm1Td2VxVlZBV1RMLU5ZbW9Kay1HQVNPZVRDN2w3LXZoMXRMV2x1NXhkUkdlbUJRZURvQ3AwX3RlZk53?oc=5",
-      "published": "Mon, 09 Nov 2026 14:33:14 GMT",
+      "published": "Tue, 10 Nov 2026 18:58:00 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟"
     },
@@ -50,7 +50,7 @@
       "title": "هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟",
       "source": "الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5",
-      "published": "Sun, 15 Nov 2026 07:12:35 GMT",
+      "published": "Mon, 16 Nov 2026 06:28:37 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟"
     },
@@ -83,12 +83,12 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "المجتمع في فكر الأمير محمد بن سلمان: شريك في صناعة التحول (28)",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQUC0tNG1kOEtvdG9pN3Y0MzRHTU50UENkT1RoTnJ2ZUtKeXk2ZElRTDIxdVhOSzcwMnREWjV5eXlVZ1o5Z1JOaVdSMk14MVVKU1ZoNjQzcjdYcDNfZnZQWEluR0FCeFQwQTJzSkVVc2o5Y1RYQUJsMFBDMUZtTENQTW1kLU5OS082UUk2Tmx6bllkZlR6N3djWEhBbkI1VTNWd1VqU2pQaVZDMEZobXM1UHB3eG04RHhURm5vcTR2X1gxaHpPdW9GR2hBaHpVN1ZQbUI0cEpON0RMdEtUbC0wX2d6U1JIRHczWEI1QWp2YkkzcFZzOWxuREJ1M0xUOTZLN1lCMkdHc3N1bFBjQjNyRTBDYmwzR3pQNnlBNmRsbXJfdGJBZUdSTnVsbG92TEozTk8yQVVKWTN2eU9QRnFqTW5jX3IxNV9CbkVRZElRYjJnU0JldVRiMzR3UU00MTZqSTJRa0tQbGdoTEMzTmFsUlBrcEI2WXhmcFJBVEFOY1RGX1RkaGhwd2JBZDZrdkhEU0x0bWdNQnJ2RHNLckttX2N2Mzl5cjFRY0ZRNDYtcDhEYjd2eE5vZTZOYzVaZ1JPY0g3andMcW92YXJkNkdKTWlpNGNxUTRvdmxXM181R0J0SUV5OFJqR9IB7gNBVV95cUxObDhnWE1VRjU2NzdadE92OUxfU045dk00b1dZaVpWZXBCck1yaFJPWi1uWUNiWU1HWTBvckY4a3BHQzlQQUM4dEFpUGVXZzhtQ1JJNWtTZFlRdU0tMzRCR0dRZTd0VnlkWmEwcmxUUFlGQXpXNWlvdDRVQVRxd1l5N19VU1UtZzBfZUZlTXpIRlpRUzhoRC1Dem9zbVFlc01XZkN5cURqT2ZXUzV5VnJvVC1BeVJFX05GZUljZTdrN29QNTJKT2kwWll5Unk0QUpfd0xad2QxZTB5Y0s4STRxejR6dnVFU1A3TmJ1cVJEY1JBQkRMSFdyM3JEQl9Oa1pjcmRRSnRueDAxdlFGandzOTVTQnUtSEQ1Ym5BTDcxODdjRU43a1dLWHBHeTQxM1BlMXFuM04wYnUtSkhJcWZhMmJDRjcwNHVzLVNGNHJybks2VTlsWnJqUGlXR2hoaGprcjM1UU5DakdPUWtrWWduQThOQmxkRzQ0OUEyVy10V2M0MG92MklITE9heWJVbWViRjZST2FIbGtYWE1aVWdjT1MxWTkwY1Z5R1hPUDI5bGttS0hwUjBwbkUtZDZOLWktNHhyWG16S0VXUkFZTWNScTBnYTNrOXNNcTAtQ093ZEE3X1BoSkE1TGlNYkNxZw?oc=5",
-      "published": "Mon, 09 Nov 2026 07:25:00 GMT",
+      "title": "المجتمع الطبية تبدأ إجراءات انقضاء شركة المجتمع الناهضة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JMXFMM0ZFb3Zxb3QtS2tYZlY3eEVZUlJKby0zZHBwSFphckFWd1NDam1zdFVkR1N6TGtTUUw2VkE0RmZucUNmVm9xd1Z6ckdRZ1ZjNGdzZzI0UHV5Q2Qzc2o2R2hhWlBXWGc?oc=5",
+      "published": "Sat, 14 Nov 2026 03:48:30 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: المجتمع في فكر الأمير محمد بن سلمان: شريك في صناعة التحول (28)"
+      "suggestedTitleAr": "خلف الخبر: المجتمع الطبية تبدأ إجراءات انقضاء شركة المجتمع الناهضة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "culture",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Rory McIlroy claims DP World Tour season-long title for record-tying eighth time as Tyrrell Hatton wins in Dubai",
-      "source": "PGA Tour",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEFsNnlaaHMwcUZwa1NvZmhOX1Zrc1o2S1R1SlQyb1VqZjNXcklCV1VPRlRmeEItalZ0RlJQeGdINzZaeVctZ1NoV1JrNnh3eG4yX3pLUC1XVl9rU3lBU01qeGNjQ0hPTWZHS2tOTzJfNlVYWmM4OW1MYnRoMlVwZGhYeW1KQmZhcHcyU3l1VWdyZndVYzY3SXJsY3ZqelpaRGNvR1dTaWVBSElTZmhOZEZKT0xKZFNHaFNzZFFFdw?oc=5",
-      "published": "Sun, 15 Nov 2026 15:53:08 GMT",
-      "suggestedTitleEn": "Behind the story: Rory McIlroy claims DP World Tour season-long title for record-tying eighth time as Tyrrell Hatton wins in Dubai",
+      "title": "Too Many Chips in One Basket?",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LOGdQaThNc0s2UTZmcVJHYkdfaXBkVDZtQTRpNXBqUklrNXlia05nZ1ktdVRrcW9mUlo3Wk04VURWX2wyLVVDd0tUeXRZWml5WDRtMGsyMmFHd0l0cERndm5VWkZGLW8wcFF5a3NlZnUwZGdWSXdEaDAzM2pJa0U?oc=5",
+      "published": "Mon, 16 Nov 2026 05:29:00 GMT",
+      "suggestedTitleEn": "Behind the story: Too Many Chips in One Basket?",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Archaeology Discovery Weekend Concludes in Riverside",
-      "source": "MyNewsLA.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnZnb2lTTDBOd0hySUNmWk5YVkI5bWRrRmhTN056VVhsN091bXNfc3gtOUFGbWZUZXVpMFRsZHdLa200VmFMVDJPLWZUNWV1cHpSQUZSVXRsU29XUGVENDBvTGQyTFJNT25sMGdNX2JrSzJjczI1WG5tYlRrUmlaVWt2UDBHYTRsRWJJWTh1Qko0LXBL?oc=5",
-      "published": "Sun, 15 Nov 2026 15:26:13 GMT",
-      "suggestedTitleEn": "Behind the story: Archaeology Discovery Weekend Concludes in Riverside",
+      "title": "Afghanistan's weathered fortress reveals 2,000 years of history | Daily Sabah",
+      "source": "Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnpmTElrZU5vajNIanI2VTg5ZG5Kc2F6WW9iaTc4UnZmSTROSGFLX3V3b2ItU2pDZV9scDhhRGtOX1A3VmJWUkpILV9mVkpEWHpMSE56d0pfWWtURHllYWdYbUdDMURiR21hWkh2NFgyRGhGOVNKQThfcWluNVMxV2Y3WXNhOGlUeERrUHZGR0hQRFF5bmd6cXlMNFpuMUxvYWtV0gGoAUFVX3lxTFBmdmlVZXJER1FJSktqVUppd1c3NE9Ha3dNQkZnRllCWWdpLWl3NVVFVDQ2akNQMzJyS2JPcEk4UWh2cHo1ZzZTamNTWDU3Y21uc3JOR1RyN0x2TkJtNnhWTzk2YVYxQlVWVWJuQ0lTTWQtWmZZUWJUZUJiVXc1RFY0TjhtdV9OXzg1MmdUd3FlQWpYaWxtcGl3c0V6VnhVdm5nb3NXMFJQNg?oc=5",
+      "published": "Mon, 16 Nov 2026 08:27:10 GMT",
+      "suggestedTitleEn": "Behind the story: Afghanistan's weathered fortress reveals 2,000 years of history | Daily Sabah",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
       "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50b2FpOU5ZRHhUSWRFVS1sSnFRNWplWGM1NGxaTURheURqNlU1V3pFN2dEYlZMMTJDUkJZUkNuaG9fSEwwdmhrRUFGRHRQX0lsMHllanRUaUc4dXNZakhvcURPcFkzOTlnWFF3NEJtaw?oc=5",
-      "published": "Sun, 15 Nov 2026 14:05:11 GMT",
-      "suggestedTitleEn": "Behind the story: A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5",
+      "published": "Mon, 16 Nov 2026 01:41:45 GMT",
+      "suggestedTitleEn": "Behind the story: MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Artificial Intelligence and the Things That Matter Most",
-      "source": "Good News Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVhLa051RWlnYVJYWlZTeUxwRUhYUVQtcnU4YkhZZm5mcXIzcXN1X0hCNk5kMWxJS3NnUVctalBaVENaWkR5RWtqb0dTVVJadHkxakV0cXFNQkpzWEJrQzlUZ2ktbG9TdG1URUlJVWoyNk05aDgtcHNVNmNFdXJRTnh2Y0xCYjQ?oc=5",
-      "published": "Sun, 15 Nov 2026 15:45:21 GMT",
-      "suggestedTitleEn": "Behind the story: Artificial Intelligence and the Things That Matter Most",
+      "title": "Rising anti-AI movement forgets all the wonders, life-changing improvements technology has brought us",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qMjJfVEhhSFUtcUl4TWhmRlh4ejdWeGtDclBJZTNJamZ4M2tVYkFVb1NSM2NhZzJzcVFLZUx1aHR2Sll1X1RXcHFJelI0MVo0aFJXRkVxZmNKNUJXUE8yRW4yVm1iZkhFOTFBT0JvZzBpR0ZMN2l3?oc=5",
+      "published": "Mon, 16 Nov 2026 03:29:00 GMT",
+      "suggestedTitleEn": "Behind the story: Rising anti-AI movement forgets all the wonders, life-changing improvements technology has brought us",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWhGekFJVFlIX3dxc1VQbmYyNHd3ekNyRGh3R01rdmgyZjBjZi1LS2ZrbXFTQ3Nub0xCMlA3X1ZaSXpHLWF0NDF6WHl1RUZKQk51VFJYMjZoZEpsNmppbkEwZjBTQ3dqNU5pdVFXTkdwbl9ROTFodl9YekRTbWZhQTJxZ08tZk85VkxNUFhlUjFKY0VWTWVORkFrOXNaX0hBN1hqa21PZHI1R3N0aVEyWjFlNWZkb0HSAbwBQVVfeXFMTlU4OVowYmxBYnhLZGZWbjVoZ3hlZ3hQby1kQVkwbWNzaXZvUVJzbWxRckdRbk9QRFBIeVp1MTNJSlFXRFV6MHZPdm1DOWo3cVFIZXcyVDNid2FVcGJQeWM4UTBfTFdqRjBZZTQ4UTM3WmxvM3NzT3M5RUlOOW4wQ1drYmhhWmFPNFY0ZVo5V2JiTDB1N1Fjc0xNekNHbTZhSXBqNDdHNUk4akpNUkZSQUplTmFqZk5BU0pDM00?oc=5",
-      "published": "Sun, 15 Nov 2026 12:09:50 GMT",
-      "suggestedTitleEn": "Behind the story: Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+      "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
+      "published": "Mon, 16 Nov 2026 00:13:00 GMT",
+      "suggestedTitleEn": "Behind the story: Japan's economy unexpectedly shrinks as inflation squeezes households",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Why do people keep dumping buckets of fish into Montana’s lakes?",
-      "source": "Vox",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0ZEZVM3VTdBZ2dNcDBfb0JheEc0dFdnaTU4ejRxVnhKUnRBMmpqTGVlN0xlZVhrRWx3SkRKQVdmNDFpUTU1TWxNZDFaSVFoUFl4clFoU28xbmVzMV9zLUxXQ1lfa1hWeE05Q1hQYm01MkQyNzN1OWRmcXlTSTNySU5ISkY?oc=5",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Why do people keep dumping buckets of fish into Montana’s lakes?",
+      "title": "UN Climate Conference COP31",
+      "source": "UN News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWUjVUN2lRdHBTb0plUFBxbkxYNDRBc0VzS3JNVGp5dWRWTlpHdkRQRFBkS29tLUl1UHV5ZFpUUDhhMHl2a1FMak0xRQ?oc=5",
+      "published": "Mon, 16 Nov 2026 04:23:21 GMT",
+      "suggestedTitleEn": "Behind the story: UN Climate Conference COP31",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Essay | The Problem with Loving Machines",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQODY5ODQ2Y3BSdmhXaHVHdkVmUFdjYkFKX1Y5TEFJTEpETE05RGs4U0Fibm5ZVVpzR012aFdnNFFyWjhvUGpNLWdIS212UzFfck5UaThPOFVWb0pVMkpyZVRtODh4bFU2X3VIUUNvNko5S0gxREhyQmltekQ5OGdXSm9GNDF6Zw?oc=5",
-      "published": "Sun, 15 Nov 2026 22:04:33 GMT",
-      "suggestedTitleEn": "Behind the story: Essay | The Problem with Loving Machines",
+      "title": "What’s with all the crucifixes in the ‘Wild Horse Nine’ movie?",
+      "source": "Angelus News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96aVVxWW40V2dOTkpVZXJqS3FROHRGZlBJSzZjV0VaQVZvUGs1R2N2TkpSQnRLMnMxNEJ4TW9RT2UwNjMza2N1VE9ybzYyQjFXTmFzQjBHcnV4b3A5WUxJZ3lwSGxEbl91NG9hTTZDc1ZpU3JkUF81NDhBTQ?oc=5",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: What’s with all the crucifixes in the ‘Wild Horse Nine’ movie?",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Investigate Trump Like a Mob Boss",
-      "source": "The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0s1R2N0RzJ2VmdnOEt0cTZLQ2pnSnh2QlE2RmVwdXpvQTJvNy1hUFpKLUZ3VHlpeEVzQW1JTmNWaTNoQ2JXdi1YRTdHY29fdXI4Tmh0TWhjLUFySlRSSmZwZWZmMmZ4Z056b09YMmkzWmRTaV9jbFQtNkE1TFVfVFZ2T3Q?oc=5",
-      "published": "Sun, 15 Nov 2026 12:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Investigate Trump Like a Mob Boss",
+      "title": "Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcE1aNmpVQloxb18tNWlVSk5MX3J6ZGdWd28wMEZ2b01hMnQ0T214d3c3RnBuNGdKbmhLb3VSNDZ6bmxQa3RBWk15NTUycUZsZ2V5YmtZcmJQTmpyR0NTNFZuMWlNb2ZwNG9OaDJ1T19FbEdaanlkQlozUHVKXzBvUFl0c0dxTnJzUkZXajkyaTYyTV9kdnhtSnlkRmJzSC0xZ3h2MQ?oc=5",
+      "published": "Sat, 14 Nov 2026 13:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
       "suggestedTitleAr": ""
     },
     {
