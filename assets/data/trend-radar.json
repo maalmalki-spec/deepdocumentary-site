@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-16T08:56:47.056393+00:00",
+  "updatedAt": "2026-11-16T15:16:21.827941+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة | CNN Arabic | CNN",
+      "title": "السعودية.. الداخلية تعلن إعدام مواطنين ارتكبا \"جرائم إرهابية\" | CNN Arabic | CNN",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0JDX2dJNDRTQjZjU0tfcXFtb0c5YmxSWUlGS0dCTjNVQmljVkhMbXc2b2pPWjBsQzFhT3d1djBaS1ZVZFhEbm0xM3hSbW5CWXBOQ3kzMFVSallUeDBHU3ZSODlwRnZIcW80dzVZc0xwR0NCWTBneGtNaUtIaUIwY1ZUZEtPUHZGUFlvN1p3NXVUMHd4N0gxbmhwdGZ0RGdObWJxTzd1M3hYRkZIczJvbDdCWFlZM0Z1SkUwUTBZVjFkZGM5c3I0?oc=5",
-      "published": "Thu, 12 Nov 2026 00:21:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1BGSFJfSFYwTVE2czBJYzBFc3VpU05rdDdTMV9rUnp2TTZxdzFIQjF5cGZIczczdGN0Qi1FLUc4Q3pXOWlQbFN3UG1KNEo5Q0pLdHdkR3U0ellubDNXeTVjZUg3cWh5cjhwSGhCdDlFWmJIeGJmNzVNVFpkV0o1RGIxX1J4ejBsb0VSVjVncGtiTGxGUXdFWGN1RlRyNVNmQXJ0Ul9RNjlOMkp4d2hPWXF3?oc=5",
+      "published": "Sat, 14 Nov 2026 11:04:52 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: السعودية.. الداخلية تعلن إعدام مواطنين ارتكبا \"جرائم إرهابية\" | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -59,36 +59,36 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGplSmFVNGtlb2NMVDYtejAxbXZwSGhlTVVHQWRyVzZ2djlrZTI5UTdSZFhjeW9pTm9ZLXVqNks3MU1xZWczZ2gtQTA3UlpSX0R3OUVLT05VX25UWW9NYTMwNGROTllqYWRzUUJDMktXZUZ3WHJOejQ0SHBkT3ZJdXJMNG5GOVozc0hocHBRVGxtRGdUTV9VU3VZZlBxMno2dHpuSmQ5cmU0d2ZWUHdSUUV0aUJhRVNsQWJDQWRHM09VQzM5ekJFbjgzMEZWeDJwVEowNHRIZ0dKRmVqOU93WWdMb1VUc2dxNlRXZVRQc2JFYl95QnRJbmhGeUQ2NUJNLTh5VE5YYllXbVdrX1ozQ2VERDNJa1NEOUU2Zk9KT0lkWlNTWWdTUnpuYnc3d0I4R25PamlWT1pRd29FRlkydA?oc=5",
-      "published": "Thu, 12 Nov 2026 04:17:54 GMT",
+      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
+      "published": "Mon, 16 Nov 2026 08:47:02 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي"
+      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\"",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uaXFGWUFib1JfempNSDJBbFlFOHlYbGZibWtUcGN2MlAteEU4T0lJdmpULW9SbkxIMjRsWkVfc3dkdHZtREE?oc=5",
-      "published": "Wed, 11 Nov 2026 00:37:35 GMT",
+      "title": "عقد اجتماع اللجنة الدائمة لاتفاقية المحافظة على الحياة الفطرية ومواطنها الطبيعية بدول المجلس بشأن الخطة التشغيلية لخطة عمل وزراء البيئة حتى عام 2030م",
+      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUY3J0Z3NMM3ZJaWc5LW9Wc1lnNVNwSW9lYnJza241bHB0a2JGMDNxX3plN2c4RDFnVXN2MnEtb1pRYWlYbHI2bU96Tmx4eEFfMGxZOU1zX25kV2UzSjlUTTR1WmltV3N2dUhNam9VZG1rRXU2RzhrTXpvRUw?oc=5",
+      "published": "Mon, 16 Nov 2026 10:51:10 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / الهيئة الملكية لمدينة الرياض تناقش البيئة والاستثمار الريفي ضمن \"لقاءات الرياض\""
+      "suggestedTitleAr": "خلف الخبر: عقد اجتماع اللجنة الدائمة لاتفاقية المحافظة على الحياة الفطرية ومواطنها الطبيعية بدول المجلس بشأن الخطة التشغيلية لخطة عمل وزراء البيئة حتى عام 2030م"
     },
     {
       "category": "society",
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "المجتمع الطبية تبدأ إجراءات انقضاء شركة المجتمع الناهضة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JMXFMM0ZFb3Zxb3QtS2tYZlY3eEVZUlJKby0zZHBwSFphckFWd1NDam1zdFVkR1N6TGtTUUw2VkE0RmZucUNmVm9xd1Z6ckdRZ1ZjNGdzZzI0UHV5Q2Qzc2o2R2hhWlBXWGc?oc=5",
-      "published": "Sat, 14 Nov 2026 03:48:30 GMT",
+      "title": "عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\"",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00aDlUc1pRMEM3cFp6LTFNel9ocmRaOG01LXo4M0o1THE5c3Y0YjZIYTRQYVlEblhpajRaeUpvelVoYmdnY2c?oc=5",
+      "published": "Mon, 16 Nov 2026 12:14:28 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: المجتمع الطبية تبدأ إجراءات انقضاء شركة المجتمع الناهضة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\""
     },
     {
       "category": "culture",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Too Many Chips in One Basket?",
+      "title": "International Students Are Turning Away From U.S. Universities",
       "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LOGdQaThNc0s2UTZmcVJHYkdfaXBkVDZtQTRpNXBqUklrNXlia05nZ1ktdVRrcW9mUlo3Wk04VURWX2wyLVVDd0tUeXRZWml5WDRtMGsyMmFHd0l0cERndm5VWkZGLW8wcFF5a3NlZnUwZGdWSXdEaDAzM2pJa0U?oc=5",
-      "published": "Mon, 16 Nov 2026 05:29:00 GMT",
-      "suggestedTitleEn": "Behind the story: Too Many Chips in One Basket?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFp1aDc2RXdjb1UxcDlSX1J3WTUwWk4zY3YwaTh2Z0FiU1pDcTFzQjJsblNpbVBCdXUyMHpJVkhfSHYxbk12dFN0SzZmLW9IOFVyeGtEYndaS0ZydHpHWmZJTHFoQ0hOdUV6OUpvRDVQUWhVb2h4Nk5lc2Q2NHphVk5qYUUtWUZ5OFhTLTRkdlppZjZVWTNR?oc=5",
+      "published": "Mon, 16 Nov 2026 14:10:11 GMT",
+      "suggestedTitleEn": "Behind the story: International Students Are Turning Away From U.S. Universities",
       "suggestedTitleAr": ""
     },
     {
@@ -145,7 +145,7 @@
       "region": "global",
       "title": "Afghanistan's weathered fortress reveals 2,000 years of history | Daily Sabah",
       "source": "Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnpmTElrZU5vajNIanI2VTg5ZG5Kc2F6WW9iaTc4UnZmSTROSGFLX3V3b2ItU2pDZV9scDhhRGtOX1A3VmJWUkpILV9mVkpEWHpMSE56d0pfWWtURHllYWdYbUdDMURiR21hWkh2NFgyRGhGOVNKQThfcWluNVMxV2Y3WXNhOGlUeERrUHZGR0hQRFF5bmd6cXlMNFpuMUxvYWtV0gGoAUFVX3lxTFBmdmlVZXJER1FJSktqVUppd1c3NE9Ha3dNQkZnRllCWWdpLWl3NVVFVDQ2akNQMzJyS2JPcEk4UWh2cHo1ZzZTamNTWDU3Y21uc3JOR1RyN0x2TkJtNnhWTzk2YVYxQlVWVWJuQ0lTTWQtWmZZUWJUZUJiVXc1RFY0TjhtdV9OXzg1MmdUd3FlQWpYaWxtcGl3c0V6VnhVdm5nb3NXMFJQNg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnZpVWVyREdRSUpLalVKaXdXNzRPR2t3TUJGZ0ZZQllnaS1pdzVVRVQ0NmpDUDMycktiT3BJOFFodnB6NWc2U2pjU1g1N2NtbnNyTkdUcjdMdk5CbTZ4Vk85NmFWMUJVVlVibkNJU01kLVpmWVFiVGVCYlV3NURWNE44bXVfTl84NTJnVHdxZUFqWGlsbXBpd3NFelZ4VXZuZ29zVzBSUDbSAagBQVVfeXFMUGZ2aVVlckRHUUlKS2pVSml3Vzc0T0drd01CRmdGWUJZZ2ktaXc1VUVUNDZqQ1AzMnJLYk9wSThRaHZwejVnNlNqY1NYNTdjbW5zck5HVHI3THZOQm02eFZPOTZhVjFCVVZVYm5DSVNNZC1aZllRYlRlQmJVdzVEVjROOG11X05fODUyZ1R3cWVBalhpbG1waXdzRXpWeFV2bmdvc1cwUlA2?oc=5",
       "published": "Mon, 16 Nov 2026 08:27:10 GMT",
       "suggestedTitleEn": "Behind the story: Afghanistan's weathered fortress reveals 2,000 years of history | Daily Sabah",
       "suggestedTitleAr": ""
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Rising anti-AI movement forgets all the wonders, life-changing improvements technology has brought us",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qMjJfVEhhSFUtcUl4TWhmRlh4ejdWeGtDclBJZTNJamZ4M2tVYkFVb1NSM2NhZzJzcVFLZUx1aHR2Sll1X1RXcHFJelI0MVo0aFJXRkVxZmNKNUJXUE8yRW4yVm1iZkhFOTFBT0JvZzBpR0ZMN2l3?oc=5",
-      "published": "Mon, 16 Nov 2026 03:29:00 GMT",
-      "suggestedTitleEn": "Behind the story: Rising anti-AI movement forgets all the wonders, life-changing improvements technology has brought us",
+      "title": "How to Build an Artificial Intelligence Revolution for All",
+      "source": "Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDg4LXBrcXB5UEVHNFE0LTdYSXM0N21ia01nSWs0TnBxcmlvRUpWYjY5X0JTVE1zVEstWjJqR0pVbDhtaWdER0NzSDRDWjFyZzBzeG9xdGE0QmR1RjNUcWw2Yy15UEpnOVVybkc2Z21zYXZ2SktTZF9Ecm9KckNZZFVsZGtWMEJDQnI3QkFHYmRNRXhIajZDZWNDRQ?oc=5",
+      "published": "Mon, 16 Nov 2026 13:30:06 GMT",
+      "suggestedTitleEn": "Behind the story: How to Build an Artificial Intelligence Revolution for All",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
-      "published": "Mon, 16 Nov 2026 00:13:00 GMT",
-      "suggestedTitleEn": "Behind the story: Japan's economy unexpectedly shrinks as inflation squeezes households",
+      "title": "How a UK economic report helps shape Kentucky’s future",
+      "source": "UKNow",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEZBMU13QkxCWWViZlhpNHJ3U202eGVUamtJTEM4bFBvV1ZBZDR6VWk1Z09BdzNuNWlRdEFwM2VEc3hSWGEybXF3Z1dNU0hRTmtGcHF6T3pHODB5ZTJ3NUVwTkxZR0xCTm5PdzJsX0pjZHNUSGV1aW5ZWkhPVGczcDYwVVlNUGtfVGpRc2l3?oc=5",
+      "published": "Mon, 16 Nov 2026 09:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: How a UK economic report helps shape Kentucky’s future",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "UN Climate Conference COP31",
-      "source": "UN News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWUjVUN2lRdHBTb0plUFBxbkxYNDRBc0VzS3JNVGp5dWRWTlpHdkRQRFBkS29tLUl1UHV5ZFpUUDhhMHl2a1FMak0xRQ?oc=5",
-      "published": "Mon, 16 Nov 2026 04:23:21 GMT",
-      "suggestedTitleEn": "Behind the story: UN Climate Conference COP31",
+      "title": "\"It's not about bad or good\": Storebrand AM climate boss details big exclusion calls and active ownership evolution",
+      "source": "AMWatch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Kc0ZlSU5JMXdsYTl3bURVZUx2azA1TDcweUYxYThNRFFNSDFodVRzRXhLUVJTa0ZRbUNCOVZhR21sWDVOdnhKdjZ1VGdtdnhnRDJZTEtXQVphSWF5c3NrWTd1MA?oc=5",
+      "published": "Mon, 16 Nov 2026 09:01:50 GMT",
+      "suggestedTitleEn": "Behind the story: \"It's not about bad or good\": Storebrand AM climate boss details big exclusion calls and active ownership evolution",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcE1aNmpVQloxb18tNWlVSk5MX3J6ZGdWd28wMEZ2b01hMnQ0T214d3c3RnBuNGdKbmhLb3VSNDZ6bmxQa3RBWk15NTUycUZsZ2V5YmtZcmJQTmpyR0NTNFZuMWlNb2ZwNG9OaDJ1T19FbEdaanlkQlozUHVKXzBvUFl0c0dxTnJzUkZXajkyaTYyTV9kdnhtSnlkRmJzSC0xZ3h2MQ?oc=5",
-      "published": "Sat, 14 Nov 2026 13:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Minnesotans used to raise minks? Steele County murder mystery parties bring history to life",
+      "title": "The Best Nonfiction Books I've Ever Read: Memoirs, True Crime, Essay Collections and More",
+      "source": "What Is Quinn Reading?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iTTFyYzl5M0pWUVBsTTNvY3VWdUxLWWN0d0x2dFRfNm5KdlVVYTdsc3JRWktxQlJjVVBIT1VZRkNDenRhX0dNUEpBZjNUalVUUmpiaHNtMW1fajNXUS1jR21nMGItbnFLOEhnUWM3TnZvUUJZ?oc=5",
+      "published": "Mon, 16 Nov 2026 11:40:21 GMT",
+      "suggestedTitleEn": "Behind the story: The Best Nonfiction Books I've Ever Read: Memoirs, True Crime, Essay Collections and More",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwcW9qNlRWdzREbTZpd3NvWm5FLUJ3dTBIVjJmWW9WRi1vc1E5S1ZaLTFMbkQ4RldoOWp5dTl6eHFmR0VfaUNYZTlFRDZCTnAzMzlVWV8zSkhRcjhJdTRwWEZORVRxMUIxWUVJMGplWQ?oc=5",
-      "published": "Sun, 15 Nov 2026 13:14:11 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "title": "Scientists discover star system sending strange radio signals every eight minutes from deep space",
+      "source": "FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSThkbklnMVcyeFpseVU1VmNsWTh1YzdpUEZJVmJMUXhyN1BqMG12bHN0RnhpT284YkNHcnhYeHhwb0JxWFl3VzhLV1R3Vktybll4eFhKemgwN0ZqLU9yRlJYTEo3ZkRIOWhmOV9wYXEtZlQ5VnF4eHlFSy16aUFNTFpZTTVDdWlhSmREZXRQdEhSZFROOG5adFQzQ2k3THZsa01sLXpZNWd4OXozdmlLR01meWjSAboBQVVfeXFMTnQ2aHkzaEZsUDk0dVhoTVQ3dmVEQlhyQVUxYlM5NlNUUk1kdVpwVW8taFVPSE1TbTZxaVZweTZLekkxbmk5LTIzWHZRWUFHYlVqU3lZbGx1TkE5RWFUazZIYVlQRWZFWnZobzJsczlTWUh4UDdrbXI4OWlqbzd4eEttM29qVGlpdWVIVHE3QmxJeUJoemhhUmdUU1VsWm93M1BsTm11Xy1hWlhBd1hMNTl4SG9OYlMxRi13?oc=5",
+      "published": "Sun, 15 Nov 2026 23:48:00 GMT",
+      "suggestedTitleEn": "Behind the story: Scientists discover star system sending strange radio signals every eight minutes from deep space",
       "suggestedTitleAr": ""
     }
   ],
