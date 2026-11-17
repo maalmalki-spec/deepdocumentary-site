@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 3
+    "global": 4
   },
-  "updatedAt": "2026-11-17T01:23:48.224106+00:00",
+  "updatedAt": "2026-11-17T07:30:38.551846+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,24 +11,24 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "داخلية السعودية تعلن إعدام مواطن اعتدى على عدة نساء عنوة",
+      "title": "السعودية.. الداخلية تعلن إعدام مواطنين ارتكبا \"جرائم إرهابية\" | CNN Arabic | CNN",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
-      "published": "Mon, 16 Nov 2026 10:04:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1BGSFJfSFYwTVE2czBJYzBFc3VpU05rdDdTMV9rUnp2TTZxdzFIQjF5cGZIczczdGN0Qi1FLUc4Q3pXOWlQbFN3UG1KNEo5Q0pLdHdkR3U0ellubDNXeTVjZUg3cWh5cjhwSGhCdDlFWmJIeGJmNzVNVFpkV0o1RGIxX1J4ejBsb0VSVjVncGtiTGxGUXdFWGN1RlRyNVNmQXJ0Ul9RNjlOMkp4d2hPWXF3?oc=5",
+      "published": "Sat, 14 Nov 2026 11:04:52 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن اعتدى على عدة نساء عنوة"
+      "suggestedTitleAr": "خلف الخبر: السعودية.. الداخلية تعلن إعدام مواطنين ارتكبا \"جرائم إرهابية\" | CNN Arabic | CNN"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQRERwWDU1bHFCMHV2VTVSb2MzUF9ZblBZdVpncnBWbXNwTkFiMm9PcmJhOXFrSVpjWk4zTnpXN2lpZW5TMGVXWjQ5ek1oeW1PU3ZWdFZ5RFZxRm5PZFBwazhxYXZyUm1raHIxaV85b2ZMclB3VGdyazlzSmdXam5PTm15OVY4bi1yaTdIRWNVZ01semtqdzFHTHp0QnZBVzMta2x1XzFOblJoU3BZT2VVZjV1dktJLTR2Y0tGb0xlcjVnR1dIRGZNV2dWZ19Xd2VfaFF4Wkp4bVZ4ZTJzN29TWUU4WHJoRlR5YTdYc211SFJ0ZXg2czJFQ0RYTkpvVW5sSTBqQnRnVG1DY2IzeUlaM2J2RURvUzBZMHRLb2FKWC03aUQzUndsdTZGWXl2dUd6RkxfUEItcEZHNTVoampmcUtGMTNWeGV1ZTRjX24tQnpBNFQteEJPVm4wTWx3SThVenpBdkpkUFZycTlteXhzWTJlNWF6Z21fQ2liRy1iOXUzMVIxeWlqWl84NTRKbDRnb3A4VGhJc01LV1RNemQ4bEdtZUVLUDV0Zkw0RXB0eEJnaEZaZHpVTHpXcVdWeG5mbzQyd211OWlqT25nYzczVE1uY2NMRFNmN3NEZlE5SGVLWTVKeWdlWXNvc2JKNjI2UHU2aFZBWUI4enVGaVVfMzdhRXRWLXgxaVhJVUIzWVJfdTAtek9vbTNTUHFzTVMxNS1fXy1LQkdMREd6Q0F0R2RYcWs4VWFqZEd6TUM3Nm1Td2VxVlZBV1RMLU5ZbW9Kay1HQVNPZVRDN2w3LXZoMXRMV2x1NXhkUkdlbUJRZURvQ3AwX3RlZk53?oc=5",
-      "published": "Tue, 10 Nov 2026 18:58:00 GMT",
+      "title": "\"العائلات تفقد كل ما تملك\".. مسؤولة إغاثة ترصد آثار فيضانات غزة",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGk4VWFBV0RDWktYbE5vMk9xVXdPZWhuRU8tdDJCRzN2cjhtOXpjbG1tekhwWHg4VmRjQzFrekJZX2Z1NjJGOVF5NkRkSDJQUEE3WWQ2bnh2aXBwRFBVaGlwYTBNSldhVXQwdTY2bkFONFEwUmQ0azhKMG1MZFpTYjFtUXg0Z0NxV1M3bWNaQ1lURGFRcEg5Q1ktdw?oc=5",
+      "published": "Wed, 11 Nov 2026 14:46:09 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟"
+      "suggestedTitleAr": "خلف الخبر: \"العائلات تفقد كل ما تملك\".. مسؤولة إغاثة ترصد آثار فيضانات غزة"
     },
     {
       "category": "science",
@@ -50,7 +50,7 @@
       "title": "هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟",
       "source": "الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5",
-      "published": "Mon, 16 Nov 2026 06:28:37 GMT",
+      "published": "Tue, 17 Nov 2026 05:53:17 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟"
     },
@@ -59,60 +59,60 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
-      "published": "Mon, 16 Nov 2026 08:47:02 GMT",
+      "title": "لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGplSmFVNGtlb2NMVDYtejAxbXZwSGhlTVVHQWRyVzZ2djlrZTI5UTdSZFhjeW9pTm9ZLXVqNks3MU1xZWczZ2gtQTA3UlpSX0R3OUVLT05VX25UWW9NYTMwNGROTllqYWRzUUJDMktXZUZ3WHJOejQ0SHBkT3ZJdXJMNG5GOVozc0hocHBRVGxtRGdUTV9VU3VZZlBxMno2dHpuSmQ5cmU0d2ZWUHdSUUV0aUJhRVNsQWJDQWRHM09VQzM5ekJFbjgzMEZWeDJwVEowNHRIZ0dKRmVqOU93WWdMb1VUc2dxNlRXZVRQc2JFYl95QnRJbmhGeUQ2NUJNLTh5VE5YYllXbVdrX1ozQ2VERDNJa1NEOUU2Zk9KT0lkWlNTWWdTUnpuYnc3d0I4R25PamlWT1pRd29FRlkydA?oc=5",
+      "published": "Thu, 12 Nov 2026 04:17:54 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "عقد اجتماع اللجنة الدائمة لاتفاقية المحافظة على الحياة الفطرية ومواطنها الطبيعية بدول المجلس بشأن الخطة التشغيلية لخطة عمل وزراء البيئة حتى عام 2030م",
-      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUY3J0Z3NMM3ZJaWc5LW9Wc1lnNVNwSW9lYnJza241bHB0a2JGMDNxX3plN2c4RDFnVXN2MnEtb1pRYWlYbHI2bU96Tmx4eEFfMGxZOU1zX25kV2UzSjlUTTR1WmltV3N2dUhNam9VZG1rRXU2RzhrTXpvRUw?oc=5",
-      "published": "Mon, 16 Nov 2026 10:51:10 GMT",
+      "title": "بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6TmZOaFB4SjJzMTUzRDFXR2xQbTRtajJKWi0tX0FlNXl4TnN3SEc2bl9VM3ptUGF6OURhNGZ6ZXo?oc=5",
+      "published": "Mon, 16 Nov 2026 10:49:06 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عقد اجتماع اللجنة الدائمة لاتفاقية المحافظة على الحياة الفطرية ومواطنها الطبيعية بدول المجلس بشأن الخطة التشغيلية لخطة عمل وزراء البيئة حتى عام 2030م"
+      "suggestedTitleAr": "خلف الخبر: بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة"
     },
     {
       "category": "society",
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\"",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00aDlUc1pRMEM3cFp6LTFNel9ocmRaOG01LXo4M0o1THE5c3Y0YjZIYTRQYVlEblhpajRaeUpvelVoYmdnY2c?oc=5",
-      "published": "Mon, 16 Nov 2026 12:26:36 GMT",
+      "title": "دراسة علمية تقلب الموازين وتُعيد الاعتبار لمنتجات الألبان كاملة الدسم",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQbXhTZnExbFpvYmJPdmVQVU5Sd0psRlp1MUQwc0pjNXZ6UjRrZ2lJSmNOVVNnSi1Ud0xZTlN2MjJlaDB3UExBaXktbDZCMlZoYS1pUE5KRURKN3VLU0pram9OazM5X1F4REJxOVdObFltUURfbmZFQldJSWo1MmhFNnp4WDIzX0NjTDhsRGRkMUctX2U5NkJKdC1zb1h6eDVQZWs2Zms4aW9OSGIxUHI5LWRHZ2xWRnFsakU3RnpWREFLV1l4Q1BNeU9scTBXQ3JPdUxjelFfeFVWYXExUkJOT2EyUDlGQVl3WWFhM1FpMW82RTlDbVkzWHY2b1ZEV3pzNkllMnE4M0dQNjV0YzRncnB3TE05bThXMC1TWFhhOFdFNWlaUDRSNUpjVU94VDJ4dDRUWndITHFkU2FIN0RqZnpJTmpIRmtRdlNzZXZHZlp2T0VHQ3k2Zm9kN2luMWxUN0t0TlRGSllRSUNkU2hmU1lTZTRCMmtubS1sb2tNTFJqR25PWnhOclFkYjlFVE5acHZjSm84SE1MQkJhaHhFQkN4bFJCMG9FejhoZ0VsQ2ZzRFFRc2lhTzBtd1VOUEVtTkdNaVNDYlVTci1hQUZLWU9fV0VYd3NYblNEM3UzVG0zRy1Yb3pFNUpmY1BLVEU3ZXB2Y3l5ZFhDeTh6ZGc1Z1FuYWxaRDhxTkZMQkF4Z1ZRUjJfMmc1V09nTGJIRFg0UGZzRDVWN2c2MWpaRjZPNGhNb2x4eTNvaF9QSlF30gHDBEFVX3lxTE0zUVNteDA1MlpRd1RmbC1hcDA5c05JOUxET3JaYjEwVWpDUFJiLWhkeGdZMUpmbWsxZEdCb3hFV2RSYjQyZXM1M1ZHcGEzTDNOOE9JMEhiSEdCR2xZUmdGTVZmaHRQdFhIVU8yd042MXBSNHpLaWRZb01ZSDBtdHd0ZU13NzY2T1YtTW15WTk0dmR5UHNlbW9BRFpKMHctc2dtc2h0YVhnRGxvZlhCRVk4VGZGVWxsd25VS0Nxc0l1OFVITVVvNGdsLWoxTWhpdzdUTTVkSHdrSFp2MVpyYWtrc3hDMk9ib3AzNXFoR3FoOHI4akoyY0pSOFNCcWFMb0x4Q1lLWDZaNTJXZ2FDc2I4UVNQVjRZTW1fRGlqWmQyQ0dtMGhYbjBoSGZGT0tWUVRpdlRGVGtPOHRWeGFEZER1Zk5FWV9waXBTZDBRdE5NRk1TdGVJd1lJOURxUUo5U0lRaUdSdHVPMldoazVsdzZJeFd5QVlkcjhuQjkyRllvdmw1ZHJfNTRpYjRiMXpvcFBXTjlGOHhlVGtaZTVzc2hxSFRYU0JvblpuZ2hnZkxqVUxLMWN2TWxPQnI3YU1Ib2otV0NEWURHaVBoYXhpcTZoTXA2ZjdjQUIwcy1nWmx1ZWM2MXVEOTRLM3ptdWpnZVB4aG04b1lya1Z5YlFoWmoxc2hTUGtDYnBWZXJzMWJyQzNmNTBpMVBJd3g0RjZBYnJLbWI5SVVNNVhHaHVsdG5tbTdNS3puZERIeE5sVks5YnRDNA?oc=5",
+      "published": "Fri, 13 Nov 2026 06:36:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\""
+      "suggestedTitleAr": "خلف الخبر: دراسة علمية تقلب الموازين وتُعيد الاعتبار لمنتجات الألبان كاملة الدسم"
     },
     {
       "category": "culture",
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "التشديد على حماية التراث الفلسطيني من الانتهاكات الإسرائيلية",
-      "source": "جريدة المدينة",
-      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPWjJIUFRlSzlBNXREbFUza3h4eGkxRWNPZjlYU1FkUlB0aWp6SURnM0thck9fWTFnOVQtdnNyM3V0bWpkNVp5Q3F6T2lXVzA2RjdhSFg3VHlLY2N5cVVhZUYyaTB1dUR0eHJhbDE5cmRKa1pzZ3FERWdMS1BaZjNydjgzMG84N2NVQ2cwaG02QWtybkp5WmtnNlM5bnRvcUFBbzdXRmhYN0VsakVpdEpIbTZYS3N3SzNBM2hXd1N1ZWlLbGhPUDlsTXN4SDVFY2dYVHV4dzNkYk5EN2d2Um9uS0VRdlpRMkprdXY0dFJSWnZSaW1YNWlBSE1YcGxFa1RjME9qWE5iLVVLRjV0dnloeFZCa05yMHVFem0zZ05KWWNDTW5PSGJvRDhxcWt5d20teVZ6M0NKbjNveVlMdVFTc0dpbUVTR3lES1RoT3ZhY2xuZDJaTU9yazItT2VCRWpOWGZiOG52ZEp1ZUthUGc0dkxZLXBRNVhiTjJXYWNHbGtGT3VSTGcyN0dudjNFRU1CZ0lhN3RiVERlanBJVWk1TDRMOFZQVVA5MjkwMW1HekR6eGY1eWgya2hwZTRxZVpfS2plQlF1YlJjMU1TMl9hTGM0N19FUy1RMk5aZS00d3llcnU2VVE1U21IV19xZ2RxM0ZPQ2VUcEtWS09lVXhXZWZkcDJvTGlCZWRhUGloeVN2RkNRbHVIUVNZYW9HZk54R2UyckU0SzE5ak5VMmNB0gFXQVVfeXFMTkdYMEx2QV90SHB4R1dKak5HQUhwTlRJdTZSbWJWYlNqTXJTb2ZXS0lCSThYQXlESEFRaVlLU1B2cE5CR3FrLVh0aU5ZLUdMc1NHZ19DS0E0?oc=5",
-      "published": "Wed, 11 Nov 2026 21:20:00 GMT",
+      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
+      "published": "Mon, 16 Nov 2026 02:48:31 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: التشديد على حماية التراث الفلسطيني من الانتهاكات الإسرائيلية"
+      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟",
+      "title": "شبهات تلاعب بأصوات العرب في إسرائيل.. تحقيق يشمل مكتب نتنياهو والشاباك",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUHlCTkhOQmp4V1dOdTZZc0FaNkhqc2liSGh3b2hyUDBwVS1ReGJKYngyZVh1b0E3VzJvN3ZxZVNUZHZ4UzRxYnBjekZZd3JFdm1RdzhNaHlkRWdzRUVwSGNOMEVybWRleE9yclNYVGxOd2dwYkNYLTJlaTdOOVJSd2hfQ2hraWhIY194cUxuamtsREk5VHdxTDNDdlVGMVYwbVFmMU1xMEpzbEotZE8tN1VSVkxiT0hGWDA0LXlDbXlCaHdLeVAyc2xxNzFqN1M5TjEtNzZNMk1NemdqcERSTGlfTnNHLVAySURHQU4td1p4RkxUaC1xRVFTWDZmbnk3OGpvZTQweTZEZV9zVVQzcDBhSVE5OVFxX3pWeG14WVBGSTBfTkZoT29uejNBaXQxRXZPdTVWX2dFN3ZjcFBIeGFfdXdqQWgtQmtZX3gzSVcwZw?oc=5",
-      "published": "Mon, 16 Nov 2026 20:40:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOb2U3OGhLMmNnSXRKc0tSYlpVVElYb1BVWWFmUFVWcjM2UXhqMC1mM0s1MlhZSV9STVVqVW5DU3N4LTI3M1JLUEU1amYxZlhqZTZOQXY4MV9KLUhwTEplc0pjYmM1LW9wdlFNc2RZcXJWNXIzc3N2U216aU5uZ0czUVlqMUMwRnhLRTVfNHN4WjBpaEx2M185OWVhNEdLS0trVGpBekcyQ041di0yc1c1Vkd6NjFJMGhkeS0tb2FyNi1sai1xN3JPMl9LZ0Z4bkFCRkNMVHRhU0JJMlkzcm1pVlozUzgxdW5QWU9tNGlXQW5SV0NGQ3pSMUJHMmZFMG16OUhlWkRwM3dNRWtaeGsxSGszc1hZREFCeWFmTjhZNF91U2pGck1FaFMxQ1N1bFM5MGdpSllqaUdfVDZkMW9xa0FObWd5SThXV09OUFc5Rzk?oc=5",
+      "published": "Mon, 16 Nov 2026 14:20:55 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟"
+      "suggestedTitleAr": "خلف الخبر: شبهات تلاعب بأصوات العرب في إسرائيل.. تحقيق يشمل مكتب نتنياهو والشاباك"
     },
     {
       "category": "space",
@@ -131,23 +131,23 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "New World screwworm spreading rapidly across Southern states",
-      "source": "Stateline",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnRabGJIR0RIUkd1SDRHbHRKZ3BvNDJRTHVHckNyZHM5WGFuaDNQbE9TcUdKSGJFM2tCeEQ3U080eHBnV2YwNjJzakNpTGdlaW5FTXpaMkdEZFpGVENiQi1CandUT2gyQ3NhTmZLZU9vTmdDdDhnQld1dDZaNGFXdks3ZWdmMDZQaVZzajRLY0lBYTJhX0U0Q19n?oc=5",
-      "published": "Mon, 16 Nov 2026 20:08:44 GMT",
-      "suggestedTitleEn": "Behind the story: New World screwworm spreading rapidly across Southern states",
+      "title": "Daily State of Play: Trump’s Indefinite Refugee Ban and Funding Halt",
+      "source": "CWS Global",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUlya0FrT3ZlUlFVM1ZOZDMxMjdoeG1TRXBwb0k0QUZJUGVKR1pvUndiVHo2RjBqcU10MFVBOE05cFR4NlpkRHJseVVPMGVvN3prelFkeUxvT1dQUFR2VDFFbmdBV1EtajM0SWNwQ0hKVWVrTEVZSWpuTDRkVTE2aHVGMy1keFY4QUYtWUN4MXFwanUtNWdobXRn?oc=5",
+      "published": "Tue, 17 Nov 2026 04:44:02 GMT",
+      "suggestedTitleEn": "Behind the story: Daily State of Play: Trump’s Indefinite Refugee Ban and Funding Halt",
       "suggestedTitleAr": ""
     },
     {
-      "category": "economy",
-      "categoryAr": "الاقتصاد والأعمال",
-      "categoryEn": "Economy & business",
+      "category": "society",
+      "categoryAr": "الإنسان والمجتمع",
+      "categoryEn": "Society",
       "region": "global",
-      "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
-      "published": "Mon, 16 Nov 2026 22:19:52 GMT",
-      "suggestedTitleEn": "Behind the story: Japan's economy unexpectedly shrinks as inflation squeezes households",
+      "title": "Iowa State helped psych alum find his ‘true north’",
+      "source": "Iowa State University",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXA4V3R4aWhoQjJ0bDkzN2lWSkFXODh3dTNKRTQ5SENsYlg1dlVxeFNjb3dBeTFfcFdQSDNRcEgtcTNkUnZzdENRY29pNEsxZFNLREFPTDNVNDltU3ViN2VOeXpHZ3lncWJXUU05NXNKWm1CT0dsa1l2dFpmVDRaNlFoVzg2ZnBQS2ZnSWZ0Njc5N2M?oc=5",
+      "published": "Tue, 17 Nov 2026 01:28:34 GMT",
+      "suggestedTitleEn": "Behind the story: Iowa State helped psych alum find his ‘true north’",
       "suggestedTitleAr": ""
     },
     {
@@ -161,17 +161,32 @@
       "published": "Tue, 17 Nov 2026 00:43:07 GMT",
       "suggestedTitleEn": "Behind the story: New documentary explores history of crime and punishment in America",
       "suggestedTitleAr": ""
+    },
+    {
+      "category": "mystery",
+      "categoryAr": "الغموض والتحقيقات",
+      "categoryEn": "Mystery & investigations",
+      "region": "global",
+      "title": "Ulster Museum: Coroner investigates death of Iron Age woman found in bog",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvV1FuX3ZrTk9EWHpQWm5KQllXVFFZc3JpMDlqcmNBVUJMQVdCV1dqZExkYzJvZUZRdU5kU0FWcVJ3RG5uM2VKYm5UYVY3R1h3VFNxSzFlUVBiZzA?oc=5",
+      "published": "Tue, 17 Nov 2026 06:02:09 GMT",
+      "suggestedTitleEn": "Behind the story: Ulster Museum: Coroner investigates death of Iron Age woman found in bog",
+      "suggestedTitleAr": ""
     }
   ],
   "errors": [
-    "ar/environment: HTTP Error 429: Too Many Requests",
+    "ar/history: HTTP Error 429: Too Many Requests",
+    "ar/economy: HTTP Error 429: Too Many Requests",
+    "ar/society: HTTP Error 429: Too Many Requests",
     "ar/culture: HTTP Error 429: Too Many Requests",
+    "ar/mystery: HTTP Error 429: Too Many Requests",
+    "ar/space: HTTP Error 429: Too Many Requests",
     "en/history: HTTP Error 429: Too Many Requests",
     "en/science: HTTP Error 429: Too Many Requests",
     "en/technology: HTTP Error 429: Too Many Requests",
+    "en/economy: HTTP Error 429: Too Many Requests",
     "en/environment: HTTP Error 429: Too Many Requests",
-    "en/society: HTTP Error 429: Too Many Requests",
-    "en/mystery: HTTP Error 429: Too Many Requests",
     "en/space: HTTP Error 429: Too Many Requests"
   ]
 }
