@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 4
+    "global": 10
   },
-  "updatedAt": "2026-11-17T07:30:38.551846+00:00",
+  "updatedAt": "2026-11-17T13:22:27.343499+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,24 +23,24 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "\"العائلات تفقد كل ما تملك\".. مسؤولة إغاثة ترصد آثار فيضانات غزة",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGk4VWFBV0RDWktYbE5vMk9xVXdPZWhuRU8tdDJCRzN2cjhtOXpjbG1tekhwWHg4VmRjQzFrekJZX2Z1NjJGOVF5NkRkSDJQUEE3WWQ2bnh2aXBwRFBVaGlwYTBNSldhVXQwdTY2bkFONFEwUmQ0azhKMG1MZFpTYjFtUXg0Z0NxV1M3bWNaQ1lURGFRcEg5Q1ktdw?oc=5",
-      "published": "Wed, 11 Nov 2026 14:46:09 GMT",
+      "title": "كنز أثري.. مصر تحبط تهريب 3391 قطعة من عصور تاريخية",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQY282eXlrZlhoU0RKSDZEcHc0S3JzSE03cjlSRmZfLVFlb2J2amJrdll5eldxWGJrakkxQ1dBUkljRHg4Z1ZUZUhIaTMyWmgtSGxPOWtCcTVzbkQ1TkwzQ3pTUWtXSDVyNVlJOWVBc0xvMFJySDBial9UeFgzZk5ZMlFkTTd0R3B3ekxZN2lwb0drbXdJUEdxTURValB5aDhJdzI5RGFNcTZySFRMVHJRdTdwcjFjTkNwUVh6VFZ3VURYOGlCS0FlaU81RDJqbUdZd0s4Qmw3ZlN2cG83UGhNQUpKUVhZdnFjeE9oSTVPendMNXk1cmZoeG1ZMGJhVmstemRVMldxREctQi1JUm81d2NtcUEzTlpFaW45UldxaHBOU0J2MlpKUmkydmJyQUJoaTFQS2RWUWtqNXl3OHl3RHBmZWRaZHJIZFpYMzNYZmV0b2N3bzBYeWY1clRra0pxcDZ0ZVB5N3NYTDNGNGlUaDhQYVF6WEFuWEM1a3YtR1dDRDR2MWt5OGhXSlNfYVlEdUNUT3VsbklIMlI4dnRaWUF0QmtKMmxMZlBhZklMTUI0c1MxaFc5OEg1bjd2R0xoWjhyTU40Yzk2OGluemVNWW1xV2h5Tjl2OEk5T0wwQVVQYUNGc1JCMDBFRmRWTjR3ckw1NGxHV2FabVBjOWlYTjlCNVBfVnZodWlyX0ZBd9IBlARBVV95cUxOYmhzcFpJV0FRUkJVN1N5cUFKajZWZTByRzBhTjhGeFhYdVd0a2ExTlNPMGNuZGhZTmhRWnZHTHJERE13eXB2czNVVWhUVUJaZlpvM0hRNWg4em1ZZDd2Zl9JaEVDdGdxbDJUZkxqYVRSbnZmX2N0eXdyTUdHRjU3SmhrVzl0cHlLa29PSUFUd3ZrMmxoYzh4aDQ0MkNHSUZ4aHE3Rk1DVHlULWhKZkxBZWZLWUUxTFN4Um5Qdmd4VTgwd21kckRhY3JwUFpCUmVkaEFrNmpkRzEtbEU1MDFKMGo2TXJFOU1BRWdFZlE1NmgzdGtyYUJPMVk4YkVyUWZ0TzZRWUVNQnRia09UYlpXNXgxRnhISzdlODc5aGpoeU9QdXRtdWpTWFFXRXBQaHFOa3U3TktMYjB0d2tlcjRGSGg1eVZVQVZRMkdNLVdjeVRuQ3J6SlNKZWgyM29jUzM2TDBKUm5hSThZcE5sejZNODdzcGZrU19lZXh4bGN1NV8taGU0RTNRclpMSVJsM3VRblZJUVhsR216dW84Wm1kTU5HVTMwaG1mS1hyR2FHbnZ2VGFNWXhScmlvdXNMVXR0UUNXcWQwdkt2N3JEZ29yRVlHa2t2XzBwbHMwcnhzcEYxdTA4cGhoTTBWY1dHNTcxb1dTVlZZSm5ObU5jRnRyamVodHdTa3o2QXZUNVlSWHZMQ1dP?oc=5",
+      "published": "Mon, 16 Nov 2026 14:29:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: \"العائلات تفقد كل ما تملك\".. مسؤولة إغاثة ترصد آثار فيضانات غزة"
+      "suggestedTitleAr": "خلف الخبر: كنز أثري.. مصر تحبط تهريب 3391 قطعة من عصور تاريخية"
     },
     {
       "category": "science",
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "اليوم العالمي للعلوم من أجل السلام والتنمية",
-      "source": "UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTDh5RW1lMHpldkVzdGZLVHFOa2h3VEtUZGg0WWNPYzdrVDJmdVh5WUp2S2R6UFNKM3FaWElkWWthMnBTQzh0SXl6eGItSTRqU0V4RDI4dExBVUtPWHZXc1JPYTQ4TVE?oc=5",
-      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "title": "علوم وتقنيات / روبوتات تفاعلية في مؤتمر ومعرض الحج تبرز مستقبل خدمة ضيوف الرحمن",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05RW1ZcWtlZkstcVUtQzhlMGtUQ1ZpSlRWWnRRYVpCTHZmcW5FemR6aWc0MEVDWFhWRDRKR0l3cnkwSDVNVFE?oc=5",
+      "published": "Wed, 11 Nov 2026 10:41:26 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: اليوم العالمي للعلوم من أجل السلام والتنمية"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / روبوتات تفاعلية في مؤتمر ومعرض الحج تبرز مستقبل خدمة ضيوف الرحمن"
     },
     {
       "category": "technology",
@@ -71,24 +71,24 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6TmZOaFB4SjJzMTUzRDFXR2xQbTRtajJKWi0tX0FlNXl4TnN3SEc2bl9VM3ptUGF6OURhNGZ6ZXo?oc=5",
-      "published": "Mon, 16 Nov 2026 10:49:06 GMT",
+      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
+      "published": "Tue, 17 Nov 2026 00:26:55 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة"
+      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "society",
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "دراسة علمية تقلب الموازين وتُعيد الاعتبار لمنتجات الألبان كاملة الدسم",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQbXhTZnExbFpvYmJPdmVQVU5Sd0psRlp1MUQwc0pjNXZ6UjRrZ2lJSmNOVVNnSi1Ud0xZTlN2MjJlaDB3UExBaXktbDZCMlZoYS1pUE5KRURKN3VLU0pram9OazM5X1F4REJxOVdObFltUURfbmZFQldJSWo1MmhFNnp4WDIzX0NjTDhsRGRkMUctX2U5NkJKdC1zb1h6eDVQZWs2Zms4aW9OSGIxUHI5LWRHZ2xWRnFsakU3RnpWREFLV1l4Q1BNeU9scTBXQ3JPdUxjelFfeFVWYXExUkJOT2EyUDlGQVl3WWFhM1FpMW82RTlDbVkzWHY2b1ZEV3pzNkllMnE4M0dQNjV0YzRncnB3TE05bThXMC1TWFhhOFdFNWlaUDRSNUpjVU94VDJ4dDRUWndITHFkU2FIN0RqZnpJTmpIRmtRdlNzZXZHZlp2T0VHQ3k2Zm9kN2luMWxUN0t0TlRGSllRSUNkU2hmU1lTZTRCMmtubS1sb2tNTFJqR25PWnhOclFkYjlFVE5acHZjSm84SE1MQkJhaHhFQkN4bFJCMG9FejhoZ0VsQ2ZzRFFRc2lhTzBtd1VOUEVtTkdNaVNDYlVTci1hQUZLWU9fV0VYd3NYblNEM3UzVG0zRy1Yb3pFNUpmY1BLVEU3ZXB2Y3l5ZFhDeTh6ZGc1Z1FuYWxaRDhxTkZMQkF4Z1ZRUjJfMmc1V09nTGJIRFg0UGZzRDVWN2c2MWpaRjZPNGhNb2x4eTNvaF9QSlF30gHDBEFVX3lxTE0zUVNteDA1MlpRd1RmbC1hcDA5c05JOUxET3JaYjEwVWpDUFJiLWhkeGdZMUpmbWsxZEdCb3hFV2RSYjQyZXM1M1ZHcGEzTDNOOE9JMEhiSEdCR2xZUmdGTVZmaHRQdFhIVU8yd042MXBSNHpLaWRZb01ZSDBtdHd0ZU13NzY2T1YtTW15WTk0dmR5UHNlbW9BRFpKMHctc2dtc2h0YVhnRGxvZlhCRVk4VGZGVWxsd25VS0Nxc0l1OFVITVVvNGdsLWoxTWhpdzdUTTVkSHdrSFp2MVpyYWtrc3hDMk9ib3AzNXFoR3FoOHI4akoyY0pSOFNCcWFMb0x4Q1lLWDZaNTJXZ2FDc2I4UVNQVjRZTW1fRGlqWmQyQ0dtMGhYbjBoSGZGT0tWUVRpdlRGVGtPOHRWeGFEZER1Zk5FWV9waXBTZDBRdE5NRk1TdGVJd1lJOURxUUo5U0lRaUdSdHVPMldoazVsdzZJeFd5QVlkcjhuQjkyRllvdmw1ZHJfNTRpYjRiMXpvcFBXTjlGOHhlVGtaZTVzc2hxSFRYU0JvblpuZ2hnZkxqVUxLMWN2TWxPQnI3YU1Ib2otV0NEWURHaVBoYXhpcTZoTXA2ZjdjQUIwcy1nWmx1ZWM2MXVEOTRLM3ptdWpnZVB4aG04b1lya1Z5YlFoWmoxc2hTUGtDYnBWZXJzMWJyQzNmNTBpMVBJd3g0RjZBYnJLbWI5SVVNNVhHaHVsdG5tbTdNS3puZERIeE5sVks5YnRDNA?oc=5",
-      "published": "Fri, 13 Nov 2026 06:36:00 GMT",
+      "title": "عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\"",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00aDlUc1pRMEM3cFp6LTFNel9ocmRaOG01LXo4M0o1THE5c3Y0YjZIYTRQYVlEblhpajRaeUpvelVoYmdnY2c?oc=5",
+      "published": "Mon, 16 Nov 2026 12:26:36 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: دراسة علمية تقلب الموازين وتُعيد الاعتبار لمنتجات الألبان كاملة الدسم"
+      "suggestedTitleAr": "خلف الخبر: عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\""
     },
     {
       "category": "culture",
@@ -107,35 +107,95 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "شبهات تلاعب بأصوات العرب في إسرائيل.. تحقيق يشمل مكتب نتنياهو والشاباك",
+      "title": "لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOb2U3OGhLMmNnSXRKc0tSYlpVVElYb1BVWWFmUFVWcjM2UXhqMC1mM0s1MlhZSV9STVVqVW5DU3N4LTI3M1JLUEU1amYxZlhqZTZOQXY4MV9KLUhwTEplc0pjYmM1LW9wdlFNc2RZcXJWNXIzc3N2U216aU5uZ0czUVlqMUMwRnhLRTVfNHN4WjBpaEx2M185OWVhNEdLS0trVGpBekcyQ041di0yc1c1Vkd6NjFJMGhkeS0tb2FyNi1sai1xN3JPMl9LZ0Z4bkFCRkNMVHRhU0JJMlkzcm1pVlozUzgxdW5QWU9tNGlXQW5SV0NGQ3pSMUJHMmZFMG16OUhlWkRwM3dNRWtaeGsxSGszc1hZREFCeWFmTjhZNF91U2pGck1FaFMxQ1N1bFM5MGdpSllqaUdfVDZkMW9xa0FObWd5SThXV09OUFc5Rzk?oc=5",
-      "published": "Mon, 16 Nov 2026 14:20:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUHlCTkhOQmp4V1dOdTZZc0FaNkhqc2liSGh3b2hyUDBwVS1ReGJKYngyZVh1b0E3VzJvN3ZxZVNUZHZ4UzRxYnBjekZZd3JFdm1RdzhNaHlkRWdzRUVwSGNOMEVybWRleE9yclNYVGxOd2dwYkNYLTJlaTdOOVJSd2hfQ2hraWhIY194cUxuamtsREk5VHdxTDNDdlVGMVYwbVFmMU1xMEpzbEotZE8tN1VSVkxiT0hGWDA0LXlDbXlCaHdLeVAyc2xxNzFqN1M5TjEtNzZNMk1NemdqcERSTGlfTnNHLVAySURHQU4td1p4RkxUaC1xRVFTWDZmbnk3OGpvZTQweTZEZV9zVVQzcDBhSVE5OVFxX3pWeG14WVBGSTBfTkZoT29uejNBaXQxRXZPdTVWX2dFN3ZjcFBIeGFfdXdqQWgtQmtZX3gzSVcwZw?oc=5",
+      "published": "Mon, 16 Nov 2026 20:40:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: شبهات تلاعب بأصوات العرب في إسرائيل.. تحقيق يشمل مكتب نتنياهو والشاباك"
+      "suggestedTitleAr": "خلف الخبر: لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟"
     },
     {
       "category": "space",
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "علوم وتقنيات/ المملكة تعزز تنظيم قطاع الفضاء وتدعم حوكمته الدولية",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oZEFsai14a2hyY1R5Tmw5cE1Vem5PR0dZMjRaNWtkcXBGX09kNXl3cFlOQ1RoelhVOUhqd3dxd2ttdkNjdzRlV2dB?oc=5",
-      "published": "Sun, 15 Nov 2026 08:03:59 GMT",
+      "title": "إشارات غامضة قادمة من الفضاء.. تصل الأرض كل 8 دقائق",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOV1ZId3ZQOE9VZ05USFkzYnJ6TjNyU0ZHcnZ6cTR2em43UjlSc3RmN3l3Y0s3a1prTjlWMUZxRlc5cVJ2OWt0Z3B3ZW96V0s1eURQdUk0TmFkSzB4VDVBclAyajBDUlpLdXQwZm5tQlRUOUtIcDRWVE93Wjk4aHdKb2JCUHNvYmRmZ3JZOGhWclZSOVQyRDRJbWh0ejVXSFpFVUxIS01FRFJnRzk5MmJYbUZUbXhxRUJzT01UMTRxYUNpTDJ6amJGU1JYQXJNQUdiclY5MnZ5dElpTGdHWUJkQlBLdXVXMVphdFhEQjIxc2lDRWw2eXV0Q1BIQUtpT2p0cEhzQ2lGWW1mR0Ezd25HNVIySTdTV1Z5azUzdW5LZFpwTlhqWkNWY2QwY0RFamoxbVpGNjBKTnVRRkRpcjVGMHl6bEtEU3JnLUZ6SkszUzJfbXp3VktxYzVBMWxwZDhpdVptaFZ2NVZIX3J5b3pfN0dlOTZDWVVQeG1QYm90N3JDejZEalNJOHVzZkd2WEpQdnZFd0hmS2JoSEJNZk9BZzFkVlpXVjVxaDlQQ1FzZTN0QUNWRWtjV3BrOW9IekZwZ3VlOdIBygNBVV95cUxQcW9abmJrdEM1azB5Sm5oZ0VNOWRCRmJvZzJLcmFocGFiWVBfSjhTV0czQ2t3NTlQcjZRckZlMFI2bHdWUXU2bEdDandPdlNNQ0VUdk5KLWQ4UVIzQngtaUVLeWhrWWdUVE5zcXRzcWQ3ekdmeDhYdFFiSmhMWjZlZmhQdXZFMzJCQXVEbDB6cVRUVEJsdU1kWlkwa2pDWUVpQjM4SEJvLWFZUXlqZEpoT0NwZkhVSy1VcGcyaHlZSjd5bERHTlAxQTZUQmUyNWp6RThtUjd6WEJZVXRMNy1Rc3VnY0ZSNHZ0bHRud0FFWGRaNVlQT0lvRF9ZLVhjX3F2N0x1TGkza1ZUQ3ZQdmRYdGlYcWhnTjFXRG5na0x3WGZJWlhacDVMYzF1bHhuZlRWNHJWX0VTYjBxTDdfNlVFNERueG16OHRaaUgyWU1Ta2l3YWtUdU54MTFCMG9TS3hkODJzSkdUSkE1R3NGeUlZaDBwYjVZZnBIa3N2cms2WEVJNmphOVg2enBrWDY4TVZTVGpXdHF0ZVNZanFZTFFKMkgzV1YwNFFjYzU4Q2lSV1Bwd3ZrRzZ0elNKZUU0N1hhbkZGcTA4elpkUQ?oc=5",
+      "published": "Fri, 13 Nov 2026 12:08:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات/ المملكة تعزز تنظيم قطاع الفضاء وتدعم حوكمته الدولية"
+      "suggestedTitleAr": "خلف الخبر: إشارات غامضة قادمة من الفضاء.. تصل الأرض كل 8 دقائق"
     },
     {
       "category": "world",
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Daily State of Play: Trump’s Indefinite Refugee Ban and Funding Halt",
-      "source": "CWS Global",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUlya0FrT3ZlUlFVM1ZOZDMxMjdoeG1TRXBwb0k0QUZJUGVKR1pvUndiVHo2RjBqcU10MFVBOE05cFR4NlpkRHJseVVPMGVvN3prelFkeUxvT1dQUFR2VDFFbmdBV1EtajM0SWNwQ0hKVWVrTEVZSWpuTDRkVTE2aHVGMy1keFY4QUYtWUN4MXFwanUtNWdobXRn?oc=5",
-      "published": "Tue, 17 Nov 2026 04:44:02 GMT",
-      "suggestedTitleEn": "Behind the story: Daily State of Play: Trump’s Indefinite Refugee Ban and Funding Halt",
+      "title": "Russia’s last independent newspaper shutters amid Kremlin pressure",
+      "source": "The Week",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHB5YWJsczI2X3FNZzMtX1VlZzUzSFRpTXpVdnh6RmtOcG5XdkpZc0VIMmpjU2UxZE5CajRWcHpEUTlibzBJV0htLUtXdGsxeFlsLXBXeWFGZTVtX21iQV9RNFRGdUhrZ3pLZmxyUHBFMVBMTEpHdjZTTnVtcEhHS1RuQ2dSU2xWcUQzdFJmMHpKb1dteDhUOQ?oc=5",
+      "published": "Tue, 17 Nov 2026 07:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Russia’s last independent newspaper shutters amid Kremlin pressure",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "history",
+      "categoryAr": "التاريخ والآثار",
+      "categoryEn": "History & archaeology",
+      "region": "global",
+      "title": "Smart News: History & Archaeology",
+      "source": "Smithsonian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2RU5ITkJQY25UNWlUR3F6V05aUUp5OFdkQlYzVnpzalhsMHQ0djdTUms5XzRPV0IzbVNzWVBMX2UtM0ZsaEVkVkpLemhvMC1QdlFYSUpDek1mcFg2eHdHOUtDejJ0S1FCUjlqRzdkWVBFcVUtanlqdWxn?oc=5",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Smart News: History & Archaeology",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "science",
+      "categoryAr": "العلوم والصحة",
+      "categoryEn": "Science & health",
+      "region": "global",
+      "title": "Sino Biological launches 4RISE™ high-throughput wet-lab services to accelerate AI-driven drug discovery",
+      "source": "News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajJoUDIzd1lzcDhEZFBSbUlPQmYwdVRBdGE0aE9sY3JvdXB4aHAxT3JwT1dXbDFkc1lLWWU4VkZtdDAwMF90NHpvTDlqc1ExMFNscU1hWk0zWkt4V09zaUt5MXZpcDRqaG1xSGlxTmZWQlhHclQwLWtfTEZvZFRIRGNpbVpSLXI0dGI3a2hIalI2OFdlS3VhUGZNbnd5Ujkyc0k3SkhvM2pqdEZYUXpSQTBxVm5NaDJ3OFotR1Bsa2xtdmxfTmNyTTlfQXhHQ09rVGQ2b2FjQWNhcTVuTUI4cGpuMmpWTjRVSklmSA?oc=5",
+      "published": "Tue, 17 Nov 2026 08:03:00 GMT",
+      "suggestedTitleEn": "Behind the story: Sino Biological launches 4RISE™ high-throughput wet-lab services to accelerate AI-driven drug discovery",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "technology",
+      "categoryAr": "التقنية والذكاء الاصطناعي",
+      "categoryEn": "Technology & AI",
+      "region": "global",
+      "title": "Learning the language of machine learning",
+      "source": "MIT News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTc0ZUxfWW1oZklSWHhsaTNlY3I0V1JtMzNrZ0VEX3luY1gxX3RWN3V4RnZ5M0RSQ01pTGxtS251VndPMEU1eV9ENVFabWQ5ZVVwVEZWYXJkc3FXWENUalVCc201OUdYelA3OV9kT0JlNlFza3ZmM2dKQXl3TzRjY1FsdC1VZnh6Q1E?oc=5",
+      "published": "Tue, 17 Nov 2026 05:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Learning the language of machine learning",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "economy",
+      "categoryAr": "الاقتصاد والأعمال",
+      "categoryEn": "Economy & business",
+      "region": "global",
+      "title": "Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials",
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQel9VZGtvZjQ1MmtRRHk0OGdocXNzWnJEZDc1cFdna0NORmkyXzE1QjFVOS1xdDlUU2o1c3ZXZnIwR1d1aU02alVBeVcteDRnTnZTZURFRHRSY1VkV0lkdXJrZkZsVVVxMDNhbmNvLTdsTUpvZWtNNWE2TmN2WTY0SkEtM1FSdnFGc0tSVXlMZTJ4T2dVVm9NVUNaYU1zZHMwT2l2SHJtWmg?oc=5",
+      "published": "Tue, 17 Nov 2026 12:55:43 GMT",
+      "suggestedTitleEn": "Behind the story: Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "environment",
+      "categoryAr": "الطبيعة والبيئة",
+      "categoryEn": "Nature & environment",
+      "region": "global",
+      "title": "Albania joins global partnership to strengthen climate resilience",
+      "source": "International Union for Conservation of Nature",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdDhHZlBDOFVCRUl4cnFSYTVUV2VtSWhpY2tWZVRlaTdhSmlUSlg0T3dNSkJFOUpGQ2dTOEFtLTM4LXVtMThRNzhGTnBIMEVPa2ZrMl9jcjREdmZBVFJzZnRhdC1Xc0RuZjJBeXpJdlBIMUluQzNqUEd4Qnhha3hjVHhQc1VGVkFwTTdzLURQc0xLYTJFY1E?oc=5",
+      "published": "Tue, 17 Nov 2026 12:23:19 GMT",
+      "suggestedTitleEn": "Behind the story: Albania joins global partnership to strengthen climate resilience",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Iowa State helped psych alum find his ‘true north’",
-      "source": "Iowa State University",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXA4V3R4aWhoQjJ0bDkzN2lWSkFXODh3dTNKRTQ5SENsYlg1dlVxeFNjb3dBeTFfcFdQSDNRcEgtcTNkUnZzdENRY29pNEsxZFNLREFPTDNVNDltU3ViN2VOeXpHZ3lncWJXUU05NXNKWm1CT0dsa1l2dFpmVDRaNlFoVzg2ZnBQS2ZnSWZ0Njc5N2M?oc=5",
-      "published": "Tue, 17 Nov 2026 01:28:34 GMT",
-      "suggestedTitleEn": "Behind the story: Iowa State helped psych alum find his ‘true north’",
+      "title": "Prof. Thomas Gilovich on 45 Years of Revolutionizing Social Psychology and ‘Duty’ to Retire",
+      "source": "The Cornell Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3V1Ql9ISEJHR0V4OW4tbnVxNXFiaUQ1RzJxOEo2THF0U1pDMkxmcERFWkY3cUhCTzVtWjVrTlBFaUtzbmV4dkcyYWdsRUgwUnoyVkNyZnBtU3pldVZNd0w1eUNsWHZMa1dPNGNPdS1rdjl2TEREM0FkTWcyMDdKQlpaX1hEVDdIeGx1cEZxR1FMS2U5T0U3bDk3dVFMdmpRcFBqTEpNSmNaSVVZa3UwNE00MGEzYkphU1JRcEMwNEtlTDZBYVAxb1ppcw?oc=5",
+      "published": "Tue, 17 Nov 2026 13:00:59 GMT",
+      "suggestedTitleEn": "Behind the story: Prof. Thomas Gilovich on 45 Years of Revolutionizing Social Psychology and ‘Duty’ to Retire",
       "suggestedTitleAr": ""
     },
     {
@@ -167,26 +227,25 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Ulster Museum: Coroner investigates death of Iron Age woman found in bog",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvV1FuX3ZrTk9EWHpQWm5KQllXVFFZc3JpMDlqcmNBVUJMQVdCV1dqZExkYzJvZUZRdU5kU0FWcVJ3RG5uM2VKYm5UYVY3R1h3VFNxSzFlUVBiZzA?oc=5",
-      "published": "Tue, 17 Nov 2026 06:02:09 GMT",
-      "suggestedTitleEn": "Behind the story: Ulster Museum: Coroner investigates death of Iron Age woman found in bog",
+      "title": "Rhys Bowen on writing real people and settings in historical fiction",
+      "source": "Crime Reads",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTZuX05fUkFLejgzcUZtV3FqUHJmaU54OS1HUk9xQU1uaG5abHMxTjliNlNkb1R2SFdwaFNhRkR1Q3pVU2xMOUhRWGRPNEhQaTBvaVdRMFB6dHFoVVZvNnJxTDlQUXMyV0owM1ZxX0ktR3E1S3RLTWJ4cVZoTUttdVRGaGswNEVsRlI1aXFoeFhkdUV5c2hB?oc=5",
+      "published": "Tue, 17 Nov 2026 09:24:26 GMT",
+      "suggestedTitleEn": "Behind the story: Rhys Bowen on writing real people and settings in historical fiction",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "space",
+      "categoryAr": "الفضاء",
+      "categoryEn": "Space",
+      "region": "global",
+      "title": "Astronomers watch a giant planet disappear for the first time",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRGFWY2xiNnd0dGVSb1J6WHhMUGRQY0ROUjJYVkduVXVlWkdFcDMza1F4TkkyWWRUZE9xMXY5R3NveU9Nc3dNeVZuUDhBY1BsaWc1cUJpbXBCMktydXNzb1dHclYwRWR3NGIyMWRTUGh1Q2NxeXlseG4tQ2d0dw?oc=5",
+      "published": "Tue, 17 Nov 2026 11:10:48 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers watch a giant planet disappear for the first time",
       "suggestedTitleAr": ""
     }
   ],
-  "errors": [
-    "ar/history: HTTP Error 429: Too Many Requests",
-    "ar/economy: HTTP Error 429: Too Many Requests",
-    "ar/society: HTTP Error 429: Too Many Requests",
-    "ar/culture: HTTP Error 429: Too Many Requests",
-    "ar/mystery: HTTP Error 429: Too Many Requests",
-    "ar/space: HTTP Error 429: Too Many Requests",
-    "en/history: HTTP Error 429: Too Many Requests",
-    "en/science: HTTP Error 429: Too Many Requests",
-    "en/technology: HTTP Error 429: Too Many Requests",
-    "en/economy: HTTP Error 429: Too Many Requests",
-    "en/environment: HTTP Error 429: Too Many Requests",
-    "en/space: HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
