@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 10
+    "global": 3
   },
-  "updatedAt": "2026-11-16T19:06:45.910292+00:00",
+  "updatedAt": "2026-11-17T01:23:48.224106+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,24 +11,24 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية",
+      "title": "داخلية السعودية تعلن إعدام مواطن اعتدى على عدة نساء عنوة",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR054WGh4WWVLZkFIOVRKWS1oeHREcVhvQTF4aXdKY3ExaHljbHdXN3Fma19TNVU4dTIyR1RtUjZWamo5VmxxcTBOYWVXYVRpRmZSR2N6dmxTclYzVGcxM2FCOElRT3BUeDI0MVFoNWU0YmxqV0ZONmlrLVBRaXBfTXhzWFJBWmlsZE9zUDk4MTF5MG81UjFmOC1CRTk5V29xUjJIY1hZMEJIeUlaaVUxOE91RXM3WFNZRnRrUTc1QkhFVjg?oc=5",
-      "published": "Mon, 16 Nov 2026 13:43:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
+      "published": "Mon, 16 Nov 2026 10:04:32 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية"
+      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن اعتدى على عدة نساء عنوة"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "بلاغ مواطن يقود إلى كشف أثري بارز في مصر",
+      "title": "عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟",
       "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcnlVamhDenh5ZkNHbW56TWZ2aVJreHVvaDVKOHhEZXcwS3RmMU5EcGRlOENwS1diR1FFUUNkVmdtam9tNm5ld3RncTVyOWxHU1djSFZqRXhZOWcxZnpWVlhZMG0wd29HMlJESXNreXlnM0wzTnVtSEYyWFFPcGZlRUh0dlRUWjBObTJOWG9pcE5JUUtyaWF0bm1RMFpJbFVrMzIxRkJRRXJfZUp4NDR0dFhjQ09qam80YXpFVjB1SzRwcDBybkYtci1falVxNGFVeVByaWxpdjV4cE9jUlhzejByV2p1d25ObzJEMW80WFF3SEVxQ0NPbTRJbUFuX09PZWt3dTh1NXlyMkx2MDV4ZS0wQ29QUkstRHNVZEFqRGdyckZNbndvY0pHU3QwaWxaV3NsOGs5Z1ZlcGhFa2ludWUwSFA4bTNFTlozRHpvM3BIaXRjMUJTQnB1MWF2OXlPVlVGOHhndGJocnZGeEZ4WXVsb0JMT0RwTFdaZFBRMWxqemtoUXRYa0xmbGgyZ2hqWWRCQXFsVGo4NmdBaDhib2VlRE1ldw?oc=5",
-      "published": "Mon, 16 Nov 2026 11:55:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQRERwWDU1bHFCMHV2VTVSb2MzUF9ZblBZdVpncnBWbXNwTkFiMm9PcmJhOXFrSVpjWk4zTnpXN2lpZW5TMGVXWjQ5ek1oeW1PU3ZWdFZ5RFZxRm5PZFBwazhxYXZyUm1raHIxaV85b2ZMclB3VGdyazlzSmdXam5PTm15OVY4bi1yaTdIRWNVZ01semtqdzFHTHp0QnZBVzMta2x1XzFOblJoU3BZT2VVZjV1dktJLTR2Y0tGb0xlcjVnR1dIRGZNV2dWZ19Xd2VfaFF4Wkp4bVZ4ZTJzN29TWUU4WHJoRlR5YTdYc211SFJ0ZXg2czJFQ0RYTkpvVW5sSTBqQnRnVG1DY2IzeUlaM2J2RURvUzBZMHRLb2FKWC03aUQzUndsdTZGWXl2dUd6RkxfUEItcEZHNTVoampmcUtGMTNWeGV1ZTRjX24tQnpBNFQteEJPVm4wTWx3SThVenpBdkpkUFZycTlteXhzWTJlNWF6Z21fQ2liRy1iOXUzMVIxeWlqWl84NTRKbDRnb3A4VGhJc01LV1RNemQ4bEdtZUVLUDV0Zkw0RXB0eEJnaEZaZHpVTHpXcVdWeG5mbzQyd211OWlqT25nYzczVE1uY2NMRFNmN3NEZlE5SGVLWTVKeWdlWXNvc2JKNjI2UHU2aFZBWUI4enVGaVVfMzdhRXRWLXgxaVhJVUIzWVJfdTAtek9vbTNTUHFzTVMxNS1fXy1LQkdMREd6Q0F0R2RYcWs4VWFqZEd6TUM3Nm1Td2VxVlZBV1RMLU5ZbW9Kay1HQVNPZVRDN2w3LXZoMXRMV2x1NXhkUkdlbUJRZURvQ3AwX3RlZk53?oc=5",
+      "published": "Tue, 10 Nov 2026 18:58:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بلاغ مواطن يقود إلى كشف أثري بارز في مصر"
+      "suggestedTitleAr": "خلف الخبر: عبد الرحمن الأنصاري... كيف أسس عالم آثار سعودي مدرسة لاكتشاف تاريخ بلاده؟"
     },
     {
       "category": "science",
@@ -86,7 +86,7 @@
       "title": "عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\"",
       "source": "وكالة الأنباء السعودية",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00aDlUc1pRMEM3cFp6LTFNel9ocmRaOG01LXo4M0o1THE5c3Y0YjZIYTRQYVlEblhpajRaeUpvelVoYmdnY2c?oc=5",
-      "published": "Mon, 16 Nov 2026 12:26:35 GMT",
+      "published": "Mon, 16 Nov 2026 12:26:36 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: عام / محافظ الخرج يطّلع على حملة \"دور المجتمع في حفظ الأمن\""
     },
@@ -95,24 +95,24 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
-      "published": "Mon, 16 Nov 2026 02:48:31 GMT",
+      "title": "التشديد على حماية التراث الفلسطيني من الانتهاكات الإسرائيلية",
+      "source": "جريدة المدينة",
+      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPWjJIUFRlSzlBNXREbFUza3h4eGkxRWNPZjlYU1FkUlB0aWp6SURnM0thck9fWTFnOVQtdnNyM3V0bWpkNVp5Q3F6T2lXVzA2RjdhSFg3VHlLY2N5cVVhZUYyaTB1dUR0eHJhbDE5cmRKa1pzZ3FERWdMS1BaZjNydjgzMG84N2NVQ2cwaG02QWtybkp5WmtnNlM5bnRvcUFBbzdXRmhYN0VsakVpdEpIbTZYS3N3SzNBM2hXd1N1ZWlLbGhPUDlsTXN4SDVFY2dYVHV4dzNkYk5EN2d2Um9uS0VRdlpRMkprdXY0dFJSWnZSaW1YNWlBSE1YcGxFa1RjME9qWE5iLVVLRjV0dnloeFZCa05yMHVFem0zZ05KWWNDTW5PSGJvRDhxcWt5d20teVZ6M0NKbjNveVlMdVFTc0dpbUVTR3lES1RoT3ZhY2xuZDJaTU9yazItT2VCRWpOWGZiOG52ZEp1ZUthUGc0dkxZLXBRNVhiTjJXYWNHbGtGT3VSTGcyN0dudjNFRU1CZ0lhN3RiVERlanBJVWk1TDRMOFZQVVA5MjkwMW1HekR6eGY1eWgya2hwZTRxZVpfS2plQlF1YlJjMU1TMl9hTGM0N19FUy1RMk5aZS00d3llcnU2VVE1U21IV19xZ2RxM0ZPQ2VUcEtWS09lVXhXZWZkcDJvTGlCZWRhUGloeVN2RkNRbHVIUVNZYW9HZk54R2UyckU0SzE5ak5VMmNB0gFXQVVfeXFMTkdYMEx2QV90SHB4R1dKak5HQUhwTlRJdTZSbWJWYlNqTXJTb2ZXS0lCSThYQXlESEFRaVlLU1B2cE5CR3FrLVh0aU5ZLUdMc1NHZ19DS0E0?oc=5",
+      "published": "Wed, 11 Nov 2026 21:20:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: التشديد على حماية التراث الفلسطيني من الانتهاكات الإسرائيلية"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟",
+      "title": "لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbjdDTTh5ZVJHSDJndzFkRHo0aS1tRUg5X0dFTDlhWnM3bXFBdkRENklnNTdPOFRfSTFONFd4LVFaRFFPNE0tcHdOcGg0bVpLbk8tVDRIRTFaRktHX1hyZDFoMkxHZ2NMMjkzVzVCZFBjU0VkMG1VZzBOT2ptUFlRc0EzWG1ZZmVTcllDMlJuMnJyT3N6NFFUdXhRamt1N0p2c3Bxd1pKMTdrX0ZjS0FvZHNXZExQNFV4eThZSU1SOC1zNkZXa0Nsbks4LTRXbDlwOVZpdkdNVzBsSXN1akc2cUpRczhodW1MNFlySEVMRDE4SWtrRXMxTHRLM0VaX3VEcVV0LTRMcjU3Wmg3M2VQLXBRM1RCY3otbGRjMU5scm5iTGxtcXdnRGNaMGhiQ3FfdjkzcXVmTlZPbGN6UHplQQ?oc=5",
-      "published": "Wed, 11 Nov 2026 08:59:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUHlCTkhOQmp4V1dOdTZZc0FaNkhqc2liSGh3b2hyUDBwVS1ReGJKYngyZVh1b0E3VzJvN3ZxZVNUZHZ4UzRxYnBjekZZd3JFdm1RdzhNaHlkRWdzRUVwSGNOMEVybWRleE9yclNYVGxOd2dwYkNYLTJlaTdOOVJSd2hfQ2hraWhIY194cUxuamtsREk5VHdxTDNDdlVGMVYwbVFmMU1xMEpzbEotZE8tN1VSVkxiT0hGWDA0LXlDbXlCaHdLeVAyc2xxNzFqN1M5TjEtNzZNMk1NemdqcERSTGlfTnNHLVAySURHQU4td1p4RkxUaC1xRVFTWDZmbnk3OGpvZTQweTZEZV9zVVQzcDBhSVE5OVFxX3pWeG14WVBGSTBfTkZoT29uejNBaXQxRXZPdTVWX2dFN3ZjcFBIeGFfdXdqQWgtQmtZX3gzSVcwZw?oc=5",
+      "published": "Mon, 16 Nov 2026 20:40:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عثرت على جثة رضيع داخل ثلاجة والدتها.. ماذا وراء لغز عمره 20 عاما؟"
+      "suggestedTitleAr": "خلف الخبر: لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟"
     },
     {
       "category": "space",
@@ -131,47 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "“A Whole World of Unknown”: How Couples Live Between Today and Tomorrow with HD",
-      "source": "HDBuzz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUNhZkMxTTc0bVhKNUJ4c3RoQlZmVWYwSEI5S2pEVVJIaS1sdFc1dVp0TXJ6ZzdSbW1WX2pjdXpXZFJJMndjWkZsUTl1cFRHWlZZNUxsU2FpYmRTbmVzZjY4R0prN05UOWlZSlV0b1Rqc2VzRGJpX1hzbXdjelhKTzNSQWYzOUQ0X0Z5eHNkd1FWNnFKcTR4cmF6VjZ4VEFmaGRFRWFR?oc=5",
-      "published": "Mon, 16 Nov 2026 13:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: “A Whole World of Unknown”: How Couples Live Between Today and Tomorrow with HD",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "history",
-      "categoryAr": "التاريخ والآثار",
-      "categoryEn": "History & archaeology",
-      "region": "global",
-      "title": "Afghanistan's weathered fortress reveals 2,000 years of history | Daily Sabah",
-      "source": "Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnZpVWVyREdRSUpLalVKaXdXNzRPR2t3TUJGZ0ZZQllnaS1pdzVVRVQ0NmpDUDMycktiT3BJOFFodnB6NWc2U2pjU1g1N2NtbnNyTkdUcjdMdk5CbTZ4Vk85NmFWMUJVVlVibkNJU01kLVpmWVFiVGVCYlV3NURWNE44bXVfTl84NTJnVHdxZUFqWGlsbXBpd3NFelZ4VXZuZ29zVzBSUDbSAagBQVVfeXFMUGZ2aVVlckRHUUlKS2pVSml3Vzc0T0drd01CRmdGWUJZZ2ktaXc1VUVUNDZqQ1AzMnJLYk9wSThRaHZwejVnNlNqY1NYNTdjbW5zck5HVHI3THZOQm02eFZPOTZhVjFCVVZVYm5DSVNNZC1aZllRYlRlQmJVdzVEVjROOG11X05fODUyZ1R3cWVBalhpbG1waXdzRXpWeFV2bmdvc1cwUlA2?oc=5",
-      "published": "Mon, 16 Nov 2026 08:27:10 GMT",
-      "suggestedTitleEn": "Behind the story: Afghanistan's weathered fortress reveals 2,000 years of history | Daily Sabah",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "science",
-      "categoryAr": "العلوم والصحة",
-      "categoryEn": "Science & health",
-      "region": "global",
-      "title": "Bruker Announces that Institute Director, Biopharma Entrepreneur and Immunology Leader Dr. Eicke Latz will join its Board of Directors",
-      "source": "BioSpace",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlM5enp6UEhXMXNHTU9WbC1kRkd3dC1CTlB1MTlIN0xWa3FJbU9QU3E3UVBEMG5DVmlxR3gyR0pzS1BoeXk2RjRWM0x3RVNiX3g3NUItd01ENDJZQmVPdVFibWYySmZsdDRpVm93MDVuYWVQNEh4MTRJZHpvRThscVJQTGtYQ0tNaEhUMWdTYVJ4VXRXc1d4MVhMWHItczNMb19PTEoySlE3VzZIczhXbjR6UkNIemhWTms1aW1EMnV5OG1qa1A4dU1WTnFPTkxORFJZTW43QzJFbE9qNUZNeUhaekpVQVEzcHEzNGhXaGVkZ2dzbUc0bGgxdTA5Tlk3UUE?oc=5",
-      "published": "Mon, 16 Nov 2026 15:14:12 GMT",
-      "suggestedTitleEn": "Behind the story: Bruker Announces that Institute Director, Biopharma Entrepreneur and Immunology Leader Dr. Eicke Latz will join its Board of Directors",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "technology",
-      "categoryAr": "التقنية والذكاء الاصطناعي",
-      "categoryEn": "Technology & AI",
-      "region": "global",
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5",
-      "published": "Mon, 16 Nov 2026 18:49:26 GMT",
-      "suggestedTitleEn": "Behind the story: U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "title": "New World screwworm spreading rapidly across Southern states",
+      "source": "Stateline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnRabGJIR0RIUkd1SDRHbHRKZ3BvNDJRTHVHckNyZHM5WGFuaDNQbE9TcUdKSGJFM2tCeEQ3U080eHBnV2YwNjJzakNpTGdlaW5FTXpaMkdEZFpGVENiQi1CandUT2gyQ3NhTmZLZU9vTmdDdDhnQld1dDZaNGFXdks3ZWdmMDZQaVZzajRLY0lBYTJhX0U0Q19n?oc=5",
+      "published": "Mon, 16 Nov 2026 20:08:44 GMT",
+      "suggestedTitleEn": "Behind the story: New World screwworm spreading rapidly across Southern states",
       "suggestedTitleAr": ""
     },
     {
@@ -179,35 +143,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Louisiana Economy Forecasting Model Provides Projections for Q4 2026 through Q3 2027",
-      "source": "Louisiana State University",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemhPRk5EMWpLNjhUV1N1OWVHUkVOU3BiSlVFTGdTWWVmOEVGQXlPOVdIeHNGZ3QwcTFyR2JvYnFLMWVmV1d2aXBDNm5ZNGV6ZGpHNGQyOUJEWEdkQVdiUk9mbzRBRDdSdTQ3QzVEbm00M1RHQndnS2Z4dC00NUszYlRNZFlmQkpjTzBSY2hTQm1sVVp6eHpKUFJR?oc=5",
-      "published": "Mon, 16 Nov 2026 15:54:47 GMT",
-      "suggestedTitleEn": "Behind the story: Louisiana Economy Forecasting Model Provides Projections for Q4 2026 through Q3 2027",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "environment",
-      "categoryAr": "الطبيعة والبيئة",
-      "categoryEn": "Nature & environment",
-      "region": "global",
-      "title": "Future building electricity demand peaks",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51MnljX3dleHJMckwwNkNENnFEVXZMdWdSSzY2RzlEQ09KelNvTkNZbjhFNC1YeHJWRUpmckN2SjlZUDBLejJuUGdyajFuTllMYnJLZUhOclZPX1dDRHhJ?oc=5",
-      "published": "Mon, 16 Nov 2026 17:02:33 GMT",
-      "suggestedTitleEn": "Behind the story: Future building electricity demand peaks",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "society",
-      "categoryAr": "الإنسان والمجتمع",
-      "categoryEn": "Society",
-      "region": "global",
-      "title": "Impressionist beauty ideals aligned with modern clinical classifications of obesity",
-      "source": "PsyPost",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTYtdEl4cUdoRnFoY2ROWnhtdnJ1YkZwNUw1Z3oxVGVoMXZYUm1TdHlNR1NZbWg1ZVA5NGdIaFFsWUNzWC1sTlVMLUFHaF9MU2dvU3pBMnlMdlI2UWRXbzh0TG12bXF0WEtDS2Y2UUJhVEtsMFl6a0lvMFBkVjRQa2lDVHlaQnVmWVlnR3YzSlRBUkFNM2lVdHctWnRxRUtLd3VDbkNNTnI?oc=5",
-      "published": "Mon, 16 Nov 2026 17:26:15 GMT",
-      "suggestedTitleEn": "Behind the story: Impressionist beauty ideals aligned with modern clinical classifications of obesity",
+      "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
+      "published": "Mon, 16 Nov 2026 22:19:52 GMT",
+      "suggestedTitleEn": "Behind the story: Japan's economy unexpectedly shrinks as inflation squeezes households",
       "suggestedTitleAr": ""
     },
     {
@@ -215,37 +155,23 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "What’s with all the crucifixes in the ‘Wild Horse Nine’ movie?",
-      "source": "Angelus News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96aVVxWW40V2dOTkpVZXJqS3FROHRGZlBJSzZjV0VaQVZvUGs1R2N2TkpSQnRLMnMxNEJ4TW9RT2UwNjMza2N1VE9ybzYyQjFXTmFzQjBHcnV4b3A5WUxJZ3lwSGxEbl91NG9hTTZDc1ZpU3JkUF81NDhBTQ?oc=5",
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: What’s with all the crucifixes in the ‘Wild Horse Nine’ movie?",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "mystery",
-      "categoryAr": "الغموض والتحقيقات",
-      "categoryEn": "Mystery & investigations",
-      "region": "global",
-      "title": "Mark43 Delivers Connected, Real-Time Crime Gun Intelligence to Accelerate Investigations",
-      "source": "Police1",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZWdWOTJnU1JqdkgwdzhmMHNHQ182MjRWSi1kTWxWRFlpWVk2UXMtQmdzRmgwNjFyWEV1XzhqS3pBLXBKM2dDeXFJZV9VQlk4Y2h5V2txNmxCa2NTWWNLU3dRSFVLTGpvWmJRellaMXBuSHcxQ3hURW5ZM2lsUjUtcnQ4cFg1VU83WGlZa0dRakp2Z0N6bWV5RnhjcTh6ZDd2SlhHVU9kUjlBQ2ptUGFkZGdPcEdFMnp1VGk0ZEs4WTNSbjVFS05RTExLZmlDNG1UQzF5WUIxbHZkb205MHJoLXFHakM?oc=5",
-      "published": "Mon, 16 Nov 2026 17:29:27 GMT",
-      "suggestedTitleEn": "Behind the story: Mark43 Delivers Connected, Real-Time Crime Gun Intelligence to Accelerate Investigations",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "space",
-      "categoryAr": "الفضاء",
-      "categoryEn": "Space",
-      "region": "global",
-      "title": "Scientists discover star system sending strange radio signals every eight minutes from deep space",
-      "source": "FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSThkbklnMVcyeFpseVU1VmNsWTh1YzdpUEZJVmJMUXhyN1BqMG12bHN0RnhpT284YkNHcnhYeHhwb0JxWFl3VzhLV1R3Vktybll4eFhKemgwN0ZqLU9yRlJYTEo3ZkRIOWhmOV9wYXEtZlQ5VnF4eHlFSy16aUFNTFpZTTVDdWlhSmREZXRQdEhSZFROOG5adFQzQ2k3THZsa01sLXpZNWd4OXozdmlLR01meWjSAboBQVVfeXFMTnQ2aHkzaEZsUDk0dVhoTVQ3dmVEQlhyQVUxYlM5NlNUUk1kdVpwVW8taFVPSE1TbTZxaVZweTZLekkxbmk5LTIzWHZRWUFHYlVqU3lZbGx1TkE5RWFUazZIYVlQRWZFWnZobzJsczlTWUh4UDdrbXI4OWlqbzd4eEttM29qVGlpdWVIVHE3QmxJeUJoemhhUmdUU1VsWm93M1BsTm11Xy1hWlhBd1hMNTl4SG9OYlMxRi13?oc=5",
-      "published": "Sun, 15 Nov 2026 23:48:00 GMT",
-      "suggestedTitleEn": "Behind the story: Scientists discover star system sending strange radio signals every eight minutes from deep space",
+      "title": "New documentary explores history of crime and punishment in America",
+      "source": "artscanvas.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb3ZjelMzRVFzM3VmMEFHSk4xR0xIdUJMczd4Y3VISTZWY2pUeldHMHpXWC14SVozTFVxN0FHUExQSlM2YlVGTEtXZ29JU3VDY0xZeHhCS3gzUC1wYTRFcjc5aU1qREMxc2hJbjViUFcyNWVPYkFOUE9KemVsdmtRTkhDSlBvalAtWmJiTnp3eHNJa2pINldGSVAzcmRGVk1mR2NNNVhR?oc=5",
+      "published": "Tue, 17 Nov 2026 00:43:07 GMT",
+      "suggestedTitleEn": "Behind the story: New documentary explores history of crime and punishment in America",
       "suggestedTitleAr": ""
     }
   ],
-  "errors": []
+  "errors": [
+    "ar/environment: HTTP Error 429: Too Many Requests",
+    "ar/culture: HTTP Error 429: Too Many Requests",
+    "en/history: HTTP Error 429: Too Many Requests",
+    "en/science: HTTP Error 429: Too Many Requests",
+    "en/technology: HTTP Error 429: Too Many Requests",
+    "en/environment: HTTP Error 429: Too Many Requests",
+    "en/society: HTTP Error 429: Too Many Requests",
+    "en/mystery: HTTP Error 429: Too Many Requests",
+    "en/space: HTTP Error 429: Too Many Requests"
+  ]
 }
