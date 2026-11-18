@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-18T07:29:13.135038+00:00",
+  "updatedAt": "2026-11-18T13:26:32.572559+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة",
+      "title": "داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0JDX2dJNDRTQjZjU0tfcXFtb0c5YmxSWUlGS0dCTjNVQmljVkhMbXc2b2pPWjBsQzFhT3d1djBaS1ZVZFhEbm0xM3hSbW5CWXBOQ3kzMFVSallUeDBHU3ZSODlwRnZIcW80dzVZc0xwR0NCWTBneGtNaUtIaUIwY1ZUZEtPUHZGUFlvN1p3NXVUMHd4N0gxbmhwdGZ0RGdObWJxTzd1M3hYRkZIczJvbDdCWFlZM0Z1SkUwUTBZVjFkZGM5c3I0?oc=5",
-      "published": "Thu, 12 Nov 2026 00:19:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
+      "published": "Mon, 16 Nov 2026 10:07:33 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية: سقوط شظايا صاروخين \"حوثيين\" بعد اعتراضهما بمنطقة مكة"
+      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -35,12 +35,12 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "علوم وتقنيات / روبوتات تفاعلية في مؤتمر ومعرض الحج تبرز مستقبل خدمة ضيوف الرحمن",
+      "title": "علوم وتقنيات / \"المياه الوطنية\" تستعرض مشروعاتها وتقنياتها لخدمة ضيوف الرحمن بمؤتمر الحج",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05RW1ZcWtlZkstcVUtQzhlMGtUQ1ZpSlRWWnRRYVpCTHZmcW5FemR6aWc0MEVDWFhWRDRKR0l3cnkwSDVNVFE?oc=5",
-      "published": "Wed, 11 Nov 2026 10:41:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEWWJmU1QtUmR4bFg1UTJJZEJ1eW9uLXA3X0ZMZFpONklHUDltQjEyaDNGOXdRMzR2UmtGc1BTaE1hMXg1S2c?oc=5",
+      "published": "Wed, 11 Nov 2026 14:23:55 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / روبوتات تفاعلية في مؤتمر ومعرض الحج تبرز مستقبل خدمة ضيوف الرحمن"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / \"المياه الوطنية\" تستعرض مشروعاتها وتقنياتها لخدمة ضيوف الرحمن بمؤتمر الحج"
     },
     {
       "category": "technology",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "تباطؤ نمو اقتصاد الولايات المتحدة إلى 1.5% خلال الربع الثاني - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRUzRUdGNhcTFNNkpyRWUtOGVfckxTR2JuVjBIUFFPb0M4NDF2Nnpfa05KS0FLbEhxY0tDdjkwMjJwaGhxTVhtMWFOOTM0eGJFS19VN1VMUjBkM0UxU1piNG5fYWFzdnRoOUE?oc=5",
-      "published": "Sat, 14 Nov 2026 09:56:55 GMT",
+      "title": "لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGplSmFVNGtlb2NMVDYtejAxbXZwSGhlTVVHQWRyVzZ2djlrZTI5UTdSZFhjeW9pTm9ZLXVqNks3MU1xZWczZ2gtQTA3UlpSX0R3OUVLT05VX25UWW9NYTMwNGROTllqYWRzUUJDMktXZUZ3WHJOejQ0SHBkT3ZJdXJMNG5GOVozc0hocHBRVGxtRGdUTV9VU3VZZlBxMno2dHpuSmQ5cmU0d2ZWUHdSUUV0aUJhRVNsQWJDQWRHM09VQzM5ekJFbjgzMEZWeDJwVEowNHRIZ0dKRmVqOU93WWdMb1VUc2dxNlRXZVRQc2JFYl95QnRJbmhGeUQ2NUJNLTh5VE5YYllXbVdrX1ozQ2VERDNJa1NEOUU2Zk9KT0lkWlNTWWdTUnpuYnc3d0I4R25PamlWT1pRd29FRlkydA?oc=5",
+      "published": "Thu, 12 Nov 2026 04:17:54 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: تباطؤ نمو اقتصاد الولايات المتحدة إلى 1.5% خلال الربع الثاني - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: لغز الدولار الذي يجعل العالم يمول الاقتصاد الأمريكي"
     },
     {
       "category": "environment",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Trump Meets Philippine Leader Before Flying to China",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
-      "published": "Wed, 18 Nov 2026 06:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Trump Meets Philippine Leader Before Flying to China",
+      "title": "Piecemeal wars: A new kind of world war is already under way",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3NpakNYbGwxSGdzM1lsZ1dyOWh4cTNRcWFRT2U0enNYMzBIbWxidGdWM0N3X1BKay1fcmFpdjhYWFFSYzRtTC1ydmJHaE0xMDZhQ0RlTG11M1p0U3lRWTF6M2JBM01UV0NyYWlLVjNWTy1vMVR0ZVhYdS04eE1xeGZsN2huNk1tWlhfa1d6QnRwZl9MTHEtRmRwbkVwLThEY2QtTG1NRjPSAa4BQVVfeXFMT2d4VGp4LUs1N1dsdkE1NVVILXZ0TzFTbHROakZIMW9jcjVKNGxoSldhempYRlVtMmJtNVpJYXViOVZqd1BLekJxZUtfaURtR2tBYkY5UDE0ZEVYcWN2Q3F1a0hyRnlEeXZxVmNNamJlU1A5TEVqMWZGb0M2bDNOa21JVWJjQmhMSk9xZi1jSU1mOTMwbFNJNHVqeGhzOGFSN2pwdFdqT0ZUYV9GSHBn?oc=5",
+      "published": "Wed, 18 Nov 2026 09:52:21 GMT",
+      "suggestedTitleEn": "Behind the story: Piecemeal wars: A new kind of world war is already under way",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Afghanistan’s weathered fortress reveals 2,000 years of history",
-      "source": "Wisconsin Muslim Journal",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDNiUmFxZFJNekhSNDVhVlNDQ2VNMVB0X0ZrUGpqLTJNd1JPT0d6XzFNUE1OUng0Sk5BZjJJRXp6TE44ampsZzAxS1dTdHJNeXVKWGpweXJoYnduSmFGQmxYd3Z4bVREZ1RYTlNBZmdNWEk2bXpqSjM1ZFZBNEpRWjZ6ZDhUc0w2NndwaUFHck1CRGU1empERUppZkp6aXN1c0ZkdWZkOGZVVEhvNjJyU0h0d3hiaTBPUG1QVUdObnVVVzlkblNJLTdjY1RCMkRm?oc=5",
-      "published": "Tue, 17 Nov 2026 20:26:23 GMT",
-      "suggestedTitleEn": "Behind the story: Afghanistan’s weathered fortress reveals 2,000 years of history",
+      "title": "Reading the ground: at the Museo Egizio, archaeology is revealed layer by layer",
+      "source": "Museo Egizio",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekpjM21KVHZHakhrbjZrYVJua3JrYnRiNEFCUy1xLTVTb1A0THBwS2FNQ0dMN0dVWVk4dDMtWXM5SnZlOS1FbnkxbXZTY2ZKdkMtdlNRaFM0UVM0R0VSQ2JXTnBQajhjbkRPWTFOeGdjTWZpS3dZQXlmRm9pRnJFdUhaZDQ1a29OUmNYNHZZV3R0ME5VZl9QTzZjei1QdnBfcFpzSWZRYUJhUTQ1QUlIMmxnc1JmMHFHS2xWQw?oc=5",
+      "published": "Wed, 18 Nov 2026 08:06:31 GMT",
+      "suggestedTitleEn": "Behind the story: Reading the ground: at the Museo Egizio, archaeology is revealed layer by layer",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "From ER to Orbit: How Space Is Shaping the Future of Medicine | Newswise",
-      "source": "Newswise",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW9pcUQzWnZSdXlVdmRuWmIwOVVZSmZrd041Z1h1M1ROYmU1ZXdwYTB3c0pqUHhBeFZCQmhsOU1BTWVPU1lZVDBCU2JxbHNUZFVBN0JjWHFvQ2N0amVETG9JazhxaTJybk9ieThrSDBncEVzN3djTmhhRWpaNWdDek5PUDBRWm45c3BhZmZROUtBWWFTanhLR3JB0gGaAUFVX3lxTE0tb2lxRDNadlJ1eVV2ZG5aYjA5VVlKZmt3TjVnWHUzVE5iZTVld3BhMHdzSmpQeEF4VkJCaGw5TUFNZU9TWVlUMEJTYnFsc1RkVUE3QmNYcW9DY3RqZURMb0lrOHFpMnJuT2J5OGtIMGdwRXM3d2NOaGFFalo1Z0N6Tk9QMFFabjlzcGFmZlE5S0FZYVNqeEtHckE?oc=5",
-      "published": "Wed, 18 Nov 2026 00:30:00 GMT",
-      "suggestedTitleEn": "Behind the story: From ER to Orbit: How Space Is Shaping the Future of Medicine | Newswise",
+      "title": "AI can give drug hunters more answers. The real advantage is asking deeper questions.",
+      "source": "pharmaphorum",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGVzNTVENnlsRnZpU0wya3ZkemJtb3d2LXE5eURrZnBoeGZ0d2RnSEh4Wm1UUlhLRVpjVDktTkNmdmR5bVFkTmVTWWFqdm5Wazk2aFhWbGJHTE5tTXVFMXJWMTgzX2kxc0F4bTN6VUJweF9scThXUnoyMWVNVXA5djJyYkJvUzg2ZENnRXlXX1BUbTJnd3NhZ292TlQzb2M3SmFvLUVuRQ?oc=5",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: AI can give drug hunters more answers. The real advantage is asking deeper questions.",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Trump Administration Moves to Block China from Indirect Access to American AI Technology",
-      "source": "Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFV2Q29sLWdySWxqX0RGN3hIYkgycUs3Wm5Ic2FsNDIzQ1pjcjBLdzZXSGxGQXVJZHg5R1ppSndHOGowS2dneEs3V3NBVmdBTEFUcGFlcnM2M1Vremp2dWhnc2gwQV9ZWVZRZ3N6V2dHN2twQnpxOEtUY1o5ZnFndUp6R1VQYzlVWWZ1NUJsOUd0Uk5kUGVUQWJ6MnJKSnVQdUpZSWx5bnRUZDNja0ZGQWhnUVJJcWdlT1pyYw?oc=5",
-      "published": "Tue, 17 Nov 2026 23:19:35 GMT",
-      "suggestedTitleEn": "Behind the story: Trump Administration Moves to Block China from Indirect Access to American AI Technology",
+      "title": "Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMWFybWZVOUlBMWxJMlZHbmM5dWYzNWQ1LUFBUUFEOGxIWmh2dmY2b2F4T29va2JqOFRucmJtZmJQczdxbW9VS2FxeTdPX044a3c?oc=5",
+      "published": "Wed, 18 Nov 2026 10:20:24 GMT",
+      "suggestedTitleEn": "Behind the story: Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "From pilots to pipelines: Unlocking finance to scale up Nature-based Solutions",
-      "source": "International Union for Conservation of Nature",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0Iyd0VWa1B6cjNHLWtkZHl2X2JjclZrd0xEdmRoTG8xVHE3aUUxNzlFTmdBR1Boc3l0ZDBnUG5SWGthSGtqRnVSTm5aYVFOTlNfbEFXMFhwYlhqR0hTMFY0d1V2VEZDN0VIX05SYzNLRXBtYVZScHJaUFZWclFEbXR1UEhMVThQWU5vTHhqUlZjbHVXZUdn?oc=5",
-      "published": "Tue, 17 Nov 2026 16:04:29 GMT",
-      "suggestedTitleEn": "Behind the story: From pilots to pipelines: Unlocking finance to scale up Nature-based Solutions",
+      "title": "Green growth promises to solve the climate crisis. Can it?",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV92N2tNWHc2WE5aTUVjNU5nV0VGdHA0TXRVbC1oTWF6TWJ4SXktLW5lSURqdS1fUEFMU3JJcnJoNGREZUstcGxLdDFmYmp0UlhuT1NVNm9Lby0yY0FGRHdpYVYwZTlkbUhFYVU4NFUxUDYzMlp0WXhLTUpEUm5OTTdNUTQ4N2hVZU9xbWE5RdIBjwFBVV95cUxOVm5hYU90aktJVkFPR0RNYUVyMl9McG9abjRVSlIxTzRyTTdUby1CeXpqZFpYNXRZeEpyS1BhY3Z5T1llZk1wSDBHUGRFSXBOdC0ybGRmU0VxX0NGSWxzdFFiYm5WVXQyZE9SRGhVT0JaZFBUeUJxb1B0S21mMkpKZ2E0c3ZIek1lMTVrQUVuYw?oc=5",
+      "published": "Wed, 18 Nov 2026 09:40:43 GMT",
+      "suggestedTitleEn": "Behind the story: Green growth promises to solve the climate crisis. Can it?",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Psychologist Cat Norris Named Representative to National Behavioral Science Advocacy Organization",
-      "source": "Swarthmore College",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkgtZTlWSzV3eFdEUzFhTzRMTHB6VEVzV1M1SnU5dFZKSjI1R2xDM3NrYzViZXh1NUlqS1o0MU83a0RKZUNjU2N6UEtwTXU5VFp4NjhJd3NmZW0yWkI1dmJFSUhDZTVmV3dyZW5lUzllM0dhcmc0S1BsN1ZMdmk2OF9wd081ZkxyWF9obGpPTEx4R0xmejZtSmR5OGF2VUhIdWpreEhsSjRQcDhVTXllQ054OWt2blFVXzM0eGR0Rmc?oc=5",
-      "published": "Tue, 17 Nov 2026 15:16:35 GMT",
-      "suggestedTitleEn": "Behind the story: Psychologist Cat Norris Named Representative to National Behavioral Science Advocacy Organization",
+      "title": "Psychology Says People Who Still Wave 'Thank You' to Drivers at the Crosswalk Aren't Just Being Polite, and Research Shows a Simple Thanks Doubled People's Willingness to Help Again",
+      "source": "Grazia",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTUk2X0xOQUtJS1pEOERSbXljUXFfdEVOS09sOGxRZUtWb1lqNjNCelA2dk1QZ1NVaFI2eFluQzhUdVZkM3dxUGtKUGthTlhDd0c3RFhDMVlySVJVdmwxVmtzbS0tS3p1T3QtLUxBRnR5NTRNbXpmZjZzaXFFYThHdi10ejlKUUxKTDluZ1gzbHMzbm5fOU1aMHE1OTdibjhoUjZhRmlUVDExVVpEdEExYjVub2N2ZlNuN3gzS1pVWlpqYzJrM0g0UU1wcEhzYUpGRFVvUlRCdWk2RzFaZkQ2ZzVMa3p2NGFrTTNMc0ZZRWYyT0dzTExCc3hBaGdsbExQSnJ2eEhSdHZHcDlWNE9wSldZZUowNjZKN2JGeWRidjJRazJpRHdwX05yOVh5cTZvakNPckdFVjlMeThzNjZuT0tTODI?oc=5",
+      "published": "Wed, 18 Nov 2026 12:20:22 GMT",
+      "suggestedTitleEn": "Behind the story: Psychology Says People Who Still Wave 'Thank You' to Drivers at the Crosswalk Aren't Just Being Polite, and Research Shows a Simple Thanks Doubled People's Willingness to Help Again",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "McMinnville Short Film Festival to showcase three films by Indigenous artists Saturday",
-      "source": "Oregon ArtsWatch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2hRNzNoM2lCQmlFZEswOHdxR2o3bDFSSEdDNTBJM3ZLaXJqZnpMMW1OeDZhLVlxbnlLdS00R2NMbGFzTmdIMWh2TDEtQWJ3cnNpd19RZFNjOTY4ZVgzWFB2XzlQTkJzNzhZNUdVOTlMMFNqTkVKeEV0ejFVeWpoUUFGUUpGSkRkN0xrcXlMZFctVXY4ZWRiWEU2VWJ6R1VqOElWa2NyQTcyc1E5ejcyR3NVcTJyZw?oc=5",
-      "published": "Tue, 17 Nov 2026 19:57:02 GMT",
-      "suggestedTitleEn": "Behind the story: McMinnville Short Film Festival to showcase three films by Indigenous artists Saturday",
+      "title": "Art on Film: 13 Documentaries on the Visual Arts That Premiered at the Sundance Film Festival",
+      "source": "sundance.org",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOGdSSWVneUdhYUtqa1VhNWNsU0RTVVFtMVdFckJSZGlSTFNKaXVWTTdhZGhzdG44VnM0bXZfNDJDNW05MXp5T0ZCWWtBQ2FfQ3puWjl1VHFTbHA2MnlpY0c4V0RRSkwxZi1pR3ZuU1ZCSEZ6ZVp6Z193djZDWTVZeW4yU0MwLVpRSWI0YV9GYk5hMF9yR1kybDNfSUZydTVTbFVJTGM0MTVMVjJsTm9WbDVmTFN2SjhxbnE5emJKZlBrUQ?oc=5",
+      "published": "Tue, 17 Nov 2026 09:14:28 GMT",
+      "suggestedTitleEn": "Behind the story: Art on Film: 13 Documentaries on the Visual Arts That Premiered at the Sundance Film Festival",
       "suggestedTitleAr": ""
     },
     {
