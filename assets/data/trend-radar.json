@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-19T13:28:53.290981+00:00",
+  "updatedAt": "2026-11-19T19:11:23.433504+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية",
+      "title": "السعودية: أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة | CNN Arabic | CNN",
       "source": "CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR054WGh4WWVLZkFIOVRKWS1oeHREcVhvQTF4aXdKY3ExaHljbHdXN3Fma19TNVU4dTIyR1RtUjZWamo5VmxxcTBOYWVXYVRpRmZSR2N6dmxTclYzVGcxM2FCOElRT3BUeDI0MVFoNWU0YmxqV0ZONmlrLVBRaXBfTXhzWFJBWmlsZE9zUDk4MTF5MG81UjFmOC1CRTk5V29xUjJIY1hZMEJIeUlaaVUxOE91RXM3WFNZRnRrUTc1QkhFVjg?oc=5",
-      "published": "Mon, 16 Nov 2026 13:43:25 GMT",
+      "published": "Mon, 16 Nov 2026 13:44:49 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية"
+      "suggestedTitleAr": "خلف الخبر: السعودية: أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -38,7 +38,7 @@
       "title": "علوم وتقنيات / جامعة الملك سعود تستعرض تطبيقات الذكاء الاصطناعي والتقنيات الجيومكانية في GIS Day 2026",
       "source": "وكالة الأنباء السعودية",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FV25Tczd5Z3RJcml3N0JrTjFoXzJVZWRQYVJDWkhHLUJWdk5USXhvX29SNm1yYUFrVkU2a3NrWGhoYXlma3c?oc=5",
-      "published": "Thu, 19 Nov 2026 12:04:21 GMT",
+      "published": "Thu, 19 Nov 2026 12:11:42 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / جامعة الملك سعود تستعرض تطبيقات الذكاء الاصطناعي والتقنيات الجيومكانية في GIS Day 2026"
     },
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "The Latest: Trump meets Putin and Xi for historic talks in China",
-      "source": "News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhqZWVpWm5fdzNrZlgxRFQ1Q3RwVTlCNXpxV01ULUZMTHR2U3ZTa2o3TnlGOWdPY3hNNGgwcFJSUFhtbUMybXE4MkdvMWxsNkNVMjE5RXpNSTdmM1BKeHRYdWNYYVlfZVZhVm9sT21mYmdZNUV3bGRBa2Uzblg3a0c2c3dTN1lPU0xPOEgxT05VSkNFVWt2dW5aWVFuQQ?oc=5",
-      "published": "Thu, 19 Nov 2026 10:12:48 GMT",
-      "suggestedTitleEn": "Behind the story: The Latest: Trump meets Putin and Xi for historic talks in China",
+      "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMThISzFrZFRWTlpOekE2allqVmVtMmpLWGstWEVweU95OTVya0w3UEFpSVA5UjZ6dGxUUTloQTZ5Y2ljRE9nRVRrMGRLWUJzM0pJRDFJWXhPemJGQTB5Ui1BMEpMYTQ5V1luYVlrT3lDNGtwRGZXaVh3X1pudkwxQXlVdC1XQnF2SW5tSDRuWHplS2prdXZiTXNVTnpCUVRaQXl0bGMtVDh3S2ZHclRObmNXa3FPemdxOUtKR0xR0gHDAUFVX3lxTE03d2VfMlkzT0hDN2U0czc3MkNEQkVBb083UWYtU2xQTUpIR0lFNEN4dWQ5NVliSXlHQzdwZ3F5N0c0bHlwUmR0c1NxYWJwWjcteklMX3RPTjBkMUl0YlVUMk81aWNpbzJXQVl6bENNX0YwTlpacmJnY2lEa2p0Mk9BLVRhTFAtTllpNHNSZF9VUHhzcmpobVY5RWRVY1JrRUhPNml5alRac0F4UTNBNnBRNS1weC1kd0xTZlNVYVRIMVZkRQ?oc=5",
+      "published": "Thu, 19 Nov 2026 16:51:50 GMT",
+      "suggestedTitleEn": "Behind the story: For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Stories through the grapevine",
-      "source": "The Past",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmNlZm1kY2ljZ2M4cGVUUlpqei1aSkdJWk00ZDloSGdoWWpaS0k4X25IN3pJdmgyXzVZQUtycFZNRjl6azdidjdkMnpkcUF4aHJGN2pJZ3VHNDdTYWZ3M2Qta0c1dU5QcmJ2QVJhVWpFX2o5OERQMEZLRHdJbWJvZ0hfd3BEa3RS?oc=5",
-      "published": "Wed, 18 Nov 2026 21:00:11 GMT",
-      "suggestedTitleEn": "Behind the story: Stories through the grapevine",
+      "title": "Four major archaeological findings give new insight into Yangtze River civilization",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lUDB4Z2kzdElCNF9zOWdpN1hFZjBac0diazlndUh4UHhBdFdrUmN4T0xxU2IzTXM1ekNNYkJOckJVSWxJZTdkdVZDc1FjcHJwUWt4WVNkRFJRTkVCbnZmOWtB?oc=5",
+      "published": "Thu, 19 Nov 2026 13:35:00 GMT",
+      "suggestedTitleEn": "Behind the story: Four major archaeological findings give new insight into Yangtze River civilization",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Pulitzer Prize-winning author Siddhartha Mukherjee explores the future of cancer research",
-      "source": "The Tech",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45a2I3UkRBQmpFVjNDaGZHVWlxbUZwemdMRW9qTGdvVXlCOXNiV2ZtYlhPcVhMdktxZGJuQi00M2tFbXJtbUNJOUJsR2dQbVZVNGhteDVXVXA5bGN2azhCbFRR?oc=5",
-      "published": "Thu, 19 Nov 2026 07:30:56 GMT",
-      "suggestedTitleEn": "Behind the story: Pulitzer Prize-winning author Siddhartha Mukherjee explores the future of cancer research",
+      "title": "From Drug Discovery to Patient Impact: Bridging the Gap Between Science and Healthcare",
+      "source": "News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTlEdHBoeWE2dUV1WDdXMERCY2E4NXZYeHpEamFNSGVMYWpjanBDR3h2VkdmN09XUG1CUzdmU0xzTXBFSU12TEN2OTlJdVlJQUxyS1YzenlwcmNNSUt1VVRHYW5pWTV1VF83SmxhdDlMV3hUQzRVZzB2dlU1YWtGWHJ0Mldqb0RBeXR2Vlp2N1Uyb2ppaHBQZzU3R1VvU0hmcWxrejRVN00zc0hVdUlOQy02NkxRdm85WGFxQVoyZ19ZX2tpa0VSRy1jZDlwQQ?oc=5",
+      "published": "Thu, 19 Nov 2026 16:05:00 GMT",
+      "suggestedTitleEn": "Behind the story: From Drug Discovery to Patient Impact: Bridging the Gap Between Science and Healthcare",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "AI in African education: Benefits, risks & policy solutions",
-      "source": "World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzExREw1MmNuYTl4OWEtMVJXbVM1dXBoRU5LVXo0UjNsWVFCb1pPdGZfM3NYYlREYzFSLVd2Wnl4dDJmMFlMOExUV2hwZlRNV3NiazFzZ0RfVWpTRjRWdzZ0NWtiS2V1OW5waU9McTZlamFNNlgyY2NoM3V4MGNEajZkd2ZyUjJpZHBfeVFaSGwxUmZLWHUzWmExeUZGN3M?oc=5",
-      "published": "Thu, 19 Nov 2026 09:01:09 GMT",
-      "suggestedTitleEn": "Behind the story: AI in African education: Benefits, risks & policy solutions",
+      "title": "What California’s Next Governor Needs to Know About AI and Jobs",
+      "source": "Public Policy Institute of California",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG9zdjJHVmNPcXFxWm5FU1hNTk4xQ05ycG9TZERPdVNWZEhjektmQTEzSXRIbzc2SmdPY0RRNFAtN01Pc0RvaDkwVXVZNnNqSjU0T2d2aWJSMWl5dVFBNEJCZjFKdk9VU0J3aTNFMll0WlF1bGE5OHZ3Nkw4RV8tenM1NDdFU3NPN0VieVNrUzZZSjQ?oc=5",
+      "published": "Thu, 19 Nov 2026 17:59:42 GMT",
+      "suggestedTitleEn": "Behind the story: What California’s Next Governor Needs to Know About AI and Jobs",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Chamber report calls for fixing budget woes with improved business climate",
-      "source": "Maryland Matters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWxrcTlwczNHSnNGakRVY2huMERHS1N0QUxPaXJCNmRLUHpHZnNBRUtGc1VDUFAwNmNoejBMR3dVTEhrMm9uei1ZSjRIaXRYQTQ0eXQ5aXRYU3d2Z294ZU5qSlFCR0QwNm9xa0tpYVFaRDRWeTNTMWNSMkIxZENXUGFTWmpBT1JscmFIbVJVQUJMVnFyeUhXMzFlaER2YVlGcUxDYklVeDhueGFtVG1GN3hVa2E?oc=5",
-      "published": "Thu, 19 Nov 2026 07:54:39 GMT",
-      "suggestedTitleEn": "Behind the story: Chamber report calls for fixing budget woes with improved business climate",
+      "title": "Business Checkpoint: Fuel for concern",
+      "source": "Bank of America Institute",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWRxa0NUZndhUXhlS1lleC02ZXNTQjZKVWk5R3dPazBaOElhMFF2MXByTTVGR2p6UUR1b1gzSy0ybWE4bXRCeFJtdklYZkw5VWRlVVNrSi15V0xCVDN4OWdNRElraDNEZENodHFZT00zeWMzNC1TTDRxVG1mTXAyMGpRZW84QnhGN0Y1ck1vU2FuTnp1aXJJ?oc=5",
+      "published": "Thu, 19 Nov 2026 14:21:04 GMT",
+      "suggestedTitleEn": "Behind the story: Business Checkpoint: Fuel for concern",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Green growth promises to solve the climate crisis. Can it?",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV92N2tNWHc2WE5aTUVjNU5nV0VGdHA0TXRVbC1oTWF6TWJ4SXktLW5lSURqdS1fUEFMU3JJcnJoNGREZUstcGxLdDFmYmp0UlhuT1NVNm9Lby0yY0FGRHdpYVYwZTlkbUhFYVU4NFUxUDYzMlp0WXhLTUpEUm5OTTdNUTQ4N2hVZU9xbWE5RdIBjwFBVV95cUxOVm5hYU90aktJVkFPR0RNYUVyMl9McG9abjRVSlIxTzRyTTdUby1CeXpqZFpYNXRZeEpyS1BhY3Z5T1llZk1wSDBHUGRFSXBOdC0ybGRmU0VxX0NGSWxzdFFiYm5WVXQyZE9SRGhVT0JaZFBUeUJxb1B0S21mMkpKZ2E0c3ZIek1lMTVrQUVuYw?oc=5",
-      "published": "Wed, 18 Nov 2026 20:48:46 GMT",
-      "suggestedTitleEn": "Behind the story: Green growth promises to solve the climate crisis. Can it?",
+      "title": "Exclusive: Bezos Earth Fund just put $100 million into the Amazon rainforest",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdWYtYW5mdllmUlVQM2pnb1F6RVFqRnlWUndTSzJUTFE1NnBReUJUdVR6Y0g0TzZ2S09laXF4dXhoellncGFmUno2OTdvcFFiWnhnX0J0bjN2aEVaV2pjTDhZaFpMQVlKZVJZeGhKQUV1M216RXhkcmZQd2ExU2xpUm1kVUswbE5ZWngtVw?oc=5",
+      "published": "Thu, 19 Nov 2026 12:30:00 GMT",
+      "suggestedTitleEn": "Behind the story: Exclusive: Bezos Earth Fund just put $100 million into the Amazon rainforest",
       "suggestedTitleAr": ""
     },
     {
@@ -206,7 +206,7 @@
       "title": "Behind the research at UTC: Dr. Kristen Jennings Black",
       "source": "University of Tennessee at Chattanooga",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclVORzRNd3VhNW50VmxkR0xGN2psMDJ4cGc0bGtJOGVFc1hjcU5kQWFESHk0RFoxODloR1VuaHpDbEZGeGpVV2lqM1BibGY3aG1EWEZfd3RFNjNBeUw3TzNfTWlrX0cyT25RRDFBNTVLSmdwcHNGTGNQSDhBaUFOWTZVUzRkYUdjRXh1NjdBWWg?oc=5",
-      "published": "Thu, 19 Nov 2026 13:28:08 GMT",
+      "published": "Thu, 19 Nov 2026 13:27:36 GMT",
       "suggestedTitleEn": "Behind the story: Behind the research at UTC: Dr. Kristen Jennings Black",
       "suggestedTitleAr": ""
     },
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Mercy University's Art Exchange Announces “Hitchcock in New York: Film in Conversation” Series",
-      "source": "River Journal Online",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjRKVnZaSDViZDdQV0pBcXRiYlJXZDdWZHhZODFvMHM3NzVGYTFlbEZUdHBIdnI0cFhrS1pVU0NldFBVVl9QWjNPZkRyNjFWMFk2NDV3THFnS3pMd0M1bjE1ZWxoN01IazdTR0NMSFp5TFA3MGV6dzNlVEJ6ZkdXUzVSWGxmT2htYndtemNGaWhmdFhFdkt1a1J0WGsyb1RxeEF6X0pWZW1Pemk4ZFdZakVmOFhlOG9nSHh6S2tvWkhBQTQ2eHdIamd2V1dpSTRRVXZQX1BHVHhORDlhLVNNVHhCNFhGbGpweGc?oc=5",
-      "published": "Thu, 19 Nov 2026 11:52:42 GMT",
-      "suggestedTitleEn": "Behind the story: Mercy University's Art Exchange Announces “Hitchcock in New York: Film in Conversation” Series",
+      "title": "‘Once Upon a Time in Harlem’ a miraculous doc of history, community",
+      "source": "Oklahoma City Free Press",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTm0zcGJIRThYX1d3cjRFeHFieHFJWFRFbWxyT3B6SGpMelotUVZmdmJFWktaQjRBVVVvbGJMR1lNYTNXTUFkdDQyVHF4RDFKRXdkNHg0S1poLWttOEp0SFpmdTNENDBoTFUyaktvMzR1dmZFVURzR3EzWEd4aXFXS0lHTkwzdmNUa0RDVzdfMWhPdW0w?oc=5",
+      "published": "Thu, 19 Nov 2026 18:16:16 GMT",
+      "suggestedTitleEn": "Behind the story: ‘Once Upon a Time in Harlem’ a miraculous doc of history, community",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Where’s the paperwork? Ilhan Omar marriage history remains a mystery waiting to be solved",
-      "source": "News24",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb2xjQjUtSTNRNGVIV3N5M3dPVTg3T3A4b3hCWV9CWDBGRTR0VHdMRUk5NUdrMElrSGhuV1ZjU3VYaGZzUWpZcmlyekZXenpIVmRHVUYzUDBhYnc1OGRPSzJ1ekVhc3NGNWphdFRyQU5BWTQwaDVnMWswNHctdnoxcG05QjlaNHBtMnJRaTlwelZiZmJCSVh6Nm40WHRMQXgtdTdtQUlZQzdOUzNHWWE0R19hNUNkNS03ZlcxWFhVWURUZzBYMXJNRFYyanR1VDJ1ZDcySnJKTXlMZTVnRGlCYldtTGJGZDZkTkhBRS10SjlUUGlfQjExQTkwaG5hNHNGR1ZtYXktX1bSAYgCQVVfeXFMUG9sY0I1LUkzUTRlSFdzeTN3T1U4N09wOG94QllfQlgwRkU0dFR3TEVJOTVHazBJa0hobldWY1N1WGhmc1FqWXJpcnpGV3p6SFZkR1VGM1AwYWJ3NThkT0sydXpFYXNzRjVqYXRUckFOQVk0MGg1ZzFrMDR3LXZ6MXBtOUI5WjRwbTJyUWk5cHpWYmZiQklYejZuNFh0TEF4LXU3bUFJWUM3TlMzR1lhNEdfYTVDZDUtN2ZXMVhYVVlEVGcwWDFyTURWMmp0dVQydWQ3MkpySk15TGU1Z0RpQmJXbUxiRmQ2ZE5IQUUtdEo5VFBpX0IxMUE5MGhuYTRzRkdWbWF5LV9W?oc=5",
-      "published": "Thu, 19 Nov 2026 00:00:15 GMT",
-      "suggestedTitleEn": "Behind the story: Where’s the paperwork? Ilhan Omar marriage history remains a mystery waiting to be solved",
+      "title": "How Thanksgiving Became America’s Busiest Travel Season: Photos",
+      "source": "History.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsM2dWZF82Q1V6cHRSU3lwNkk5STZXM1psTDZEWUJDYmUzWVhoT29zUmRfM1dtczJTZGRGcmVmWW5pS3hmNlRRRmYtQ241d0Q2ZW1tOUpHUk9xTW1teXplc0xXS1lBQlROY1Vj?oc=5",
+      "published": "Thu, 19 Nov 2026 18:08:58 GMT",
+      "suggestedTitleEn": "Behind the story: How Thanksgiving Became America’s Busiest Travel Season: Photos",
       "suggestedTitleAr": ""
     },
     {
