@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 10
+    "global": 9
   },
-  "updatedAt": "2026-11-19T01:26:05.855371+00:00",
+  "updatedAt": "2026-11-19T07:30:22.514584+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
-      "published": "Mon, 16 Nov 2026 10:07:33 GMT",
+      "title": "الأسطورة «شوشو»... أضحك جمهوره ومات حزيناً عن 36 عاماً",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQOWZ2QmM2RUUxd1h5R25rQjBIYVJMQVEyeUI1eFNjS3AxVE1HaElfOFRmSzNHWGVzTk9jXzNJVlBaMXBISkpLYzJ3dEtTZGU3c1duaV9ScWFBNnN5UTdNdWhmc1lmRkFDTmVjei1QVWhBaHpIRXdrTmZsdnlKNGRibFZyWmR0RFlHUmlqQl9YZGpxTmlBNWJvd05NbUtmRUJLSVpfY3VfbU1XeDdGU2xiZjNENkpYNm9wa0xWUEtyLXZLVFR1RlFRcUthUHN5LWZxVk0yWTBva0VLRUFxRm9mQVM2U1RnS0hGWWMzdGNqcFhFNHZJSEwybWsweTUyY0tHRUJpS25xWDBuTFNuQ1B5TWR0N01ZbUZ5blN4TmttcHE0REpRM2tVdFVjNzZhVXRmSFUxVW40akc5Zkl3MHpqWG8wbmVMbWpzM3BhbTh3TVpUb2U5ZmpMdXFMSTFaZVBBQ2hvVE5neGFBN1FkWDYySWhhanlxVk9LWW9ZYS1Lc0tYLV80YjdyVmZUSTBrbGt1dzZIY3BLdG95a3JLZ2R5bi1KTUc5Q2MzaG1pME14Wkl0Z0M4UlpIQTQxbGNVRG1oU3pMcFRWMGpqWlVxRFJ6Q0FRY2RaNlV2dWw5S2U5eHM?oc=5",
+      "published": "Wed, 18 Nov 2026 17:46:30 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: الأسطورة «شوشو»... أضحك جمهوره ومات حزيناً عن 36 عاماً"
     },
     {
       "category": "history",
@@ -47,12 +47,12 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5",
-      "published": "Wed, 18 Nov 2026 04:54:43 GMT",
+      "title": "السعودية تحصد مراكز متقدمة عالمياً في تصنيف الذكاء الاصطناعي لعام 2026",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPbWlXc0dTb0tEd2V0TDVUN2dXNnJ6MUpqb3ZCeEdsUE5uODZCSGxURV9MckVaX0otUjMtM3lFWVdHM2tUZVhxTVd5Yk9VUWhYemV5aEtkM0o5ODRZNllYdkxhMjFKVnNkN295V0tQM1VGM1dhaGtXNjAxT2FDc0I1N0JMc3VNemt2ZUFzS2tCNkhSMmljdGc1ZWRudG5SdnNlamFCVmlJOHcxRGhLTWZhN1BwZ3pqaE5YalpBYVV1cDdHS05EbXB5aGJ1X0JES2J3REhSWjFncHp0dXEwWUZyWG84U000elpmckJiRmRGN29uNE1admk2ekZJS1N0ZDdBWU5EdHJPRWJNellNcUhCd1Z1UklBOWxHczBLaHB4TmF0Y0Q2TXJyY3RHZEROQ2t3NkZKQ2ZMRlZlQkFzZVlNSlpLekxfZVdaNkMyYXc1amRQTWRBRVBHdDhyV3hHd1RzWmJLR1pBTERpV1ViWHA0YnZacl9laTVYbDhmTXV5N1NnaGJhVkdoVTAtRFZjbEZsUUVIMHRILTJOcDVCcmNHREt1aWgtSmdtYUlYa3FWb3F4OER3NmNBZXFRaTNFRmhuRnFXSUZRR2VQcXg2NEtsMVdDWVpCOUxyUmpiRXlTQ3hzamlsOGRkMnVhRDc4eDlSd1o2ajJOMDE4Nlo0d2J2VUtxQXlLSDdpV2lhNWw1S1JDaEh5LWRkaXhhRHZtYTVRckJfWWVNSUhYcEZVcnFWcncwd9IBuARBVV95cUxPV0t2b193NDhaZldfbVVrZ3k1Tm9NTE1mTXJ6M0dlTlc2YmJ3MWI4alVrX291TFVLMUZ1UjdXMUMyblR1d1JoQUxLWUZNQzZHYWQ4Z1lvSkZpTUVDWC14ZzlkNmRjUGRPQ1YtNTRrRUtlZVZzY1JUZF8tcGZUUmVrQ3VFdDBZQWFYcTdEdHVhczVMWmV2c3FpZUZOOE95RDB5NFh5aVNWU2VKWUtRN1M3eDI2bEwwSkZYTFczcGhTMmFSSkxSaU1Ybl9TT2phenBDNThvSjh4ODJ3WEJ3MEVTRFFaT1hmakxQTUdoMkFySkVxMy1pQTlIUW9pLVlHYVgyTGUtWXVMRVJ6cG5wUjFqSGVaNHdSdkFwSkJ0T3RUZFNXS1N1bXN5d3JENy1WRGxFbzMyMllLS0R5NUhKcnZ0VklsaGRSZWswcjh0aEx1ekswMkItLWotdHctdVVnbFZtMTdLY2dJcmJMYmV4V1ZjRDh1M1lzWm4yZnJwUmdlQWVPODVtQVpGWXZ3QmhSMnZLZ1RZZDJtWENJb1B6c3padl9FT3dnTlhwdjBTZXF3MlhkaUhFUlJTV0dXX3J3aGtONUhsZHJ3RjNxazg1amFNNG1mRExUZnBnWGdvNEltMFMtOUxaaVVER3lpN3ZqZ2tRY2NqcmRzWjJHbHotNG1lV0s0aFJxc0dFVkdpRFp2ZDI5REhSd29xVlJtMGZ6MVBNV25RMVoyMUE1ZkhzbGFkOFNTZ2tKbnc3?oc=5",
+      "published": "Thu, 12 Nov 2026 08:24:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟"
+      "suggestedTitleAr": "خلف الخبر: السعودية تحصد مراكز متقدمة عالمياً في تصنيف الذكاء الاصطناعي لعام 2026"
     },
     {
       "category": "economy",
@@ -85,8 +85,8 @@
       "region": "arab",
       "title": "ثقافي / الرعي مهنة عريقة تحافظ على حضورها في المجتمع السعودي",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HSl9DUVd5Wk93Tm9Md3FoZWt6N1JKNmY1UVl0WDJZc2xMSWVIQ2phRmdhOURvd1E3ckZ5ZTJpTHVsdmdFNnc?oc=5",
-      "published": "Wed, 18 Nov 2026 13:35:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4Y1N6RDFKbnZMQS10c3FfQXhWWjF0dndKalBGS0lSbjJXcDNyaXRSbDRkNXdDRVZFQXRKZWtBU0xrLUVDU241TmFB?oc=5",
+      "published": "Thu, 19 Nov 2026 06:49:10 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: ثقافي / الرعي مهنة عريقة تحافظ على حضورها في المجتمع السعودي"
     },
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Trump Meets Philippine Leader Before Flying to China",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
-      "published": "Wed, 18 Nov 2026 16:55:00 GMT",
-      "suggestedTitleEn": "Behind the story: Trump Meets Philippine Leader Before Flying to China",
+      "title": "The Latest: US and Venezuela sign military agreement as Trump administration seeks to deepen ties",
+      "source": "WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLU03SHd1X1NsMWtuZlQtenlnOEUzcndOUkhFMlExOEd4VEFoWUdxOFlSUHRCWTg0dzlUT25jQnZjZERxcG51ZUpfcmoxalgtOWJYM191VjMydlhCUHB2Q09hTzlMejEzeUhJOVlTZHQyMklta2g2R3RQOVliV3pad0VDNk5yY0xzVmUzd2xqU1hxUDdoY09DS09pa1FoQlNDZmJ1U3YyUmwtd2loLTdGOHhBWFMwUGFXMXduQ1pnU1JVQW5hOHFibHYzTQ?oc=5",
+      "published": "Thu, 19 Nov 2026 01:55:54 GMT",
+      "suggestedTitleEn": "Behind the story: The Latest: US and Venezuela sign military agreement as Trump administration seeks to deepen ties",
       "suggestedTitleAr": ""
     },
     {
@@ -187,18 +187,6 @@
       "suggestedTitleAr": ""
     },
     {
-      "category": "environment",
-      "categoryAr": "الطبيعة والبيئة",
-      "categoryEn": "Nature & environment",
-      "region": "global",
-      "title": "Updates on nature, land and biodiversity - UNEP - UN Environment Programme",
-      "source": "UNEP - UN Environment Programme",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0tDaVEtdmxZbkk2VGI1ODR0dFAxZE95MjQzcFl3UUJBQnc2LWllb1RVeFJlcGFLZURxNDdnMFdRZjI1eEhyRWppX2V0dFVRNF9NbzgxczR6WGxZSjJ0VDNESnVDcEszMVdtYm44NVNxeTk5RDZUM05TX3NUOWhua3k5TVJEWUNLUmF2WHpnSQ?oc=5",
-      "published": "Wed, 18 Nov 2026 12:39:18 GMT",
-      "suggestedTitleEn": "Behind the story: Updates on nature, land and biodiversity - UNEP - UN Environment Programme",
-      "suggestedTitleAr": ""
-    },
-    {
       "category": "society",
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
@@ -216,9 +204,9 @@
       "categoryEn": "Culture & arts",
       "region": "global",
       "title": "Why Grand Theft Auto VI’s release is a major cultural moment",
-      "source": "artscanvas.org",
+      "source": "Canvas",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE9ZZWJXN29GUnJFQVZ1bjRocUptOEpTcUpuUTVxR1BzZHJ1bUwtMllyX1pBaFFIR04xblBsX0RqT0NPSWdZaVV3M3V6eEVQajlHUWxiSlJoZmxSX3VScHQzLTRzdFVUbnZ3VEZ6WXVMbG00VVRCYm9mX0pCTVJhU3BKdFFsQmZZaGhyNTdKVk9Ib1dxRHBpTzJBYw?oc=5",
-      "published": "Wed, 18 Nov 2026 23:15:22 GMT",
+      "published": "Thu, 19 Nov 2026 00:51:01 GMT",
       "suggestedTitleEn": "Behind the story: Why Grand Theft Auto VI’s release is a major cultural moment",
       "suggestedTitleAr": ""
     },
@@ -227,11 +215,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Was Shakespeare's Hamlet Based on a Real Person?",
-      "source": "History.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TOHQzdU1Jcjl1U05vRUVKVTlvTHhXSUhXNGwzN25Zdzh5YUphVUFWemlNM0VMMGU3QzdXaFBMaXg3bFhSN21xbEpqb3BEYnpWTWpzQkltdk84WjRKSS0zQjJNdElFZGhTbEZWcFlva2RHa1hTc1N0Sg?oc=5",
-      "published": "Wed, 18 Nov 2026 18:18:07 GMT",
-      "suggestedTitleEn": "Behind the story: Was Shakespeare's Hamlet Based on a Real Person?",
+      "title": "Rhys Bowen on writing real people and settings in historical fiction",
+      "source": "Crime Reads",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTZuX05fUkFLejgzcUZtV3FqUHJmaU54OS1HUk9xQU1uaG5abHMxTjliNlNkb1R2SFdwaFNhRkR1Q3pVU2xMOUhRWGRPNEhQaTBvaVdRMFB6dHFoVVZvNnJxTDlQUXMyV0owM1ZxX0ktR3E1S3RLTWJ4cVZoTUttdVRGaGswNEVsRlI1aXFoeFhkdUV5c2hB?oc=5",
+      "published": "Tue, 17 Nov 2026 09:24:26 GMT",
+      "suggestedTitleEn": "Behind the story: Rhys Bowen on writing real people and settings in historical fiction",
       "suggestedTitleAr": ""
     },
     {
@@ -239,13 +227,18 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Supernova explodes before astronomers' eyes photo of the day for Nov. 18, 2026",
+      "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUE4cGNUaTJfbkp5S1lnd3dZU29zODQzVUtrQWVmQVUwWGNDaDlZbDR0aFhfRFVRSmVKN1ZqMXJzNEhYNGd1YWhPVnlzdFBGM0daVDlKWnlZMmtSNUVwODVyX09zNkNib3ZKdUN3M2RlTFNiODlHdmxnLWlTU0pLR2tvRy1ZLW1RdVFEejdrNmF1aWZHbzJRbklpbnoxS3g3bUFnWGM0MG0zTVJqZUpvSGE1V2gyYUV4VnVCVGVXSGowOTVid09R?oc=5",
-      "published": "Wed, 18 Nov 2026 15:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Supernova explodes before astronomers' eyes photo of the day for Nov. 18, 2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NqUGNSN0hpWFFpX1ZQVGpwV2hXT1l5d1I3VEN0Tk5lcEhCekhJWDJVekNhRE5WcWNCeE8zWTVZNDFNWmNkMTlQVndZeUxmYTVWaGpaUGV5Y3RfTGRVQTRRSGRjQjVwcEMteVJyYWZTYUEwc0tjNnJFVHdSVFltUnVQSVhhazVpX1lvbWdNWWZSX1ZfZmJOQ3I3c2pfYXNYdktiZzB1by1pdjc5bW1EQlFrbEE2U3M?oc=5",
+      "published": "Wed, 18 Nov 2026 22:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers witness a star eating its companion in 1st-of-its-kind observation",
       "suggestedTitleAr": ""
     }
   ],
-  "errors": []
+  "errors": [
+    "ar/world: HTTP Error 429: Too Many Requests",
+    "ar/world: HTTP Error 429: Too Many Requests",
+    "ar/society: HTTP Error 429: Too Many Requests",
+    "en/environment: HTTP Error 429: Too Many Requests"
+  ]
 }
