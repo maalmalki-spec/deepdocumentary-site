@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 9
+    "global": 10
   },
-  "updatedAt": "2026-11-19T07:30:22.514584+00:00",
+  "updatedAt": "2026-11-19T13:28:53.290981+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,48 +11,48 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "الأسطورة «شوشو»... أضحك جمهوره ومات حزيناً عن 36 عاماً",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQOWZ2QmM2RUUxd1h5R25rQjBIYVJMQVEyeUI1eFNjS3AxVE1HaElfOFRmSzNHWGVzTk9jXzNJVlBaMXBISkpLYzJ3dEtTZGU3c1duaV9ScWFBNnN5UTdNdWhmc1lmRkFDTmVjei1QVWhBaHpIRXdrTmZsdnlKNGRibFZyWmR0RFlHUmlqQl9YZGpxTmlBNWJvd05NbUtmRUJLSVpfY3VfbU1XeDdGU2xiZjNENkpYNm9wa0xWUEtyLXZLVFR1RlFRcUthUHN5LWZxVk0yWTBva0VLRUFxRm9mQVM2U1RnS0hGWWMzdGNqcFhFNHZJSEwybWsweTUyY0tHRUJpS25xWDBuTFNuQ1B5TWR0N01ZbUZ5blN4TmttcHE0REpRM2tVdFVjNzZhVXRmSFUxVW40akc5Zkl3MHpqWG8wbmVMbWpzM3BhbTh3TVpUb2U5ZmpMdXFMSTFaZVBBQ2hvVE5neGFBN1FkWDYySWhhanlxVk9LWW9ZYS1Lc0tYLV80YjdyVmZUSTBrbGt1dzZIY3BLdG95a3JLZ2R5bi1KTUc5Q2MzaG1pME14Wkl0Z0M4UlpIQTQxbGNVRG1oU3pMcFRWMGpqWlVxRFJ6Q0FRY2RaNlV2dWw5S2U5eHM?oc=5",
-      "published": "Wed, 18 Nov 2026 17:46:30 GMT",
+      "title": "السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR054WGh4WWVLZkFIOVRKWS1oeHREcVhvQTF4aXdKY3ExaHljbHdXN3Fma19TNVU4dTIyR1RtUjZWamo5VmxxcTBOYWVXYVRpRmZSR2N6dmxTclYzVGcxM2FCOElRT3BUeDI0MVFoNWU0YmxqV0ZONmlrLVBRaXBfTXhzWFJBWmlsZE9zUDk4MTF5MG81UjFmOC1CRTk5V29xUjJIY1hZMEJIeUlaaVUxOE91RXM3WFNZRnRrUTc1QkhFVjg?oc=5",
+      "published": "Mon, 16 Nov 2026 13:43:25 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الأسطورة «شوشو»... أضحك جمهوره ومات حزيناً عن 36 عاماً"
+      "suggestedTitleAr": "خلف الخبر: السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "صور أقمار صناعية ترصد آثار ضربات أوكرانية في 4 مواقع روسية",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOQ0oyREJrQWxfX3hLMWhjZmMwZmpxVU1wU2pJOUFTcXlSVHlpSHRaeTNyWTlONDN2TmY1WmxYQlBFaVhCQ3NuY2tmOGZFQmgzVmJuaV81MnVCNEF6VHRxeUQtVG1uNk9laGxLcnFIY3hkaGxpMnAxWkRTRW9kUDVNUGdXdWlZRW5wM2puT1k4RWFRd0hCQlBSSk9UT2xIaXZxZF9Fc3M0LV9jZnlhQlpHSmJaUzhfZ0I0MDAyQ3ppWVl3NjdlLUw3SEUzaUduYkVUNzRrWldPNUNlWTdYUzJNU0hlZTY5NS1lQTc3azdKckN4Q29kVVd2SXRteE5FRm10bzFMUDloalYzX0NBYWRhcm4zTGhmOWVvZWJ1SzN5SDhKNGIyQjdDbkgydldNeUVGaXM5VEVGOWJraUZTUmRleXllMW1IRWhLclVvY3FtR1FYbG5qVmM3SC1NQQ?oc=5",
-      "published": "Tue, 17 Nov 2026 15:38:30 GMT",
+      "title": "في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQTExYcGRWTWlPMHVHbUF2UTZVNUhDUE1UX0xVMUFhSFNQNTJfR0hxcXp1NGRMZkNTZjRVTEo4Nm9hQnZjTzFiMGxMbzNnQUtwLVpqeXpERGdTeENUVEdTUEJ5RkJIMG15SEN1SERHWGoyc3U5aHRrOHBlcFNsYnBRdDBZZXM0TlR2T2tuMDNseGtHVEtyOFNFLVBKTzRWWVZBQ0J1YXVSaDNxQXpJZ1RVdEM1c2JWN0xrMVd2cWdjcUdTN0h1SGVqVkRiZmdpalNzWGFRU3czUm5yWkFLT19mTXlLSzBRaHF0NWJIdmNrMEpnM25LYmx0V3ktakhYN09TSTdMVjR4SmM4SWZOWW85S2VXN05RbDA0V3JNMllxbHl5SG1iMjhxc3NNRF9lZXV2Zm4zYjFidjJaSVBWeVk1TjZ0b1pPamhkUzRFOWV2NFFuVTF2bGo3S0NYcUY0OGg5cFQxdWh5VGxVN3A4NUJKQkcyRmNrMkFUQ3c1LUJJNnNRV1prdHhIM25FQUpLM1dXdjZHZ2Z4RGtyQ3IxWnRaYm9QRFVVdG5kOGJrZ1BkT0Rxb2dOX3pvcWhtMURSU1FIWTdGeC1wOXQ4NEdqaFBzbG4xbHNyV0M1a2NUYTdoczZKMFoybTNZci1FM0ZuU3pKejc5TS1YZUlkcHRKVVB5S1NRYWNhT1JFUFE?oc=5",
+      "published": "Wed, 18 Nov 2026 18:56:56 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: صور أقمار صناعية ترصد آثار ضربات أوكرانية في 4 مواقع روسية"
+      "suggestedTitleAr": "خلف الخبر: في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية"
     },
     {
       "category": "science",
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "arab",
-      "title": "علوم وتقنيات / الجمعيات العلمية.. روافد معرفية تدعم البحث والابتكار وتُمكّن الكفاءات الوطنية",
+      "title": "علوم وتقنيات / جامعة الملك سعود تستعرض تطبيقات الذكاء الاصطناعي والتقنيات الجيومكانية في GIS Day 2026",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xNTFKMkExa2RIZGVXVWFUV3JJLWYzZGctRzZfZG56NXI2and4U3d4SGo3cWNVYmFqY1RxT1Iyam1FRUxvVmc?oc=5",
-      "published": "Tue, 17 Nov 2026 11:01:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FV25Tczd5Z3RJcml3N0JrTjFoXzJVZWRQYVJDWkhHLUJWdk5USXhvX29SNm1yYUFrVkU2a3NrWGhoYXlma3c?oc=5",
+      "published": "Thu, 19 Nov 2026 12:04:21 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / الجمعيات العلمية.. روافد معرفية تدعم البحث والابتكار وتُمكّن الكفاءات الوطنية"
+      "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / جامعة الملك سعود تستعرض تطبيقات الذكاء الاصطناعي والتقنيات الجيومكانية في GIS Day 2026"
     },
     {
       "category": "technology",
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "السعودية تحصد مراكز متقدمة عالمياً في تصنيف الذكاء الاصطناعي لعام 2026",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPbWlXc0dTb0tEd2V0TDVUN2dXNnJ6MUpqb3ZCeEdsUE5uODZCSGxURV9MckVaX0otUjMtM3lFWVdHM2tUZVhxTVd5Yk9VUWhYemV5aEtkM0o5ODRZNllYdkxhMjFKVnNkN295V0tQM1VGM1dhaGtXNjAxT2FDc0I1N0JMc3VNemt2ZUFzS2tCNkhSMmljdGc1ZWRudG5SdnNlamFCVmlJOHcxRGhLTWZhN1BwZ3pqaE5YalpBYVV1cDdHS05EbXB5aGJ1X0JES2J3REhSWjFncHp0dXEwWUZyWG84U000elpmckJiRmRGN29uNE1admk2ekZJS1N0ZDdBWU5EdHJPRWJNellNcUhCd1Z1UklBOWxHczBLaHB4TmF0Y0Q2TXJyY3RHZEROQ2t3NkZKQ2ZMRlZlQkFzZVlNSlpLekxfZVdaNkMyYXc1amRQTWRBRVBHdDhyV3hHd1RzWmJLR1pBTERpV1ViWHA0YnZacl9laTVYbDhmTXV5N1NnaGJhVkdoVTAtRFZjbEZsUUVIMHRILTJOcDVCcmNHREt1aWgtSmdtYUlYa3FWb3F4OER3NmNBZXFRaTNFRmhuRnFXSUZRR2VQcXg2NEtsMVdDWVpCOUxyUmpiRXlTQ3hzamlsOGRkMnVhRDc4eDlSd1o2ajJOMDE4Nlo0d2J2VUtxQXlLSDdpV2lhNWw1S1JDaEh5LWRkaXhhRHZtYTVRckJfWWVNSUhYcEZVcnFWcncwd9IBuARBVV95cUxPV0t2b193NDhaZldfbVVrZ3k1Tm9NTE1mTXJ6M0dlTlc2YmJ3MWI4alVrX291TFVLMUZ1UjdXMUMyblR1d1JoQUxLWUZNQzZHYWQ4Z1lvSkZpTUVDWC14ZzlkNmRjUGRPQ1YtNTRrRUtlZVZzY1JUZF8tcGZUUmVrQ3VFdDBZQWFYcTdEdHVhczVMWmV2c3FpZUZOOE95RDB5NFh5aVNWU2VKWUtRN1M3eDI2bEwwSkZYTFczcGhTMmFSSkxSaU1Ybl9TT2phenBDNThvSjh4ODJ3WEJ3MEVTRFFaT1hmakxQTUdoMkFySkVxMy1pQTlIUW9pLVlHYVgyTGUtWXVMRVJ6cG5wUjFqSGVaNHdSdkFwSkJ0T3RUZFNXS1N1bXN5d3JENy1WRGxFbzMyMllLS0R5NUhKcnZ0VklsaGRSZWswcjh0aEx1ekswMkItLWotdHctdVVnbFZtMTdLY2dJcmJMYmV4V1ZjRDh1M1lzWm4yZnJwUmdlQWVPODVtQVpGWXZ3QmhSMnZLZ1RZZDJtWENJb1B6c3padl9FT3dnTlhwdjBTZXF3MlhkaUhFUlJTV0dXX3J3aGtONUhsZHJ3RjNxazg1amFNNG1mRExUZnBnWGdvNEltMFMtOUxaaVVER3lpN3ZqZ2tRY2NqcmRzWjJHbHotNG1lV0s0aFJxc0dFVkdpRFp2ZDI5REhSd29xVlJtMGZ6MVBNV25RMVoyMUE1ZkhzbGFkOFNTZ2tKbnc3?oc=5",
-      "published": "Thu, 12 Nov 2026 08:24:00 GMT",
+      "title": "6 أسئلة يعجز الذكاء الاصطناعي عن الإجابة عنها",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNMl9sSFVOQ29zN0x6TVI3Z3BWVmdmZllkc1NRdUhzTXRLcEpWWHZhVGVUT3NzWFAtdEVhaTM2RTBKUFM2MkM1ZENiZkozOVZoLXo0VGFJVkJKaUFjMjZmdUFidWpjR3FaZFg5bmJfYmdvamprWGlMRml1VzNvdmZaSmRzcnd4V0pNQmxreW16cEZEbV83YzJFMG5uZS1SaG1IWV84MmlWZFdSLVM4bFhzVmVYVFowZmJzZmsybFhvUDBPUDBnOTVacHF3cGF2QXB1eUNFUi1MYU5WYVVDYWw0R3NOVWctdXo2b0o4b3diR3lNd0Zyc0Jnbnd1dG9RdXd2RUhJdkdfOUtZbG1CemJXcTA4N1NidmYyYkZyRHp0V08taXB2N2dKNEFoSWg?oc=5",
+      "published": "Wed, 18 Nov 2026 07:23:42 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية تحصد مراكز متقدمة عالمياً في تصنيف الذكاء الاصطناعي لعام 2026"
+      "suggestedTitleAr": "خلف الخبر: 6 أسئلة يعجز الذكاء الاصطناعي عن الإجابة عنها"
     },
     {
       "category": "economy",
@@ -95,12 +95,12 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
-      "published": "Wed, 18 Nov 2026 01:24:19 GMT",
+      "title": "هل تسبب شغور منصب وزير الثقافة بمصر في أزمات فنية؟",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNNXFPc2hXVWJBU2pxcjhHWDdLbFZpV0luOFA3bVVXTl83SWt2engtd3BmNWdsLTVLRHlkUmlMeExlQk5sYS1oUWhxTHJlbWhiQ0c0bGxJenZ3MG1rX0dhYmJHRHFlZ3d3MzVWVHRvNURPXzRmOXA4QUtaOGRXVGNyNGhCSDVYMW5SMmxETVhwZHRmd0s0ZTZPM3BnQXRzTlFYNjRZM0hiZjMwN0ZiWWZrSEY4dWE1MmxMSHctVVdVLUdfSXVFSkY4WEI1T215R2VSNVVXd2lrSXBreEJjMUR1VTJ5TUtaNXNnMU9ZZkR6bE5McE90V3BKOHlxVm5uVkdhUDcyOHRROTIwbXQzOHM4YVE5TVIyMm9vX3R6MFJBdTd0bHhOdlU5VGswcXo3MnQ2WkJ6c2J5eW9ObmFqRnUtQWI1d3VTdTFLTkJvVmhycVQ0UWRCeXZORU1QTzNJWkJiM1ZsVnFieFZyRE5OTHNRYkFiOFVHZDFGSWhtLUgzZjVYamV3TnRYazRGTml0NkcyeG5FVUt1dXpiVzdMSUs0SWNVT0hYeHFDT080OFZob3NXZVJrd0NxeXJlUUd0V25CdTZYS0dJRk4wREtGeC1MUXBnbGV4ZWcwUnI0SWg2RzV0SndJYmNSR21LM2FGUVE?oc=5",
+      "published": "Wed, 18 Nov 2026 21:02:39 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: هل تسبب شغور منصب وزير الثقافة بمصر في أزمات فنية؟"
     },
     {
       "category": "mystery",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "The Latest: US and Venezuela sign military agreement as Trump administration seeks to deepen ties",
-      "source": "WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLU03SHd1X1NsMWtuZlQtenlnOEUzcndOUkhFMlExOEd4VEFoWUdxOFlSUHRCWTg0dzlUT25jQnZjZERxcG51ZUpfcmoxalgtOWJYM191VjMydlhCUHB2Q09hTzlMejEzeUhJOVlTZHQyMklta2g2R3RQOVliV3pad0VDNk5yY0xzVmUzd2xqU1hxUDdoY09DS09pa1FoQlNDZmJ1U3YyUmwtd2loLTdGOHhBWFMwUGFXMXduQ1pnU1JVQW5hOHFibHYzTQ?oc=5",
-      "published": "Thu, 19 Nov 2026 01:55:54 GMT",
-      "suggestedTitleEn": "Behind the story: The Latest: US and Venezuela sign military agreement as Trump administration seeks to deepen ties",
+      "title": "The Latest: Trump meets Putin and Xi for historic talks in China",
+      "source": "News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhqZWVpWm5fdzNrZlgxRFQ1Q3RwVTlCNXpxV01ULUZMTHR2U3ZTa2o3TnlGOWdPY3hNNGgwcFJSUFhtbUMybXE4MkdvMWxsNkNVMjE5RXpNSTdmM1BKeHRYdWNYYVlfZVZhVm9sT21mYmdZNUV3bGRBa2Uzblg3a0c2c3dTN1lPU0xPOEgxT05VSkNFVWt2dW5aWVFuQQ?oc=5",
+      "published": "Thu, 19 Nov 2026 10:12:48 GMT",
+      "suggestedTitleEn": "Behind the story: The Latest: Trump meets Putin and Xi for historic talks in China",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Leading the next era of AI-enabled drug discovery",
-      "source": "The University of North Carolina at Chapel Hill",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXhMQkprVEdwanFKLVVzOVd5VVQ4dDh0YmNBbkhBSkF3THZNb3hPV245dlNsZ3VKOTFPdHptcGw5bm1jSTI3WGN3cGgxeFZWMzVfY1F2NWtjWnI2S1RHS09jdUw4RTJjMUw2ZFVyV2QzaWNKeWRqLW93SHo5VTIyWXlsT0NDZ1JKOUtUZFNqX2Q?oc=5",
-      "published": "Wed, 18 Nov 2026 21:14:16 GMT",
-      "suggestedTitleEn": "Behind the story: Leading the next era of AI-enabled drug discovery",
+      "title": "Pulitzer Prize-winning author Siddhartha Mukherjee explores the future of cancer research",
+      "source": "The Tech",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45a2I3UkRBQmpFVjNDaGZHVWlxbUZwemdMRW9qTGdvVXlCOXNiV2ZtYlhPcVhMdktxZGJuQi00M2tFbXJtbUNJOUJsR2dQbVZVNGhteDVXVXA5bGN2azhCbFRR?oc=5",
+      "published": "Thu, 19 Nov 2026 07:30:56 GMT",
+      "suggestedTitleEn": "Behind the story: Pulitzer Prize-winning author Siddhartha Mukherjee explores the future of cancer research",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5",
-      "published": "Wed, 18 Nov 2026 21:24:08 GMT",
-      "suggestedTitleEn": "Behind the story: A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+      "title": "AI in African education: Benefits, risks & policy solutions",
+      "source": "World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzExREw1MmNuYTl4OWEtMVJXbVM1dXBoRU5LVXo0UjNsWVFCb1pPdGZfM3NYYlREYzFSLVd2Wnl4dDJmMFlMOExUV2hwZlRNV3NiazFzZ0RfVWpTRjRWdzZ0NWtiS2V1OW5waU9McTZlamFNNlgyY2NoM3V4MGNEajZkd2ZyUjJpZHBfeVFaSGwxUmZLWHUzWmExeUZGN3M?oc=5",
+      "published": "Thu, 19 Nov 2026 09:01:09 GMT",
+      "suggestedTitleEn": "Behind the story: AI in African education: Benefits, risks & policy solutions",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,23 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "ICYMI: CBA's Lindsey Johnson & Bank of America's Sharon Miller Highlight How Banks Support Small Businesses, Drive Economic Growth",
-      "source": "consumerbankers.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWWVlQnlMblBSaGFLRFUxam9sYlNMN1duaXRURlhrc01ZRVRXMGJINm1SSjliQWU1OE9YR2Y5NWZzZDc4aG1lcFYyczVGZDRJU2ZrYkhaTXA3ZXpCd3JxZmVVbjFudHdIdWRBY0ZJb2gyR0ZHYVpJMG1JczFWVjBvcWgxc0tvQXlmZkxGMGR1RktBUUNoREpSckM2bUhiR1JqbThnRDFjeUx4c1lCRmV3MHhFUVRrTUExM2hEd2gxQzk5VG1oT2xXUExtSDRFREJjS0U2N0VRWkRKTlA2TlY5M2JuM0l1cExPOWVlUVpwQm1iTGtpUG1Wdm9VNA?oc=5",
-      "published": "Thu, 19 Nov 2026 00:42:38 GMT",
-      "suggestedTitleEn": "Behind the story: ICYMI: CBA's Lindsey Johnson & Bank of America's Sharon Miller Highlight How Banks Support Small Businesses, Drive Economic Growth",
+      "title": "Chamber report calls for fixing budget woes with improved business climate",
+      "source": "Maryland Matters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWxrcTlwczNHSnNGakRVY2huMERHS1N0QUxPaXJCNmRLUHpHZnNBRUtGc1VDUFAwNmNoejBMR3dVTEhrMm9uei1ZSjRIaXRYQTQ0eXQ5aXRYU3d2Z294ZU5qSlFCR0QwNm9xa0tpYVFaRDRWeTNTMWNSMkIxZENXUGFTWmpBT1JscmFIbVJVQUJMVnFyeUhXMzFlaER2YVlGcUxDYklVeDhueGFtVG1GN3hVa2E?oc=5",
+      "published": "Thu, 19 Nov 2026 07:54:39 GMT",
+      "suggestedTitleEn": "Behind the story: Chamber report calls for fixing budget woes with improved business climate",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "environment",
+      "categoryAr": "الطبيعة والبيئة",
+      "categoryEn": "Nature & environment",
+      "region": "global",
+      "title": "Green growth promises to solve the climate crisis. Can it?",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV92N2tNWHc2WE5aTUVjNU5nV0VGdHA0TXRVbC1oTWF6TWJ4SXktLW5lSURqdS1fUEFMU3JJcnJoNGREZUstcGxLdDFmYmp0UlhuT1NVNm9Lby0yY0FGRHdpYVYwZTlkbUhFYVU4NFUxUDYzMlp0WXhLTUpEUm5OTTdNUTQ4N2hVZU9xbWE5RdIBjwFBVV95cUxOVm5hYU90aktJVkFPR0RNYUVyMl9McG9abjRVSlIxTzRyTTdUby1CeXpqZFpYNXRZeEpyS1BhY3Z5T1llZk1wSDBHUGRFSXBOdC0ybGRmU0VxX0NGSWxzdFFiYm5WVXQyZE9SRGhVT0JaZFBUeUJxb1B0S21mMkpKZ2E0c3ZIek1lMTVrQUVuYw?oc=5",
+      "published": "Wed, 18 Nov 2026 20:48:46 GMT",
+      "suggestedTitleEn": "Behind the story: Green growth promises to solve the climate crisis. Can it?",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Davena Longshore, PhD: A Civic Leader Promoting Psychological Wellness",
-      "source": "Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2RYTlptb2taZ0Mxa2NLb3pFMVFBeHJWY3dnVTYtd0EtNmtGRGV5TjJvcDc4WjBDVlJHdGdEZmxaM3pWR2I3OURRSlhGUERHeXFTMzdxdmhiT1NQcExsZTNmSlpOekJWNmpkM01xblB3cXZBS0dpZzVobk43VTBDM3FHcXJOT0hqcmcwbmhISlIxdXNEZWRHbXpPTEtJeFJxbFJ5c05FTXZ5UQ?oc=5",
-      "published": "Wed, 18 Nov 2026 20:57:26 GMT",
-      "suggestedTitleEn": "Behind the story: Davena Longshore, PhD: A Civic Leader Promoting Psychological Wellness",
+      "title": "Behind the research at UTC: Dr. Kristen Jennings Black",
+      "source": "University of Tennessee at Chattanooga",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclVORzRNd3VhNW50VmxkR0xGN2psMDJ4cGc0bGtJOGVFc1hjcU5kQWFESHk0RFoxODloR1VuaHpDbEZGeGpVV2lqM1BibGY3aG1EWEZfd3RFNjNBeUw3TzNfTWlrX0cyT25RRDFBNTVLSmdwcHNGTGNQSDhBaUFOWTZVUzRkYUdjRXh1NjdBWWg?oc=5",
+      "published": "Thu, 19 Nov 2026 13:28:08 GMT",
+      "suggestedTitleEn": "Behind the story: Behind the research at UTC: Dr. Kristen Jennings Black",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Why Grand Theft Auto VI’s release is a major cultural moment",
-      "source": "Canvas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE9ZZWJXN29GUnJFQVZ1bjRocUptOEpTcUpuUTVxR1BzZHJ1bUwtMllyX1pBaFFIR04xblBsX0RqT0NPSWdZaVV3M3V6eEVQajlHUWxiSlJoZmxSX3VScHQzLTRzdFVUbnZ3VEZ6WXVMbG00VVRCYm9mX0pCTVJhU3BKdFFsQmZZaGhyNTdKVk9Ib1dxRHBpTzJBYw?oc=5",
-      "published": "Thu, 19 Nov 2026 00:51:01 GMT",
-      "suggestedTitleEn": "Behind the story: Why Grand Theft Auto VI’s release is a major cultural moment",
+      "title": "Mercy University's Art Exchange Announces “Hitchcock in New York: Film in Conversation” Series",
+      "source": "River Journal Online",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjRKVnZaSDViZDdQV0pBcXRiYlJXZDdWZHhZODFvMHM3NzVGYTFlbEZUdHBIdnI0cFhrS1pVU0NldFBVVl9QWjNPZkRyNjFWMFk2NDV3THFnS3pMd0M1bjE1ZWxoN01IazdTR0NMSFp5TFA3MGV6dzNlVEJ6ZkdXUzVSWGxmT2htYndtemNGaWhmdFhFdkt1a1J0WGsyb1RxeEF6X0pWZW1Pemk4ZFdZakVmOFhlOG9nSHh6S2tvWkhBQTQ2eHdIamd2V1dpSTRRVXZQX1BHVHhORDlhLVNNVHhCNFhGbGpweGc?oc=5",
+      "published": "Thu, 19 Nov 2026 11:52:42 GMT",
+      "suggestedTitleEn": "Behind the story: Mercy University's Art Exchange Announces “Hitchcock in New York: Film in Conversation” Series",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Rhys Bowen on writing real people and settings in historical fiction",
-      "source": "Crime Reads",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTZuX05fUkFLejgzcUZtV3FqUHJmaU54OS1HUk9xQU1uaG5abHMxTjliNlNkb1R2SFdwaFNhRkR1Q3pVU2xMOUhRWGRPNEhQaTBvaVdRMFB6dHFoVVZvNnJxTDlQUXMyV0owM1ZxX0ktR3E1S3RLTWJ4cVZoTUttdVRGaGswNEVsRlI1aXFoeFhkdUV5c2hB?oc=5",
-      "published": "Tue, 17 Nov 2026 09:24:26 GMT",
-      "suggestedTitleEn": "Behind the story: Rhys Bowen on writing real people and settings in historical fiction",
+      "title": "Where’s the paperwork? Ilhan Omar marriage history remains a mystery waiting to be solved",
+      "source": "News24",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb2xjQjUtSTNRNGVIV3N5M3dPVTg3T3A4b3hCWV9CWDBGRTR0VHdMRUk5NUdrMElrSGhuV1ZjU3VYaGZzUWpZcmlyekZXenpIVmRHVUYzUDBhYnc1OGRPSzJ1ekVhc3NGNWphdFRyQU5BWTQwaDVnMWswNHctdnoxcG05QjlaNHBtMnJRaTlwelZiZmJCSVh6Nm40WHRMQXgtdTdtQUlZQzdOUzNHWWE0R19hNUNkNS03ZlcxWFhVWURUZzBYMXJNRFYyanR1VDJ1ZDcySnJKTXlMZTVnRGlCYldtTGJGZDZkTkhBRS10SjlUUGlfQjExQTkwaG5hNHNGR1ZtYXktX1bSAYgCQVVfeXFMUG9sY0I1LUkzUTRlSFdzeTN3T1U4N09wOG94QllfQlgwRkU0dFR3TEVJOTVHazBJa0hobldWY1N1WGhmc1FqWXJpcnpGV3p6SFZkR1VGM1AwYWJ3NThkT0sydXpFYXNzRjVqYXRUckFOQVk0MGg1ZzFrMDR3LXZ6MXBtOUI5WjRwbTJyUWk5cHpWYmZiQklYejZuNFh0TEF4LXU3bUFJWUM3TlMzR1lhNEdfYTVDZDUtN2ZXMVhYVVlEVGcwWDFyTURWMmp0dVQydWQ3MkpySk15TGU1Z0RpQmJXbUxiRmQ2ZE5IQUUtdEo5VFBpX0IxMUE5MGhuYTRzRkdWbWF5LV9W?oc=5",
+      "published": "Thu, 19 Nov 2026 00:00:15 GMT",
+      "suggestedTitleEn": "Behind the story: Where’s the paperwork? Ilhan Omar marriage history remains a mystery waiting to be solved",
       "suggestedTitleAr": ""
     },
     {
@@ -235,10 +247,5 @@
       "suggestedTitleAr": ""
     }
   ],
-  "errors": [
-    "ar/world: HTTP Error 429: Too Many Requests",
-    "ar/world: HTTP Error 429: Too Many Requests",
-    "ar/society: HTTP Error 429: Too Many Requests",
-    "en/environment: HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
