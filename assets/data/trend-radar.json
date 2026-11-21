@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-21T07:22:17.265368+00:00",
+  "updatedAt": "2026-11-21T13:08:28.428020+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة",
-      "source": "الحرة",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBHT1c0QUROdGExVDFRN3ExZ0JJYVVhOHZGclBHb3Q0VEVjN2RKN0VfRmMwUEFmbldVdjBWVzFn?oc=5",
-      "published": "Thu, 19 Nov 2026 17:22:11 GMT",
+      "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RZVIxVXpkYjFGRlM0SHlNcU5XM2tQVmFPMWRZUUtLUG5jOHBjZ09EWHlybGs4VzEzaHh2V3hkYVlxcU50SDJhMmc1SDFHY2dRV3ZPX0dsVkpCSXNhVkHSAWNBVV95cUxPb3hDTC14dXdCTGVUSDdkSEUtdUdZSEVXS0hqVkhKekgxZE1MRHU4cHVRZnVsT281NTNHYU1GWFJMSUM2MWpRYjdSZXJRcjhpUUpNNU12NXJpdXd3bG14RWFuRVE?oc=5",
+      "published": "Sat, 21 Nov 2026 07:07:49 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة"
+      "suggestedTitleAr": "خلف الخبر: السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض"
     },
     {
       "category": "history",
@@ -119,12 +119,12 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "الفضاء .. اقتصاد المستقبل الجديد - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSmM0NW9vblRiY0ItcTBmVkJZLWhwdlVnZGM3azRyRGZoYVM3cVI4cHQ3MWpsY0JDNWNGaEh5MEZ0LVVyTEltcU9jaUNLR1BzWTliNDBwcG9RLTR2N3hEejg0VU95WnFlU3c?oc=5",
-      "published": "Wed, 18 Nov 2026 07:20:54 GMT",
+      "title": "تجربة ناجحة.. هل تبني الروبوتات التلسكوبات العملاقة في الفضاء؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVjRKRkhpNEVtTkNHVlRJQUlTVS0tUkgxVFBILWViNUZTTmZYYU0wNDA5NjdmRTdlMlM3aVZkTEpLcGZ6WElDeEJiM0RISnBTUklfZ0I3X2ZZejAtZnQzUUxtdjdDS2FUZ29KV1ZYTWR2NWt3WUdkcXFDS2VDZndKOGdjYjRFVnpZWU5lZjBiWG1jZ29tNUswMURuZ3hvdEJTYUFCTXU4NkswY0p1V3VKRHNvY09LX0pfbzdFNTgzMDFxUnR6QXZIcWxQOTg0ZkpuX0FsMEw5Um9HeHFBenFPLUtteFNhdnpJNkJiLS01TF9mUDdLOW0wamVTNHhNUXhldG1EZ0VYOWRyTi1QOUlyQ1NoMTlWRkJmUnhyVVV5S25GT2VhSFE?oc=5",
+      "published": "Sat, 21 Nov 2026 08:43:39 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الفضاء .. اقتصاد المستقبل الجديد - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: تجربة ناجحة.. هل تبني الروبوتات التلسكوبات العملاقة في الفضاء؟"
     },
     {
       "category": "world",
@@ -134,7 +134,7 @@
       "title": "A New Global News Editor in New York",
       "source": "The New York Times Company",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqUjQ1TS04eFRra2QxR0VEUlBxSDR0RmtLMDhqRFdmRk0tWGtDSUJxQzRaU0lfZDRIbERhcXpGbUNpcExLcl9hRGd1WDQ1TE5rLURRcHI5LUk1Y3lzVFdaWi1oZGZMMUUzUzdKNDNLVGctbU0?oc=5",
-      "published": "Sat, 21 Nov 2026 01:30:00 GMT",
+      "published": "Sat, 21 Nov 2026 01:32:45 GMT",
       "suggestedTitleEn": "Behind the story: A New Global News Editor in New York",
       "suggestedTitleAr": ""
     },
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "7 UCF Researchers Named Rising Stars by the Academy of Science, Engineering and Medicine of Florida",
-      "source": "University of Central Florida",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUVNTMVlmSkh3c0NhcmJpQTJYQ0FCQ2s0bE9BRWk2MzVWaUFVVnduTThsSGRMX21PbXZLUmxmVUxjSFM0Tm9JS1poTVVpTHVMeHZDcDlPOWpSdzJxRHdhS1FLclNpQV9EYmd2ZXBjUVUtSm9hU1Z1bmpTNXR2VWViN05hcWRHb2hEa3ZfT2VDY2ktelY4VlQtcGN0Y3k0Z05NUlJZYU9nMlBwWTVyU3JZOW5sMXhKUkE2cGRTOFJpT3pBQQ?oc=5",
-      "published": "Fri, 20 Nov 2026 14:38:17 GMT",
-      "suggestedTitleEn": "Behind the story: 7 UCF Researchers Named Rising Stars by the Academy of Science, Engineering and Medicine of Florida",
+      "title": "From Drug Discovery to Patient Impact: Bridging the Gap Between Science and Healthcare",
+      "source": "News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTlEdHBoeWE2dUV1WDdXMERCY2E4NXZYeHpEamFNSGVMYWpjanBDR3h2VkdmN09XUG1CUzdmU0xzTXBFSU12TEN2OTlJdVlJQUxyS1YzenlwcmNNSUt1VVRHYW5pWTV1VF83SmxhdDlMV3hUQzRVZzB2dlU1YWtGWHJ0Mldqb0RBeXR2Vlp2N1Uyb2ppaHBQZzU3R1VvU0hmcWxrejRVN00zc0hVdUlOQy02NkxRdm85WGFxQVoyZ19ZX2tpa0VSRy1jZDlwQQ?oc=5",
+      "published": "Thu, 19 Nov 2026 16:05:00 GMT",
+      "suggestedTitleEn": "Behind the story: From Drug Discovery to Patient Impact: Bridging the Gap Between Science and Healthcare",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Building better artificial intelligence requires people willing to do meticulous work at scale",
-      "source": "Federal News Network",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY3Q4YUVRdERQYTBEVlEyekZhSEN0eFVPYXhaNlk5V09QR25Ja2dKNEFKMXh6Y3RwdzdTRGlGNXFEU2c1V3BwWlFxQnBrM0dpRGk5WHBCT1JJVC1LNDRSXzFOZ1JhUWhDbVE5OHlLUjJvS0UzbFhpRVdFNkRsOTk1bEk5anVuVFhwQ3lUdkVaeW9ncHRVSUU4ZVVVSTd5cXA2cktmRXNLbVM2QUUxajlqSW1vMU9jckFnaWlXS1ZfLW5FLW0xNUNIX21UZ044Q1BrYWVNOWcyTTEwYTRX?oc=5",
-      "published": "Fri, 20 Nov 2026 16:59:12 GMT",
-      "suggestedTitleEn": "Behind the story: Building better artificial intelligence requires people willing to do meticulous work at scale",
+      "title": "America, China, and the Costs of the Bipolar AI Race",
+      "source": "Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUxsX2V6UmtTT2R6Nnk3a1A3WVpxNkxYalhkZ1J1MHM1OG4xN2FGb1p5VVBSOHkzdWNyYk53VVRCQURLUTZ3STU0TFVid1kxeW5Jd1A4dDFCdmUyVTU2TFJrZENueWI5S0NzenhjWmpmWi1mdFFHbkM0a1NIUDRDZkxCZ0lMMnhfdlVuaXB0UXE?oc=5",
+      "published": "Sat, 21 Nov 2026 12:00:07 GMT",
+      "suggestedTitleEn": "Behind the story: America, China, and the Costs of the Bipolar AI Race",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "UW-Superior students compete to develop ideas for Superior economy during Blatnik Bridge closure",
-      "source": "Northern News Now",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUl1UllQbWFDeWE0d0VaWl9kYUZaVkZrTmpEOUJ6NzdXMWZ3TlR6VXZuM3NGRVRMOEEtSkxmU3VhYUNHNGpNb21yNk9MTndlelNZVDZ4ZXQyZ0xUdGx2Y3ZHN0xkMUpGTmFSWFhjU0EyTVg0ZlNHMTVta01CbVRFNjVCY1BiZ3Z5YzJabjNTUzd5dG1HOEI4Y2VIeDgwY0Jyd2VZREl6b1lUQ1pvRE9nZDBkODB5dElsNDA3T0ZwdnI1eFBWUnRHelNobW5KZ9IB4gFBVV95cUxNbVhzODE0MmphUlN2Ni1DNndwYlRKQ2hSbWRDOEZoYzBITHJydFd4dzlWbmhSMWxKOFhGR2xFd2VENDA5TDZoT0J0S1hMMFN4aDZjWVVOa3kwVUV3VVV6M01lNFZ6ZGVYaHoydDgwUzlZQmV6VzQzODdwSldQclpEREYyR0NlSmFjWHBBR2dEQWtwbXM3cEFmNXhUMnVpekx2YmJva3RrTnY5T3ZHX253WkJ5Z0gyV3BWUF83X3NGWXg4X3BBTFc1MFJoY0Ewai1aN1NuT3l6MWUwMWYzV3NtbGtB?oc=5",
-      "published": "Sat, 21 Nov 2026 01:18:00 GMT",
-      "suggestedTitleEn": "Behind the story: UW-Superior students compete to develop ideas for Superior economy during Blatnik Bridge closure",
+      "title": "The vanity economy is taking over America’s downtowns",
+      "source": "Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYk5vNExyYjNiQnBSaXdDMzhzcXN5NkRDeFR2Zmo3UFhja09mdDRSd0hhTVdTU1lSRFhIOUtibnFaeUkweGRQVk1SX0FhMGE4dFRNT205UWU3V1NQandzTUtMS1k2NlRWV1NvTHpKeWQ2SWFFOHZxNExZRTRTT3pqZzlWczZHNjVpcDNBM2Y4em5MM290TC1GVzFZdmlwb2pEcVFLQTgyOEpnbnYtT3BHZ3h1UndjNXZudmRR?oc=5",
+      "published": "Sat, 21 Nov 2026 11:36:58 GMT",
+      "suggestedTitleEn": "Behind the story: The vanity economy is taking over America’s downtowns",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Review of Philosophy and Psychology Journal Guide",
-      "source": "CASRAI",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16OGNjZVZfdXJiTmlUVUN1NHVEQ0tVbmdUREoycTNLTVFPM0Jxbm9weFRydThnbXE0OE1Xckt4ZHllQ01kZXVaUnhoLUxCZDN1dmY2REZKWjM5MnYtMzdlWFppOEE1M1d3RHdRemRB?oc=5",
-      "published": "Sat, 21 Nov 2026 05:13:56 GMT",
-      "suggestedTitleEn": "Behind the story: Review of Philosophy and Psychology Journal Guide",
+      "title": "Deploying AI into workplaces: What leaders need to know",
+      "source": "American Psychological Association (APA)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YlkzU2d2V2hKdldJNENfYks3NFczNUY0RjJ5WVJDdHNQQ0ZtWm5odzVKWjlxSEtiSmpnbFpFZkV1WGozV3JENGkzRHNQdXFzdElYVUNmRHM?oc=5",
+      "published": "Sat, 21 Nov 2026 09:03:26 GMT",
+      "suggestedTitleEn": "Behind the story: Deploying AI into workplaces: What leaders need to know",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "‘Once Upon a Time in Harlem’ a miraculous doc of history, community",
-      "source": "Oklahoma City Free Press",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTm0zcGJIRThYX1d3cjRFeHFieHFJWFRFbWxyT3B6SGpMelotUVZmdmJFWktaQjRBVVVvbGJMR1lNYTNXTUFkdDQyVHF4RDFKRXdkNHg0S1poLWttOEp0SFpmdTNENDBoTFUyaktvMzR1dmZFVURzR3EzWEd4aXFXS0lHTkwzdmNUa0RDVzdfMWhPdW0w?oc=5",
-      "published": "Thu, 19 Nov 2026 18:16:16 GMT",
-      "suggestedTitleEn": "Behind the story: ‘Once Upon a Time in Harlem’ a miraculous doc of history, community",
+      "title": "Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVFpc0VlckhXYklRbmJjaFVTLWR6R3ZVTDdQcjNmWGNQRm5jRVB2VXk2ZFpuaDZYYTQwTS1JQlBZa1JsdzltYlNjM290bFh4TkRiZlRDbGttaEFzeDVudTFiTzh6c1J6VUFIbnJqbW9jMnZIaXZlR3IwbFdQZWRCaWV1cDZmZw?oc=5",
+      "published": "Sat, 21 Nov 2026 10:37:05 GMT",
+      "suggestedTitleEn": "Behind the story: Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
       "suggestedTitleAr": ""
     },
     {
