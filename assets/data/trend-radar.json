@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-21T13:08:28.428020+00:00",
+  "updatedAt": "2026-11-21T18:58:35.944999+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RZVIxVXpkYjFGRlM0SHlNcU5XM2tQVmFPMWRZUUtLUG5jOHBjZ09EWHlybGs4VzEzaHh2V3hkYVlxcU50SDJhMmc1SDFHY2dRV3ZPX0dsVkpCSXNhVkHSAWNBVV95cUxPb3hDTC14dXdCTGVUSDdkSEUtdUdZSEVXS0hqVkhKekgxZE1MRHU4cHVRZnVsT281NTNHYU1GWFJMSUM2MWpRYjdSZXJRcjhpUUpNNU12NXJpdXd3bG14RWFuRVE?oc=5",
-      "published": "Sat, 21 Nov 2026 07:07:49 GMT",
+      "title": "داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
+      "published": "Mon, 16 Nov 2026 10:07:33 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض"
+      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN"
     },
     {
       "category": "history",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "A New Global News Editor in New York",
-      "source": "The New York Times Company",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqUjQ1TS04eFRra2QxR0VEUlBxSDR0RmtLMDhqRFdmRk0tWGtDSUJxQzRaU0lfZDRIbERhcXpGbUNpcExLcl9hRGd1WDQ1TE5rLURRcHI5LUk1Y3lzVFdaWi1oZGZMMUUzUzdKNDNLVGctbU0?oc=5",
-      "published": "Sat, 21 Nov 2026 01:32:45 GMT",
-      "suggestedTitleEn": "Behind the story: A New Global News Editor in New York",
+      "title": "Middle East and north Africa",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
+      "published": "Sat, 21 Nov 2026 16:49:06 GMT",
+      "suggestedTitleEn": "Behind the story: Middle East and north Africa",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "From Drug Discovery to Patient Impact: Bridging the Gap Between Science and Healthcare",
-      "source": "News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTlEdHBoeWE2dUV1WDdXMERCY2E4NXZYeHpEamFNSGVMYWpjanBDR3h2VkdmN09XUG1CUzdmU0xzTXBFSU12TEN2OTlJdVlJQUxyS1YzenlwcmNNSUt1VVRHYW5pWTV1VF83SmxhdDlMV3hUQzRVZzB2dlU1YWtGWHJ0Mldqb0RBeXR2Vlp2N1Uyb2ppaHBQZzU3R1VvU0hmcWxrejRVN00zc0hVdUlOQy02NkxRdm85WGFxQVoyZ19ZX2tpa0VSRy1jZDlwQQ?oc=5",
-      "published": "Thu, 19 Nov 2026 16:05:00 GMT",
-      "suggestedTitleEn": "Behind the story: From Drug Discovery to Patient Impact: Bridging the Gap Between Science and Healthcare",
+      "title": "Federal prosecutors investigating alleged research fraud at Sanford Burnham Prebys in La Jolla",
+      "source": "San Diego Union-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU3VjYm5HZTNKdlYxQm1BZVJGZ1l1Wjc4c21LVVc0TG54My1wUUtEOEVnZFdkWmxPaWM2T1hyYldPdEJ3S01GWUhfV0dpN21GeGN1emk2djlMeDdyeV9lRjlZU1N4RjZ1WlN0MmlJVm1FMXFETjg2a096ZDZnbktMODI3aXNsRTl3TkdvNEtObnVLUDJOOWJVX0d3eW5IcDhPeEdBMVpyZncyWDMyY3A2bG5EaUsyaTFoZ1VBX2QwczhWbEk1ZkRxaTdGeGxBNGljQzIyUFdGSzNrcTg?oc=5",
+      "published": "Sat, 21 Nov 2026 13:01:47 GMT",
+      "suggestedTitleEn": "Behind the story: Federal prosecutors investigating alleged research fraud at Sanford Burnham Prebys in La Jolla",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "The vanity economy is taking over America’s downtowns",
-      "source": "Toledo Blade",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYk5vNExyYjNiQnBSaXdDMzhzcXN5NkRDeFR2Zmo3UFhja09mdDRSd0hhTVdTU1lSRFhIOUtibnFaeUkweGRQVk1SX0FhMGE4dFRNT205UWU3V1NQandzTUtMS1k2NlRWV1NvTHpKeWQ2SWFFOHZxNExZRTRTT3pqZzlWczZHNjVpcDNBM2Y4em5MM290TC1GVzFZdmlwb2pEcVFLQTgyOEpnbnYtT3BHZ3h1UndjNXZudmRR?oc=5",
-      "published": "Sat, 21 Nov 2026 11:36:58 GMT",
-      "suggestedTitleEn": "Behind the story: The vanity economy is taking over America’s downtowns",
+      "title": "Inflation, economic growth and the mood of US consumers in focus this week",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFBMLXg4ejQxNTBDTDRDajI3eTNEc0dDcHhyTTJCUmRUa0Nkd2RoTjZBRWlhSHBNbGFfeEVQcEtOc3lyVF9JN1BjQTNueGt2a0RPNmt4cTUtZ3g2NUhfOEZSalI4U1plcW5vMkZlcEFuQ3V1N19iVzFGYzhjbU84REY0VjI4MEVRaFc0dl9tSTkyVWVUc2NyQkI4NTZuU0dxUnA1ZEJfNTFiN1JYLVV6QzZZeVdmR3ZCY1RRc2dRVWhBc1d1eGpicWc0dlpsT0hlN0E?oc=5",
+      "published": "Sat, 21 Nov 2026 16:16:28 GMT",
+      "suggestedTitleEn": "Behind the story: Inflation, economic growth and the mood of US consumers in focus this week",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVFpc0VlckhXYklRbmJjaFVTLWR6R3ZVTDdQcjNmWGNQRm5jRVB2VXk2ZFpuaDZYYTQwTS1JQlBZa1JsdzltYlNjM290bFh4TkRiZlRDbGttaEFzeDVudTFiTzh6c1J6VUFIbnJqbW9jMnZIaXZlR3IwbFdQZWRCaWV1cDZmZw?oc=5",
-      "published": "Sat, 21 Nov 2026 10:37:05 GMT",
-      "suggestedTitleEn": "Behind the story: Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
+      "title": "Hail to the Squash King",
+      "source": "Hyperallergic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93aWt3eGZvWml3WmZOZUd0Umsta3JnR2I3dkkzRDI1N0VPVlRhRUhneHdMcUJRd1JEX09EWGxyaFIyOEtzdloxZnhFOVduSUttbGdfS2JGYUNGVmtnVW9n?oc=5",
+      "published": "Sat, 21 Nov 2026 11:04:17 GMT",
+      "suggestedTitleEn": "Behind the story: Hail to the Squash King",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "A rare triple-star system near Earth ‘should not exist’",
-      "source": "Popular Science",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqQkd5RFRQdFpuUVZnRnlZZVFjb1VpeGlXeDlWRUt2aVF0SG5vMkY3YmZIWE5pYXNDLU93SjAyVXhQZ285MDZscVZJeWhWX1gwWUZZVkFrMzVJblFFNVBQS0p3R3lhU3pKVVNMb0FLcnlpRlN3?oc=5",
-      "published": "Fri, 20 Nov 2026 20:51:00 GMT",
-      "suggestedTitleEn": "Behind the story: A rare triple-star system near Earth ‘should not exist’",
+      "title": "James Webb Space Telescope (JWST) | Definition & Facts",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUd202V0FFOE4wMnRpMFZnS19YNkx1NkFjMW1JaC1UZ2oyTEh1UGRnS3QxU01PMWI0RDRQa1FYYnEwZ2xxUEU2N285SFd1Y1djVUg1X0RmSkZvQzJRdjRnUEE2cGhXY1NXMVRj?oc=5",
+      "published": "Sat, 21 Nov 2026 11:52:27 GMT",
+      "suggestedTitleEn": "Behind the story: James Webb Space Telescope (JWST) | Definition & Facts",
       "suggestedTitleAr": ""
     }
   ],
