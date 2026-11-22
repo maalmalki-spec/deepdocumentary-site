@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-22T13:06:19.138127+00:00",
+  "updatedAt": "2026-11-22T18:59:14.254242+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,24 +11,24 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة",
-      "source": "الحرة",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBHT1c0QUROdGExVDFRN3ExZ0JJYVVhOHZGclBHb3Q0VEVjN2RKN0VfRmMwUEFmbldVdjBWVzFn?oc=5",
-      "published": "Thu, 19 Nov 2026 17:22:11 GMT",
+      "title": "داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
+      "published": "Mon, 16 Nov 2026 10:07:33 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة"
+      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "صور أقمار صناعية ترصد آثار ضربات أوكرانية في 4 مواقع روسية",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOQ0oyREJrQWxfX3hLMWhjZmMwZmpxVU1wU2pJOUFTcXlSVHlpSHRaeTNyWTlONDN2TmY1WmxYQlBFaVhCQ3NuY2tmOGZFQmgzVmJuaV81MnVCNEF6VHRxeUQtVG1uNk9laGxLcnFIY3hkaGxpMnAxWkRTRW9kUDVNUGdXdWlZRW5wM2puT1k4RWFRd0hCQlBSSk9UT2xIaXZxZF9Fc3M0LV9jZnlhQlpHSmJaUzhfZ0I0MDAyQ3ppWVl3NjdlLUw3SEUzaUduYkVUNzRrWldPNUNlWTdYUzJNU0hlZTY5NS1lQTc3azdKckN4Q29kVVd2SXRteE5FRm10bzFMUDloalYzX0NBYWRhcm4zTGhmOWVvZWJ1SzN5SDhKNGIyQjdDbkgydldNeUVGaXM5VEVGOWJraUZTUmRleXllMW1IRWhLclVvY3FtR1FYbG5qVmM3SC1NQQ?oc=5",
-      "published": "Tue, 17 Nov 2026 15:38:30 GMT",
+      "title": "كنوز من 3 عصور.. مصر تحبط تهريب أكثر من 3 آلاف قطعة أثرية",
+      "source": "سكاي نيوز عربية",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVG8xdGVhdWp5QzdZRHdjZlhTcUJLVERYSmpFcjFIVUVEZWlxWEYxSkhyUGhzd1dNZ182eFBSd2pXVXdKZF9tTmc5YlZYQjRLSnNHSkFxaDd3SlEwX0xyZENXNzZNbnltRnJsV3hkNWdiM2FCS1haUzZJcVFpeG5lQ1RGc2xvUk1ESjlsc0NhVlFiXzBwaGo1SXdtN3pfTTFpS25HNWdkOThTelI1TXd1UzZ2b1NYbDN0cG5MbW1RNTVQOGQtdWJpUU94MHQxVkJnbWY5XzI1M0ZsdnQ2Z25sWnlGX0lFVEFTckozU0dabnE4WE1peHlDWGRuMGFZdFNlV0ExYkthcHU5TkVRdnY3MFFpQXhHZGs4YjVsTkFYeVlpdW5qVTJ6aHNqcXQtVlhWNmQwNHZ1dXZHb0JOMGRDemhDY3JHUTRFWXNJNWZsWE1WNTNUdEtYLUpUbFgtVHVkbFpaLUI0bHJGTWNmM0VyVURxa3J5MVloSTlWQnVjdmZ1YnJYdWE5MWc2ZS05V29QMEtyRkN1WdIBnANBVV95cUxPXzBmcnFOcHZvRTVCa1h3OWJYVnhvV2FETmFmV0thVXVteWZhSnFXN2w4dFUzNlFnZ3pzSG9mbTVWNUlpaVRsaFIyQmtzblU0Q2lUZ0l5OEpmMkJaelVaZVU4a09UVFhKSkh2N0dNbm91ZjBUYUZHdjl2VmtrQ3gzN1hKWTB2cUxpNFNHNE9QNklkMFp2S3UyUDRhM1ZKRW1lVEFlekZKSjNCdzdGdEpBRC1qc2FzSU9sRl95MGROX216ZVJoTEhkZWdJMzBXTmVScjhYOTN6MWNkZ3Q0MlRZRk1ZQzlKb2ozUi1Gb05UdWRLb3lVclNzZjRnYng4SV9lbGRtOVRJeGRITEZ2NGN5VmNiZ2JtOTdwX2QxQ0xYcFRmaFFyN3FxOXBGYjBlNTBMUEFhb0ZOSlJ0Z3VESjIxa3RjNVh0TDBpaWs5elBZNTh2Y0Y2Z0tKWGJ4VGZjNHlsR2ozTkRsSnN3RzFxNWZqcWQzdjNJaXFmOElEeEtGb01yVG9kdGtlZFRfOTNmSlZvYl95RFQ3ZUxneHpD?oc=5",
+      "published": "Tue, 17 Nov 2026 11:40:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: صور أقمار صناعية ترصد آثار ضربات أوكرانية في 4 مواقع روسية"
+      "suggestedTitleAr": "خلف الخبر: كنوز من 3 عصور.. مصر تحبط تهريب أكثر من 3 آلاف قطعة أثرية"
     },
     {
       "category": "science",
@@ -59,24 +59,24 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "لماذا تهبط أسعار الذهب وإلى أين تتجه؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN0EwT2FkYzdXT1YxYmNHX2RTeENNbzF6WVc4QmtScU5yVmpQYndsRE1WMk5lREJpbTJaeGJtMGFXVVUyRHdpamJ6bnViZUtpdXVUNGpTZTExSWVGYWpQel9CcHlGcURucm1rbXdwSkRxMzNHbGQ5Ny1BRE9ITGhRbFM4cmNSRnJETm5vOW9kQnJxbWpOMGVOS0JMbXdFNWtBZTVSM0xvZGYwOGpoaDV5TXhucEtLdjNya2tPWFFsbl9EcXVDVkJoa25pSl9GZXQzS1NhYl9ncGM5OWRoeVB6amFjYzhxS0V5Zl9sMVI3cDJNSlV0UDNLdkNzc2lCX2oyTGxjeXFLcGVUXzhhMjVLLXRXcjZnT3RUVjJkZnJNM05TaEt5cWN4NGoyd04xc3A1NTJxUUFodXhhTHhrY3hodVRIc095OHQwRGFIYjhBTkNRUjg?oc=5",
-      "published": "Thu, 19 Nov 2026 20:16:43 GMT",
+      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
+      "published": "Sun, 22 Nov 2026 07:37:22 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لماذا تهبط أسعار الذهب وإلى أين تتجه؟"
+      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94QkhJcEVUeG05TnRLYlBxd3JDbDJHYWpMc2xKbXFndXZ3ZUtPbDdseU94S2NpOTlURl9oWjBlalR4TVhaMGc?oc=5",
-      "published": "Tue, 17 Nov 2026 08:07:57 GMT",
+      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
+      "published": "Sun, 22 Nov 2026 01:16:37 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة"
+      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "society",
@@ -98,7 +98,7 @@
       "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
-      "published": "Fri, 20 Nov 2026 06:45:40 GMT",
+      "published": "Sat, 21 Nov 2026 22:20:35 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "published": "Sun, 22 Nov 2026 10:56:09 GMT",
-      "suggestedTitleEn": "Behind the story: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "title": "New to MotoGP? Meet Marc Marquez, the 2026 World Champion",
+      "source": "motogp.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVNKa1FMUWV4Rk96RzBCWDI3V1MxNHRVZWhDSWdvSk1jdHpSZUNwTTRES0VBbHc4X1FRU0tBV0Zicm96OUNtN2dUR3R2M1F2aVczVkZWRTNPVmZGcG9VTXpGTnBDRFc5dERxV0M4Ml9McWlaZDhvMFpmXzJvMi1tdTRQc3l1QllBdlNSQzNvZHZQSmJKeHRuaThFaFJpTVRwOXpoR3JoVFM?oc=5",
+      "published": "Sun, 22 Nov 2026 14:26:59 GMT",
+      "suggestedTitleEn": "Behind the story: New to MotoGP? Meet Marc Marquez, the 2026 World Champion",
       "suggestedTitleAr": ""
     },
     {
@@ -156,8 +156,8 @@
       "categoryEn": "Science & health",
       "region": "global",
       "title": "Scientists discover a hidden eye disease that slowly steals night vision",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1waFVObnAyMV9WUU5jM3Q4Uk5iMGNhNWVNUk9ad0tDM3U0QWRpeXdWb21obXJKakNBN3lxYkp2b01Ha3FOb01nRkJ0M2p1ME1SVTVydEYwcmpyeTcwdldwTl9hdFEtd0pBOUZVRzNR?oc=5",
+      "source": "ScienceDaily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tRDBfMDc3eFZyeV9wSERCS3hDbFFtTWREaElhOEY3TmExVkhHVzVRdTJ1cUNVNTcyeFpPZWctd0hLWllIem9NTFJPYll2YkxISlIzV3RhWnRjWGFuekUwZ0lCSmg5akttS2tNcWxUZw?oc=5",
       "published": "Sun, 22 Nov 2026 10:50:39 GMT",
       "suggestedTitleEn": "Behind the story: Scientists discover a hidden eye disease that slowly steals night vision",
       "suggestedTitleAr": ""
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Inside the Secret Race to Build Artificial Intelligence | The Gray Area - American Enterprise Institute - AEI",
-      "source": "American Enterprise Institute - AEI",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDBETXRyU3RhZnJvQUxHZUF4a0JWal92REstM09Hb0tpdFdtTjR1MlpOZ0RkOTJyNzJ5bjctclFXTDNkaDFYUmd1UnlXSWE0Z3ZLbnpibEFOcHdYZHd4cWt5cDFhbm55S3JYZ2ktblpRQ2lkOUNTc2gydlZ1emlPN3VqZVZYNTlZZmJ2UF9BdUdvRGRrYWRIaDJBdE0wVllBWnh3?oc=5",
-      "published": "Sun, 22 Nov 2026 05:15:42 GMT",
-      "suggestedTitleEn": "Behind the story: Inside the Secret Race to Build Artificial Intelligence | The Gray Area - American Enterprise Institute - AEI",
+      "title": "An A.I. Editor’s Essential Tool: The Typewriter",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWVFN3U2YzhTSFhMUkxpNUVGV1NtZ0E1dmp6a3Z3OXRSTG45UWZZZFQ4ZllQRzVpX3Npc2Jpc09YSkhaYUhadkdGU0tHNWJlY1JOUkpWQjFhdk9Ccld3dUhRME5uSkFSVmtvaHhaeGJlWUZKSlZzMk9Td0dmaWZNaHZxNE5XdVZPTUE?oc=5",
+      "published": "Sun, 22 Nov 2026 18:15:49 GMT",
+      "suggestedTitleEn": "Behind the story: An A.I. Editor’s Essential Tool: The Typewriter",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy",
-      "source": "Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOElkaGNZcUQ5TUdHaWZXWFFmSkxneEh4dE9oQks4aW9pWlJJUVNqQ0lUeVNNM1dhODVCeVgtMld4NF9pcGdUQWNsNHBVSGlMdWhoR0s1WFVheDlVMV93TWJMcVBHeks5TVhEMVlOQ0M4blUwd1czY3FZRHVralV2R0d0TWxvOHpa?oc=5",
-      "published": "Sun, 22 Nov 2026 10:25:00 GMT",
-      "suggestedTitleEn": "Behind the story: Copper Prices Are Plunging and Sending a Warning for the US Economy",
+      "title": "Oregon Business Council seeks to jump-start state’s struggling economy",
+      "source": "KOIN.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGVyVGZqeFl6Z0lPZUlLblA4TEd2dEVBRWtpbk9sRFEtZWsyTHlXOE84bU5EVnJwenhmdUdrbHBqLUxiR21iUTIwaDBzcFMxbUxxQk41clFuQU1RUWVCc1N0RGw5ZUVNSWV3aWEzNGVBSW5XZXA2YUZTMS1VV0VSaHVfZWw1bHdaMThySlhtSXNVTXAxb3dPOEdXVmhnTUVLVTh6dtIBqgFBVV95cUxOSEpkZkRWQXRoWWw2UnVGYkVvRU5QMlc3WUxmU3ZhVU9yWGFGdDV3aXotblBxOUZDN2laVGE5Y0NMMV92djBOUHFyTGtZOFM4OG5pclRGWmxzajNGaHpmWVVHNnh1QjB3MEU1emVMNFBMWWJoR2Y0SHc1MlZIa3BQT2p4MHJOQTR5aGw0bVFfTVl4QXFWNnFTNWJ3TmhzY0NxeGFhd0Y5UUlKZw?oc=5",
+      "published": "Sun, 22 Nov 2026 17:30:00 GMT",
+      "suggestedTitleEn": "Behind the story: Oregon Business Council seeks to jump-start state’s struggling economy",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Tipping the frontier of climate and nature investment",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBITGxma2xyNkZJcU5MUEdIV2dFZlZnR1pObnhTVDJIMmJaLTZzd2R4RWxuTnVUbGFxRFVWcmY4Mk1FbjlGc3RLemNnR0hCejFrNDBNVElSOXZsZ2FUUC1r?oc=5",
-      "published": "Fri, 20 Nov 2026 18:23:29 GMT",
-      "suggestedTitleEn": "Behind the story: Tipping the frontier of climate and nature investment",
+      "title": "Victoria faced devastating bushfires and an ‘extinction emergency’ this year. So why is nature missing from the election?",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEMzSVFGemFka3F5UVg0NXdOU0pLSGwyQy1EUVF0SDZkbU9aTDIwWS1BRmc4eDgyeHhrUnlrcFhkOGZsX0lEcmVTbUhnbXJsdEZCRzl6aFg2dzNYVkRCN3NFcy10cjJVcVp0Y1RBYXQ1VGM2MS15bDc5NUFDUDFfMWdYaUptUjFwZ0M4dWpYcHItVWN0b2tHYjFIb1gzMWJrUm00cldnMjFVbWRlZURJV240YjYzSHY5aEUzN2ZXSQ?oc=5",
+      "published": "Sun, 22 Nov 2026 14:02:00 GMT",
+      "suggestedTitleEn": "Behind the story: Victoria faced devastating bushfires and an ‘extinction emergency’ this year. So why is nature missing from the election?",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVFpc0VlckhXYklRbmJjaFVTLWR6R3ZVTDdQcjNmWGNQRm5jRVB2VXk2ZFpuaDZYYTQwTS1JQlBZa1JsdzltYlNjM290bFh4TkRiZlRDbGttaEFzeDVudTFiTzh6c1J6VUFIbnJqbW9jMnZIaXZlR3IwbFdQZWRCaWV1cDZmZw?oc=5",
-      "published": "Sun, 22 Nov 2026 09:08:32 GMT",
-      "suggestedTitleEn": "Behind the story: Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
+      "title": "Monthly Roundup For November: Opportunities for Artists",
+      "source": "Artburst Miami",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtWmthaUx5UngyUHRQVmpQQ2NlMnNyODdDd3ZLcEJycTQ0S3R1SnNxUmV3bnRaWFZCbkFtM3MxbmdnclBHb1ZZYnV1elo3a2kwbU92U2F5N3dUV1pOM2ZJSWIxYlYtUGVESVhHMHRtSjRacm54dEE?oc=5",
+      "published": "Sun, 22 Nov 2026 02:20:52 GMT",
+      "suggestedTitleEn": "Behind the story: Monthly Roundup For November: Opportunities for Artists",
       "suggestedTitleAr": ""
     },
     {
@@ -230,7 +230,7 @@
       "title": "International Mission Arrives at Mercury to Study Its Mysteries",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTTFHbk1uMmN2OERKTGNCY21RNEw5Z1pPNURBTEljNThyTTdRWUo2YjVCOHRNV1UzS2F6XzlKbHhQWHhhbDltZVRfbjBCT252MTBXVjFDTm5yWF95ZHU0TmRNQzRDTVkteVE2TzdJd2VKUVNINS1NbkIxamhrQ2c?oc=5",
-      "published": "Sat, 21 Nov 2026 08:00:00 GMT",
+      "published": "Sun, 22 Nov 2026 01:26:00 GMT",
       "suggestedTitleEn": "Behind the story: International Mission Arrives at Mercury to Study Its Mysteries",
       "suggestedTitleAr": ""
     },
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers Discover Bizarre Triple-Star System That Shouldn't Exist Just 28 Light-Years Away",
-      "source": "ZME Science",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBid0pjM0ducmZMdVFnSmtpWVl0Rmw0TlJBS3NWT2luem9reldSVlE2Ung4TV9iWW96UW5yNy1FRWhwdm1EZmdNNDZsbHBqQTA1dEFHZGVWNE9vcUZyZHhkNzdURmgzYWNjVC13aTZYSktLWl8xemc?oc=5",
-      "published": "Sun, 22 Nov 2026 10:25:37 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers Discover Bizarre Triple-Star System That Shouldn't Exist Just 28 Light-Years Away",
+      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vUm1BU0FGNlVUZ2tNdTE1RTQ3UklHbk9DN1o2QmY5WEFYRHB5N1dHdjV0a3JiTmIwQjljcXoyZFc3eGIxN1dIVmNzVTVuY0cteHF6d2gtVUs5U0NkMURxMHNUSm1BWTh6dEJJ?oc=5",
+      "published": "Sun, 22 Nov 2026 14:18:35 GMT",
+      "suggestedTitleEn": "Behind the story: On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
       "suggestedTitleAr": ""
     }
   ],
