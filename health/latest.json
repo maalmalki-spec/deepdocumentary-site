@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-11-21T13:06:07+00:00",
+  "generatedAt": "2026-11-22T01:18:24+00:00",
   "site": "https://deepdocumentary.com",
-  "status": "issues",
+  "status": "healthy",
   "checked": {
     "pages": 18,
     "assets": 37,
     "links": 3
   },
-  "issues": [
-    {
-      "kind": "asset",
-      "url": "https://deepdocumentary.com/assets/images/passkeys-end-of-passwords-2026/passkeys-07.webp",
-      "status": 503
-    }
-  ],
-  "issueCount": 1,
+  "issues": [],
+  "issueCount": 0,
   "limitations": "Public URLs only; authentication, newsletter delivery, and gameplay are not tested."
 }
