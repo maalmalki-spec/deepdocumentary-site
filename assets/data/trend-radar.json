@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 10
+    "global": 9
   },
-  "updatedAt": "2026-11-21T18:58:35.944999+00:00",
+  "updatedAt": "2026-11-22T01:20:47.815196+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -71,12 +71,12 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة",
+      "title": "اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\"",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94QkhJcEVUeG05TnRLYlBxd3JDbDJHYWpMc2xKbXFndXZ3ZUtPbDdseU94S2NpOTlURl9oWjBlalR4TVhaMGc?oc=5",
-      "published": "Tue, 17 Nov 2026 08:07:57 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CQzhtMFI1Mm50OGRIa3FUdHNwTkFRbUphaElWTENJUXFzaERaYmpvUGNSbW1RMUpHODhkTFpPZlBxamQwcmo5UG53?oc=5",
+      "published": "Thu, 19 Nov 2026 05:24:09 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة"
+      "suggestedTitleAr": "خلف الخبر: اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\""
     },
     {
       "category": "society",
@@ -131,23 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Middle East and north Africa",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
-      "published": "Sat, 21 Nov 2026 16:49:06 GMT",
-      "suggestedTitleEn": "Behind the story: Middle East and north Africa",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "history",
-      "categoryAr": "التاريخ والآثار",
-      "categoryEn": "History & archaeology",
-      "region": "global",
-      "title": "When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
-      "source": "cbn.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVdPeU4xYzdUT01HVzVnUzM2VjJoZnpfNXNCeUFxS2hmSWdhLWt4ZkRPOWRmUjhPanpySk1qUENxZkxENTNLNXprZ2lEM0JrQUZEU3oxM3lYRllPRTN4QkN0Nmg1NERQazFEcTVLcGhueHNKUHZUWTlnQUo5ZHB6b1ZNX1NEOTlpdHBSRTFDZ2RPOXRJa3lr?oc=5",
-      "published": "Sat, 21 Nov 2026 03:02:38 GMT",
-      "suggestedTitleEn": "Behind the story: When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
+      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+      "published": "Sat, 21 Nov 2026 23:01:04 GMT",
+      "suggestedTitleEn": "Behind the story: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +167,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Inflation, economic growth and the mood of US consumers in focus this week",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFBMLXg4ejQxNTBDTDRDajI3eTNEc0dDcHhyTTJCUmRUa0Nkd2RoTjZBRWlhSHBNbGFfeEVQcEtOc3lyVF9JN1BjQTNueGt2a0RPNmt4cTUtZ3g2NUhfOEZSalI4U1plcW5vMkZlcEFuQ3V1N19iVzFGYzhjbU84REY0VjI4MEVRaFc0dl9tSTkyVWVUc2NyQkI4NTZuU0dxUnA1ZEJfNTFiN1JYLVV6QzZZeVdmR3ZCY1RRc2dRVWhBc1d1eGpicWc0dlpsT0hlN0E?oc=5",
-      "published": "Sat, 21 Nov 2026 16:16:28 GMT",
-      "suggestedTitleEn": "Behind the story: Inflation, economic growth and the mood of US consumers in focus this week",
+      "title": "Ministry of Economy Discusses Support for Women’s Entrepreneurship and Expanded Access to Finance",
+      "source": "EGOV.KG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNRUdubmNTV2poWVVST0xuam9IYjE1bzNmU3lrUXdOMllIM3hlT1VaekU3NnotdV96d1JhR2lGMXRnT2VXMHVUaE1LR3E2QmY5LWh4LXpsRHhFZw?oc=5",
+      "published": "Sat, 21 Nov 2026 22:19:30 GMT",
+      "suggestedTitleEn": "Behind the story: Ministry of Economy Discusses Support for Women’s Entrepreneurship and Expanded Access to Finance",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +203,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Hail to the Squash King",
-      "source": "Hyperallergic",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93aWt3eGZvWml3WmZOZUd0Umsta3JnR2I3dkkzRDI1N0VPVlRhRUhneHdMcUJRd1JEX09EWGxyaFIyOEtzdloxZnhFOVduSUttbGdfS2JGYUNGVmtnVW9n?oc=5",
-      "published": "Sat, 21 Nov 2026 11:04:17 GMT",
-      "suggestedTitleEn": "Behind the story: Hail to the Squash King",
+      "title": "The British Indian filmmaker embracing two cultures on screen",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUERBRGVCbVBCR0ZNOGhWWl9ScWVwOVhjREliLWV4VUdyV1FWb09lOF9odnRMWG1lcElTMTRCcmt6b3JaOUlubDF0TjFPZGI5emNIY3FldDBFQQ?oc=5",
+      "published": "Sat, 21 Nov 2026 07:17:07 GMT",
+      "suggestedTitleEn": "Behind the story: The British Indian filmmaker embracing two cultures on screen",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +215,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "How a Sex-and-Spy Scandal Rattled the U.S. Embassy in Moscow",
-      "source": "History.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Vck5EclpkM0s0ZWZzdlVQZXRHOFNXelByZUsyWWY0ejVfbW1lUlVkWFhSeHRNd1ZMVnZ0ZzhRaDFtZHN1dndkX2FlbHVER0pyOXg0QXJkNTNsOVVVYUZJSVlKYUs4QmVmTVl3?oc=5",
-      "published": "Fri, 20 Nov 2026 16:11:39 GMT",
-      "suggestedTitleEn": "Behind the story: How a Sex-and-Spy Scandal Rattled the U.S. Embassy in Moscow",
+      "title": "Forget Sherlock, Creator's Hit New Murder Mystery Series Officially Returns In 2 Months",
+      "source": "ScreenRant",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xdUZFRWc0WUUwQTBQbHkwbjNBV1FwTTBBeWlDQzlaWWxuYnNhVzR1N282azhTcHJCdktBOVp5ZUZuR1V4R0pUT3ROWXlGWXg3Mi1pRnhxZ0N3RThaSi1fWElB?oc=5",
+      "published": "Sat, 21 Nov 2026 07:30:18 GMT",
+      "suggestedTitleEn": "Behind the story: Forget Sherlock, Creator's Hit New Murder Mystery Series Officially Returns In 2 Months",
       "suggestedTitleAr": ""
     },
     {
@@ -239,13 +227,15 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "James Webb Space Telescope (JWST) | Definition & Facts",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUd202V0FFOE4wMnRpMFZnS19YNkx1NkFjMW1JaC1UZ2oyTEh1UGRnS3QxU01PMWI0RDRQa1FYYnEwZ2xxUEU2N285SFd1Y1djVUg1X0RmSkZvQzJRdjRnUEE2cGhXY1NXMVRj?oc=5",
-      "published": "Sat, 21 Nov 2026 11:52:27 GMT",
-      "suggestedTitleEn": "Behind the story: James Webb Space Telescope (JWST) | Definition & Facts",
+      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzN1Ym5ORmtxWUFHSEFYZzRRSjhkSEVhMEpKVXVyaEhMQnVlUXluVkNUdFdQbnpBZlFrbUpSZ3NoS2RLRHhmeERQdElZMlFzRW9obkNkeVJuNlowQU5sdlhXRXBoMlVoWl9uSFFleHBpMUlpdWEzNW1VY2VVMUtXdExlNA?oc=5",
+      "published": "Sat, 21 Nov 2026 16:20:37 GMT",
+      "suggestedTitleEn": "Behind the story: On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
       "suggestedTitleAr": ""
     }
   ],
-  "errors": []
+  "errors": [
+    "en/history: HTTP Error 429: Too Many Requests"
+  ]
 }
