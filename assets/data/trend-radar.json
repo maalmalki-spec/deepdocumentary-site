@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 9
+    "global": 10
   },
-  "updatedAt": "2026-11-22T01:20:47.815196+00:00",
+  "updatedAt": "2026-11-22T07:23:02.133743+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -71,12 +71,12 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\"",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CQzhtMFI1Mm50OGRIa3FUdHNwTkFRbUphaElWTENJUXFzaERaYmpvUGNSbW1RMUpHODhkTFpPZlBxamQwcmo5UG53?oc=5",
-      "published": "Thu, 19 Nov 2026 05:24:09 GMT",
+      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
+      "published": "Sun, 22 Nov 2026 01:16:37 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\""
+      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "society",
@@ -134,8 +134,20 @@
       "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
       "source": "Britannica",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "published": "Sat, 21 Nov 2026 23:01:04 GMT",
+      "published": "Sun, 22 Nov 2026 05:57:17 GMT",
       "suggestedTitleEn": "Behind the story: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "history",
+      "categoryAr": "التاريخ والآثار",
+      "categoryEn": "History & archaeology",
+      "region": "global",
+      "title": "When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
+      "source": "cbn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVdPeU4xYzdUT01HVzVnUzM2VjJoZnpfNXNCeUFxS2hmSWdhLWt4ZkRPOWRmUjhPanpySk1qUENxZkxENTNLNXprZ2lEM0JrQUZEU3oxM3lYRllPRTN4QkN0Nmg1NERQazFEcTVLcGhueHNKUHZUWTlnQUo5ZHB6b1ZNX1NEOTlpdHBSRTFDZ2RPOXRJa3lr?oc=5",
+      "published": "Sat, 21 Nov 2026 03:02:38 GMT",
+      "suggestedTitleEn": "Behind the story: When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Federal prosecutors investigating alleged research fraud at Sanford Burnham Prebys in La Jolla",
-      "source": "San Diego Union-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU3VjYm5HZTNKdlYxQm1BZVJGZ1l1Wjc4c21LVVc0TG54My1wUUtEOEVnZFdkWmxPaWM2T1hyYldPdEJ3S01GWUhfV0dpN21GeGN1emk2djlMeDdyeV9lRjlZU1N4RjZ1WlN0MmlJVm1FMXFETjg2a096ZDZnbktMODI3aXNsRTl3TkdvNEtObnVLUDJOOWJVX0d3eW5IcDhPeEdBMVpyZncyWDMyY3A2bG5EaUsyaTFoZ1VBX2QwczhWbEk1ZkRxaTdGeGxBNGljQzIyUFdGSzNrcTg?oc=5",
-      "published": "Sat, 21 Nov 2026 13:01:47 GMT",
-      "suggestedTitleEn": "Behind the story: Federal prosecutors investigating alleged research fraud at Sanford Burnham Prebys in La Jolla",
+      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+      "source": "ScienceDaily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUT3pRSzkwaXluSUtYQkZfSGNiMmg3ZUhrWkg5R19tSzhJSm05VEdoOVJtOERGeGdjMkhvQWJGd3BxaE4xR0t2MnJvQzFWRVNZOWNuTnNVLWtKZFVJTm82b1pzMFZab2ZVYVZqNzFB?oc=5",
+      "published": "Sun, 22 Nov 2026 01:59:04 GMT",
+      "suggestedTitleEn": "Behind the story: A common blood pressure drug has a surprising effect on calorie-burning brown fat",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "America, China, and the Costs of the Bipolar AI Race",
-      "source": "Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUxsX2V6UmtTT2R6Nnk3a1A3WVpxNkxYalhkZ1J1MHM1OG4xN2FGb1p5VVBSOHkzdWNyYk53VVRCQURLUTZ3STU0TFVid1kxeW5Jd1A4dDFCdmUyVTU2TFJrZENueWI5S0NzenhjWmpmWi1mdFFHbkM0a1NIUDRDZkxCZ0lMMnhfdlVuaXB0UXE?oc=5",
-      "published": "Sat, 21 Nov 2026 12:00:07 GMT",
-      "suggestedTitleEn": "Behind the story: America, China, and the Costs of the Bipolar AI Race",
+      "title": "Inside the Secret Race to Build Artificial Intelligence | The Gray Area - American Enterprise Institute - AEI",
+      "source": "American Enterprise Institute - AEI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDBETXRyU3RhZnJvQUxHZUF4a0JWal92REstM09Hb0tpdFdtTjR1MlpOZ0RkOTJyNzJ5bjctclFXTDNkaDFYUmd1UnlXSWE0Z3ZLbnpibEFOcHdYZHd4cWt5cDFhbm55S3JYZ2ktblpRQ2lkOUNTc2gydlZ1emlPN3VqZVZYNTlZZmJ2UF9BdUdvRGRrYWRIaDJBdE0wVllBWnh3?oc=5",
+      "published": "Sun, 22 Nov 2026 05:15:42 GMT",
+      "suggestedTitleEn": "Behind the story: Inside the Secret Race to Build Artificial Intelligence | The Gray Area - American Enterprise Institute - AEI",
       "suggestedTitleAr": ""
     },
     {
@@ -194,7 +206,7 @@
       "title": "Deploying AI into workplaces: What leaders need to know",
       "source": "American Psychological Association (APA)",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YlkzU2d2V2hKdldJNENfYks3NFczNUY0RjJ5WVJDdHNQQ0ZtWm5odzVKWjlxSEtiSmpnbFpFZkV1WGozV3JENGkzRHNQdXFzdElYVUNmRHM?oc=5",
-      "published": "Sat, 21 Nov 2026 09:03:26 GMT",
+      "published": "Sun, 22 Nov 2026 02:17:29 GMT",
       "suggestedTitleEn": "Behind the story: Deploying AI into workplaces: What leaders need to know",
       "suggestedTitleAr": ""
     },
@@ -203,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "The British Indian filmmaker embracing two cultures on screen",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUERBRGVCbVBCR0ZNOGhWWl9ScWVwOVhjREliLWV4VUdyV1FWb09lOF9odnRMWG1lcElTMTRCcmt6b3JaOUlubDF0TjFPZGI5emNIY3FldDBFQQ?oc=5",
-      "published": "Sat, 21 Nov 2026 07:17:07 GMT",
-      "suggestedTitleEn": "Behind the story: The British Indian filmmaker embracing two cultures on screen",
+      "title": "Monthly Roundup For November: Opportunities for Artists",
+      "source": "Artburst Miami",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtWmthaUx5UngyUHRQVmpQQ2NlMnNyODdDd3ZLcEJycTQ0S3R1SnNxUmV3bnRaWFZCbkFtM3MxbmdnclBHb1ZZYnV1elo3a2kwbU92U2F5N3dUV1pOM2ZJSWIxYlYtUGVESVhHMHRtSjRacm54dEE?oc=5",
+      "published": "Sun, 22 Nov 2026 02:20:52 GMT",
+      "suggestedTitleEn": "Behind the story: Monthly Roundup For November: Opportunities for Artists",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Forget Sherlock, Creator's Hit New Murder Mystery Series Officially Returns In 2 Months",
-      "source": "ScreenRant",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xdUZFRWc0WUUwQTBQbHkwbjNBV1FwTTBBeWlDQzlaWWxuYnNhVzR1N282azhTcHJCdktBOVp5ZUZuR1V4R0pUT3ROWXlGWXg3Mi1pRnhxZ0N3RThaSi1fWElB?oc=5",
-      "published": "Sat, 21 Nov 2026 07:30:18 GMT",
-      "suggestedTitleEn": "Behind the story: Forget Sherlock, Creator's Hit New Murder Mystery Series Officially Returns In 2 Months",
+      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTTFHbk1uMmN2OERKTGNCY21RNEw5Z1pPNURBTEljNThyTTdRWUo2YjVCOHRNV1UzS2F6XzlKbHhQWHhhbDltZVRfbjBCT252MTBXVjFDTm5yWF95ZHU0TmRNQzRDTVkteVE2TzdJd2VKUVNINS1NbkIxamhrQ2c?oc=5",
+      "published": "Sun, 22 Nov 2026 06:39:50 GMT",
+      "suggestedTitleEn": "Behind the story: International Mission Arrives at Mercury to Study Its Mysteries",
       "suggestedTitleAr": ""
     },
     {
@@ -227,15 +239,13 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzN1Ym5ORmtxWUFHSEFYZzRRSjhkSEVhMEpKVXVyaEhMQnVlUXluVkNUdFdQbnpBZlFrbUpSZ3NoS2RLRHhmeERQdElZMlFzRW9obkNkeVJuNlowQU5sdlhXRXBoMlVoWl9uSFFleHBpMUlpdWEzNW1VY2VVMUtXdExlNA?oc=5",
-      "published": "Sat, 21 Nov 2026 16:20:37 GMT",
-      "suggestedTitleEn": "Behind the story: On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+      "title": "Astronomers watch a giant planet disappear for the first time",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRGFWY2xiNnd0dGVSb1J6WHhMUGRQY0ROUjJYVkduVXVlWkdFcDMza1F4TkkyWWRUZE9xMXY5R3NveU9Nc3dNeVZuUDhBY1BsaWc1cUJpbXBCMktydXNzb1dHclYwRWR3NGIyMWRTUGh1Q2NxeXlseG4tQ2d0dw?oc=5",
+      "published": "Sun, 22 Nov 2026 05:05:28 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers watch a giant planet disappear for the first time",
       "suggestedTitleAr": ""
     }
   ],
-  "errors": [
-    "en/history: HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
