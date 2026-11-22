@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-22T07:23:02.133743+00:00",
+  "updatedAt": "2026-11-22T13:06:19.138127+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXN6QnYySnlReGQzb3hIZUVoR0xnQzRfUURBdkQyb01SV0dJbG42MWpsVGt5YjRIWmdiMGE2V0pCa1ZEM3BZVlprczlOUHh1YUFuc1FZNWd1NkZlV09zbEJDZlRRa2U4NWo5emNkREo1T0hjVWcxdzA4LW16dDF3SmFsaVRIUHlHX1JabWQ1SE5kMjFOdmhIRTF0WS1WcmJLUWlLd2hZWkU2V0pvODJJQ1hn?oc=5",
-      "published": "Mon, 16 Nov 2026 10:07:33 GMT",
+      "title": "هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة",
+      "source": "الحرة",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBHT1c0QUROdGExVDFRN3ExZ0JJYVVhOHZGclBHb3Q0VEVjN2RKN0VfRmMwUEFmbldVdjBWVzFn?oc=5",
+      "published": "Thu, 19 Nov 2026 17:22:11 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: داخلية السعودية تعلن إعدام مواطن بتهمة الاعتداء على عدة نساء عنوة | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة"
     },
     {
       "category": "history",
@@ -38,7 +38,7 @@
       "title": "علوم وتقنيات / جامعة الملك سعود تستعرض تطبيقات الذكاء الاصطناعي والتقنيات الجيومكانية في GIS Day 2026",
       "source": "وكالة الأنباء السعودية",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FV25Tczd5Z3RJcml3N0JrTjFoXzJVZWRQYVJDWkhHLUJWdk5USXhvX29SNm1yYUFrVkU2a3NrWGhoYXlma3c?oc=5",
-      "published": "Thu, 19 Nov 2026 12:09:32 GMT",
+      "published": "Thu, 19 Nov 2026 12:11:42 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: علوم وتقنيات / جامعة الملك سعود تستعرض تطبيقات الذكاء الاصطناعي والتقنيات الجيومكانية في GIS Day 2026"
     },
@@ -71,12 +71,12 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
-      "published": "Sun, 22 Nov 2026 01:16:37 GMT",
+      "title": "بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94QkhJcEVUeG05TnRLYlBxd3JDbDJHYWpMc2xKbXFndXZ3ZUtPbDdseU94S2NpOTlURl9oWjBlalR4TVhaMGc?oc=5",
+      "published": "Tue, 17 Nov 2026 08:07:57 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: بيئي / \"البيئة\" تطلق حملة \"التوازن يربطنا\" لتعزيز تكامل الجهود الوطنية لحماية الموارد الطبيعية بالمملكة"
     },
     {
       "category": "society",
@@ -134,7 +134,7 @@
       "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
       "source": "Britannica",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "published": "Sun, 22 Nov 2026 05:57:17 GMT",
+      "published": "Sun, 22 Nov 2026 10:56:09 GMT",
       "suggestedTitleEn": "Behind the story: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
       "suggestedTitleAr": ""
     },
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
-      "source": "cbn.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVdPeU4xYzdUT01HVzVnUzM2VjJoZnpfNXNCeUFxS2hmSWdhLWt4ZkRPOWRmUjhPanpySk1qUENxZkxENTNLNXprZ2lEM0JrQUZEU3oxM3lYRllPRTN4QkN0Nmg1NERQazFEcTVLcGhueHNKUHZUWTlnQUo5ZHB6b1ZNX1NEOTlpdHBSRTFDZ2RPOXRJa3lr?oc=5",
-      "published": "Sat, 21 Nov 2026 03:02:38 GMT",
-      "suggestedTitleEn": "Behind the story: When Archaeology and the Bible Collide, What Does the Evidence Reveal?",
+      "title": "China’s Sanxingdui silk find suggests ancient writing may have existed on cloth",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcm5mSkV5TzdqWWQyeXZYNU1XZUIyWXdLampXLU9ndW9QMURBSUVIZjZ2b2FUUE1qVnMxU3JrZHUyVWxKZXpRbV9vUmNkRTZiTTBCVDBoLUZGVGpBY0FPelloWWpaSFlQbzdhRlZKS3Q1TnJSRmY0MHlFaHpFY2J2M0tYSmVoVXpScnp1cG9YSE52T0JHZVJtZHJzSXNFVkM5bmZybVRTdEhyUFpoWlFEU2N1NFVvWDhjdk9LT3dHOFlaallNOExjcVBzcHVKeGpaRFc3OWZYSWRGaG5YWEpIOEVqLURTRXF4UzNnQ2pXempqQnhMM2fSAfYBQVVfeXFMTnJuZkpFeU83allkMnl2WDVNV2VCMll3S2pqVy1PZ3VvUDFEQUlFSGY2dm9hVFBNalZzMVNya2R1MlVsSmV6UW1fb1JjZEU2Yk0wQlQwaC1GRlRqQWNBT3pZaFlqWkhZUG83YUZWSkt0NU5yUkZmNDB5RWh6RWNidjNLWEplaFV6UnJ6dXBvWEhOdk9CR2VSbWRyc0lzRVZDOW5mcm1UU3RIclBaaFpRRFNjdTRVb1g4Y3ZPS093RzhZWmpZTThMY3FQc3B1SnhqWkRXNzlmWElkRmhuWFhKSDhFai1EU0VxeFMzZ0NqV3pqakJ4TDNn?oc=5",
+      "published": "Sun, 22 Nov 2026 10:00:10 GMT",
+      "suggestedTitleEn": "Behind the story: China’s Sanxingdui silk find suggests ancient writing may have existed on cloth",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
-      "source": "ScienceDaily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUT3pRSzkwaXluSUtYQkZfSGNiMmg3ZUhrWkg5R19tSzhJSm05VEdoOVJtOERGeGdjMkhvQWJGd3BxaE4xR0t2MnJvQzFWRVNZOWNuTnNVLWtKZFVJTm82b1pzMFZab2ZVYVZqNzFB?oc=5",
-      "published": "Sun, 22 Nov 2026 01:59:04 GMT",
-      "suggestedTitleEn": "Behind the story: A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+      "title": "Scientists discover a hidden eye disease that slowly steals night vision",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1waFVObnAyMV9WUU5jM3Q4Uk5iMGNhNWVNUk9ad0tDM3U0QWRpeXdWb21obXJKakNBN3lxYkp2b01Ha3FOb01nRkJ0M2p1ME1SVTVydEYwcmpyeTcwdldwTl9hdFEtd0pBOUZVRzNR?oc=5",
+      "published": "Sun, 22 Nov 2026 10:50:39 GMT",
+      "suggestedTitleEn": "Behind the story: Scientists discover a hidden eye disease that slowly steals night vision",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Ministry of Economy Discusses Support for Women’s Entrepreneurship and Expanded Access to Finance",
-      "source": "EGOV.KG",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNRUdubmNTV2poWVVST0xuam9IYjE1bzNmU3lrUXdOMllIM3hlT1VaekU3NnotdV96d1JhR2lGMXRnT2VXMHVUaE1LR3E2QmY5LWh4LXpsRHhFZw?oc=5",
-      "published": "Sat, 21 Nov 2026 22:19:30 GMT",
-      "suggestedTitleEn": "Behind the story: Ministry of Economy Discusses Support for Women’s Entrepreneurship and Expanded Access to Finance",
+      "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOElkaGNZcUQ5TUdHaWZXWFFmSkxneEh4dE9oQks4aW9pWlJJUVNqQ0lUeVNNM1dhODVCeVgtMld4NF9pcGdUQWNsNHBVSGlMdWhoR0s1WFVheDlVMV93TWJMcVBHeks5TVhEMVlOQ0M4blUwd1czY3FZRHVralV2R0d0TWxvOHpa?oc=5",
+      "published": "Sun, 22 Nov 2026 10:25:00 GMT",
+      "suggestedTitleEn": "Behind the story: Copper Prices Are Plunging and Sending a Warning for the US Economy",
       "suggestedTitleAr": ""
     },
     {
@@ -206,7 +206,7 @@
       "title": "Deploying AI into workplaces: What leaders need to know",
       "source": "American Psychological Association (APA)",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YlkzU2d2V2hKdldJNENfYks3NFczNUY0RjJ5WVJDdHNQQ0ZtWm5odzVKWjlxSEtiSmpnbFpFZkV1WGozV3JENGkzRHNQdXFzdElYVUNmRHM?oc=5",
-      "published": "Sun, 22 Nov 2026 02:17:29 GMT",
+      "published": "Sun, 22 Nov 2026 10:41:56 GMT",
       "suggestedTitleEn": "Behind the story: Deploying AI into workplaces: What leaders need to know",
       "suggestedTitleAr": ""
     },
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Monthly Roundup For November: Opportunities for Artists",
-      "source": "Artburst Miami",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtWmthaUx5UngyUHRQVmpQQ2NlMnNyODdDd3ZLcEJycTQ0S3R1SnNxUmV3bnRaWFZCbkFtM3MxbmdnclBHb1ZZYnV1elo3a2kwbU92U2F5N3dUV1pOM2ZJSWIxYlYtUGVESVhHMHRtSjRacm54dEE?oc=5",
-      "published": "Sun, 22 Nov 2026 02:20:52 GMT",
-      "suggestedTitleEn": "Behind the story: Monthly Roundup For November: Opportunities for Artists",
+      "title": "Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVFpc0VlckhXYklRbmJjaFVTLWR6R3ZVTDdQcjNmWGNQRm5jRVB2VXk2ZFpuaDZYYTQwTS1JQlBZa1JsdzltYlNjM290bFh4TkRiZlRDbGttaEFzeDVudTFiTzh6c1J6VUFIbnJqbW9jMnZIaXZlR3IwbFdQZWRCaWV1cDZmZw?oc=5",
+      "published": "Sun, 22 Nov 2026 09:08:32 GMT",
+      "suggestedTitleEn": "Behind the story: Director Ron Howard’s ‘Best Ritual’ Is a Walk With His Wife",
       "suggestedTitleAr": ""
     },
     {
@@ -230,7 +230,7 @@
       "title": "International Mission Arrives at Mercury to Study Its Mysteries",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTTFHbk1uMmN2OERKTGNCY21RNEw5Z1pPNURBTEljNThyTTdRWUo2YjVCOHRNV1UzS2F6XzlKbHhQWHhhbDltZVRfbjBCT252MTBXVjFDTm5yWF95ZHU0TmRNQzRDTVkteVE2TzdJd2VKUVNINS1NbkIxamhrQ2c?oc=5",
-      "published": "Sun, 22 Nov 2026 06:39:50 GMT",
+      "published": "Sat, 21 Nov 2026 08:00:00 GMT",
       "suggestedTitleEn": "Behind the story: International Mission Arrives at Mercury to Study Its Mysteries",
       "suggestedTitleAr": ""
     },
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers watch a giant planet disappear for the first time",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRGFWY2xiNnd0dGVSb1J6WHhMUGRQY0ROUjJYVkduVXVlWkdFcDMza1F4TkkyWWRUZE9xMXY5R3NveU9Nc3dNeVZuUDhBY1BsaWc1cUJpbXBCMktydXNzb1dHclYwRWR3NGIyMWRTUGh1Q2NxeXlseG4tQ2d0dw?oc=5",
-      "published": "Sun, 22 Nov 2026 05:05:28 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers watch a giant planet disappear for the first time",
+      "title": "Astronomers Discover Bizarre Triple-Star System That Shouldn't Exist Just 28 Light-Years Away",
+      "source": "ZME Science",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBid0pjM0ducmZMdVFnSmtpWVl0Rmw0TlJBS3NWT2luem9reldSVlE2Ung4TV9iWW96UW5yNy1FRWhwdm1EZmdNNDZsbHBqQTA1dEFHZGVWNE9vcUZyZHhkNzdURmgzYWNjVC13aTZYSktLWl8xemc?oc=5",
+      "published": "Sun, 22 Nov 2026 10:25:37 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers Discover Bizarre Triple-Star System That Shouldn't Exist Just 28 Light-Years Away",
       "suggestedTitleAr": ""
     }
   ],
