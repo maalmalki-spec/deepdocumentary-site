@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 4
+    "global": 10
   },
-  "updatedAt": "2026-11-23T13:31:05.113269+00:00",
+  "updatedAt": "2026-11-23T19:13:08.041364+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية: أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة | CNN Arabic | CNN",
+      "title": "السعودية..مديرية الجوازات تكشف مهلة تصحيح أوضاع اليمنيين بالمملكة",
       "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR054WGh4WWVLZkFIOVRKWS1oeHREcVhvQTF4aXdKY3ExaHljbHdXN3Fma19TNVU4dTIyR1RtUjZWamo5VmxxcTBOYWVXYVRpRmZSR2N6dmxTclYzVGcxM2FCOElRT3BUeDI0MVFoNWU0YmxqV0ZONmlrLVBRaXBfTXhzWFJBWmlsZE9zUDk4MTF5MG81UjFmOC1CRTk5V29xUjJIY1hZMEJIeUlaaVUxOE91RXM3WFNZRnRrUTc1QkhFVjg?oc=5",
-      "published": "Mon, 16 Nov 2026 13:44:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkI4aEFsMFZ4VVV0QjQ2dG9GcGNyRXRrYVY3VkVtbzloZDQ2Vmh1eGpYQ3d3Z2lhZ25aQUdZMkFfZ3FmRF94dDZDUFZVNGJrWVdBQS1Za09JS2hhbDBRb1FNN2VSUFJhV3IwaVc4akVGdlA0YXZaZjhlRmVVYzNZNDVoX0s5eWJxa1BBclVwbHRWUmVCUXJkQTZveVBNdk0?oc=5",
+      "published": "Mon, 23 Nov 2026 10:50:49 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية: أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: السعودية..مديرية الجوازات تكشف مهلة تصحيح أوضاع اليمنيين بالمملكة"
     },
     {
       "category": "history",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUNmd2dVSjZhOXhOcGZQODA0VVl1RjBGeGRPME9GNmliNFdxMnhuYnQ5OTZtWDZLOFg1cjdBaUtydHkwWVFwbDRDNFBMNS1QYmEzMk5xcXBvbWdVbUpfa2hna2prNHQ0UkE?oc=5",
-      "published": "Sun, 22 Nov 2026 21:23:43 GMT",
+      "title": "لماذا تهبط أسعار الذهب وإلى أين تتجه؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN0EwT2FkYzdXT1YxYmNHX2RTeENNbzF6WVc4QmtScU5yVmpQYndsRE1WMk5lREJpbTJaeGJtMGFXVVUyRHdpamJ6bnViZUtpdXVUNGpTZTExSWVGYWpQel9CcHlGcURucm1rbXdwSkRxMzNHbGQ5Ny1BRE9ITGhRbFM4cmNSRnJETm5vOW9kQnJxbWpOMGVOS0JMbXdFNWtBZTVSM0xvZGYwOGpoaDV5TXhucEtLdjNya2tPWFFsbl9EcXVDVkJoa25pSl9GZXQzS1NhYl9ncGM5OWRoeVB6amFjYzhxS0V5Zl9sMVI3cDJNSlV0UDNLdkNzc2lCX2oyTGxjeXFLcGVUXzhhMjVLLXRXcjZnT3RUVjJkZnJNM05TaEt5cWN4NGoyd04xc3A1NTJxUUFodXhhTHhrY3hodVRIc095OHQwRGFIYjhBTkNRUjg?oc=5",
+      "published": "Thu, 19 Nov 2026 20:16:43 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عاصفة السادسة مساءً في السوق الأمريكي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: لماذا تهبط أسعار الذهب وإلى أين تتجه؟"
     },
     {
       "category": "environment",
@@ -83,36 +83,36 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "دراسة تحدد التاريخ: الإسلام سيصبح أكبر ديانة بالعالم ويتجاوز المسيحية | CNN Arabic | CNN",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1RpaFVhX2xIajh1Q2VMX1hVOTQ0a3Z3RUNTVTVKdnZmMjBxZ2JRMW95ZnNsSEtJTkFNM3QxdE5TVm5hai03N2IwaTdYM05oSXN4TW56TTRFTE1VejVCR2x1TDZPLWZIajN5bUttR1JqMl9CeXdGODByOWQ5a3d4am5QZV84bWZjX2dJaTAxbUcxRElHakZkOUhuTlJVXzRRWW55THFKN2RyN1dxaWNPUUVn?oc=5",
-      "published": "Thu, 19 Nov 2026 04:49:18 GMT",
+      "title": "إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdXM0RHdlNGk2RHBhVUtPRU9Md05OeEZvMjQwRzhzNWNfQ0VHNXZqSU1lYnR0NmdfM01RU1hNZDRVbDVWOElhRW5hS25TN1hab19oay13QldaMG8zeGs2QjFiM0pGNkdVVEE?oc=5",
+      "published": "Sun, 22 Nov 2026 15:46:48 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: دراسة تحدد التاريخ: الإسلام سيصبح أكبر ديانة بالعالم ويتجاوز المسيحية | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "culture",
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makVxOWNvNFR4a0R6blozV3N1T1R1V2pFbU5JejF6cF9IQzZtMXdDcDgwLVdCa2czTVB2d1dneVZocEhPeXFLOUpZUWh0cWg1a3EyNFFSal9fWGhEemxVbzZDWWh5bWJSaUE?oc=5",
-      "published": "Sat, 21 Nov 2026 22:20:35 GMT",
+      "title": "\"موسيقاي\" .. منصة سعودية جديدة لتعليم الموسيقى عبر الدروس التفاعلية",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOWFdmb1dnZTkzd2VGSmdLaEs0bEp2Q1FTS05TcE4xMWV0WUJVRmpROEZ2SXNjTm1nbXpTN2Rna0FQZlNSTExzLXpNMGRrVTM1azJlVGtzOEV0YTdDMU9rdm5JSkFTTnJCcUZmNTdrSk9EUnhJTzlDbTBvZjBFcHplMlY2aFhqRVFMUnFoaFVFM3l5UFVKUXgtYnBLUUtPelRwa2d1ckNkMzl2aDRlRjVkMXhTOFhZX2lZcjN3TU1qQUFHWEZoc0FyenNoUnhvbXp4RDlWNEM4eUthUnhkY0xZLWRUb3RoVGVVMDZxZnpZN0JuUmpMZWhJUE1wQWp6cFFKbEdzd3NBT0RjYTVOX3RhZXkydVJ4YmdPZ0k3VkI1T1dfQWVIdktDUHdYOXJONmF3d2lUVG9Ba1g3dUlmY2haX1NLWnJQcmxRUWRmeTlhRG12dURiZVJCWUhGRXZSekF0akFod2NlWGxBUHNmSW5mbDBqZVdDTUl0ZklNXzBNai03akJxTEJjdHVmNEJoU0gyUjVLZVpXZ3NSLVJwNVlReS1EWUUxLS1keHpCZE9GZXZUQkdVTlM1dnRfY1VKNTM4T1FTQlB2dWtKQlc1cS02QmNzaFJYdDBMRTBXb000Yk9xYklpbFBjZWNBZ3k0TWg3c1Q4TGxKR3UySHlvT0liaGVYNHlMZG92NnR5V3RmYkthVDZHSzZnRFdUMVhzdEnSAZ8EQVVfeXFMTlhXZm9XZ2U5M3dlRkpnS2hLNGxKdkNRU0tOU3BOMTFldFlCVUZqUThGdklzY05tZ216UzdkZ2tBUGZTUkxMcy16TTBka1UzNWsyZVRrczhFdGE3QzFPa3ZuSUpBU05yQnFGZjU3a0pPRFJ4SU85Q20wb2YwRXB6ZTJWNmhYakVRTFJxaGhVRTN5eVBVSlF4LWJwS1FLT3pUcGtndXJDZDM5dmg0ZUY1ZDF4UzhYWV9pWXIzd01NakFBR1hGaHNBcnpzaFJ4b216eEQ5VjRDOHlLYVJ4ZGNMWS1kVG90aFRlVTA2cWZ6WTdCblJqTGVoSVBNcEFqenBRSmxHc3dzQU9EY2E1Tl90YWV5MnVSeGJnT2dJN1ZCNU9XX0FlSHZLQ1B3WDlyTjZhd3dpVFRvQWtYN3VJZmNoWl9TS1pyUHJsUVFkZnk5YURtdnVEYmVSQllIRkV2UnpBdGpBaHdjZVhsQVBzZkluZmwwamVXQ01JdGZJTV8wTWotN2pCcUxCY3R1ZjRCaFNIMlI1S2VaV2dzUi1ScDVZUXktRFlFMS0tZHh6QmRPRmV2VEJHVU5TNXZ0X2NVSjUzOE9RU0JQdnVrSkJXNXEtNkJjc2hSWHQwTEUwV29NNGJPcWJJaWxQY2VjQWd5NE1oN3NUOExsSkd1Mkh5b09JYmhlWDR5TGRvdjZ0eVd0ZmJLYVQ2R0s2Z0RXVDFYc3RJ?oc=5",
+      "published": "Mon, 23 Nov 2026 05:20:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الأبحاث والإعلام توقع عقد تشغيل وتنفيذ خدمات قناة الثقافية مع وزارة الثقافة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: \"موسيقاي\" .. منصة سعودية جديدة لتعليم الموسيقى عبر الدروس التفاعلية"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "\"سالم الدوسري\": \"أسعى لمواصلة تحقيق الإنجازات وكتابة التاريخ\"",
-      "source": "الموقع الرسمي لنادي الهلال السعودي",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFMycUhlTEV0S045Xy1TeXhJN1JkZmJZai1LX2ZtNW1ET3JmZURFaGMyOHREcmZNZm5ORnAzeHRZWGR2N2ZtYlFyUDJHM0lOclI2dXZOSXVnRk9vQzYwWDI4X1JCZ0xYLW9SSkx5R0NiU2FfT3o4ZWp1QjBUb211aW9pOUlqVVNyM3VvM2JB?oc=5",
-      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "title": "لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUHlCTkhOQmp4V1dOdTZZc0FaNkhqc2liSGh3b2hyUDBwVS1ReGJKYngyZVh1b0E3VzJvN3ZxZVNUZHZ4UzRxYnBjekZZd3JFdm1RdzhNaHlkRWdzRUVwSGNOMEVybWRleE9yclNYVGxOd2dwYkNYLTJlaTdOOVJSd2hfQ2hraWhIY194cUxuamtsREk5VHdxTDNDdlVGMVYwbVFmMU1xMEpzbEotZE8tN1VSVkxiT0hGWDA0LXlDbXlCaHdLeVAyc2xxNzFqN1M5TjEtNzZNMk1NemdqcERSTGlfTnNHLVAySURHQU4td1p4RkxUaC1xRVFTWDZmbnk3OGpvZTQweTZEZV9zVVQzcDBhSVE5OVFxX3pWeG14WVBGSTBfTkZoT29uejNBaXQxRXZPdTVWX2dFN3ZjcFBIeGFfdXdqQWgtQmtZX3gzSVcwZw?oc=5",
+      "published": "Mon, 16 Nov 2026 20:40:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: \"سالم الدوسري\": \"أسعى لمواصلة تحقيق الإنجازات وكتابة التاريخ\""
+      "suggestedTitleAr": "خلف الخبر: لغز رون أراد.. كيف قتلت إسرائيل جنرالا إيرانيا بحثا عن الطيار المفقود؟"
     },
     {
       "category": "space",
@@ -127,15 +127,39 @@
       "suggestedTitleAr": "خلف الخبر: تجربة ناجحة.. هل تبني الروبوتات التلسكوبات العملاقة في الفضاء؟"
     },
     {
+      "category": "world",
+      "categoryAr": "العالم",
+      "categoryEn": "World",
+      "region": "global",
+      "title": "Trump says he wants \"permanent\" deal with Iran; says next move may not come until 2027",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
+      "published": "Mon, 23 Nov 2026 07:20:00 GMT",
+      "suggestedTitleEn": "Behind the story: Trump says he wants \"permanent\" deal with Iran; says next move may not come until 2027",
+      "suggestedTitleAr": ""
+    },
+    {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
-      "source": "ScienceDaily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yTzFiTHJ5cjZ4Rkk3akFGTmlOckd6SlFEem5FZHZaUUF5S1VUeE5YaXZ1UFY1NUl6dVpGZGxiYm1USjVCUVZmOFZiNHFVWTNrV1I0ZS11RDZsMkNhM2ZtcGwzLUZfMmRWRzA3NW9B?oc=5",
-      "published": "Mon, 23 Nov 2026 05:35:42 GMT",
-      "suggestedTitleEn": "Behind the story: Archaeologists reveal a powerful Iron Age king may have been a woman",
+      "title": "UNCW Archaeology Students Dig Into Brunswick Town's Past",
+      "source": "University of North Carolina Wilmington | UNCW",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ19WLUhKTlE1VFRLNE9UNGVLelBDTmNmclQ1VC1qZy1WVmx0YzltVktXNHhPaHd3NzA1OEYwblNuRkIzZ3p4QUdIeC0yUFc0VjZrLU5Kbk5WSjl1Uk1PM29SSTZnSk1PdXFBaWRQdGJaY1E4RkExZ2Z5dm1vQW1udUhwdTFBQnNqaDJTRXJ1bw?oc=5",
+      "published": "Mon, 23 Nov 2026 15:22:30 GMT",
+      "suggestedTitleEn": "Behind the story: UNCW Archaeology Students Dig Into Brunswick Town's Past",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "science",
+      "categoryAr": "العلوم والصحة",
+      "categoryEn": "Science & health",
+      "region": "global",
+      "title": "AI binder discovery: From design to validation",
+      "source": "News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1ibklrQk9WLVc0eEJwZ1pGdTFBaXc3VUp2Q3kxMFdzV215eTVRd0JaV09yR3VWWXltMldsZFc4anY4M3dVNS1XMU80czhkZTgxUGNHdlJabXExek9IRldpT1JhYXJ6WFdLNE1UeHllZjNnU2pRaWhVcDlrVFAtVUNUV1hJeHFobzZjTlM1QkhxRXgtR2hzMQ?oc=5",
+      "published": "Mon, 23 Nov 2026 17:58:00 GMT",
+      "suggestedTitleEn": "Behind the story: AI binder discovery: From design to validation",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +167,47 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQ2w3VHUxSWdFVEZfVExlNGJaWUszOURZQWpxb0l1MlZFYXJZVXl4LUM2aWpZcDB1UjNuM2czUXJWUjFfVmZTRjd2YTZlSmtiWlRjaTNJcjJWU21fOWFQcFJGc2ZPRGZ3VUhGejBPYXI?oc=5",
-      "published": "Mon, 23 Nov 2026 10:31:26 GMT",
-      "suggestedTitleEn": "Behind the story: Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou",
+      "title": "Will Artificial Intelligence Reshape How Humans Work?",
+      "source": "American Alliance of Museums",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2ZYRzRpbWQ2ZjNQOWh1Q2lwU0VnYlNUSEdSZ2Jwc0tzQVNJMzJpOGJ6bjQ4TUV3TlNmRUZkTHdxXzhhU1d1RXBBYnA0QkJXeEpWWC04NmJ3M1dfOEtYMDN0OGZPWDgzSTBqcWtldndTUk1JQ2ZEbEVEdVlFblN3bU1rZ09NZVRmbklEV0VmblA?oc=5",
+      "published": "Mon, 23 Nov 2026 14:27:01 GMT",
+      "suggestedTitleEn": "Behind the story: Will Artificial Intelligence Reshape How Humans Work?",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "economy",
+      "categoryAr": "الاقتصاد والأعمال",
+      "categoryEn": "Economy & business",
+      "region": "global",
+      "title": "NYCEDC Releases New Data on Economic Boom of Holiday Season Across New York City",
+      "source": "New York City Economic Development Corporation (NYCEDC)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3VZTF9GS0t0ZnRlamd4QmEzYlpWRHV1akNBWThSYmZDQzdEWndxYUxKOVZCQ3VxWVRWNjJDcHB6QWV0b1lRMElXc2k1MTN0bXVUVzN4VGlGSXp5ejJ0ZzQzRGRYX3dWNk5vOF9FMGxZeWE0S3p4ZnU5WXo4QmJJOEdHSTJTemgzS0xNaVZZVTZhQjNzWVJuMkFLbWVmZHNnYTJDOUlmcw?oc=5",
+      "published": "Mon, 23 Nov 2026 16:27:43 GMT",
+      "suggestedTitleEn": "Behind the story: NYCEDC Releases New Data on Economic Boom of Holiday Season Across New York City",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "environment",
+      "categoryAr": "الطبيعة والبيئة",
+      "categoryEn": "Nature & environment",
+      "region": "global",
+      "title": "UK’s nature healthcheck doesn’t stack up in wildlife’s favour – but volunteers are collecting plenty of crucial data",
+      "source": "Inside Ecology",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdjcyRld0Wm1EWU1sYTJoNVgtbTFKd2U2YkxfNDczZFVZQVZ5dG9mM0p1dTZqaWpwRGE5bk5ZdWdMQjBTenFqUHpSRkF4ZHFsdXg4bkNwNllvNGdxTXJKRTJxYWN6VEJVcDNVYl90MnBPY2dWb2dTR2hWd3c0MnBLNllKdENYbjFOVHhrdS1fZjMzVHJEY21FcmlnbGVoakJDdjlMWUxQZXA3dEFzWk5XUW90MUZlRWhJUThaN1dDSTFlY3p2QnowQk5ibmpuaDQ2UlYyTExtTTFQZkRkOXY5ZzNNMA?oc=5",
+      "published": "Mon, 23 Nov 2026 12:00:48 GMT",
+      "suggestedTitleEn": "Behind the story: UK’s nature healthcheck doesn’t stack up in wildlife’s favour – but volunteers are collecting plenty of crucial data",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "society",
+      "categoryAr": "الإنسان والمجتمع",
+      "categoryEn": "Society",
+      "region": "global",
+      "title": "School Psychology Shines at CSSP Conference",
+      "source": "The University of Northern Colorado",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3pIZDVDRW1sNS0tNDAxYVNBRWZvYlljcnNfaGtWanliWDN3V0JIaU9xTXVIREpjaVRvUlRBSU93ZlFrbk1yZlJsU0VmekN3bFF6cFBVanduUlUzbkRyejk4ZXo4WXFHc2VlNndGb0x3ZWd3ajZsVkRyV0JyRGFBTjcwdw?oc=5",
+      "published": "Mon, 23 Nov 2026 17:21:43 GMT",
+      "suggestedTitleEn": "Behind the story: School Psychology Shines at CSSP Conference",
       "suggestedTitleAr": ""
     },
     {
@@ -163,6 +223,18 @@
       "suggestedTitleAr": ""
     },
     {
+      "category": "mystery",
+      "categoryAr": "الغموض والتحقيقات",
+      "categoryEn": "Mystery & investigations",
+      "region": "global",
+      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTTFHbk1uMmN2OERKTGNCY21RNEw5Z1pPNURBTEljNThyTTdRWUo2YjVCOHRNV1UzS2F6XzlKbHhQWHhhbDltZVRfbjBCT252MTBXVjFDTm5yWF95ZHU0TmRNQzRDTVkteVE2TzdJd2VKUVNINS1NbkIxamhrQ2c?oc=5",
+      "published": "Mon, 23 Nov 2026 18:29:00 GMT",
+      "suggestedTitleEn": "Behind the story: International Mission Arrives at Mercury to Study Its Mysteries",
+      "suggestedTitleAr": ""
+    },
+    {
       "category": "space",
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
@@ -175,18 +247,5 @@
       "suggestedTitleAr": ""
     }
   ],
-  "errors": [
-    "ar/science: HTTP Error 429: Too Many Requests",
-    "ar/economy: HTTP Error 429: Too Many Requests",
-    "ar/environment: HTTP Error 429: Too Many Requests",
-    "ar/society: HTTP Error 429: Too Many Requests",
-    "ar/mystery: HTTP Error 429: Too Many Requests",
-    "ar/space: HTTP Error 429: Too Many Requests",
-    "en/world: HTTP Error 429: Too Many Requests",
-    "en/science: HTTP Error 429: Too Many Requests",
-    "en/economy: HTTP Error 429: Too Many Requests",
-    "en/environment: HTTP Error 429: Too Many Requests",
-    "en/society: HTTP Error 429: Too Many Requests",
-    "en/mystery: HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
