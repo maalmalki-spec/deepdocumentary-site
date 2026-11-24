@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-24T13:28:34.372911+00:00",
+  "updatedAt": "2026-11-24T19:11:37.269411+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة",
-      "source": "الحرة",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBHT1c0QUROdGExVDFRN3ExZ0JJYVVhOHZGclBHb3Q0VEVjN2RKN0VfRmMwUEFmbldVdjBWVzFn?oc=5",
-      "published": "Thu, 19 Nov 2026 17:22:11 GMT",
+      "title": "السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNeEpQYTlmdGpfZHRUclBfcldjNnlUMmVHYy0yY1JZUkUtR0hpLXJGOVlhYTNjZWN0c0pCQkVvdUs5LTdmOVV5MXBYT0xTQTF4RmhKYTRQcUdOMUo5cFBuSk1jSzRPXzlKMmw0X3lUWG8yUnVmeGR4OVBHQTkyQkpiTVEzS3V2T3pOYlh2T2lhcHY2emU4U2ZhQ2xJUXdnZXBiN3ZMZkFjSXZDWF9hbmhpMXV6YzZnbFU5NWdaVWFucG9NRTJzVUJ5SmdvZjdtbFh3dFRTa3VrUnlXZ2R3Y25zb2JBXzFWcGlfd3dweGNjZWswel9sd0xHS19PUXdjOWFHVVpvUU1kT3pySmYyT21Yc0plNXFqSjQ3RjdVeENHVm1yYUlrV3pscVp1YVY2STF5WDZYU0FPYjhPczhMVGdLcWVjZU1HaEgwTm1CTXZuS2VWc3VXLTQyaXVUcklTdw?oc=5",
+      "published": "Tue, 24 Nov 2026 13:09:20 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة"
+      "suggestedTitleAr": "خلف الخبر: السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال"
     },
     {
       "category": "history",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "عام / وزير الاقتصاد والتخطيط يجتمع مع نائب رئيس الوزراء ووزير الاقتصاد والاستثمارات والصناعة في جمهورية بلغاريا",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mNTFPZE1FWkhEN0tCZ3oybnhZbV8zV3Nib0N6MmlTRVZuOHMwUkU5M3B5R0szZW1ZT2FNTURaek5xdjJPVFE?oc=5",
-      "published": "Sun, 22 Nov 2026 13:41:58 GMT",
+      "title": "مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUdCWl82UXBWakg1N2hENUhCTzRYQlZ1cnU4czhhdnptVDZQaWZ3YWVwcndDOXBDdXFRNVF1YXVhcEJWNzUxT1FpdDIzcDdSSC14S0t6ZXZKa20wemF6dy1iaGlHMVhqVEgxemREa0VfV2Nldm9FMnlpakgwRHVoOVRXS0hHaDBOWHVRcGlYcWpOSXRhQXhYcGV6WF9uQ3lrNFIzWkhqME5CQQ?oc=5",
+      "published": "Tue, 24 Nov 2026 13:39:27 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: عام / وزير الاقتصاد والتخطيط يجتمع مع نائب رئيس الوزراء ووزير الاقتصاد والاستثمارات والصناعة في جمهورية بلغاريا"
+      "suggestedTitleAr": "خلف الخبر: مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟"
     },
     {
       "category": "environment",
@@ -83,12 +83,12 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdXM0RHdlNGk2RHBhVUtPRU9Md05OeEZvMjQwRzhzNWNfQ0VHNXZqSU1lYnR0NmdfM01RU1hNZDRVbDVWOElhRW5hS25TN1hab19oay13QldaMG8zeGs2QjFiM0pGNkdVVEE?oc=5",
-      "published": "Sun, 22 Nov 2026 15:46:48 GMT",
+      "title": "فريق وعي لصحة المجتمع بجازان ينفّذ مبادرة اليوم العالمي للسكري في بوليفارد صبيا",
+      "source": "صحيفة أصداء الخليج",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xb2VwUXpBSVJZOERBb3dxQkVSUUZOdUJRcWtXN2tGakJYWElGM2lENzhpLWJzeFhLMC11b2NWVFZoLTBORVpHSlNNTkc3dGdKZW5WNUxqVHI?oc=5",
+      "published": "Thu, 19 Nov 2026 16:55:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: إعادة تعيين عمر خوجه رئيسًا لمجلس إدارة المجتمع الطبية وفهد آل سميح نائبًا له - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: فريق وعي لصحة المجتمع بجازان ينفّذ مبادرة اليوم العالمي للسكري في بوليفارد صبيا"
     },
     {
       "category": "culture",
@@ -107,35 +107,35 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز جهاز أركنساس.. ماذا حدث في ليلة توقف الطيران الأمريكي؟",
+      "title": "نجمان ميتان وثالث حي.. لغز فلكي على بعد 28 سنة ضوئية",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNai1mVndWWDV5djA2SnZ6UmtRYk1wclZZU2F6TmlnNERmdXhvSmhERWR3dXRGOFU5NlJGcDBIZUlQckZWMHZ3S3VpczI5R3QtUVdpU1NvbFN6OFlPYWRwbGttYjZRaXZ4b0ZYVWFOMFIwUFVXMFRTRUJPSGtHeVlEOHdJcTEtUldUd0JYVXQ3MHV0VEtfR0FBdHZRYTA3UThtV3dDYnhuQVlUX3hpX1pjWEtNcGJxVmIxTnNzSFd3VWRXbWgyLURDc3pnMTd5R3V2bm1lTzBNUjh2THM5MGxfaE9wOFRORy1HUHplMk5xRzVFZXR6YS03bndmM1dLY2c3cEd2bDhIMFZnSktLM25fR1gya0dweW94a0htNldIZG1USGVBMkpRd0lHZkU5ZzBQTUVSX2dMV18xR1VnVGo3czBIT3hreW9fN21wOXZ3anByc3BJUGc?oc=5",
-      "published": "Thu, 19 Nov 2026 13:49:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQTXg3T3JhcUhqSGV6X1lpMThKTFo1aWxmY2RtalR5ejZZYlVtTDlfcmItN2IyZEdMQURLcWVmNFBDRy1Lel9JZ2JRNTNuT3F3VzYtYTM0MkVlVndTVGQzNUFaV2hWUmI3dC1QTUUtejVYOWJ6amdDWkVadVF3SVBuUG9VaThMWHJhckJROEJDMW9aVnA2SFJJM2FrZDhncGFaV0VScXpmM3NLU2FwNWxDcm0yVjhKTDRlVFBzdXViUGVQTUdtbUR1ZktUalE0alhwMEplQWU2T0doVlpkZWJXZ1YtRmR5U1pFaGNELTdzZ0pEenVwdTN2NTZlRTdxczIwYUVFcHZtb3ZRc3IxdFMzbHVzMVNHV2g1MzFlMEpVU3dJelFSb0hudzloME5iWGdlUHd6NWduSFZtQk5mZm5wTDJDcktrQjMzeE1qMHczU1BYa2lDaVE?oc=5",
+      "published": "Tue, 24 Nov 2026 13:36:04 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز جهاز أركنساس.. ماذا حدث في ليلة توقف الطيران الأمريكي؟"
+      "suggestedTitleAr": "خلف الخبر: نجمان ميتان وثالث حي.. لغز فلكي على بعد 28 سنة ضوئية"
     },
     {
       "category": "space",
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "arab",
-      "title": "تجربة ناجحة.. هل تبني الروبوتات التلسكوبات العملاقة في الفضاء؟",
+      "title": "شبح الحرب النووية يصعد إلى الفضاء.. تحقيق ألماني يكشف استعدادات روسية",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVjRKRkhpNEVtTkNHVlRJQUlTVS0tUkgxVFBILWViNUZTTmZYYU0wNDA5NjdmRTdlMlM3aVZkTEpLcGZ6WElDeEJiM0RISnBTUklfZ0I3X2ZZejAtZnQzUUxtdjdDS2FUZ29KV1ZYTWR2NWt3WUdkcXFDS2VDZndKOGdjYjRFVnpZWU5lZjBiWG1jZ29tNUswMURuZ3hvdEJTYUFCTXU4NkswY0p1V3VKRHNvY09LX0pfbzdFNTgzMDFxUnR6QXZIcWxQOTg0ZkpuX0FsMEw5Um9HeHFBenFPLUtteFNhdnpJNkJiLS01TF9mUDdLOW0wamVTNHhNUXhldG1EZ0VYOWRyTi1QOUlyQ1NoMTlWRkJmUnhyVVV5S25GT2VhSFE?oc=5",
-      "published": "Sat, 21 Nov 2026 08:43:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVTBWT0Jyc3dMUkk3SENtNWtBRzI3Q3hOQ0lsX05qYmlBWVBFVXlYR3htTk9ucEhGNXk5Z255eUNlSF84MXdTZnBZenQzTHNzLURfcmZqclJycllxWlhoSXZnSDg2ZTRsU3RzSUVXOTh1MUN1RDdHS3lKNURjaU5FbVdYclNYcnRjVjJiVUw3NVR1eVhrY2JLM2FaZHJGQmRUUWpNMjRSN0pMaC03ZEQ2OGtuVUJPREQzRXpJeTJBdlRBaUtpV0RtQlhpWGJINnBwY2h5LWJtcm1EZE5Hckw5REh4ODJ3VW9oaGxfdVFJOWc1UmlLYTRpT29GeXFCUk9XcFZQQW1ERnhBOVYxejBGVVVGNUo1MnV3V21TNlVIZnBBaWRwNGloOXFQTUYyRzlyYXZGNVM2VkhHN0Q2NVZwVg?oc=5",
+      "published": "Tue, 24 Nov 2026 17:53:25 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: تجربة ناجحة.. هل تبني الروبوتات التلسكوبات العملاقة في الفضاء؟"
+      "suggestedTitleAr": "خلف الخبر: شبح الحرب النووية يصعد إلى الفضاء.. تحقيق ألماني يكشف استعدادات روسية"
     },
     {
       "category": "world",
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "published": "Tue, 24 Nov 2026 09:46:47 GMT",
-      "suggestedTitleEn": "Behind the story: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "title": "NFL's international plan: More games, new TV deal incoming",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEtYTGlHdjNCQ2dvZjB1LXNvOW1Lc0hwcHQ0NnNZQjlxU0xPUEM2VVhzQmV4amIyVTFNdlhsRW9Kb0tYcWtoc1RiZmgzQzFCcDZlQmtCaUxwbXFJc3lIQTRhSGlhenVOcFVaWXk5ZzN5dkNrdVNJTUFhRWkxaURyQUhDc21YV0owTGx5UWJR?oc=5",
+      "published": "Tue, 24 Nov 2026 14:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: NFL's international plan: More games, new TV deal incoming",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "CPRIT funding fuels AI-powered cancer discovery at UT San Antonio Health Science Center",
-      "source": "UT Health San Antonio",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDQ0bmZoQWVOWGFWRDdIUWlKcHpQRm8zbGRQcW9sMnNFN2xTYTNvemRJdlJBVERWZ1hlYThYalh3U0VlSU85ODVsRU80MENZcXFUaGZtRWljaHlJZTZVQlZHXzJfRTJDN2QwZTdnTmJJVUp1Ulp5bUZqcW4zRFJNSGJ6dmZKNTdQMzQwSnJNRU5CY2l4blRiWHV0aWlEVjBtSWFUaFZVaTBTbXFTTzhLLS1PUQ?oc=5",
-      "published": "Mon, 23 Nov 2026 19:35:03 GMT",
-      "suggestedTitleEn": "Behind the story: CPRIT funding fuels AI-powered cancer discovery at UT San Antonio Health Science Center",
+      "title": "What it takes for academic scientists to thrive in pharma",
+      "source": "Drug Discovery News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnEzc0JiWHJhcGViUWZhVEZXTFd2LWZfRGdDOVlraDR4dWtyMHNOWnUzTGJ6WHFvb3FPWU1fNm8xVGJyc0xwZ3lCQjNXVzUtd2owQUJpNWhYRko2cGtoY0lXTTlkWFhvYWtuNlJiR2FUTEhHNzVUS19QZ0p3UjhQb1dSWWtvOUt6Wm1lYVFUV1R5cWQ5LTEwOG8tRldXdw?oc=5",
+      "published": "Tue, 24 Nov 2026 14:49:09 GMT",
+      "suggestedTitleEn": "Behind the story: What it takes for academic scientists to thrive in pharma",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "AI Is Crossing into the Physical World. Here’s Why Japan Is Worth Watching.",
-      "source": "Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lUU1kZEhDcktCM0hZOTVjaG9xak03MzNCcHpPQ0VKMVhkNzlRajhrdXAyWUppSjhhY3p0V2FwTUFyQy1WRW1BRWlYMjBGaGRKTDBTczFrVC1qM05ZYzJvSjFMSXdYQVZSdFBpb0xKekc0cUpjcG5TLVFOUlp4QQ?oc=5",
-      "published": "Tue, 24 Nov 2026 09:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: AI Is Crossing into the Physical World. Here’s Why Japan Is Worth Watching.",
+      "title": "AI and the End of the World",
+      "source": "Princeton Alumni Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVHJfdjBNaUhST3ZHM0IwTWtYSzdlMkVKdW5xUFlFUTVzLTFvQU1mdlI5T0QwWU1QT0lZYjhYYW5Na0lnOW1PdU5xMzYtWWdZNnFHcTdfdjF5R1Fsdk9aa0dTRTNtRE1JRGFoM0s1cXFyWE1nWThST0JjU3VyVmt6YjQ5cjlCbW1sbUE?oc=5",
+      "published": "Tue, 24 Nov 2026 16:38:44 GMT",
+      "suggestedTitleEn": "Behind the story: AI and the End of the World",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjAtZVJpLXdBRHhBRTMtSGtBR2dkRHBnLW8tMnpUYzBVOEl3SU9KV041Vi1rMFNFNEJJYlpjU2NmQllGLTdWdFRORjBQTFp4Y2hlY1NNYUVlZmRDUURwTWNGbWFncjl1aG5XUlItMDdNalNEZk1raFAzSGlWNE9aNzJidHVLWDhVUU8zMzFuZmZPVzBUYkZndHVsZG13Z3VocnR5WTZLaDBtYjg5MTNHd2J4MXpDQmt2TzgtQlVRSTFOMnFFR3ZkREJIbklreWFkeEE?oc=5",
-      "published": "Tue, 24 Nov 2026 09:52:00 GMT",
-      "suggestedTitleEn": "Behind the story: German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten",
+      "title": "5 economic trends to be thankful for",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEVHNG9sdVBKV1FwcjhUN3JoT1RxXzBIdkNsT0hoV080emFNajhNcFp1Q0pvU1hUYUF5WmtwMkdQc2ZPQm1PS2N6Smlhclp5T0xyVkhTc1ItNHNMWWJfS1dYa0FMRlJQd0pLU0x2SjhBX212WW9JdnNUZW9MQUNkUVdxSzBOM1hjSGpvNg?oc=5",
+      "published": "Tue, 24 Nov 2026 17:00:11 GMT",
+      "suggestedTitleEn": "Behind the story: 5 economic trends to be thankful for",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "School Psychology Shines at CSSP Conference",
-      "source": "The University of Northern Colorado",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3pIZDVDRW1sNS0tNDAxYVNBRWZvYlljcnNfaGtWanliWDN3V0JIaU9xTXVIREpjaVRvUlRBSU93ZlFrbk1yZlJsU0VmekN3bFF6cFBVanduUlUzbkRyejk4ZXo4WXFHc2VlNndGb0x3ZWd3ajZsVkRyV0JyRGFBTjcwdw?oc=5",
-      "published": "Mon, 23 Nov 2026 17:21:43 GMT",
-      "suggestedTitleEn": "Behind the story: School Psychology Shines at CSSP Conference",
+      "title": "Deploying AI into workplaces: What leaders need to know",
+      "source": "American Psychological Association (APA)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YlkzU2d2V2hKdldJNENfYks3NFczNUY0RjJ5WVJDdHNQQ0ZtWm5odzVKWjlxSEtiSmpnbFpFZkV1WGozV3JENGkzRHNQdXFzdElYVUNmRHM?oc=5",
+      "published": "Tue, 24 Nov 2026 16:29:50 GMT",
+      "suggestedTitleEn": "Behind the story: Deploying AI into workplaces: What leaders need to know",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "The White Terror in Taiwan: Memory, Culture, Text – 2027 Taiwan Studies Lectureship (TSL) Conference",
-      "source": ".::. UCLA International Institute",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TQTFFU3hjb21QSWJZbW9GeENhVXlxX1J5Vm1KSFlwMjV0amdJNlhuLWlUbTV0R3R1UzNoVzlrYnRnS1M5RXhDaUtTRS1XemFYMzZQbl9SNGx2VXFXdVM0?oc=5",
-      "published": "Tue, 24 Nov 2026 03:45:59 GMT",
-      "suggestedTitleEn": "Behind the story: The White Terror in Taiwan: Memory, Culture, Text – 2027 Taiwan Studies Lectureship (TSL) Conference",
+      "title": "Am Kolel’s Documentary Brings DC Jewish Folk Arts Festivals to Life",
+      "source": "Washington Jewish Week",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVW1KUkVKRlVrSjcwSVN4SjF4VkpLdlB0UkRKTHJ1M09raFRWSE5KRjBWRzhlTGRMSjhMdDk1X3drc0tzdS1sQTdUb2dmWjZTemV5R0c3UnptZzUxLXUtU3NvdERCaXhoUkwzZ0drbFBVdmZfbi1xVkFnMHYwS2ZXWDcxREVpMU9MOWlTQ1lkdGxmVV8yTlVESmFIZWJCVEt3VXc?oc=5",
+      "published": "Tue, 24 Nov 2026 14:49:20 GMT",
+      "suggestedTitleEn": "Behind the story: Am Kolel’s Documentary Brings DC Jewish Folk Arts Festivals to Life",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTTFHbk1uMmN2OERKTGNCY21RNEw5Z1pPNURBTEljNThyTTdRWUo2YjVCOHRNV1UzS2F6XzlKbHhQWHhhbDltZVRfbjBCT252MTBXVjFDTm5yWF95ZHU0TmRNQzRDTVkteVE2TzdJd2VKUVNINS1NbkIxamhrQ2c?oc=5",
-      "published": "Mon, 23 Nov 2026 18:29:00 GMT",
-      "suggestedTitleEn": "Behind the story: International Mission Arrives at Mercury to Study Its Mysteries",
+      "title": "How Mystery Shows Can Embody Christianity and Masculinity",
+      "source": "Religion Unplugged",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXFNVWxXR2tJWXJwVTdmY1dLVm9BVzI5VWE3S1VxQzZaWXg4a1VkOVZiNWJpWWdFZDNEci1UVkU2RkY2dVhBTmFOV3NUSy1hbTFvUWY1Umh5RndtVTFiVENkOGlIdm5LbHFWaVF0Z2NyYkFManFXNzY4dzVONWNsNTZVbkF3bmQwbHloUjEyazZDTjV3cWJ5LXY1OTF1MHpTdUlTbGNqLVF2NVlKYVYyc25YSEJXY1JZTi12a25QeFAxU1dLWExNVUlRUWtlMjF2MmFHaWQ4aU9DbldFak0ycXA4MnM?oc=5",
+      "published": "Tue, 24 Nov 2026 15:02:00 GMT",
+      "suggestedTitleEn": "Behind the story: How Mystery Shows Can Embody Christianity and Masculinity",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "The Interview - Advances in health and medicine: From space, ‘you discover things that are hidden' back on Earth",
-      "source": "France 24",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORks0QWRDcDRVU19zTnJfQUJ3OUtyV3hjcFZIVFFnZDNES0JsQnltRi1WQzUtcWI0NDlZa3gyMXctM0V6Sm54X2Nkd2dkUzdKYkpZVUE4SVl5Umc1bVdhY2tQN3BVOTlZVTdTTUhPZWx4THMxclZoZnIwTnVSZ0xMcm9xajF5Tlhoblp5UkItVGtDeWRVX3Q2SldLSnVSNEF6VEUybUEzWWxfeEV6RVo4SVZKUEo1cXB1Qzl0ZTk3aEE5cmRYT0tub09HVzBxNzJCUjNXQVZQYlcyUU9iSUNmMnZGY0dJd3pI?oc=5",
-      "published": "Tue, 24 Nov 2026 12:42:25 GMT",
-      "suggestedTitleEn": "Behind the story: The Interview - Advances in health and medicine: From space, ‘you discover things that are hidden' back on Earth",
+      "title": "Euclid breaks own quasar record by 40 million years",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXJKZWo3elhjMUVHUDJuR3o2VzVxcy1LUWZXYWNGdnNsQVQ0cFEyc1VPM0N6a3BoYVhxZ1UzSjBEMVo1R3dKb20xb1BFaTIxbzhWTUxtSE1tWE50VVIxRnlKQ25PMTF3SjJEVWNzZ3ZodElnd290czRMUVV2Umx6M2tGNUNGYlpvLWZTNmNWekx3TFZEWThJMFFCelFQX0ozb3dod20wY2VuTjBWUVFaWktEVEp3T3Zj?oc=5",
+      "published": "Tue, 24 Nov 2026 08:21:35 GMT",
+      "suggestedTitleEn": "Behind the story: Euclid breaks own quasar record by 40 million years",
       "suggestedTitleAr": ""
     }
   ],
