@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 10
+    "global": 8
   },
-  "updatedAt": "2026-11-24T01:25:08.537122+00:00",
+  "updatedAt": "2026-11-24T07:31:58.466839+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية..مديرية الجوازات تكشف مهلة تصحيح أوضاع اليمنيين بالمملكة",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkI4aEFsMFZ4VVV0QjQ2dG9GcGNyRXRrYVY3VkVtbzloZDQ2Vmh1eGpYQ3d3Z2lhZ25aQUdZMkFfZ3FmRF94dDZDUFZVNGJrWVdBQS1Za09JS2hhbDBRb1FNN2VSUFJhV3IwaVc4akVGdlA0YXZaZjhlRmVVYzNZNDVoX0s5eWJxa1BBclVwbHRWUmVCUXJkQTZveVBNdk0?oc=5",
-      "published": "Mon, 23 Nov 2026 10:50:49 GMT",
+      "title": "هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة",
+      "source": "الحرة",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBHT1c0QUROdGExVDFRN3ExZ0JJYVVhOHZGclBHb3Q0VEVjN2RKN0VfRmMwUEFmbldVdjBWVzFn?oc=5",
+      "published": "Thu, 19 Nov 2026 17:22:11 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية..مديرية الجوازات تكشف مهلة تصحيح أوضاع اليمنيين بالمملكة"
+      "suggestedTitleAr": "خلف الخبر: هجوم حوثي على قلب السعودية المالي وسط توقعات لمعركة طويلة"
     },
     {
       "category": "history",
@@ -59,24 +59,24 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "ولي العهد: الظروف الحالية دليل على مرونة الاقتصاد الوطني واستدامته المالية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paWJhUHU2ckFZbFo2UUlyVjhPWVVUc05UNEg4cVFaYkVpV2szdFN2bGRTUXE4YUdxYTkyQXozeXlLcGdaVjczb2drYTE1eG90TlV1am90VGZPczZPMmpfbEdvaDdmcUFJQmc?oc=5",
-      "published": "Mon, 23 Nov 2026 06:43:57 GMT",
+      "title": "لماذا تهبط أسعار الذهب وإلى أين تتجه؟",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN0EwT2FkYzdXT1YxYmNHX2RTeENNbzF6WVc4QmtScU5yVmpQYndsRE1WMk5lREJpbTJaeGJtMGFXVVUyRHdpamJ6bnViZUtpdXVUNGpTZTExSWVGYWpQel9CcHlGcURucm1rbXdwSkRxMzNHbGQ5Ny1BRE9ITGhRbFM4cmNSRnJETm5vOW9kQnJxbWpOMGVOS0JMbXdFNWtBZTVSM0xvZGYwOGpoaDV5TXhucEtLdjNya2tPWFFsbl9EcXVDVkJoa25pSl9GZXQzS1NhYl9ncGM5OWRoeVB6amFjYzhxS0V5Zl9sMVI3cDJNSlV0UDNLdkNzc2lCX2oyTGxjeXFLcGVUXzhhMjVLLXRXcjZnT3RUVjJkZnJNM05TaEt5cWN4NGoyd04xc3A1NTJxUUFodXhhTHhrY3hodVRIc095OHQwRGFIYjhBTkNRUjg?oc=5",
+      "published": "Thu, 19 Nov 2026 20:16:43 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ولي العهد: الظروف الحالية دليل على مرونة الاقتصاد الوطني واستدامته المالية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: لماذا تهبط أسعار الذهب وإلى أين تتجه؟"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VXZacHdVaXFCMnJUUlBzTFMwMXBHeTlFOVp4WWN2RmJvVjdxbHFuSTE4QVhKSGJmSkN3dnNMRm1XWXY2RHJYb3ZhVzBoaEhUV2xJZlVfdGhqTGRkMEFsY0hXMXZMNG5XNnc?oc=5",
-      "published": "Sun, 22 Nov 2026 01:16:37 GMT",
+      "title": "اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\"",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CQzhtMFI1Mm50OGRIa3FUdHNwTkFRbUphaElWTENJUXFzaERaYmpvUGNSbW1RMUpHODhkTFpPZlBxamQwcmo5UG53?oc=5",
+      "published": "Thu, 19 Nov 2026 05:24:09 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: مبكو ترفع دعوى ضد وزارة البيئة وشركة المياه للمطالبة بـ 77.3 مليون ريال عن أرض منزوعة الملكية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+      "suggestedTitleAr": "خلف الخبر: اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\""
     },
     {
       "category": "society",
@@ -98,7 +98,7 @@
       "title": "ثقافي / اختتام معرض \"الخيال يرسم\" بجمعية الثقافة والفنون بالدمام",
       "source": "وكالة الأنباء السعودية",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MNUE1cm5JaTBmUERCZFpaUDBJYkZmWVVOaGhTaHNGVUxmVkFrWGk1T2tBZkxkR3J4WGFVcDB0RmktQmdJRFE?oc=5",
-      "published": "Mon, 23 Nov 2026 18:41:02 GMT",
+      "published": "Tue, 24 Nov 2026 00:41:02 GMT",
       "suggestedTitleEn": "",
       "suggestedTitleAr": "خلف الخبر: ثقافي / اختتام معرض \"الخيال يرسم\" بجمعية الثقافة والفنون بالدمام"
     },
@@ -107,12 +107,12 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز جهاز أركنساس.. ماذا حدث في ليلة توقف الطيران الأمريكي؟",
+      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNai1mVndWWDV5djA2SnZ6UmtRYk1wclZZU2F6TmlnNERmdXhvSmhERWR3dXRGOFU5NlJGcDBIZUlQckZWMHZ3S3VpczI5R3QtUVdpU1NvbFN6OFlPYWRwbGttYjZRaXZ4b0ZYVWFOMFIwUFVXMFRTRUJPSGtHeVlEOHdJcTEtUldUd0JYVXQ3MHV0VEtfR0FBdHZRYTA3UThtV3dDYnhuQVlUX3hpX1pjWEtNcGJxVmIxTnNzSFd3VWRXbWgyLURDc3pnMTd5R3V2bm1lTzBNUjh2THM5MGxfaE9wOFRORy1HUHplMk5xRzVFZXR6YS03bndmM1dLY2c3cEd2bDhIMFZnSktLM25fR1gya0dweW94a0htNldIZG1USGVBMkpRd0lHZkU5ZzBQTUVSX2dMV18xR1VnVGo3czBIT3hreW9fN21wOXZ3anByc3BJUGc?oc=5",
-      "published": "Thu, 19 Nov 2026 13:49:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
+      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز جهاز أركنساس.. ماذا حدث في ليلة توقف الطيران الأمريكي؟"
+      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
     },
     {
       "category": "space",
@@ -131,23 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGtaSVAtSnh5RTRGUmp6ZW5BbUhiZFlPTnloTlB0MHpsaFRsWmJkQTB4czRDWUl6OEdfcXZmUVNITFY1ZjFSOHoyLW94VHFxZm9SLTRJZHUtM0hZNmMyX3JMSVBCUk5VV3hzU211VVpUb1lBcENuWGtTZm05TG00bDFCSGM?oc=5",
-      "published": "Mon, 23 Nov 2026 19:19:23 GMT",
-      "suggestedTitleEn": "Behind the story: Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "suggestedTitleAr": ""
-    },
-    {
-      "category": "history",
-      "categoryAr": "التاريخ والآثار",
-      "categoryEn": "History & archaeology",
-      "region": "global",
-      "title": "UNCW Archaeology Students Dig Into Brunswick Town's Past",
-      "source": "University of North Carolina Wilmington | UNCW",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ19WLUhKTlE1VFRLNE9UNGVLelBDTmNmclQ1VC1qZy1WVmx0YzltVktXNHhPaHd3NzA1OEYwblNuRkIzZ3p4QUdIeC0yUFc0VjZrLU5Kbk5WSjl1Uk1PM29SSTZnSk1PdXFBaWRQdGJaY1E4RkExZ2Z5dm1vQW1udUhwdTFBQnNqaDJTRXJ1bw?oc=5",
-      "published": "Mon, 23 Nov 2026 15:27:12 GMT",
-      "suggestedTitleEn": "Behind the story: UNCW Archaeology Students Dig Into Brunswick Town's Past",
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+      "published": "Tue, 24 Nov 2026 02:30:00 GMT",
+      "suggestedTitleEn": "Behind the story: Ukraine confirms it used naval drones to strike two Russian ships off Libya",
       "suggestedTitleAr": ""
     },
     {
@@ -175,27 +163,15 @@
       "suggestedTitleAr": ""
     },
     {
-      "category": "economy",
-      "categoryAr": "الاقتصاد والأعمال",
-      "categoryEn": "Economy & business",
-      "region": "global",
-      "title": "Outdoor recreation economy was 2.5% of Arkansas GDP in 2025",
-      "source": "Talk Business & Politics",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUhkNXM5UXVkSzBCa1FBNTI4d1BjaUl6MXotajc0elpEeko2Zk9uWUotbENxZnEtbURyT3FkZFVxam41M3N1cHNobEh0MURvYUZ4bnZTZ3ZRbnFFM3JTWWg0aUx6R3ZTMFdtLXVfenZDSVVKenpTNFlfc0VJdjZYckkyUUxES0s5NkpudlJwY3VWdDdkV0Jn?oc=5",
-      "published": "Mon, 23 Nov 2026 19:53:47 GMT",
-      "suggestedTitleEn": "Behind the story: Outdoor recreation economy was 2.5% of Arkansas GDP in 2025",
-      "suggestedTitleAr": ""
-    },
-    {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "UK’s nature healthcheck doesn’t stack up in wildlife’s favour – but volunteers are collecting plenty of crucial data",
-      "source": "Inside Ecology",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdjcyRld0Wm1EWU1sYTJoNVgtbTFKd2U2YkxfNDczZFVZQVZ5dG9mM0p1dTZqaWpwRGE5bk5ZdWdMQjBTenFqUHpSRkF4ZHFsdXg4bkNwNllvNGdxTXJKRTJxYWN6VEJVcDNVYl90MnBPY2dWb2dTR2hWd3c0MnBLNllKdENYbjFOVHhrdS1fZjMzVHJEY21FcmlnbGVoakJDdjlMWUxQZXA3dEFzWk5XUW90MUZlRWhJUThaN1dDSTFlY3p2QnowQk5ibmpuaDQ2UlYyTExtTTFQZkRkOXY5ZzNNMA?oc=5",
-      "published": "Mon, 23 Nov 2026 12:00:48 GMT",
-      "suggestedTitleEn": "Behind the story: UK’s nature healthcheck doesn’t stack up in wildlife’s favour – but volunteers are collecting plenty of crucial data",
+      "title": "The hidden environmental cost of AI data centers",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
+      "published": "Tue, 24 Nov 2026 04:30:40 GMT",
+      "suggestedTitleEn": "Behind the story: The hidden environmental cost of AI data centers",
       "suggestedTitleAr": ""
     },
     {
@@ -247,5 +223,8 @@
       "suggestedTitleAr": ""
     }
   ],
-  "errors": []
+  "errors": [
+    "en/history: HTTP Error 429: Too Many Requests",
+    "en/economy: HTTP Error 429: Too Many Requests"
+  ]
 }
