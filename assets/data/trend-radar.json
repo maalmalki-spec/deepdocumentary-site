@@ -1,9 +1,9 @@
 {
   "counts": {
     "arab": 10,
-    "global": 8
+    "global": 10
   },
-  "updatedAt": "2026-11-24T07:31:58.466839+00:00",
+  "updatedAt": "2026-11-24T13:28:34.372911+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -59,24 +59,24 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "لماذا تهبط أسعار الذهب وإلى أين تتجه؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN0EwT2FkYzdXT1YxYmNHX2RTeENNbzF6WVc4QmtScU5yVmpQYndsRE1WMk5lREJpbTJaeGJtMGFXVVUyRHdpamJ6bnViZUtpdXVUNGpTZTExSWVGYWpQel9CcHlGcURucm1rbXdwSkRxMzNHbGQ5Ny1BRE9ITGhRbFM4cmNSRnJETm5vOW9kQnJxbWpOMGVOS0JMbXdFNWtBZTVSM0xvZGYwOGpoaDV5TXhucEtLdjNya2tPWFFsbl9EcXVDVkJoa25pSl9GZXQzS1NhYl9ncGM5OWRoeVB6amFjYzhxS0V5Zl9sMVI3cDJNSlV0UDNLdkNzc2lCX2oyTGxjeXFLcGVUXzhhMjVLLXRXcjZnT3RUVjJkZnJNM05TaEt5cWN4NGoyd04xc3A1NTJxUUFodXhhTHhrY3hodVRIc095OHQwRGFIYjhBTkNRUjg?oc=5",
-      "published": "Thu, 19 Nov 2026 20:16:43 GMT",
+      "title": "عام / وزير الاقتصاد والتخطيط يجتمع مع نائب رئيس الوزراء ووزير الاقتصاد والاستثمارات والصناعة في جمهورية بلغاريا",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mNTFPZE1FWkhEN0tCZ3oybnhZbV8zV3Nib0N6MmlTRVZuOHMwUkU5M3B5R0szZW1ZT2FNTURaek5xdjJPVFE?oc=5",
+      "published": "Sun, 22 Nov 2026 13:41:58 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لماذا تهبط أسعار الذهب وإلى أين تتجه؟"
+      "suggestedTitleAr": "خلف الخبر: عام / وزير الاقتصاد والتخطيط يجتمع مع نائب رئيس الوزراء ووزير الاقتصاد والاستثمارات والصناعة في جمهورية بلغاريا"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\"",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CQzhtMFI1Mm50OGRIa3FUdHNwTkFRbUphaElWTENJUXFzaERaYmpvUGNSbW1RMUpHODhkTFpPZlBxamQwcmo5UG53?oc=5",
-      "published": "Thu, 19 Nov 2026 05:24:09 GMT",
+      "title": "وزير الطاقة وزير الصناعة والثروة المعدنية يبحث مع وزير البيئة التركي سُبل تعزيز التعاون في مجالات العمل المناخي",
+      "source": "صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNkZfTFhMY2lUNGxSYTc4OXc3UlUyZUp5aDJfSTlEeDZkQnV1VXJScWgtTC0tYkdzbURMVldtdlpfUjFxMzhlQmNpSHR6dTFETnpfeHFaT3NfdEVBY1hYelNURWxySlV0SkRkLWdIOERVaFRzUFNrZlNldWI2OE5vcTFmbUNwa1g4NEhGZERIeExoRXhNWVI3RkVWVHpDTjFDVjhodC1UYmhVdE1NZWRIR0pYakM1SDlaMkpETmNvWUpfeGhEMXVyeWtCUnNydlE0ZU9YYWZ3Ukg2cl96MmplNXdubFhwc0ZWOExnZV9XVV9admdISmc?oc=5",
+      "published": "Fri, 20 Nov 2026 13:02:16 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: اجتماعي / وزير \"البيئة\" يدشن المرحلة الأولى من برنامج \"السقيا الخيري\""
+      "suggestedTitleAr": "خلف الخبر: وزير الطاقة وزير الصناعة والثروة المعدنية يبحث مع وزير البيئة التركي سُبل تعزيز التعاون في مجالات العمل المناخي"
     },
     {
       "category": "society",
@@ -95,24 +95,24 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "ثقافي / اختتام معرض \"الخيال يرسم\" بجمعية الثقافة والفنون بالدمام",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MNUE1cm5JaTBmUERCZFpaUDBJYkZmWVVOaGhTaHNGVUxmVkFrWGk1T2tBZkxkR3J4WGFVcDB0RmktQmdJRFE?oc=5",
-      "published": "Tue, 24 Nov 2026 00:41:02 GMT",
+      "title": "وزارة الثقافة تطلق خدمة الاستشارات التأمينية الثقافية",
+      "source": "جريدة المدينة",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ta19ReUpGcXdSVFZzNlJ5Zm5FLTZ1Rk1LYVlheEEzODRvMDV2SldVclJseDEybVJQcUxsYVNhYjBKU3I0cE9RdEZOZ0dWMF9FNG5UaG1MONIBV0FVX3lxTE5ta19ReUpGcXdSVFZzNlJ5Zm5FLTZ1Rk1LYVlheEEzODRvMDV2SldVclJseDEybVJQcUxsYVNhYjBKU3I0cE9RdEZOZ0dWMF9FNG5UaG1MOA?oc=5",
+      "published": "Tue, 24 Nov 2026 11:53:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ثقافي / اختتام معرض \"الخيال يرسم\" بجمعية الثقافة والفنون بالدمام"
+      "suggestedTitleAr": "خلف الخبر: وزارة الثقافة تطلق خدمة الاستشارات التأمينية الثقافية"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
+      "title": "لغز جهاز أركنساس.. ماذا حدث في ليلة توقف الطيران الأمريكي؟",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
-      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNai1mVndWWDV5djA2SnZ6UmtRYk1wclZZU2F6TmlnNERmdXhvSmhERWR3dXRGOFU5NlJGcDBIZUlQckZWMHZ3S3VpczI5R3QtUVdpU1NvbFN6OFlPYWRwbGttYjZRaXZ4b0ZYVWFOMFIwUFVXMFRTRUJPSGtHeVlEOHdJcTEtUldUd0JYVXQ3MHV0VEtfR0FBdHZRYTA3UThtV3dDYnhuQVlUX3hpX1pjWEtNcGJxVmIxTnNzSFd3VWRXbWgyLURDc3pnMTd5R3V2bm1lTzBNUjh2THM5MGxfaE9wOFRORy1HUHplMk5xRzVFZXR6YS03bndmM1dLY2c3cEd2bDhIMFZnSktLM25fR1gya0dweW94a0htNldIZG1USGVBMkpRd0lHZkU5ZzBQTUVSX2dMV18xR1VnVGo3czBIT3hreW9fN21wOXZ3anByc3BJUGc?oc=5",
+      "published": "Thu, 19 Nov 2026 13:49:11 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
+      "suggestedTitleAr": "خلف الخبر: لغز جهاز أركنساس.. ماذا حدث في ليلة توقف الطيران الأمريكي؟"
     },
     {
       "category": "space",
@@ -131,11 +131,23 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
-      "published": "Tue, 24 Nov 2026 02:30:00 GMT",
-      "suggestedTitleEn": "Behind the story: Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+      "published": "Tue, 24 Nov 2026 09:46:47 GMT",
+      "suggestedTitleEn": "Behind the story: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "history",
+      "categoryAr": "التاريخ والآثار",
+      "categoryEn": "History & archaeology",
+      "region": "global",
+      "title": "Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
+      "source": "Smithsonian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNYWRjTm1uVlRPcENTYWY3MDU1cXNqcjhEOXQtcTlmUkRCbXZqMXVBWnpNRHVxcDZQX080bFFGSElZeDhmVThESDNUUFl1Rk5GZmF0SVkxX3ZXZE9RakxhQlpXSjFVdHd6Q0V0SlZTeUVqZm53UThMdzAwNUxrTnB4UXBIa2JEaWRoWU5keGRWMXdBVDNUNjR4cXdpclhxZFB1ckE0M1U0cHhyY3JBRUo4TTlpNUdrczM4dEVQRUxuSUNzVW5hSy1pYU1rQ0VaMHhzdXhKMjRPU1RiNkV1bkF1WThCcm1FVWtxTF9hWFFEREtoYWpVMThnbVpKYklZUms5dkZjYXpDeWxWb0haRUxoVzdsSDZIQ3EwdXd4VGs1aVlWU0p4SlBVMVEyc1lIc3YxMUdkcU53Zw?oc=5",
+      "published": "Tue, 24 Nov 2026 12:15:00 GMT",
+      "suggestedTitleEn": "Behind the story: Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +167,23 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "AI Moves From Experimentation to Execution in Affordable Housing",
-      "source": "Affordable Housing Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVIyLWhCdkJaTFFESklSUk0yVXhraktTTUJXWFh5ejYybjVid0FZUlhZcW9jcXMxdlhmdlFZeXRGOXRKRFkyRG1NZXk4Sm1lUGcxMkxfY1kzS2dHdUd0Y1p6OHdoN1BiM3M5SWFjQjM3QWNSdXJCMXJTc08tYkdUN1ZURXMxSTl5amlhQkxhNzRMLUVGOG8zeElXdl9GdnVxM3Ztc2hBc2pxdw?oc=5",
-      "published": "Mon, 23 Nov 2026 22:11:15 GMT",
-      "suggestedTitleEn": "Behind the story: AI Moves From Experimentation to Execution in Affordable Housing",
+      "title": "AI Is Crossing into the Physical World. Here’s Why Japan Is Worth Watching.",
+      "source": "Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lUU1kZEhDcktCM0hZOTVjaG9xak03MzNCcHpPQ0VKMVhkNzlRajhrdXAyWUppSjhhY3p0V2FwTUFyQy1WRW1BRWlYMjBGaGRKTDBTczFrVC1qM05ZYzJvSjFMSXdYQVZSdFBpb0xKekc0cUpjcG5TLVFOUlp4QQ?oc=5",
+      "published": "Tue, 24 Nov 2026 09:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: AI Is Crossing into the Physical World. Here’s Why Japan Is Worth Watching.",
+      "suggestedTitleAr": ""
+    },
+    {
+      "category": "economy",
+      "categoryAr": "الاقتصاد والأعمال",
+      "categoryEn": "Economy & business",
+      "region": "global",
+      "title": "German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjAtZVJpLXdBRHhBRTMtSGtBR2dkRHBnLW8tMnpUYzBVOEl3SU9KV041Vi1rMFNFNEJJYlpjU2NmQllGLTdWdFRORjBQTFp4Y2hlY1NNYUVlZmRDUURwTWNGbWFncjl1aG5XUlItMDdNalNEZk1raFAzSGlWNE9aNzJidHVLWDhVUU8zMzFuZmZPVzBUYkZndHVsZG13Z3VocnR5WTZLaDBtYjg5MTNHd2J4MXpDQmt2TzgtQlVRSTFOMnFFR3ZkREJIbklreWFkeEE?oc=5",
+      "published": "Tue, 24 Nov 2026 09:52:00 GMT",
+      "suggestedTitleEn": "Behind the story: German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "A Harlem Renaissance Gathering, Preserved on Film",
-      "source": "Columbia University",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nR0xCZ1RLTmJCYVZfS3hZZGl6RzQwWkNESEd5TWJMYzRoQkFKMzJxZGxfT1NJWnJrMmxkS2RPVzVnYUJqWjFCbFFnRG5WeTZ4RUN6SXhRcVVLWHdkRGhJUVhPcEZzQ09BdXctQUt0ejJHcGwtUzJ3WXRCaVhBSlE?oc=5",
-      "published": "Mon, 23 Nov 2026 22:02:23 GMT",
-      "suggestedTitleEn": "Behind the story: A Harlem Renaissance Gathering, Preserved on Film",
+      "title": "The White Terror in Taiwan: Memory, Culture, Text – 2027 Taiwan Studies Lectureship (TSL) Conference",
+      "source": ".::. UCLA International Institute",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TQTFFU3hjb21QSWJZbW9GeENhVXlxX1J5Vm1KSFlwMjV0amdJNlhuLWlUbTV0R3R1UzNoVzlrYnRnS1M5RXhDaUtTRS1XemFYMzZQbl9SNGx2VXFXdVM0?oc=5",
+      "published": "Tue, 24 Nov 2026 03:45:59 GMT",
+      "suggestedTitleEn": "Behind the story: The White Terror in Taiwan: Memory, Culture, Text – 2027 Taiwan Studies Lectureship (TSL) Conference",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "History Picks: 5 Destinations to Find Rare and Antique Books",
-      "source": "History.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CX2hadkZKaFlpdGRQUjRDRnFGbXd1amxjaXJqV0RVSnFqWTRaai1DTENweDlMXzNzYV9FMktMdE5hWnN6S2hZSVZOeWxiN0U0TFFWZ00tdm8yaDl0TFItZ2xScFlXLVU2emw4czhR?oc=5",
-      "published": "Mon, 23 Nov 2026 21:54:09 GMT",
-      "suggestedTitleEn": "Behind the story: History Picks: 5 Destinations to Find Rare and Antique Books",
+      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTTFHbk1uMmN2OERKTGNCY21RNEw5Z1pPNURBTEljNThyTTdRWUo2YjVCOHRNV1UzS2F6XzlKbHhQWHhhbDltZVRfbjBCT252MTBXVjFDTm5yWF95ZHU0TmRNQzRDTVkteVE2TzdJd2VKUVNINS1NbkIxamhrQ2c?oc=5",
+      "published": "Mon, 23 Nov 2026 18:29:00 GMT",
+      "suggestedTitleEn": "Behind the story: International Mission Arrives at Mercury to Study Its Mysteries",
       "suggestedTitleAr": ""
     },
     {
@@ -215,16 +239,13 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSjNWRXNUeHh2TDBTcmxISmVtM0RtYkFYdDFGcXM3WTB6Q3g3bkRrak5HWXpMZ2VURGQweW54VTlZaFFfeml5by1UVm05VWQ0b1pWZTJxSGJqTXV6Wl9TVnpjVUFOOHB1MnA5b3VXaV91bVpIdzlHci0ycG9wdGtJTnFtNF9lTXN0VlpfaDhrOFZXdGF1c3B2VEQ2YjZMS2VvcVdRZUpKVjdndV9pZmM3OHFVVG9pbWNMZDd5Z01nSWNRTzFrNVdza2pXUG1QbnBsSHBsbkFVbHQ3blRFcl9rcmdQWGQzQmV0ZG5v?oc=5",
-      "published": "Mon, 23 Nov 2026 11:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
+      "title": "The Interview - Advances in health and medicine: From space, ‘you discover things that are hidden' back on Earth",
+      "source": "France 24",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORks0QWRDcDRVU19zTnJfQUJ3OUtyV3hjcFZIVFFnZDNES0JsQnltRi1WQzUtcWI0NDlZa3gyMXctM0V6Sm54X2Nkd2dkUzdKYkpZVUE4SVl5Umc1bVdhY2tQN3BVOTlZVTdTTUhPZWx4THMxclZoZnIwTnVSZ0xMcm9xajF5Tlhoblp5UkItVGtDeWRVX3Q2SldLSnVSNEF6VEUybUEzWWxfeEV6RVo4SVZKUEo1cXB1Qzl0ZTk3aEE5cmRYT0tub09HVzBxNzJCUjNXQVZQYlcyUU9iSUNmMnZGY0dJd3pI?oc=5",
+      "published": "Tue, 24 Nov 2026 12:42:25 GMT",
+      "suggestedTitleEn": "Behind the story: The Interview - Advances in health and medicine: From space, ‘you discover things that are hidden' back on Earth",
       "suggestedTitleAr": ""
     }
   ],
-  "errors": [
-    "en/history: HTTP Error 429: Too Many Requests",
-    "en/economy: HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
