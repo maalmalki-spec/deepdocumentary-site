@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-25T19:05:35.616706+00:00",
+  "updatedAt": "2026-11-26T01:29:02.637930+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "لماذا تهبط أسعار الذهب وإلى أين تتجه؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN0EwT2FkYzdXT1YxYmNHX2RTeENNbzF6WVc4QmtScU5yVmpQYndsRE1WMk5lREJpbTJaeGJtMGFXVVUyRHdpamJ6bnViZUtpdXVUNGpTZTExSWVGYWpQel9CcHlGcURucm1rbXdwSkRxMzNHbGQ5Ny1BRE9ITGhRbFM4cmNSRnJETm5vOW9kQnJxbWpOMGVOS0JMbXdFNWtBZTVSM0xvZGYwOGpoaDV5TXhucEtLdjNya2tPWFFsbl9EcXVDVkJoa25pSl9GZXQzS1NhYl9ncGM5OWRoeVB6amFjYzhxS0V5Zl9sMVI3cDJNSlV0UDNLdkNzc2lCX2oyTGxjeXFLcGVUXzhhMjVLLXRXcjZnT3RUVjJkZnJNM05TaEt5cWN4NGoyd04xc3A1NTJxUUFodXhhTHhrY3hodVRIc095OHQwRGFIYjhBTkNRUjg?oc=5",
-      "published": "Thu, 19 Nov 2026 20:16:43 GMT",
+      "title": "الاقتصاد في فكر الأمير محمد بن سلمان: من الاعتماد على المورد إلى صناعة الثروة (42)",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNMHY3LUlhMUNTd0MzOVA5MGlndTd1V3BJcFBvODdhbGVDVFhwUDF3N0xvbHBGbk41RURwU0Y3aEtqa3hCb09tN3hWV0pObXE3VkVGa3dNWlhiQkh1Y2xMX0FGRW1kb0dCVG9id3VaaWlRWEtDcm0xZEdGSzMyNkt3S05zYnRHdHVQSnhKU2J2bFV2ZnFpa19zX0hUNk5iVXB1X0VieXdXVmhzcWtlWXdsMlBnSVFSTUtxRDBaRklVRjE5YU1pUm05aGRoR0NNRUo1RlRNWjJPSTdYcXowbWxrQzFFNFU3QVdJbDRmSjNTc3RVTjM1NWRHQU9iNzNzdjQxTFhaTTJtTXNaWXEySThSNFBSbkVPalY4cWlyUTRuQU1jZXp4MDc1aExnYTExRFFoTGJubkExLWF5NmdPOWptVk1ybDhId0dGTDNYTEdPVDhDbVh4OXlTaUtpV2RQZkF2V2I0Y1RCbTBRejZUMU8zMGp2VjdkV2dJM0FHeWlfSjJNLW9vZ1dZTEpvbjdFZ2FuZWE0SHR1ZWtoazVISzB2SVlZdGU0cHhWZ2EwY0paT0lZZWVZamRpWFdYSllYVi1DR3ptcE1rVGNnZVRSOVI1ODFDWXBpQXJaWnZDUWp2Rm11YUVtVURod3oxUzY2QVRVWnFTTktqMFpOQmJ6Q1dfcnZNRENtNklBRlpTSkFkN05nNzVSLV9RMG11YU1XRHMzeFE2TFhQeFBsQ00xS0RRYW1rRTU3Q1ZQWlJXTEQ2dDZuUHFwTHozN0h1ZmFhODRBcGNxZDNpNkNFV1V2QkhkOGZHSmRHeFl0YnFYTNIB7ARBVV95cUxNMHY3LUlhMUNTd0MzOVA5MGlndTd1V3BJcFBvODdhbGVDVFhwUDF3N0xvbHBGbk41RURwU0Y3aEtqa3hCb09tN3hWV0pObXE3VkVGa3dNWlhiQkh1Y2xMX0FGRW1kb0dCVG9id3VaaWlRWEtDcm0xZEdGSzMyNkt3S05zYnRHdHVQSnhKU2J2bFV2ZnFpa19zX0hUNk5iVXB1X0VieXdXVmhzcWtlWXdsMlBnSVFSTUtxRDBaRklVRjE5YU1pUm05aGRoR0NNRUo1RlRNWjJPSTdYcXowbWxrQzFFNFU3QVdJbDRmSjNTc3RVTjM1NWRHQU9iNzNzdjQxTFhaTTJtTXNaWXEySThSNFBSbkVPalY4cWlyUTRuQU1jZXp4MDc1aExnYTExRFFoTGJubkExLWF5NmdPOWptVk1ybDhId0dGTDNYTEdPVDhDbVh4OXlTaUtpV2RQZkF2V2I0Y1RCbTBRejZUMU8zMGp2VjdkV2dJM0FHeWlfSjJNLW9vZ1dZTEpvbjdFZ2FuZWE0SHR1ZWtoazVISzB2SVlZdGU0cHhWZ2EwY0paT0lZZWVZamRpWFdYSllYVi1DR3ptcE1rVGNnZVRSOVI1ODFDWXBpQXJaWnZDUWp2Rm11YUVtVURod3oxUzY2QVRVWnFTTktqMFpOQmJ6Q1dfcnZNRENtNklBRlpTSkFkN05nNzVSLV9RMG11YU1XRHMzeFE2TFhQeFBsQ00xS0RRYW1rRTU3Q1ZQWlJXTEQ2dDZuUHFwTHozN0h1ZmFhODRBcGNxZDNpNkNFV1V2QkhkOGZHSmRHeFl0YnFYTA?oc=5",
+      "published": "Wed, 25 Nov 2026 08:55:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لماذا تهبط أسعار الذهب وإلى أين تتجه؟"
+      "suggestedTitleAr": "خلف الخبر: الاقتصاد في فكر الأمير محمد بن سلمان: من الاعتماد على المورد إلى صناعة الثروة (42)"
     },
     {
       "category": "environment",
@@ -83,12 +83,12 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "arab",
-      "title": "ثقافي / مكتبة الملك عبدالعزيز العامة توثق ذاكرة المجتمع ومرويات الثقافة",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1UNEhERTJlYWU3NHpZVDR1bC1SZ1l2OHJGaEFzLTd6M3ljUUlDVUJVSWRqU0JNLVdCeS11VEpRc2o?oc=5",
-      "published": "Wed, 25 Nov 2026 14:56:17 GMT",
+      "title": "مكتبة الملك عبدالعزيز توثق ذاكرة المجتمع السعودي وتحولاته الثقافية",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxPcE84aTg2Y2lodGVmVURBdklGNGZPMmtNYUFVRTJkZ2dOYjFTN3JnX0xtNmVfSlN4bC13a2RDcTR4ajZPUFo3YkFQd2xNRWlUcmVuTlB2R081UTVYUTJKWXFtQVJmSWUwZGt2VUI1a0tPRzRta1RwU29mSV9hczk3TUQyaHdLc05Tb05rajVpdWE5azlKQ3BxOVBCb0hSZktrRXRHM3ZMazI5Q2tKQUhZWEQ5RTFkZHdEY3plYkM1TmkzemMzajhURzc4b3dRdld0MFB0Mm9VUkNYN0l5all1dTl4WEZIaEZjMGtVOXV4QVVlY0R2Tlp5T2oyWUdoSy01WmRUeDhLUUtaUkx4LTJ1RHNKQkJoSl84aDhOeEVULThWcXJfel9oSnJsbXZkdzBKQjdrMW5udEFFLU8tZFB4cWhpeHVvampvLUgxRloyVWJPazVPOHFWRVRwSDg1Uk55Q3lBNXBmOEhia1B0eWY2R0pkMTRSQXAyUE8xZTVySVFZYVhJNENRY0VucElQZTJlQlhOZXU4MDJ0RGM3R3B2eUEtTkFCUGJRdVhMOExaN1JsWGE3YW1FNmZmOTgyM2JMdUZPVmhoeEdTRTVpTUdpUjZTcTJpZlNQY2l6emRoYkdtczBTTmRpak9feEYtWXliMmZUTS1LLXY0enJZWThOcUVvMHFNN0VZcGZvd2pyQkFEeVBURjAwTGpQTG9CUkpxOW1uZzd5UHB3dUJHdFVRa3BjTHVfeC1qX2fSAb8EQVVfeXFMT2o1WnBsNzFhd0NYRG9XeFUxU2laMUY1bjlUVzAzdTA4dHl0ZE83U0EwT18ybUlKMDZfTzdod0RoMlVTbGJDeFhPX1Q0d25vazRlbFRWRWV6TkdmQzYyV3liUEdEM2E4ZHdWQzJHcWYxN19uLUYtT0tkcFRFMzFzODVqaHBOOVBHVzE1ODVvbG5xVkRJaW03VXhYZ0VTVVA2WUZDQ0tEaFI3QWI1Nm5tdVpNWElZdHA4Y01IVmx1VnJCSmpWaFN1aHZ6elFJY2MzX01EQTcxRU5lOHhtQTVqNmJ1UU5qNUV4dGlrWGlQa2hxZFUzUThEZG10U3BLTTl6WUtaTEQtUWJWZXpsLVBtTlU0dzNvMGlUNG0wRjlMM09Gdkt3a2wyV0hiby15dmxuWnhnR250TmhkekZJTUI1VVBsTGZ0a1lPVWhJeU9UTC1XVzZxNlFMQzlOX1hrZTVKT0dNWTd1c25tUWZiS3JURTktY1pQVXlDOVAySHVFZ3pxSlF6RnBPSjFpaEpDQXlhTzd5a0VwQ294TGdQVjdwSE1aOGVVdzBvSE1TRWJSeGxpMFF3NTRlb1BUQlQ0c2kyblBjZkRYMnBTQW9NZVRCMzBoMEVhVU1TenR1dXk2ODFpcDVOUVNkblJwcTBGYXdIdnZQQURGdHdTeVhZeGJaN3BwSnF6dC1aSTJwSWh3V3RuQVYyNFZObEsyTnhLcGxNemNTdV9nYWktYUdDQU9MSk9OZDdtRGF4VHMwNWFuVFE?oc=5",
+      "published": "Wed, 25 Nov 2026 11:48:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ثقافي / مكتبة الملك عبدالعزيز العامة توثق ذاكرة المجتمع ومرويات الثقافة"
+      "suggestedTitleAr": "خلف الخبر: مكتبة الملك عبدالعزيز توثق ذاكرة المجتمع السعودي وتحولاته الثقافية"
     },
     {
       "category": "culture",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "US announces new tariffs on host of countries including China",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
-      "published": "Wed, 25 Nov 2026 16:21:34 GMT",
-      "suggestedTitleEn": "Behind the story: US announces new tariffs on host of countries including China",
+      "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+      "published": "Wed, 25 Nov 2026 19:31:28 GMT",
+      "suggestedTitleEn": "Behind the story: World reacts to Trump’s new tariffs as US stocks tumble",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
-      "source": "Smithsonian Magazine",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNYWRjTm1uVlRPcENTYWY3MDU1cXNqcjhEOXQtcTlmUkRCbXZqMXVBWnpNRHVxcDZQX080bFFGSElZeDhmVThESDNUUFl1Rk5GZmF0SVkxX3ZXZE9RakxhQlpXSjFVdHd6Q0V0SlZTeUVqZm53UThMdzAwNUxrTnB4UXBIa2JEaWRoWU5keGRWMXdBVDNUNjR4cXdpclhxZFB1ckE0M1U0cHhyY3JBRUo4TTlpNUdrczM4dEVQRUxuSUNzVW5hSy1pYU1rQ0VaMHhzdXhKMjRPU1RiNkV1bkF1WThCcm1FVWtxTF9hWFFEREtoYWpVMThnbVpKYklZUms5dkZjYXpDeWxWb0haRUxoVzdsSDZIQ3EwdXd4VGs1aVlWU0p4SlBVMVEyc1lIc3YxMUdkcU53Zw?oc=5",
-      "published": "Tue, 24 Nov 2026 12:15:00 GMT",
-      "suggestedTitleEn": "Behind the story: Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
+      "title": "Archaeologists discover Roman Dodecahedron in Britain. No one knows what these things are for",
+      "source": "ZME Science",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2dlclF1ODBQaWpFQUdCempNQVhiUmhtSDRGX0hKcllpamlhNHVQcEFBVGpyZ250cHBfaXpJaW1hN3lMNU84S3hPYlhlWHlxQ2dGZTQ0RDNpX3RvY2xGNVdVVzBpV21BRS1NalM2ZDIxcEM4Y2x3aTdONHYwWlRCaGxMQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 22:46:51 GMT",
+      "suggestedTitleEn": "Behind the story: Archaeologists discover Roman Dodecahedron in Britain. No one knows what these things are for",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Eight key takeaways from the UN climate talks - UNEP - UN Environment Programme",
-      "source": "UNEP - UN Environment Programme",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDAzR2xJeF9MOVhxUWZVd0M3SlV4bmVSQ0RNTDFiQlVVVG4wQjRQSXhiQTZ6d0x5LW13anltcXBpSFZqR3NSREFJUllEdmY5aW5NRTNSemdGT0xMUFlNcVg2RmVSNjZ1TzVZdmNYVzZiTGZMQUhQTWtGSnp1bDN6dFJyVG5XOUxwUzFmSVNqemVEaTdCX05CRS1NVVpNZw?oc=5",
-      "published": "Tue, 24 Nov 2026 16:55:43 GMT",
-      "suggestedTitleEn": "Behind the story: Eight key takeaways from the UN climate talks - UNEP - UN Environment Programme",
+      "title": "Adapting minds to live with climate change",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80RFBPeGRsbG0zaHNWcV9WZ2t4OW90c2pJd1RyckhWN202VnQtRzlobTBwcmp1aUN5ckZLX0NueVRUTi00aHVOYmY4YndQU3lIam5HT0lWXzhDNU1YWXRr?oc=5",
+      "published": "Wed, 25 Nov 2026 18:23:59 GMT",
+      "suggestedTitleEn": "Behind the story: Adapting minds to live with climate change",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Becoming a Homebody With Age Isn’t Lazy — Psychology Says It’s a Sign of These 8 Inner Shifts",
-      "source": "Grazia",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGxBRUFaRW9xNmEtZEY3dU9HOHNPWlVuMW54dFlVYXBpWDNQNlNDbnpVeGdPREdPSFMyN2g5dkxkY0lHTGpHZVIzY1VyWXA2RlNYMU1LYWp2VnVtYUNPMkdUY0c2V3FXZGhmaUlib3Y5VHkyam1sbV9pLXp1WERYYnoxek5yUF9hNDBzTVlwVzF4LTlNYVNEYVRGTWZORTNGM1pCQ1hqd1RRTkRESXJuem83cXFyT1FvM1hBSEhzZGtfQ2FYRWdjNg?oc=5",
-      "published": "Wed, 25 Nov 2026 15:43:34 GMT",
-      "suggestedTitleEn": "Behind the story: Becoming a Homebody With Age Isn’t Lazy — Psychology Says It’s a Sign of These 8 Inner Shifts",
+      "title": "Deploying AI into workplaces: What leaders need to know",
+      "source": "American Psychological Association (APA)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YlkzU2d2V2hKdldJNENfYks3NFczNUY0RjJ5WVJDdHNQQ0ZtWm5odzVKWjlxSEtiSmpnbFpFZkV1WGozV3JENGkzRHNQdXFzdElYVUNmRHM?oc=5",
+      "published": "Wed, 25 Nov 2026 21:22:34 GMT",
+      "suggestedTitleEn": "Behind the story: Deploying AI into workplaces: What leaders need to know",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "History Picks: 6 Places You Can Experience the Old West",
-      "source": "History.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82cm1TQ1ptakdmSjdMSy16S2sxZG8zNE1zWUY4U3J0cE5Xa094U2pUT1FZczRHaTRqVm9MN1d5NDEyRjYwME5EdlYwa2ljaG40Z3ZCV2dSaWpaZ01DM0ZkWGUyQU02ckhDTlRpSg?oc=5",
-      "published": "Wed, 25 Nov 2026 14:48:55 GMT",
-      "suggestedTitleEn": "Behind the story: History Picks: 6 Places You Can Experience the Old West",
+      "title": "A historian says AI found the author of a 200-year-old anonymous sketchbook in just 22 minutes",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3ZJcnJrYzluWEpfd1NUWVI3Z25lWlNJU0c4S0JJNXBGeTBVQlcwNDFDaTliRVV6blZSSEFIYUd3MlBoX3dpT3BzSDdfSEg1MzIyTzZUdXNpd1p6cGxteTl5UzFiUXk4V19qQ3JkbWl6Y0NyOXM0cTZzTkJwVTVmeHEtdmJheWM?oc=5",
+      "published": "Wed, 25 Nov 2026 19:27:00 GMT",
+      "suggestedTitleEn": "Behind the story: A historian says AI found the author of a 200-year-old anonymous sketchbook in just 22 minutes",
       "suggestedTitleAr": ""
     },
     {
