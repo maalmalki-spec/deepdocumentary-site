@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-26T19:11:41.548021+00:00",
+  "updatedAt": "2026-11-27T01:31:56.122769+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -23,12 +23,12 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية",
+      "title": "بلاغ مواطن يقود إلى كشف أثري بارز في مصر",
       "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQTExYcGRWTWlPMHVHbUF2UTZVNUhDUE1UX0xVMUFhSFNQNTJfR0hxcXp1NGRMZkNTZjRVTEo4Nm9hQnZjTzFiMGxMbzNnQUtwLVpqeXpERGdTeENUVEdTUEJ5RkJIMG15SEN1SERHWGoyc3U5aHRrOHBlcFNsYnBRdDBZZXM0TlR2T2tuMDNseGtHVEtyOFNFLVBKTzRWWVZBQ0J1YXVSaDNxQXpJZ1RVdEM1c2JWN0xrMVd2cWdjcUdTN0h1SGVqVkRiZmdpalNzWGFRU3czUm5yWkFLT19mTXlLSzBRaHF0NWJIdmNrMEpnM25LYmx0V3ktakhYN09TSTdMVjR4SmM4SWZOWW85S2VXN05RbDA0V3JNMllxbHl5SG1iMjhxc3NNRF9lZXV2Zm4zYjFidjJaSVBWeVk1TjZ0b1pPamhkUzRFOWV2NFFuVTF2bGo3S0NYcUY0OGg5cFQxdWh5VGxVN3A4NUJKQkcyRmNrMkFUQ3c1LUJJNnNRV1prdHhIM25FQUpLM1dXdjZHZ2Z4RGtyQ3IxWnRaYm9QRFVVdG5kOGJrZ1BkT0Rxb2dOX3pvcWhtMURSU1FIWTdGeC1wOXQ4NEdqaFBzbG4xbHNyV0M1a2NUYTdoczZKMFoybTNZci1FM0ZuU3pKejc5TS1YZUlkcHRKVVB5S1NRYWNhT1JFUFE?oc=5",
-      "published": "Wed, 25 Nov 2026 15:51:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcnlVamhDenh5ZkNHbW56TWZ2aVJreHVvaDVKOHhEZXcwS3RmMU5EcGRlOENwS1diR1FFUUNkVmdtam9tNm5ld3RncTVyOWxHU1djSFZqRXhZOWcxZnpWVlhZMG0wd29HMlJESXNreXlnM0wzTnVtSEYyWFFPcGZlRUh0dlRUWjBObTJOWG9pcE5JUUtyaWF0bm1RMFpJbFVrMzIxRkJRRXJfZUp4NDR0dFhjQ09qam80YXpFVjB1SzRwcDBybkYtci1falVxNGFVeVByaWxpdjV4cE9jUlhzejByV2p1d25ObzJEMW80WFF3SEVxQ0NPbTRJbUFuX09PZWt3dTh1NXlyMkx2MDV4ZS0wQ29QUkstRHNVZEFqRGdyckZNbndvY0pHU3QwaWxaV3NsOGs5Z1ZlcGhFa2ludWUwSFA4bTNFTlozRHpvM3BIaXRjMUJTQnB1MWF2OXlPVlVGOHhndGJocnZGeEZ4WXVsb0JMT0RwTFdaZFBRMWxqemtoUXRYa0xmbGgyZ2hqWWRCQXFsVGo4NmdBaDhib2VlRE1ldw?oc=5",
+      "published": "Thu, 26 Nov 2026 17:32:40 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية"
+      "suggestedTitleAr": "خلف الخبر: بلاغ مواطن يقود إلى كشف أثري بارز في مصر"
     },
     {
       "category": "science",
@@ -47,36 +47,36 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "وكيل الذكاء الاصطناعي \"إنستنكت\" يثير الجدل.. فأين الحقيقة؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPb25aSkNVdHZ3LWlaR3lONzFlYmdRWTlNb1JkNENIYnVWQmg3TWRKYkp2bi1paTNvXzZmT1FMZWhjYzlkbzVBd0NiUXFKcjhaSjBtVnFITU5ZVWRhNjlkQ0NwWTAyejJadFBBQUpIUGpDLUhWOE1MUEh6UnBDQmRWRy1uQkM0S0VoMlBUY3J1OHd5OXZRRWF4X0V4alpEbmQ1TzY3WE5kTzBSYVZVYnF1bEI2SWp6N0JPa3Y4UFE0MllWemNCU2JpSTk0RVNyN0haSHJaTlRTN0NwM0JHSGN2NFNVMzJrYjBoWFpBTUk4RV91dUJBNGxGR3J6V2g3bDNUNTAwa0gyZnRzMi1LQjhnMHJGYWd1T2FaWE1QdTRlUW1mX1R0cnFCZVY2OHNZY1h6a1RYNll6eWhyQWlSeVJ3MWJkbGMyLU53bEE?oc=5",
-      "published": "Thu, 26 Nov 2026 12:17:28 GMT",
+      "title": "هل يعالج الذكاء الاصطناعي جميع الأمراض خلال 10 سنوات؟",
+      "source": "الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNRWJPWXEwUURXMzlxQUFCcWRBSXY4YUJBbzRTaWx4c01zLVpmMWdydVBIZjkyOWQ4a3NMbFYxak5uY0ZvZVJpZG5KR2J0a3V0LXA2cGhhaDhJbkIxSTZPbTVESnc1VzBBR3QycXhKUGpMUFctRWRHTHFiSmRGdG9NcC1JbHBaVk0xT090dUVrc3NiZ2tRQVlZR0ZGTHljM005c1AycVJpaGhuOFlhQTBMbEM1b0hwTUdRQ1pJYVlzd090MFZyd3hrTFpfY0N2ZjgyandWdVNUNUFYbTFRaGN6NURoczZkOU9hZDR3VXFPU3Z0dFg1Z2xjOFVNaGYwbkh2MXlDWlNjWFI0ZWhXVGQ0ZDdQT1M0RTU1N092MDZvZGw1N3hNY05vb1pRZE1NYnlIRGZlQl92cmg4czJyYjlSNWhBMHlCWG1qcjdUeHFoTWd2WFdUc0RneXVWTjJUQjVEYlBFQ2JXaHRTYVR3bkVwdFVjOG9tc0hFTzZfQUI2VG1vLUNFb2ZrS2lYQnB6bkZOckoyMkExM3drQnZqLWFLSG9FcnEtMG94aGRZdzhNOFJJS1hRajNxb2NsQnlBSE93ZTc0WU9ubw?oc=5",
+      "published": "Wed, 25 Nov 2026 11:58:25 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: وكيل الذكاء الاصطناعي \"إنستنكت\" يثير الجدل.. فأين الحقيقة؟"
+      "suggestedTitleAr": "خلف الخبر: هل يعالج الذكاء الاصطناعي جميع الأمراض خلال 10 سنوات؟"
     },
     {
       "category": "economy",
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "لماذا تهبط أسعار الذهب وإلى أين تتجه؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPN0EwT2FkYzdXT1YxYmNHX2RTeENNbzF6WVc4QmtScU5yVmpQYndsRE1WMk5lREJpbTJaeGJtMGFXVVUyRHdpamJ6bnViZUtpdXVUNGpTZTExSWVGYWpQel9CcHlGcURucm1rbXdwSkRxMzNHbGQ5Ny1BRE9ITGhRbFM4cmNSRnJETm5vOW9kQnJxbWpOMGVOS0JMbXdFNWtBZTVSM0xvZGYwOGpoaDV5TXhucEtLdjNya2tPWFFsbl9EcXVDVkJoa25pSl9GZXQzS1NhYl9ncGM5OWRoeVB6amFjYzhxS0V5Zl9sMVI3cDJNSlV0UDNLdkNzc2lCX2oyTGxjeXFLcGVUXzhhMjVLLXRXcjZnT3RUVjJkZnJNM05TaEt5cWN4NGoyd04xc3A1NTJxUUFodXhhTHhrY3hodVRIc095OHQwRGFIYjhBTkNRUjg?oc=5",
-      "published": "Thu, 19 Nov 2026 20:16:43 GMT",
+      "title": "اقتصاد الإمارات ينمو بنسبة 0.4% في النصف الأول 2026 إلى 961.9 مليار درهم - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbFVLR04tRkpPOVkxS3hhbHZjcWF1SzZiU0lUbmZRek5RODVLekNBS20wa0p0ZlJldnZ2YTA4cTh3YTNRN0d5cjlXVmdKeEhNa2w3VFFrRWw3dl91c2RUangtalRHT3pfaVE?oc=5",
+      "published": "Tue, 24 Nov 2026 17:04:56 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لماذا تهبط أسعار الذهب وإلى أين تتجه؟"
+      "suggestedTitleAr": "خلف الخبر: اقتصاد الإمارات ينمو بنسبة 0.4% في النصف الأول 2026 إلى 961.9 مليار درهم - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "environment",
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "arab",
-      "title": "بيئي / أكثر من 70 مزرعة بالمدينة المنورة تعزز استدامة الإنتاج الغذائي العضوي",
+      "title": "بيئي / \"البيئة\" تحتفي بنموذج وطني في التحول إلى الطاقة المتجددة لاستدامة إنتاج الدواجن",
       "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52TmkwemVtWG9henlVdEVUcUkwR3FHX2phcGpDMnpieU4zYmFFU3lIcHhIRGl5ZUFvdktfVm52LTZaNjZrcXc?oc=5",
-      "published": "Tue, 24 Nov 2026 00:05:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tSFA5V21pM3BBX2VBaGxReU9wUnpKbjdFN3I0NXE3WnRxUmQ1a2dPM1ZuaVNqcnVsUWNtWXN0YjBuMGpFQUE?oc=5",
+      "published": "Thu, 26 Nov 2026 12:13:02 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بيئي / أكثر من 70 مزرعة بالمدينة المنورة تعزز استدامة الإنتاج الغذائي العضوي"
+      "suggestedTitleAr": "خلف الخبر: بيئي / \"البيئة\" تحتفي بنموذج وطني في التحول إلى الطاقة المتجددة لاستدامة إنتاج الدواجن"
     },
     {
       "category": "society",
@@ -95,24 +95,24 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "«ذاكرة الثقافة» مركز سعودي لحفظ التراث رقمياً",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTXVYVjM0QTRYNF91MHVhVGJvVXJOZnJEcGdmbUhYRXZIZ3VmZTJGcUlnczUyX295NTlXRmxlWkZFTDNuMGN5bWtKWlBDSHJ4bnhCT2ZKT05OMVR2VEhMUjZ2Z0xMOXBOcDYwakE2Q0tCN0hGSFpZLTVkSG1nNjdsSjN4LUNwM2F4RUFHUWQ0MXpBVHlZaTR5NjQ0WGpWVXRuSmwyOE5jNXB2QWxrQWh4VHVsc0Z5dVFHTEp5VzBiMV9aS1U4a09BX053emxOR0RMMTFfcXJieTFQRklma2pNeW9JNktlbTNGM1pEYWlLMXRmZjktRDJmTnNidVpfV0xBYUxLalZoeUpOLXNYSkY4RHpxX3ZhYjQ2Mk1UeWFzdnFUX0tEY2FVdlFLNzJ6a2w2ZDdsWjJKQktCWTRIRnVpczBfdi1FRk16ODJnMzBSbWJVclhvUzc1ZlJ1bm9pU0dhMjdtTjY4WFFKYXVyYVY0ck01ZmxYQUtGVW1SZDl1M3NXZmpyMUU4dlRKVzIwcEpmMnlhM1ZhRGhDMFFlclJLQ3dXcTZBLWJmZnFiWVl3U1FmM1N0bGk3Yi1jZEl5MktGaGtrNFNKSXZCZm8?oc=5",
-      "published": "Wed, 25 Nov 2026 17:06:00 GMT",
+      "title": "ثقافي / مكتبة الملك عبدالعزيز العامة توثق ذاكرة المجتمع ومرويات الثقافة",
+      "source": "وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vZkpQZjlDSXVxMDRLNU9IVE1QRXZfT2JKeVFGS2xwUk5GdkZoblZ2MnBMd0hNa0hMU2R6bFJWdVZudDhYdVE?oc=5",
+      "published": "Wed, 25 Nov 2026 17:46:56 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: «ذاكرة الثقافة» مركز سعودي لحفظ التراث رقمياً"
+      "suggestedTitleAr": "خلف الخبر: ثقافي / مكتبة الملك عبدالعزيز العامة توثق ذاكرة المجتمع ومرويات الثقافة"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟",
+      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSUZmZ2ZGcDd2ZFoyWXlVVE42ZF81UlpGWldQMmIteXlsNURhRXJDNTNZX0RqS2lVdWxGU2FKZmtoYzBQU1JjX1ZTSWJrbklvNWpUbXJ4eVBrZ3JSNjk4Q2pZSVFLdXU1UFJKTGZfZ2x0X3RJSGcwUnZ2UDhjdlFlRXZSVnVYVGt1NUZvSWFFYjhYNnl4VGFfVmZDNm9naVFHclJ5dTVlVHF5eTRmLU9GRmxRRGVNVTJVUXItTjBlZ0dkY1JiU01LaXdUNmN4WEI4TTlKSzQ3ZEMxTUlDdzdadG1nWUdCcGF5ZFBWU2lXQTNXUWtGQ1g5R01HSmZ6clpyZWJKRGpwVm5XbmtZa2s0WGgzY1VGZjNsYUFEekFCc3JPZ2tZRnJ1Ry00dzY3SE9HLVVjcEh4djZUTXFGNkhid2FUT0ZpTGRNVk4yaTU4SmNlUQ?oc=5",
-      "published": "Thu, 26 Nov 2026 18:16:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
+      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟"
+      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
     },
     {
       "category": "space",
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Tiny Cas12m proteins unlock new possibilities for compact gene editing",
+      "title": "Scientists solve decades-old mystery of how cells exchange amino acids",
       "source": "News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDZBV3didlg1TVJ2VUdSM3JZY0ZkZTZNVms1NFZtVjJoNnVCSHVxSVRwcDVOeHBWeUl2U1FjOWx0dWdQNVNkRzczaDktV3poUEI0REM2ek41bFF0R3Y0SFJsdXBWUU82R1UxSmhzMmRwd1NtRzQwVHo4a3ZpUW52cDYwLWdjRUZXdkxPYzIzeTRKTzRfUkxTN2pHTDNuS0pUa2lXc3BDOFNFVTJjQ2FfZ0JBNDdGc0JONUE?oc=5",
-      "published": "Thu, 26 Nov 2026 19:08:00 GMT",
-      "suggestedTitleEn": "Behind the story: Tiny Cas12m proteins unlock new possibilities for compact gene editing",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGNxVGJCMXV5dktLQnV3dnJiVFAxck5rbHYwNWVNbndMdUpiWWNGWTc4MFY3RTdWMUhGcGJtMXFRMWJHR0pFN2NOc2VNeHdQT2c4TWd0V1NSUzk2NkR0c21ScEJkYlRIWXpFcmR1MmJTSFZEYWJsYlVpYjdEZ1U4QUJ4WkdRX21GX0E3aGMtR0NzSEZmWjE3WmVQd09CdVZsZVhqdHA0eFdsQkZsQjZOUlA1VEZsUU9HcEE?oc=5",
+      "published": "Thu, 26 Nov 2026 19:20:00 GMT",
+      "suggestedTitleEn": "Behind the story: Scientists solve decades-old mystery of how cells exchange amino acids",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "US-China AI Competition: Superintelligence & Geopolitics",
-      "source": "World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVDN2ZmFXTWNVRFh4cjRfSElnT0YxcFpMTHoyUmZad0ptdkc4Q1E5ekdmV0N6MmpCZWhpRXhWMGgyZkluMXZxVzUxd2loQmQxX1NDS1B4Y1ROdl9INmR5emZmeG5CXzBTYzZsQndLUV9jbU9Eb29JckdORjA5SnJ6SllzTVZvMUNvU2NBN2ZUcE1hRk5VdzlZM0kyMGNfYjZPWl9rWU9kcFF0b2czenc?oc=5",
-      "published": "Thu, 26 Nov 2026 11:27:29 GMT",
-      "suggestedTitleEn": "Behind the story: US-China AI Competition: Superintelligence & Geopolitics",
+      "title": "Jalisco and the United Nations present results to drive an inclusive and people-centred digital transformation",
+      "source": "UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ2JHS0JKZHVRWHU1Wkh5WUZrRWtMZjF1VTI3bEQzU1VrTjhqUHhXakl1ZEN5WjR5eWVYa1VRakxrMWptbHFwNnZoRmNLUXFuQmExZ0FvbzJ5WU9QWWhxblZhZTg1NkpXUXd1WGg3UHBUYU9QaHg0SkhxQUtwaFRCS0NEM09idlhSbTZ6X3M3bDAxalBpTzlCTk9RcUV6SDlRbEo1aGZ5dndMaGQwSmFia2gwUHNTWVpuVURheTFXYlpjRzBhV1F3SmFnZTd4VkNB?oc=5",
+      "published": "Thu, 26 Nov 2026 22:49:39 GMT",
+      "suggestedTitleEn": "Behind the story: Jalisco and the United Nations present results to drive an inclusive and people-centred digital transformation",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Small Business Saturday jumpstarts Ann Arbor’s economy heading into the holidays",
-      "source": "WEMU",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTNNUWUybmdWblR3RGV3RmdDdWdRNmdJRjNnNnExVzduLUFSRk9NdEwwWFMtRFl0Q0JJMnJfXzJwUFpUdUxGVW5MN3hrUlA5UVc3Ujh6M21QRW9uMVgtcTZEbEx1c2JuZWVuYl8yTl9tZ1N1aXZUdFA4QVdBclpSNlM0SjctUlJtV0JmUHdMOUJWRjRfdnJIYjN4a3JIdlNST3B4bkpRTHdSdVczX0haMXh4QkxoUC1KQ3ozandn?oc=5",
-      "published": "Thu, 26 Nov 2026 13:34:00 GMT",
-      "suggestedTitleEn": "Behind the story: Small Business Saturday jumpstarts Ann Arbor’s economy heading into the holidays",
+      "title": "‘Why not us?’: West Alabama town looking to expand economy with new business opening",
+      "source": "WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFRIcl9udzZjLU5YVjVDblJFdklfX19maHExY0dlU2hRUTNVVFVzaHZrZ0ctR3l1bVI2TUxvREdCM3dnT2VvbHd2dG1Ja002NDVXZzgyaUdSLTNRekI5X3JPRThHMGphUmRCNkp0VGxHUU5nR3hlS3NWdS1rVUp1UElnRTViMGV4UFZnM0dTODJNQXJja3Q3RXZBVXhMZFkwV0xvcS1nMjlGMjhFbGg0?oc=5",
+      "published": "Thu, 26 Nov 2026 22:28:00 GMT",
+      "suggestedTitleEn": "Behind the story: ‘Why not us?’: West Alabama town looking to expand economy with new business opening",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "The Wildlife Trusts celebrate National Tree Week with growing efforts to restore and protect trees as climate pressures increase",
-      "source": "Inside Ecology",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMC1neEt0VkJ1aGRHaGc2NUNSaVdHTl9fenJiVUVXbmNhUlZGVWdzSDdocmwtemFHWktrSzY5cU84MG1Pa3ZteVF6UHpsem82XzY0MlhfeHZGVVJIZHdpbDVuSTIwdzY5NEM2TC0tRjVLazJTM0ZUNGtzOTg0V29oY1R5QlMyUHdLc3k1c2luYnAwbElXM1VFZERjTEdpa1FpTTNQbFJHcGVuVDdBbFhaTS03YnJFaGtpVWdyQzFuSXFWX3BSWjdyNGFXS04tQkp5N0pkYjNlaXNSclZURGZ1TmZjLTFLcS1vLU5Tc0k1TzM0cFdVZnAweUNn?oc=5",
-      "published": "Thu, 26 Nov 2026 15:38:28 GMT",
-      "suggestedTitleEn": "Behind the story: The Wildlife Trusts celebrate National Tree Week with growing efforts to restore and protect trees as climate pressures increase",
+      "title": "Forests, restoration and climate resilience in focus at COP31",
+      "source": "International Union for Conservation of Nature",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlM4U1RLeXozQ2ZkbElDQ29VT19mVDFOYXowckp1dWZQa3hVVURDR1RVOHBCZWF3Z3hoOHBhTmxSZEFNLWNNOFBxM1k0V0llLVZhTEw5SHFhdTU2LTRKTkdYSDQ1ZGdMNDBaOEYwVU96Q2lncHAwOGhzY2lvZ2Z0VzRENkM5UTNpZzRZag?oc=5",
+      "published": "Thu, 26 Nov 2026 15:40:32 GMT",
+      "suggestedTitleEn": "Behind the story: Forests, restoration and climate resilience in focus at COP31",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Psychology says it's not the big public shout-out that makes you feel most supported — it's something far quieter and ordinary",
-      "source": "PsyPost",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZGw1RHlSYmpoc0RKNlA2Z1FFc1ZFSG9YSUl6d0FHRW1iZnp4anpYOW81SHpmQTRzMWtxblNiWlBHcC1nZ2xaV0VicHhqMXFGN2w4ZjlPVzRuOHI0WG9HV2ZZT0lNMnJadFRaaTVGbXE4SzNDbWd4Wkk1TDNaNEhPelB6NkREdkx2LUZNRkVyM1NFVjQwYVRNb3BSNGZ5SjI0YmdSNDVQYk1FTVh4bFNoQnNtQjZNdHg2eUt4dnNsVy1ObjFmb0tTYXRRRXpHZW1RbHJSUDU2NDN1Y0VyZ2xRXw?oc=5",
-      "published": "Thu, 26 Nov 2026 10:10:06 GMT",
-      "suggestedTitleEn": "Behind the story: Psychology says it's not the big public shout-out that makes you feel most supported — it's something far quieter and ordinary",
+      "title": "Beyond the Campus: The Power of Research, Resilience and Responsibility",
+      "source": "The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXozczczZGYybFpBRWRTU2ZvS3NfUkxBRXgzbDJvTEtNcUtSN0JhcUJkLTBjYzZUamtlWkpzMDRoZFpvd0p5dDVfUEhnQ3dFeEVfemtTWmwzWWlubFpDOV9DRUVpaTlJaW5BckFkQk85U2NMcVQ4bmNMdmFaeTNZekpRdVE5YkVJMG5waTdpakZ3OExTRTNZWDN3ZGJIeElJQlNxOA?oc=5",
+      "published": "Fri, 27 Nov 2026 01:20:00 GMT",
+      "suggestedTitleEn": "Behind the story: Beyond the Campus: The Power of Research, Resilience and Responsibility",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "London Palestine Film Festival opens with Who Is Still Alive",
-      "source": "World Socialist Web Site",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kZzNfNjlqMDBrN3ZuSzE3Z3RYTlFzNmo5emswejF0NklzR0tEMEtIanh2Szd0RGNqRDYxQTZWa25OQ3A2eU1OcTJrS3V4cmJoMDcyUHRQY05pLXQyS0YtWndWZ0l2Mksz?oc=5",
-      "published": "Thu, 26 Nov 2026 13:22:28 GMT",
-      "suggestedTitleEn": "Behind the story: London Palestine Film Festival opens with Who Is Still Alive",
+      "title": "Documentary Series ”A Learning Journey” Season 4 Premieres Overseas, Telling Stories of People Around the World and Their Ties to China",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMl9GanFZaGczUHYyWE13cl80dG5Id2FjNlMzcXlad3pjdXF3Y0lCYkl3cXpoTWtRR0oyLXZXUnoxWmp1bWEtUzN6NFBLQzE0OWh6Mkd6dk8yaExPWlk4NXBfa0dHYkluMWhSTFR3ZVFieTNmRDhoYWdQTmM4TF9jRkJNUHQ5MFpkdXVFd2J4NTB2eTVPaW1QdW9kcHQ3a2QxS0xieGJNOFg0YjNEOVpHbjZrY2oxRXR0RktTc1J5REVxTnRXOXBaRVZmRWNRWnNQaWtkTTkwV0lIR0h6alhOeXRKMWIyV1o2ZVEyWHRrNDNSOWRtZnZaYnJLX2tZNzZkNFpESXo3cF8wS2Q0dEFSZFhR?oc=5",
+      "published": "Thu, 26 Nov 2026 22:04:05 GMT",
+      "suggestedTitleEn": "Behind the story: Documentary Series ”A Learning Journey” Season 4 Premieres Overseas, Telling Stories of People Around the World and Their Ties to China",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Earliest monster black hole found at the universe's edge by JWST and Euclid — pushing theories to their limits",
-      "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV25PR0QzQ1FNOTA4X2hkZUlzT0pwNkowcFZYSkVJM3RDTElEN1VzdTRvb1ZpYmZ2dzhyci1LMm9wTmRGUkhxM3FaTEoxN2VvRk5VcnI1YWQyMXpQekVwMm1zMGhyWkFfbmxYSlJHZEdTNVUyNkhXQklXc1VQdkZxYzF6Vk5ZWXVHazRNQm9vRnlCUEJlTEQ0TzEwSEt6SXdOZF84c2lBMWpKQy1vNlF3eFlKb0dPcTd5ZUU4Q25JZFlXN1d1enFDbHEzU0Z1WnN5S1E?oc=5",
-      "published": "Thu, 26 Nov 2026 16:16:33 GMT",
-      "suggestedTitleEn": "Behind the story: Earliest monster black hole found at the universe's edge by JWST and Euclid — pushing theories to their limits",
+      "title": "Astronomers Discover a Hidden Binary in a Star System Used to Calibrate the JWST",
+      "source": "Universe Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemZHVGc1czIxclNrNDNNUjU5cmtEUXBNbkE0YU5aLTM1UVU4ZUhCcGtFVDJmLUwycnlpVGJpblN2QmltR29QUjhfdTR6YWlGTHVjNTJVbC1YWHdxbmN1cWJOQ2VMMllEQmg0dDdvZ09FNkkxajNhcHpnVUtfTllxLVBlbE5fNEVmaXV6VjdudjJHSnMxdmpiQkJuQWx0bEFpbFo4RVB6UHRhMUVxWDNDT29NX2ZZNXZDY19z?oc=5",
+      "published": "Thu, 26 Nov 2026 23:08:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers Discover a Hidden Binary in a Star System Used to Calibrate the JWST",
       "suggestedTitleAr": ""
     }
   ],
