@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-27T13:28:37.564533+00:00",
+  "updatedAt": "2026-11-27T19:10:42.906460+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXN4TFAtS0h1U1ZMWlpVc24xM2JNQ09VU04xakk4RGZCVE14VEJ3OVkweU9PdGZoQ0lSQlladWxTRHZBYmhJWnE2TC1HTlVmSi1UZzQ2aTdVWUJ5Y0RqN2xxLW9ucTFxdlVrS1I1ZldEVzhaR1pzUWJuVVBYam9yQzllelZnUGRGQjM4eEpLN3F3cU84cEotV1JPWW9OaUFZNkRUWHN1TlNxdw?oc=5",
-      "published": "Fri, 27 Nov 2026 05:59:01 GMT",
+      "title": "السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNeEpQYTlmdGpfZHRUclBfcldjNnlUMmVHYy0yY1JZUkUtR0hpLXJGOVlhYTNjZWN0c0pCQkVvdUs5LTdmOVV5MXBYT0xTQTF4RmhKYTRQcUdOMUo5cFBuSk1jSzRPXzlKMmw0X3lUWG8yUnVmeGR4OVBHQTkyQkpiTVEzS3V2T3pOYlh2T2lhcHY2emU4U2ZhQ2xJUXdnZXBiN3ZMZkFjSXZDWF9hbmhpMXV6YzZnbFU5NWdaVWFucG9NRTJzVUJ5SmdvZjdtbFh3dFRTa3VrUnlXZ2R3Y25zb2JBXzFWcGlfd3dweGNjZWswel9sd0xHS19PUXdjOWFHVVpvUU1kT3pySmYyT21Yc0plNXFqSjQ3RjdVeENHVm1yYUlrV3pscVp1YVY2STF5WDZYU0FPYjhPczhMVGdLcWVjZU1HaEgwTm1CTXZuS2VWc3VXLTQyaXVUcklTdw?oc=5",
+      "published": "Tue, 24 Nov 2026 13:09:20 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر"
+      "suggestedTitleAr": "خلف الخبر: السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال"
     },
     {
       "category": "history",
@@ -107,12 +107,12 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
+      "title": "لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
-      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSUZmZ2ZGcDd2ZFoyWXlVVE42ZF81UlpGWldQMmIteXlsNURhRXJDNTNZX0RqS2lVdWxGU2FKZmtoYzBQU1JjX1ZTSWJrbklvNWpUbXJ4eVBrZ3JSNjk4Q2pZSVFLdXU1UFJKTGZfZ2x0X3RJSGcwUnZ2UDhjdlFlRXZSVnVYVGt1NUZvSWFFYjhYNnl4VGFfVmZDNm9naVFHclJ5dTVlVHF5eTRmLU9GRmxRRGVNVTJVUXItTjBlZ0dkY1JiU01LaXdUNmN4WEI4TTlKSzQ3ZEMxTUlDdzdadG1nWUdCcGF5ZFBWU2lXQTNXUWtGQ1g5R01HSmZ6clpyZWJKRGpwVm5XbmtZa2s0WGgzY1VGZjNsYUFEekFCc3JPZ2tZRnJ1Ry00dzY3SE9HLVVjcEh4djZUTXFGNkhid2FUT0ZpTGRNVk4yaTU4SmNlUQ?oc=5",
+      "published": "Thu, 26 Nov 2026 18:16:47 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
+      "suggestedTitleAr": "خلف الخبر: لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Sweden’s women sweep podium in Ruka as Cross-Country World Cup kicks off",
-      "source": "International Ski and Snowboard Federation (FIS)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY21lS2xOVGhnWS1aUFg3M2ZxX3YySlR6Q180aEg3aGNpcXkyVl9VYnZpWHJYVWdrNHBqSkdjTC1EMXEtTUpxSmtQTFpSUG9sUnJabVBpcVFnU1AyTVJNUVFRQnRqNld3ekg3endFODZudzlFV3duSUhGeHdVdTVEcDBHNkp2WGJ4d3h6TVl3STZHR0hOaEtaTVhSSmVHM0JHVTNwOHVDYTZhc1F2Slg5RGhyTk9SNlUzLWR5a3RGcTg?oc=5",
-      "published": "Fri, 27 Nov 2026 12:13:43 GMT",
-      "suggestedTitleEn": "Behind the story: Sweden’s women sweep podium in Ruka as Cross-Country World Cup kicks off",
+      "title": "Malinin Sets New Short Program World Record at NHK Trophy",
+      "source": "U.S. Figure Skating",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVc3bmdobEhYYm82bXlISXhUcDR2NDAwRVJJZ3F1YmszSk5uWktlM0ZXZnZqX0R1SzhfSmdlaUw3N3ZMNzdYeUhLMU5RTkk0b0xoVTh3YmNJdENKSGR0OXNTeHNLNlBSbUhuX28xUmhtNmM3ODc1eXo4OTE0V1pCUl9zbmVhcjJGQ1QwSHVQVWFKc2k0Q1lCVllHWlhJUTQ1SVRQNUZ2NWU4dm1PSGxLVkppYTM5ZTJOd2gtcTVSYkRkaXF6WnFRSHVjSkxjS0Nk?oc=5",
+      "published": "Fri, 27 Nov 2026 14:27:16 GMT",
+      "suggestedTitleEn": "Behind the story: Malinin Sets New Short Program World Record at NHK Trophy",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "Stanislav Kondrashov on Circumvention as a Catalyst for Scientific Discovery and Technological Progress",
-      "source": "Vocal",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMm1BZlZ2aWJjZmhqVGhFUW5GZDR5THdmSmR4SHljRG1lMEJQZGRJY2dId3B5WnJlOEQtdkp4dnZJQWlKeFB2dUJNaDNabjJwbTF5MDN1LWs3MWc1LUpRVEllYWVaZ2pRXzJUek1od1Ytb01mSUVySFhfN1V6MW1kNmlKQ0RaaTVQaGdZX0l1Wm5hVlVrMjV1SWM2V29FSjNsN3FzUUhEdUpucWdVcG9nNWhnNzZaNy1Ua0s4RDFnMXZvVTZSZUxIdlhxWmk?oc=5",
-      "published": "Fri, 27 Nov 2026 13:10:37 GMT",
-      "suggestedTitleEn": "Behind the story: Stanislav Kondrashov on Circumvention as a Catalyst for Scientific Discovery and Technological Progress",
+      "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUJVQW80Vk1pX0tzaEdkTmxIUmZITDZweW5JUEgzdHg5d0R2czE2R1dOWDlGYXZPNTBfNnJJcnJTLVY1NjJJZ2VGeU5vVmhKLVBCMkFUODk4Y2F3ZmJWS25IcnJOZUNYcWF3eTgxdmQ3N0xacUlES2hOSDhqblRCaVNDWFBycXdsMFF6S3AxaU0wazVCQUdRZ0IzWHluT3FCdjJHbzg0TWQtSjJCZFNqV3cxbkxQcmM4MFHSAboBQVVfeXFMUFVsU2Z2V2xQbmhtZTllaFdra0QwV3dhdGxRX1ZTQS1uY1dCUHp4RVdqcjN5eElKY1JvSnFPVU1YclFhNWlqTG1WYjhtTWdiVlhZV2p2Y1VFYmVNWDFGbENwOGNxMHJkLVZ5SFp0NzJ3LXhfMEZQRnZrLXpwYklqMC1hWmJrTTREVnFWS05rZy1lQTZrcVB1UHNSSmstYXExS0M5aXVDUEQzQk9tOFhhTVpsMUNTdzlIMXhB?oc=5",
+      "published": "Fri, 27 Nov 2026 12:30:08 GMT",
+      "suggestedTitleEn": "Behind the story: China’s Tencent makes AI drug discovery breakthrough with Nature paper",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "From Threat to Capability: AI, Digital Technology and Societal Resilience",
-      "source": "GLOBSEC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVM1Z2JuZWpvcGttZjZPQ1RpWlZEYVlHbkRsX05kdEdIY0tCWHRmbUFKcTZacnNWYnpUUUpmZjJjWlhsVGRrMXJGMVpiSXM2b0ZwZkxoQVZFNGx6N1hTdHFqbmc2QklDQWNVZk0xdEVxWkwwb3lWaENZT3EzZ05WU19lM3JaMDNtUXZhLUUxU3FXTy1xZ25WUFBWU2ZzNkVIcUJIU1BOcGc1MDlwd1ZTdA?oc=5",
-      "published": "Fri, 27 Nov 2026 08:27:06 GMT",
-      "suggestedTitleEn": "Behind the story: From Threat to Capability: AI, Digital Technology and Societal Resilience",
+      "title": "Nvidia Corporation: Strategic AI Technology Front-Runner (NASDAQ:NVDA)",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZQQ0c2MEdQbDd0WGUxUlBsVXhuTS1EOVlMMV9acXB0QTdBeW5ZVm5fV090VWwyN2VMZ0RQNS1sN2N1MVhCUzlfT0ptOUNjdUF3dzlmb19YUi03dkUyNnl1WFVTTDF4U3d3eUdYVC1jUDYzYjdjQTlya0I5S0dOSm1yMHN6SVBCbmE2ZmlYOGRBbEo2c0UxTmdZNkg?oc=5",
+      "published": "Fri, 27 Nov 2026 16:18:04 GMT",
+      "suggestedTitleEn": "Behind the story: Nvidia Corporation: Strategic AI Technology Front-Runner (NASDAQ:NVDA)",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "New report shows Minnesota economy is stalling out",
-      "source": "St. Cloud Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHdvZ1oxbHctOU9OWTVoTk10WnprN2J4T3N6YkZVRkt4TUhKQUhNQWJWY2NxNThKSHhBcGxBSkRaTW1MODNVTllrcmxtYTVPWWxEM3hXQld5alVTZTk4c3M2VERjdUtmUHRtWFhEd1FoVGVXTHpLbExjaFpRbVRxTlgxLVFPY1otTW1MbnlERHNwTWFtQm5OWl85anRrc3hKMzg4S2RPbmZIS0hVUm43TFM2TUFCZGc?oc=5",
-      "published": "Fri, 27 Nov 2026 11:01:00 GMT",
-      "suggestedTitleEn": "Behind the story: New report shows Minnesota economy is stalling out",
+      "title": "Executive Summary: Helping Americans Build Wealth Through Small-Business Growth",
+      "source": "Center for American Progress",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHVkQmtDcTBYWHY3VU9WQ1Y1SEZLWVBxaWM5c0VtakthZllEMkZxWGFiR0kwWUFXcW1SbE5EV0RrX0Nsd0ZiWDR5X2hlcW9nMGhFUWU0bnQ0TndNWFNKTllNa3o0UmZJaXpTd0VXWWtEQzRENWVsV1RLd09OeU1xZDA1WTJ6ZThNUU9nb1g5dHZ6U1FFSlJMbEFYVWUtWjFUOWI4QmVYRDFrajROZGpZdmdOcGVrbHBkbGpodQ?oc=5",
+      "published": "Fri, 27 Nov 2026 14:02:12 GMT",
+      "suggestedTitleEn": "Behind the story: Executive Summary: Helping Americans Build Wealth Through Small-Business Growth",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
-      "source": "KPBS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmRiU3NCOE5HNzFVMFdad05tTDM3RDVYYm9ramFaYm83ZEdKTjc3YnpRNjA1Q24yOFJ2VU11c2lTVVZtQnVrTERSVV8wVklTOG4wUUU1ZnNzYloyNXE4bzhDQmh2eHlfa1hBWUUxYW9JSWRLeWRiMGV3bWt1eE02em41OVp6Sm5FMUdvaUViWUJZZHAwbVZXZV9oNWp0RWdLNENhdjFMR3VDMFFnZkJYU0tUOGp3bmlMMlpEZzFRelJyZ1V5TDlRUEJn?oc=5",
-      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: 'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
+      "title": "Football and WWII Collide in a New Movie by the ‘Friday Night Lights’ Team",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXA1eDhyRzF3cDN1WFllTURhVmxobmdDejlQNTlEOTBVVklicXowVm50QlpKUmdrVU9tRGZBSDFjcUw1MUNBZERxWGpWSUhHUlpweTFHeDdkMUxEVEVFcDY5VFFPQVcwR3BpeFlPLXNyWGZkVDJWdWtfRWNuLXRvWUlhaGxpejhVUEl6R19SZjJTeEdCUzNnQWh4WkFUYTFf?oc=5",
+      "published": "Fri, 27 Nov 2026 18:11:22 GMT",
+      "suggestedTitleEn": "Behind the story: Football and WWII Collide in a New Movie by the ‘Friday Night Lights’ Team",
       "suggestedTitleAr": ""
     },
     {
