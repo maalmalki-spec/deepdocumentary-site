@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-27T07:33:50.109331+00:00",
+  "updatedAt": "2026-11-27T13:28:37.564533+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,24 +11,24 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNeEpQYTlmdGpfZHRUclBfcldjNnlUMmVHYy0yY1JZUkUtR0hpLXJGOVlhYTNjZWN0c0pCQkVvdUs5LTdmOVV5MXBYT0xTQTF4RmhKYTRQcUdOMUo5cFBuSk1jSzRPXzlKMmw0X3lUWG8yUnVmeGR4OVBHQTkyQkpiTVEzS3V2T3pOYlh2T2lhcHY2emU4U2ZhQ2xJUXdnZXBiN3ZMZkFjSXZDWF9hbmhpMXV6YzZnbFU5NWdaVWFucG9NRTJzVUJ5SmdvZjdtbFh3dFRTa3VrUnlXZ2R3Y25zb2JBXzFWcGlfd3dweGNjZWswel9sd0xHS19PUXdjOWFHVVpvUU1kT3pySmYyT21Yc0plNXFqSjQ3RjdVeENHVm1yYUlrV3pscVp1YVY2STF5WDZYU0FPYjhPczhMVGdLcWVjZU1HaEgwTm1CTXZuS2VWc3VXLTQyaXVUcklTdw?oc=5",
-      "published": "Tue, 24 Nov 2026 13:09:20 GMT",
+      "title": "ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXN4TFAtS0h1U1ZMWlpVc24xM2JNQ09VU04xakk4RGZCVE14VEJ3OVkweU9PdGZoQ0lSQlladWxTRHZBYmhJWnE2TC1HTlVmSi1UZzQ2aTdVWUJ5Y0RqN2xxLW9ucTFxdlVrS1I1ZldEVzhaR1pzUWJuVVBYam9yQzllelZnUGRGQjM4eEpLN3F3cU84cEotV1JPWW9OaUFZNkRUWHN1TlNxdw?oc=5",
+      "published": "Fri, 27 Nov 2026 05:59:01 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال"
+      "suggestedTitleAr": "خلف الخبر: ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "بلاغ مواطن يقود إلى كشف أثري بارز في مصر",
+      "title": "في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية",
       "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcnlVamhDenh5ZkNHbW56TWZ2aVJreHVvaDVKOHhEZXcwS3RmMU5EcGRlOENwS1diR1FFUUNkVmdtam9tNm5ld3RncTVyOWxHU1djSFZqRXhZOWcxZnpWVlhZMG0wd29HMlJESXNreXlnM0wzTnVtSEYyWFFPcGZlRUh0dlRUWjBObTJOWG9pcE5JUUtyaWF0bm1RMFpJbFVrMzIxRkJRRXJfZUp4NDR0dFhjQ09qam80YXpFVjB1SzRwcDBybkYtci1falVxNGFVeVByaWxpdjV4cE9jUlhzejByV2p1d25ObzJEMW80WFF3SEVxQ0NPbTRJbUFuX09PZWt3dTh1NXlyMkx2MDV4ZS0wQ29QUkstRHNVZEFqRGdyckZNbndvY0pHU3QwaWxaV3NsOGs5Z1ZlcGhFa2ludWUwSFA4bTNFTlozRHpvM3BIaXRjMUJTQnB1MWF2OXlPVlVGOHhndGJocnZGeEZ4WXVsb0JMT0RwTFdaZFBRMWxqemtoUXRYa0xmbGgyZ2hqWWRCQXFsVGo4NmdBaDhib2VlRE1ldw?oc=5",
-      "published": "Thu, 26 Nov 2026 17:32:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQTExYcGRWTWlPMHVHbUF2UTZVNUhDUE1UX0xVMUFhSFNQNTJfR0hxcXp1NGRMZkNTZjRVTEo4Nm9hQnZjTzFiMGxMbzNnQUtwLVpqeXpERGdTeENUVEdTUEJ5RkJIMG15SEN1SERHWGoyc3U5aHRrOHBlcFNsYnBRdDBZZXM0TlR2T2tuMDNseGtHVEtyOFNFLVBKTzRWWVZBQ0J1YXVSaDNxQXpJZ1RVdEM1c2JWN0xrMVd2cWdjcUdTN0h1SGVqVkRiZmdpalNzWGFRU3czUm5yWkFLT19mTXlLSzBRaHF0NWJIdmNrMEpnM25LYmx0V3ktakhYN09TSTdMVjR4SmM4SWZOWW85S2VXN05RbDA0V3JNMllxbHl5SG1iMjhxc3NNRF9lZXV2Zm4zYjFidjJaSVBWeVk1TjZ0b1pPamhkUzRFOWV2NFFuVTF2bGo3S0NYcUY0OGg5cFQxdWh5VGxVN3A4NUJKQkcyRmNrMkFUQ3c1LUJJNnNRV1prdHhIM25FQUpLM1dXdjZHZ2Z4RGtyQ3IxWnRaYm9QRFVVdG5kOGJrZ1BkT0Rxb2dOX3pvcWhtMURSU1FIWTdGeC1wOXQ4NEdqaFBzbG4xbHNyV0M1a2NUYTdoczZKMFoybTNZci1FM0ZuU3pKejc5TS1YZUlkcHRKVVB5S1NRYWNhT1JFUFE?oc=5",
+      "published": "Wed, 25 Nov 2026 15:51:18 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: بلاغ مواطن يقود إلى كشف أثري بارز في مصر"
+      "suggestedTitleAr": "خلف الخبر: في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية"
     },
     {
       "category": "science",
@@ -47,24 +47,24 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "arab",
-      "title": "وكيل الذكاء الاصطناعي \"إنستنكت\" يثير الجدل.. فأين الحقيقة؟",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPb25aSkNVdHZ3LWlaR3lONzFlYmdRWTlNb1JkNENIYnVWQmg3TWRKYkp2bi1paTNvXzZmT1FMZWhjYzlkbzVBd0NiUXFKcjhaSjBtVnFITU5ZVWRhNjlkQ0NwWTAyejJadFBBQUpIUGpDLUhWOE1MUEh6UnBDQmRWRy1uQkM0S0VoMlBUY3J1OHd5OXZRRWF4X0V4alpEbmQ1TzY3WE5kTzBSYVZVYnF1bEI2SWp6N0JPa3Y4UFE0MllWemNCU2JpSTk0RVNyN0haSHJaTlRTN0NwM0JHSGN2NFNVMzJrYjBoWFpBTUk4RV91dUJBNGxGR3J6V2g3bDNUNTAwa0gyZnRzMi1LQjhnMHJGYWd1T2FaWE1QdTRlUW1mX1R0cnFCZVY2OHNZY1h6a1RYNll6eWhyQWlSeVJ3MWJkbGMyLU53bEE?oc=5",
-      "published": "Thu, 26 Nov 2026 12:17:28 GMT",
+      "title": "3 دول عربية ضمن الـ10 الأوائل عالميًا في استخدام الذكاء الاصطناعي بالعمل",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVo3eE1RblgwZWkxNEV5cE00NmM3WDlacFZjaDUyT0dydFlONk10STlnTFl0by1Scm9yZnY2Wlg3ZXR5cjdyYldqRGFaWms5akVLaEJTR2JuOTRLT2l2dEF1b0ZvcnAta1UyRy1rLXNITkdpbXY1LVQtcWJVVjNOOVY0ZkFIQi1pV0ZxdWx1TTNfa3JEMDNHSk1aNA?oc=5",
+      "published": "Wed, 25 Nov 2026 09:37:07 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: وكيل الذكاء الاصطناعي \"إنستنكت\" يثير الجدل.. فأين الحقيقة؟"
+      "suggestedTitleAr": "خلف الخبر: 3 دول عربية ضمن الـ10 الأوائل عالميًا في استخدام الذكاء الاصطناعي بالعمل"
     },
     {
       "category": "economy",
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "الاقتصاد في فكر الأمير محمد بن سلمان: من الاعتماد على المورد إلى صناعة الثروة (42)",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNMHY3LUlhMUNTd0MzOVA5MGlndTd1V3BJcFBvODdhbGVDVFhwUDF3N0xvbHBGbk41RURwU0Y3aEtqa3hCb09tN3hWV0pObXE3VkVGa3dNWlhiQkh1Y2xMX0FGRW1kb0dCVG9id3VaaWlRWEtDcm0xZEdGSzMyNkt3S05zYnRHdHVQSnhKU2J2bFV2ZnFpa19zX0hUNk5iVXB1X0VieXdXVmhzcWtlWXdsMlBnSVFSTUtxRDBaRklVRjE5YU1pUm05aGRoR0NNRUo1RlRNWjJPSTdYcXowbWxrQzFFNFU3QVdJbDRmSjNTc3RVTjM1NWRHQU9iNzNzdjQxTFhaTTJtTXNaWXEySThSNFBSbkVPalY4cWlyUTRuQU1jZXp4MDc1aExnYTExRFFoTGJubkExLWF5NmdPOWptVk1ybDhId0dGTDNYTEdPVDhDbVh4OXlTaUtpV2RQZkF2V2I0Y1RCbTBRejZUMU8zMGp2VjdkV2dJM0FHeWlfSjJNLW9vZ1dZTEpvbjdFZ2FuZWE0SHR1ZWtoazVISzB2SVlZdGU0cHhWZ2EwY0paT0lZZWVZamRpWFdYSllYVi1DR3ptcE1rVGNnZVRSOVI1ODFDWXBpQXJaWnZDUWp2Rm11YUVtVURod3oxUzY2QVRVWnFTTktqMFpOQmJ6Q1dfcnZNRENtNklBRlpTSkFkN05nNzVSLV9RMG11YU1XRHMzeFE2TFhQeFBsQ00xS0RRYW1rRTU3Q1ZQWlJXTEQ2dDZuUHFwTHozN0h1ZmFhODRBcGNxZDNpNkNFV1V2QkhkOGZHSmRHeFl0YnFYTNIB7ARBVV95cUxNMHY3LUlhMUNTd0MzOVA5MGlndTd1V3BJcFBvODdhbGVDVFhwUDF3N0xvbHBGbk41RURwU0Y3aEtqa3hCb09tN3hWV0pObXE3VkVGa3dNWlhiQkh1Y2xMX0FGRW1kb0dCVG9id3VaaWlRWEtDcm0xZEdGSzMyNkt3S05zYnRHdHVQSnhKU2J2bFV2ZnFpa19zX0hUNk5iVXB1X0VieXdXVmhzcWtlWXdsMlBnSVFSTUtxRDBaRklVRjE5YU1pUm05aGRoR0NNRUo1RlRNWjJPSTdYcXowbWxrQzFFNFU3QVdJbDRmSjNTc3RVTjM1NWRHQU9iNzNzdjQxTFhaTTJtTXNaWXEySThSNFBSbkVPalY4cWlyUTRuQU1jZXp4MDc1aExnYTExRFFoTGJubkExLWF5NmdPOWptVk1ybDhId0dGTDNYTEdPVDhDbVh4OXlTaUtpV2RQZkF2V2I0Y1RCbTBRejZUMU8zMGp2VjdkV2dJM0FHeWlfSjJNLW9vZ1dZTEpvbjdFZ2FuZWE0SHR1ZWtoazVISzB2SVlZdGU0cHhWZ2EwY0paT0lZZWVZamRpWFdYSllYVi1DR3ptcE1rVGNnZVRSOVI1ODFDWXBpQXJaWnZDUWp2Rm11YUVtVURod3oxUzY2QVRVWnFTTktqMFpOQmJ6Q1dfcnZNRENtNklBRlpTSkFkN05nNzVSLV9RMG11YU1XRHMzeFE2TFhQeFBsQ00xS0RRYW1rRTU3Q1ZQWlJXTEQ2dDZuUHFwTHozN0h1ZmFhODRBcGNxZDNpNkNFV1V2QkhkOGZHSmRHeFl0YnFYTA?oc=5",
-      "published": "Wed, 25 Nov 2026 08:55:00 GMT",
+      "title": "اقتصاد فرنسا ينكمش 0.2% في الربع الثالث",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNQS1vUXk3Uy1PR09GTmVBTXY2TFQyQ3FnSTNGRXV5aE5SNGtJNnJ1VEtIZzdzVWV5UDN5TUxpSXE3VUFOSUxzWWNWOEZncGxSbE1LSjhrVndVV3E0aW9GcE91c24xRUVUUkNhRjVTSGc3WllndWxfR09qZml5Q0c1REZEaXdfZjA3ZXBSbE0wOGx6WjNfdEEtQWlWSFRsdWJKM3pweUJxSFN0d0tRb0ozN3hCRlhKMURuUDhMaElpczM1MmNBLVkxT0JtdHFSZ3JiNHNoS3dWdXVuQWZPbWpVR2twSTVnMko3bGZYVG9aOUVNNHNkcnFfbUw3eWxnTDFtc0VKRHBuMFlFV3MzT0hyY3VuUzFvdkZhYUxEREQ0WEF4UGxkSkNManp0M2FzcVVlcDhhYVAxdFlkMlk3LWx4a1NURFpwLTZzVGFZSFBlWVBiRGxYWVIySVVZcmJQMFE?oc=5",
+      "published": "Fri, 27 Nov 2026 09:03:46 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: الاقتصاد في فكر الأمير محمد بن سلمان: من الاعتماد على المورد إلى صناعة الثروة (42)"
+      "suggestedTitleAr": "خلف الخبر: اقتصاد فرنسا ينكمش 0.2% في الربع الثالث"
     },
     {
       "category": "environment",
@@ -107,12 +107,12 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟",
+      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSUZmZ2ZGcDd2ZFoyWXlVVE42ZF81UlpGWldQMmIteXlsNURhRXJDNTNZX0RqS2lVdWxGU2FKZmtoYzBQU1JjX1ZTSWJrbklvNWpUbXJ4eVBrZ3JSNjk4Q2pZSVFLdXU1UFJKTGZfZ2x0X3RJSGcwUnZ2UDhjdlFlRXZSVnVYVGt1NUZvSWFFYjhYNnl4VGFfVmZDNm9naVFHclJ5dTVlVHF5eTRmLU9GRmxRRGVNVTJVUXItTjBlZ0dkY1JiU01LaXdUNmN4WEI4TTlKSzQ3ZEMxTUlDdzdadG1nWUdCcGF5ZFBWU2lXQTNXUWtGQ1g5R01HSmZ6clpyZWJKRGpwVm5XbmtZa2s0WGgzY1VGZjNsYUFEekFCc3JPZ2tZRnJ1Ry00dzY3SE9HLVVjcEh4djZUTXFGNkhid2FUT0ZpTGRNVk4yaTU4SmNlUQ?oc=5",
-      "published": "Thu, 26 Nov 2026 18:16:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
+      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟"
+      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "What will Trump’s latest tariffs mean for the world?",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVp3NmZhaGdLMWtPSEt3T2FhY2FQbFRrTHI1UTU2THNoTldrVzlGcjFEc2o4M3RCWWNBcEMwWHlmN2JyMVJGM0FDT3FkMXg5RHY4YWlYRVB4VVdKZC1MTkFtdWNCS25xNWRHXzRGMWtPeU5VREE1cDhZVm91NzhONnl0ODFUNmJxcXRtb1FBUnRlWENkZnU3RWFWdHdyNjZjdS1DOER6SFY5UdIBrwFBVV95cUxQTFB1THZSTkdlTERla0NGSThxSFZMWGU0ajkwWWNueG5JY1VreVVWQmstT1huUGZMTl80ZVZVLWdsLVlzYkZHMm1jQkp6QlNZbXNmNFdsRmpUaTNOSzVqZTdtNjNYek5lQTU5RXpIUHh2aVFTWmlid0c0NmRiTjR5NEhsV1hkQlROc2V3VEUyZ1YwWlN0UFhEZWUzYzQ0YWh5d1dkUFRCX3FZTWxRTHJn?oc=5",
-      "published": "Thu, 26 Nov 2026 18:54:07 GMT",
-      "suggestedTitleEn": "Behind the story: What will Trump’s latest tariffs mean for the world?",
+      "title": "Sweden’s women sweep podium in Ruka as Cross-Country World Cup kicks off",
+      "source": "International Ski and Snowboard Federation (FIS)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY21lS2xOVGhnWS1aUFg3M2ZxX3YySlR6Q180aEg3aGNpcXkyVl9VYnZpWHJYVWdrNHBqSkdjTC1EMXEtTUpxSmtQTFpSUG9sUnJabVBpcVFnU1AyTVJNUVFRQnRqNld3ekg3endFODZudzlFV3duSUhGeHdVdTVEcDBHNkp2WGJ4d3h6TVl3STZHR0hOaEtaTVhSSmVHM0JHVTNwOHVDYTZhc1F2Slg5RGhyTk9SNlUzLWR5a3RGcTg?oc=5",
+      "published": "Fri, 27 Nov 2026 12:13:43 GMT",
+      "suggestedTitleEn": "Behind the story: Sweden’s women sweep podium in Ruka as Cross-Country World Cup kicks off",
       "suggestedTitleAr": ""
     },
     {
@@ -155,11 +155,11 @@
       "categoryAr": "العلوم والصحة",
       "categoryEn": "Science & health",
       "region": "global",
-      "title": "What Happens to Drug Patents When AI Biotech Companies Fail?",
-      "source": "The Scientist",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVZ2YnJQRS0yeHkwaV9US08tNDZYX01DLUhfOWs5WDBOeVVhVkExOEFqcWRjdXZpMTcxVzMwRk9WOFpBWVZWV3VONWNqd0RwYWRzMGstNXdsOFZ5Z1pJbDV3c0swNXV2R1FqaExUcm1sLXNFejE3MlZqc3lvVS05MkpNY3JWQV83cDZGUC10OXd2ckpTOVVCX1hUYw?oc=5",
-      "published": "Fri, 27 Nov 2026 05:15:27 GMT",
-      "suggestedTitleEn": "Behind the story: What Happens to Drug Patents When AI Biotech Companies Fail?",
+      "title": "Stanislav Kondrashov on Circumvention as a Catalyst for Scientific Discovery and Technological Progress",
+      "source": "Vocal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMm1BZlZ2aWJjZmhqVGhFUW5GZDR5THdmSmR4SHljRG1lMEJQZGRJY2dId3B5WnJlOEQtdkp4dnZJQWlKeFB2dUJNaDNabjJwbTF5MDN1LWs3MWc1LUpRVEllYWVaZ2pRXzJUek1od1Ytb01mSUVySFhfN1V6MW1kNmlKQ0RaaTVQaGdZX0l1Wm5hVlVrMjV1SWM2V29FSjNsN3FzUUhEdUpucWdVcG9nNWhnNzZaNy1Ua0s4RDFnMXZvVTZSZUxIdlhxWmk?oc=5",
+      "published": "Fri, 27 Nov 2026 13:10:37 GMT",
+      "suggestedTitleEn": "Behind the story: Stanislav Kondrashov on Circumvention as a Catalyst for Scientific Discovery and Technological Progress",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "AI and the Promise of Organized Knowledge",
-      "source": "Issues in Science and Technology",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBX0hZdUdDVlFRWnBka3BncVZfM29NNkhEN0JrMTVoOXFnZXRQTVdBY1NVMl8za051cmdRRnJocDJ1dW9NRkRVcGNBUjA1c0pzUFY0NS1FMkhCMGZ2VzFnUE9iQWlwbW92a3psMU9fLXhMQWFjaWo4MDRBQkFBQQ?oc=5",
-      "published": "Fri, 27 Nov 2026 02:51:41 GMT",
-      "suggestedTitleEn": "Behind the story: AI and the Promise of Organized Knowledge",
+      "title": "From Threat to Capability: AI, Digital Technology and Societal Resilience",
+      "source": "GLOBSEC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVM1Z2JuZWpvcGttZjZPQ1RpWlZEYVlHbkRsX05kdEdIY0tCWHRmbUFKcTZacnNWYnpUUUpmZjJjWlhsVGRrMXJGMVpiSXM2b0ZwZkxoQVZFNGx6N1hTdHFqbmc2QklDQWNVZk0xdEVxWkwwb3lWaENZT3EzZ05WU19lM3JaMDNtUXZhLUUxU3FXTy1xZ25WUFBWU2ZzNkVIcUJIU1BOcGc1MDlwd1ZTdA?oc=5",
+      "published": "Fri, 27 Nov 2026 08:27:06 GMT",
+      "suggestedTitleEn": "Behind the story: From Threat to Capability: AI, Digital Technology and Societal Resilience",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Small Business Saturday sales boost local economy",
-      "source": "Iron Mountain Daily News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeG1YMHJoMHV4Y0JSRWl5ZVBwM0YzNEJFUW4xN1JxeXB4ekU4Yk5iWU9FeW1rREY2bHM2WnRiY004ZDFIRVJHb1lBUV9NRFFndGxKaGtUNl9RRmNJN2hvMllyY2NKZGVEQ2tyRlZfb3VIdDAtUGFzaWNNZDhGY2Y2cHNITC1tUUVmdHZkVkU3Ml91YU9NRk1RVWQ0eUJ6YnV5NWxpSEFMZmhodGV6UjRSU0tR?oc=5",
-      "published": "Fri, 27 Nov 2026 06:58:08 GMT",
-      "suggestedTitleEn": "Behind the story: Small Business Saturday sales boost local economy",
+      "title": "New report shows Minnesota economy is stalling out",
+      "source": "St. Cloud Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHdvZ1oxbHctOU9OWTVoTk10WnprN2J4T3N6YkZVRkt4TUhKQUhNQWJWY2NxNThKSHhBcGxBSkRaTW1MODNVTllrcmxtYTVPWWxEM3hXQld5alVTZTk4c3M2VERjdUtmUHRtWFhEd1FoVGVXTHpLbExjaFpRbVRxTlgxLVFPY1otTW1MbnlERHNwTWFtQm5OWl85anRrc3hKMzg4S2RPbmZIS0hVUm43TFM2TUFCZGc?oc=5",
+      "published": "Fri, 27 Nov 2026 11:01:00 GMT",
+      "suggestedTitleEn": "Behind the story: New report shows Minnesota economy is stalling out",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Forests, restoration and climate resilience in focus at COP31",
-      "source": "International Union for Conservation of Nature",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlM4U1RLeXozQ2ZkbElDQ29VT19mVDFOYXowckp1dWZQa3hVVURDR1RVOHBCZWF3Z3hoOHBhTmxSZEFNLWNNOFBxM1k0V0llLVZhTEw5SHFhdTU2LTRKTkdYSDQ1ZGdMNDBaOEYwVU96Q2lncHAwOGhzY2lvZ2Z0VzRENkM5UTNpZzRZag?oc=5",
-      "published": "Thu, 26 Nov 2026 15:40:32 GMT",
-      "suggestedTitleEn": "Behind the story: Forests, restoration and climate resilience in focus at COP31",
+      "title": "Genetic frontiers of Himalayan treeline: how climate shapes evolutionary potential in alpine species, Betula utilis",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xbTZTa2d5NHc0ZHJ1XzFneFFYaHRHQjMyN0dFc1EwQ0gxRVdCTkFlblQtX3FOVWpKekQ1Ujl3QkxrNG53LW9qOFA2RzZ5RFdTVmNiYVVhN0d5UkR0MmVj?oc=5",
+      "published": "Fri, 27 Nov 2026 10:22:07 GMT",
+      "suggestedTitleEn": "Behind the story: Genetic frontiers of Himalayan treeline: how climate shapes evolutionary potential in alpine species, Betula utilis",
       "suggestedTitleAr": ""
     },
     {
@@ -203,11 +203,11 @@
       "categoryAr": "الإنسان والمجتمع",
       "categoryEn": "Society",
       "region": "global",
-      "title": "Reminiscing about an ex isn't always bad for your love life — a psychology experiment found it left dating adults happier with their partner",
-      "source": "PsyPost",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYmtTM3EwWV9tX1JQY1RTczQ5TUw1ZWxPM0JoMWthN191YXhKRElvYXZXRk1ObXRvY3gzaHhvZHh5YWF6ckNUcTA1c2NFenZpa2pwd1dlZDFNYkVSMDdxazg0SEMzRWxsMEk2X1NrbnFVM3lsTHdPcHJnQ3JwWE9rSmhjQ3NsNGh0VzczUU4wTWdjTEVhSlBzdzhpZjI0Z1BhZi1mY1JzejQyLTVLOTVXdWNpLTZWVk0zdHk3d255RnZ1cGVEUFp0dV9lWU96SlNJN1p1YzZjdm55aVZjY05xVVdnM29zQ2dBdndvQk80TDJROWgt?oc=5",
-      "published": "Thu, 26 Nov 2026 19:36:26 GMT",
-      "suggestedTitleEn": "Behind the story: Reminiscing about an ex isn't always bad for your love life — a psychology experiment found it left dating adults happier with their partner",
+      "title": "Journal of Consumer Psychology: Scope & Metrics",
+      "source": "CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93R1AwMHpmUTJ3Z001NC1yQWpUb3ZaYWxYQmg0N1J0YmEwZFktdDh2aXN1Skw4WTV5MHYwcmhXYWlZcEZpdVdsdEg2QUxaQkNZTnBQRWpTVmJycHdzY043WUZVZGFGMTA?oc=5",
+      "published": "Fri, 27 Nov 2026 11:30:00 GMT",
+      "suggestedTitleEn": "Behind the story: Journal of Consumer Psychology: Scope & Metrics",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Music at Oxford launches first mini South Asian culture festival",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CaEYyTmpjRkFKNlBUa3JBM1NpMTBHa0xBNHBEcTAwcE5mYmk2TUs1NDhOS0lQSW9xWTlSeF80UjlXVFNJY19QeTJxS05fUWhwRnV5VUY4X1V5X3M?oc=5",
-      "published": "Fri, 27 Nov 2026 06:05:42 GMT",
-      "suggestedTitleEn": "Behind the story: Music at Oxford launches first mini South Asian culture festival",
+      "title": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
+      "source": "KPBS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmRiU3NCOE5HNzFVMFdad05tTDM3RDVYYm9ramFaYm83ZEdKTjc3YnpRNjA1Q24yOFJ2VU11c2lTVVZtQnVrTERSVV8wVklTOG4wUUU1ZnNzYloyNXE4bzhDQmh2eHlfa1hBWUUxYW9JSWRLeWRiMGV3bWt1eE02em41OVp6Sm5FMUdvaUViWUJZZHAwbVZXZV9oNWp0RWdLNENhdjFMR3VDMFFnZkJYU0tUOGp3bmlMMlpEZzFRelJyZ1V5TDlRUEJn?oc=5",
+      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: 'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "A historian says AI found the author of a 200-year-old anonymous sketchbook in just 22 minutes",
-      "source": "Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3ZJcnJrYzluWEpfd1NUWVI3Z25lWlNJU0c4S0JJNXBGeTBVQlcwNDFDaTliRVV6blZSSEFIYUd3MlBoX3dpT3BzSDdfSEg1MzIyTzZUdXNpd1p6cGxteTl5UzFiUXk4V19qQ3JkbWl6Y0NyOXM0cTZzTkJwVTVmeHEtdmJheWM?oc=5",
-      "published": "Wed, 25 Nov 2026 19:27:00 GMT",
-      "suggestedTitleEn": "Behind the story: A historian says AI found the author of a 200-year-old anonymous sketchbook in just 22 minutes",
+      "title": "Texas Author Brett Shayler Shares Three Western Stories for the Christmas Season",
+      "source": "The Courier-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZElVeXlFNUF4XzZxZ1lQZG5zSlpNNHpkdHdSQzBGVUw4MGhGTkFqTkpzWnJZMktMSmY4aEdMdlVTZHB3SjVwR0x1Ujk2eHE1dmdSQW9Xem9OeUhCMXRGZ190cGc1RVp4M2txblctdWYxUlJpWnFORkZWZkhVOGJPejdEaFBsNlBNUVp1LXF6Z2ZieE9VUG5ib2prWVpUT2EwOUpwY1dxbTN6Vl9EOWU1YWM4VXFtSlV5YUZ2MmhkZHd6NlFNNzlnNnZxc2NrNHVLU21KVDRsQQ?oc=5",
+      "published": "Fri, 27 Nov 2026 11:57:02 GMT",
+      "suggestedTitleEn": "Behind the story: Texas Author Brett Shayler Shares Three Western Stories for the Christmas Season",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers Discover a Hidden Binary in a Star System Used to Calibrate the JWST",
-      "source": "Universe Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemZHVGc1czIxclNrNDNNUjU5cmtEUXBNbkE0YU5aLTM1UVU4ZUhCcGtFVDJmLUwycnlpVGJpblN2QmltR29QUjhfdTR6YWlGTHVjNTJVbC1YWHdxbmN1cWJOQ2VMMllEQmg0dDdvZ09FNkkxajNhcHpnVUtfTllxLVBlbE5fNEVmaXV6VjdudjJHSnMxdmpiQkJuQWx0bEFpbFo4RVB6UHRhMUVxWDNDT29NX2ZZNXZDY19z?oc=5",
-      "published": "Thu, 26 Nov 2026 23:08:00 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers Discover a Hidden Binary in a Star System Used to Calibrate the JWST",
+      "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRWlGWUJRWHFFc2tQaWE2T0lJWVJvOHlwYTFzYkNueWY4YThybDllSFdEbUtGVHFQU1N2MkVEdXNwWGIwbG9ZTGRERG90LU9oNXlLSlA5R3BBUFVCckJZNVVxbnlrVHJSTVNDMjVINjliSEpRUE96elV6eF9XUExuWmxLYS14Yk5DWFg4RDBLbWhoenRxTG1jUFlKQ1RTUWxQa0xVQ0h5TVFsZ0V1Nmp3aWdaMHFTVlc0S2FFYzNwTVFMSE5rcGtsYVFad1lta09JLXJ4ZWp1R2FodTN4RVppOXEtZzRBS3FMaGliVA?oc=5",
+      "published": "Fri, 27 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
       "suggestedTitleAr": ""
     }
   ],
