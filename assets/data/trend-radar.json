@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-28T01:28:01.785352+00:00",
+  "updatedAt": "2026-11-28T07:27:52.223130+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,24 +11,24 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر",
+      "title": "ملخص للهجمات الحوثية في السعودية ورد الرياض قبل سفر ولي العهد لأمريكا | CNN Arabic | CNN",
       "source": "CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXN4TFAtS0h1U1ZMWlpVc24xM2JNQ09VU04xakk4RGZCVE14VEJ3OVkweU9PdGZoQ0lSQlladWxTRHZBYmhJWnE2TC1HTlVmSi1UZzQ2aTdVWUJ5Y0RqN2xxLW9ucTFxdlVrS1I1ZldEVzhaR1pzUWJuVVBYam9yQzllelZnUGRGQjM4eEpLN3F3cU84cEotV1JPWW9OaUFZNkRUWHN1TlNxdw?oc=5",
       "published": "Fri, 27 Nov 2026 05:59:01 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر"
+      "suggestedTitleAr": "خلف الخبر: ملخص للهجمات الحوثية في السعودية ورد الرياض قبل سفر ولي العهد لأمريكا | CNN Arabic | CNN"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية",
-      "source": "الشرق الأوسط",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQTExYcGRWTWlPMHVHbUF2UTZVNUhDUE1UX0xVMUFhSFNQNTJfR0hxcXp1NGRMZkNTZjRVTEo4Nm9hQnZjTzFiMGxMbzNnQUtwLVpqeXpERGdTeENUVEdTUEJ5RkJIMG15SEN1SERHWGoyc3U5aHRrOHBlcFNsYnBRdDBZZXM0TlR2T2tuMDNseGtHVEtyOFNFLVBKTzRWWVZBQ0J1YXVSaDNxQXpJZ1RVdEM1c2JWN0xrMVd2cWdjcUdTN0h1SGVqVkRiZmdpalNzWGFRU3czUm5yWkFLT19mTXlLSzBRaHF0NWJIdmNrMEpnM25LYmx0V3ktakhYN09TSTdMVjR4SmM4SWZOWW85S2VXN05RbDA0V3JNMllxbHl5SG1iMjhxc3NNRF9lZXV2Zm4zYjFidjJaSVBWeVk1TjZ0b1pPamhkUzRFOWV2NFFuVTF2bGo3S0NYcUY0OGg5cFQxdWh5VGxVN3A4NUJKQkcyRmNrMkFUQ3c1LUJJNnNRV1prdHhIM25FQUpLM1dXdjZHZ2Z4RGtyQ3IxWnRaYm9QRFVVdG5kOGJrZ1BkT0Rxb2dOX3pvcWhtMURSU1FIWTdGeC1wOXQ4NEdqaFBzbG4xbHNyV0M1a2NUYTdoczZKMFoybTNZci1FM0ZuU3pKejc5TS1YZUlkcHRKVVB5S1NRYWNhT1JFUFE?oc=5",
-      "published": "Wed, 25 Nov 2026 15:51:18 GMT",
+      "title": "نائب الرئيس الإيراني يقلل من آثار الحصار البحري الأميركي",
+      "source": "العربية",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPY3drR1R1N043QTJDTWVON1IyTUFNZm9SRjdoU3JmZk5Nd1hoOTgtc2VxbWw2Q2wtQ2k1N1VWekVMY0RHbW15a2UyemtqWmRidE5QQlJ5blgyTFVnaEl2T2JvUGEyS0tLa2R2bVg5SU9uMkgwbmJEdW1vSWFWc21VUHVqNzJlNUV2UGhRdnZqSzVXOFlTN1FyODBMbGJqVkFXM3Rra1BObU0zcEJieHFEMHhxVXhRdnJuUzg1eXh5elo4RXBKWUY1THYwNlV4UXdOSWZhQW9BYWJ2ZU9zVFpCNEE2dDVzRzVPY2lUUHBoQ2pNcmdfcDduSmxOWXVMMHZYMV90TGJOT012WlhicmFIRGM4aXhOUUNGUEF1VktTUm04WlBCcUtXVnN3WHJuMUkxU0tRV041ZWg4OGMtN1RONURYbkxmZ1kyVjJzSEdqYnVjYmRKLWFtakJxLXJvWDBiS0RJcVZoLXp6YVJLdWh4aE1OelFDWGVNSUtNamZQNzB2YlJmTGZmdlFYYm1DeVZibEs2d0ZvMTdhYUlYeXh0YkVlMDZfcldOejJscmtVc0pSU3VubmtSVGdIX3NDaW1MRl85ZWJJb1ZIRjlJZlBsbW43c2ZROEFLQTRMN3d5XzBXM3dm0gHkA0FVX3lxTE9jd2tHVHU3TjdBMkNNZU43UjJNQU1mb1JGN2hTcmZmTk13WGg5OC1zZXFtbDZDbC1DaTU3VVZ6RUxjREdtbXlrZTJ6a2paZGJ0TlBCUnluWDJMVWdoSXZPYm9QYTJLS0trZHZtWDlJT24ySDBuYkR1bW9JYVZzbVVQdWo3MmU1RXZQaFF2dmpLNVc4WVM3UXI4MExsYmpWQVczdGtrUE5tTTNwQmJ4cUQweHFVeFF2cm5TODV5eHl6WjhFcEpZRjVMdjA2VXhRd05JZmFBb0FhYnZlT3NUWkI0QTZ0NXNHNU9jaVRQcGhDak1yZ19wN25KbE5ZdUwwdlgxX3RMYk5PTXZaWGJyYUhEYzhpeE5RQ0ZQQXVWS1NSbThaUEJxS1dWc3dYcm4xSTFTS1FXTjVlaDg4Yy03VE41RFhuTGZnWTJWMnNIR2pidWNiZEotYW1qQnEtcm9YMGJLRElxVmgtenphUkt1aHhoTU56UUNYZU1JS01qZlA3MHZiUmZMZmZ2UVhibUN5VmJsSzZ3Rm8xN2FhSVh5eHRiRWUwNl9yV056Mmxya1VzSlJTdW5ua1JUZ0hfc0NpbUxGXzllYklvVkhGOUlmUGxtbjdzZlE4QUtBNEw3d3lfMFczd2Y?oc=5",
+      "published": "Wed, 25 Nov 2026 07:00:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: في سابقة تاريخية... إسرائيل تعيد إلى اليونان 22 قطعة أثرية"
+      "suggestedTitleAr": "خلف الخبر: نائب الرئيس الإيراني يقلل من آثار الحصار البحري الأميركي"
     },
     {
       "category": "science",
@@ -107,12 +107,12 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟",
+      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSUZmZ2ZGcDd2ZFoyWXlVVE42ZF81UlpGWldQMmIteXlsNURhRXJDNTNZX0RqS2lVdWxGU2FKZmtoYzBQU1JjX1ZTSWJrbklvNWpUbXJ4eVBrZ3JSNjk4Q2pZSVFLdXU1UFJKTGZfZ2x0X3RJSGcwUnZ2UDhjdlFlRXZSVnVYVGt1NUZvSWFFYjhYNnl4VGFfVmZDNm9naVFHclJ5dTVlVHF5eTRmLU9GRmxRRGVNVTJVUXItTjBlZ0dkY1JiU01LaXdUNmN4WEI4TTlKSzQ3ZEMxTUlDdzdadG1nWUdCcGF5ZFBWU2lXQTNXUWtGQ1g5R01HSmZ6clpyZWJKRGpwVm5XbmtZa2s0WGgzY1VGZjNsYUFEekFCc3JPZ2tZRnJ1Ry00dzY3SE9HLVVjcEh4djZUTXFGNkhid2FUT0ZpTGRNVk4yaTU4SmNlUQ?oc=5",
-      "published": "Thu, 26 Nov 2026 18:16:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
+      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟"
+      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "Malinin Sets New Short Program World Record at NHK Trophy",
-      "source": "U.S. Figure Skating",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVc3bmdobEhYYm82bXlISXhUcDR2NDAwRVJJZ3F1YmszSk5uWktlM0ZXZnZqX0R1SzhfSmdlaUw3N3ZMNzdYeUhLMU5RTkk0b0xoVTh3YmNJdENKSGR0OXNTeHNLNlBSbUhuX28xUmhtNmM3ODc1eXo4OTE0V1pCUl9zbmVhcjJGQ1QwSHVQVWFKc2k0Q1lCVllHWlhJUTQ1SVRQNUZ2NWU4dm1PSGxLVkppYTM5ZTJOd2gtcTVSYkRkaXF6WnFRSHVjSkxjS0Nk?oc=5",
-      "published": "Fri, 27 Nov 2026 14:27:16 GMT",
-      "suggestedTitleEn": "Behind the story: Malinin Sets New Short Program World Record at NHK Trophy",
+      "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnBfNktZWjVzamNjaUtVdV9VcGxHN290SzFDVzlZNVc3YXJ2dHVXSnZwLVdiVXVNalR3Z2NiTzlLTldnaGVWSVVTSzJ5LWZEQ2t2Q0VMYVdVbmg5QlVweFlvZEpNTzYxTFk3bFBreGw3WDRoV19XSXdPeEktNkJMdEg0LXVYaGY2Zm1Ka3FOUGNERURNc0JwbUkybWRqT3pOZXkwRm9BSDRWdlpwb0o4?oc=5",
+      "published": "Fri, 27 Nov 2026 23:55:12 GMT",
+      "suggestedTitleEn": "Behind the story: News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+      "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
       "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDNCYVhQbUE2MU94UkxyalQyWkk3aFNpSk53aTRTaG5YZVp4ME5CdU1wcEVIaFhmam9NdVRweks0Q1M4ZUpMTV9pcnVEWlcwT0NKVUNySE9WcHJLYTd1TVpzZXVGdWQ1eUFhQmFTakVZZkNpelIxa2xVdkxZNFJ6eExEN3ZZQQ?oc=5",
-      "published": "Fri, 27 Nov 2026 19:21:00 GMT",
-      "suggestedTitleEn": "Behind the story: ‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5",
+      "published": "Sat, 28 Nov 2026 05:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Economic Rundown: Stronger Growth, a Brighter Consumer Outlook, and Stubborn Cost Pressures",
-      "source": "Small Business & Entrepreneurship Council",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUFNwaWVpRm01alQyUTgtdWthTmFJZW05a3R5SVhSLW5TblFDaXZZSHlscG5Za250Q3Y0MFR0WlBrY3pKbGNUV3Z3Z093VmtSU3c?oc=5",
-      "published": "Fri, 27 Nov 2026 18:54:24 GMT",
-      "suggestedTitleEn": "Behind the story: Economic Rundown: Stronger Growth, a Brighter Consumer Outlook, and Stubborn Cost Pressures",
+      "title": "Trump’s tariffs have become America’s new normal",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkRXTlVRWkRPclk0V1VrRkJ5eVIwUlh3YzdSVVQxb3FaLW9seFBGZEVGTVY4TzZMTFl4QU0zOURPSGdEQTBXdnUxaVNnOWdUNm03dk9CdTA5SUIxaGd1Q3BkS0t0d1ptdVlDeWV6WUtsdTZ2X0p6VUVBa1EtQ0NTVmU4RnpsVUg4UWZVTkk3TGVuN25ZWXdV0gGcAUFVX3lxTE1CbzQ4NGhaaDhwODNKdjZmT2JVaTRmTTVpQUZjVTBaYTNaVGJIbWdZVE04LUVQUkxwWlduN1VJc3dkNzRfcUIzU29FSmd4N084N1B5OUNrMzNkZlJ6LTYzMnlnRDVpRmN6S2ttdFpGRVp0Wm5OOU9sYkw2Mmpkc2dyeUpLSVhpLVpNMEc5WFJZOUc1bnhnUWZhNkJRaA?oc=5",
+      "published": "Sat, 28 Nov 2026 06:58:24 GMT",
+      "suggestedTitleEn": "Behind the story: Trump’s tariffs have become America’s new normal",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Protesters clashed outside a Jewish Brooklyn Deli",
-      "source": "Jewish Telegraphic Agency",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzBQVWFYNjVKRWlFMHQwX1VjdjRtX2FlV0MtNVhMWDZxY0xJT0l1Ujd2ZXVfY3dkVHpjWVpyd1hWa2FyMEJ5NEJBaTl6UW5WWmxSNEVHQnNHZktNdmRDdWRzLTRlR01mRkFsemxDMG1aSVNTQlZjS0NCbU5wSjFJd2dhSEF4Wm1CN05j?oc=5",
-      "published": "Fri, 27 Nov 2026 21:30:00 GMT",
-      "suggestedTitleEn": "Behind the story: Protesters clashed outside a Jewish Brooklyn Deli",
+      "title": "Sam Bankman-Fried: Why are we so fascinated by the fallen crypto billionaire?",
+      "source": "The National",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanZabGJNLTRqZnlEOGZKRXdldUxnc3k0U08yLUZKUk00aVNLRk9wRWhJVC1XQXBNZUZvRGhhVzB5cHVHQUo4Rkk1TExseGoza2R4dUFYTnE0OGwyUlF0cEZZWFJfYjdNVG9nb3dKSVNqcHNyTkxyR2FNQUFiWEhkSE9xVkpsRHNLWElwNmtVTHdrY1ZYRk1JbGpGbWI0TVhHSDhsV3R6ZWZvclAxOHQwVXBLZXlic3M?oc=5",
+      "published": "Fri, 27 Nov 2026 17:46:56 GMT",
+      "suggestedTitleEn": "Behind the story: Sam Bankman-Fried: Why are we so fascinated by the fallen crypto billionaire?",
       "suggestedTitleAr": ""
     },
     {
@@ -227,11 +227,11 @@
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "global",
-      "title": "Texas Author Brett Shayler Shares Three Western Stories for the Christmas Season",
-      "source": "The Courier-Journal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZElVeXlFNUF4XzZxZ1lQZG5zSlpNNHpkdHdSQzBGVUw4MGhGTkFqTkpzWnJZMktMSmY4aEdMdlVTZHB3SjVwR0x1Ujk2eHE1dmdSQW9Xem9OeUhCMXRGZ190cGc1RVp4M2txblctdWYxUlJpWnFORkZWZkhVOGJPejdEaFBsNlBNUVp1LXF6Z2ZieE9VUG5ib2prWVpUT2EwOUpwY1dxbTN6Vl9EOWU1YWM4VXFtSlV5YUZ2MmhkZHd6NlFNNzlnNnZxc2NrNHVLU21KVDRsQQ?oc=5",
-      "published": "Fri, 27 Nov 2026 11:57:02 GMT",
-      "suggestedTitleEn": "Behind the story: Texas Author Brett Shayler Shares Three Western Stories for the Christmas Season",
+      "title": "The sleepy sickness in Vilhelmina—100-year-old mystery investigated",
+      "source": "Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFiN2t5SEY5SFlJRVNJZFNzS242T3JLb00teHVCOGFKNWRjZ3lPV0JHSllOeTZBenpjTGQ0c0VZOU5YTkNwNF9MelV1aWdPb1pCT1BWT2tCbXBHNXUtRVFUalBfZUlNd0NzMGY1NXRLSlN1LU16NXNpVndYR2sxekhHS1N6OWNiSW1Z?oc=5",
+      "published": "Sat, 28 Nov 2026 03:40:02 GMT",
+      "suggestedTitleEn": "Behind the story: The sleepy sickness in Vilhelmina—100-year-old mystery investigated",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers Discover the Sun Contains 55% More Silver Than Previously Thought",
-      "source": "SciTechDaily",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzcwYlcwT3dTZXR2ZS1Cb3lBSGV0WTlTRzRnVzdCREpfOWZUN0FCWGtTbUY1NUxKdTMzYWUtbVluUzJiYkVMODhoVzBVUHRCbk53VE12bXFmcGdibEtBRWktc3hna3FhdXl4WEdOTndRdWVlNnY2LUdUcnc0SUdrTTdRVDJxYTBNMk5MRnNNVzZUb084Q3haaFoxM2tVcm15bF8wTg?oc=5",
-      "published": "Fri, 27 Nov 2026 16:59:47 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers Discover the Sun Contains 55% More Silver Than Previously Thought",
+      "title": "James Webb discovers a nearly pristine galaxy from 13 billion years ago",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aRjIwZld2TVc3Rm5MYjJ1dEFRUGlDcC1yX0FHTTVPZDdmVm5UZV9kMGtNOHp3SmJTVVdseFFEY2hLMEV1V0ZPRGkyOHpGdm1OTzRMSjc4T3FRYW5HZnhMQ3U0Q3AwcTh5M0s0bTNPVQ?oc=5",
+      "published": "Sat, 28 Nov 2026 01:32:13 GMT",
+      "suggestedTitleEn": "Behind the story: James Webb discovers a nearly pristine galaxy from 13 billion years ago",
       "suggestedTitleAr": ""
     }
   ],
