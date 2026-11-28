@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-28T07:27:52.223130+00:00",
+  "updatedAt": "2026-11-28T13:12:48.144357+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,24 +11,24 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "ملخص للهجمات الحوثية في السعودية ورد الرياض قبل سفر ولي العهد لأمريكا | CNN Arabic | CNN",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXN4TFAtS0h1U1ZMWlpVc24xM2JNQ09VU04xakk4RGZCVE14VEJ3OVkweU9PdGZoQ0lSQlladWxTRHZBYmhJWnE2TC1HTlVmSi1UZzQ2aTdVWUJ5Y0RqN2xxLW9ucTFxdlVrS1I1ZldEVzhaR1pzUWJuVVBYam9yQzllelZnUGRGQjM4eEpLN3F3cU84cEotV1JPWW9OaUFZNkRUWHN1TlNxdw?oc=5",
-      "published": "Fri, 27 Nov 2026 05:59:01 GMT",
+      "title": "هل تخلت السعودية عن رؤية بن سلمان؟",
+      "source": "الحرة",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBveHU0T2E2ZjI3RHBfQUJpMkFGRWRvT0dZQy1ucTZMb21hbEdmdzRjMmc3N1ZtemM5cnJCRUd3?oc=5",
+      "published": "Fri, 27 Nov 2026 07:48:18 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ملخص للهجمات الحوثية في السعودية ورد الرياض قبل سفر ولي العهد لأمريكا | CNN Arabic | CNN"
+      "suggestedTitleAr": "خلف الخبر: هل تخلت السعودية عن رؤية بن سلمان؟"
     },
     {
       "category": "history",
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "arab",
-      "title": "نائب الرئيس الإيراني يقلل من آثار الحصار البحري الأميركي",
-      "source": "العربية",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPY3drR1R1N043QTJDTWVON1IyTUFNZm9SRjdoU3JmZk5Nd1hoOTgtc2VxbWw2Q2wtQ2k1N1VWekVMY0RHbW15a2UyemtqWmRidE5QQlJ5blgyTFVnaEl2T2JvUGEyS0tLa2R2bVg5SU9uMkgwbmJEdW1vSWFWc21VUHVqNzJlNUV2UGhRdnZqSzVXOFlTN1FyODBMbGJqVkFXM3Rra1BObU0zcEJieHFEMHhxVXhRdnJuUzg1eXh5elo4RXBKWUY1THYwNlV4UXdOSWZhQW9BYWJ2ZU9zVFpCNEE2dDVzRzVPY2lUUHBoQ2pNcmdfcDduSmxOWXVMMHZYMV90TGJOT012WlhicmFIRGM4aXhOUUNGUEF1VktTUm04WlBCcUtXVnN3WHJuMUkxU0tRV041ZWg4OGMtN1RONURYbkxmZ1kyVjJzSEdqYnVjYmRKLWFtakJxLXJvWDBiS0RJcVZoLXp6YVJLdWh4aE1OelFDWGVNSUtNamZQNzB2YlJmTGZmdlFYYm1DeVZibEs2d0ZvMTdhYUlYeXh0YkVlMDZfcldOejJscmtVc0pSU3VubmtSVGdIX3NDaW1MRl85ZWJJb1ZIRjlJZlBsbW43c2ZROEFLQTRMN3d5XzBXM3dm0gHkA0FVX3lxTE9jd2tHVHU3TjdBMkNNZU43UjJNQU1mb1JGN2hTcmZmTk13WGg5OC1zZXFtbDZDbC1DaTU3VVZ6RUxjREdtbXlrZTJ6a2paZGJ0TlBCUnluWDJMVWdoSXZPYm9QYTJLS0trZHZtWDlJT24ySDBuYkR1bW9JYVZzbVVQdWo3MmU1RXZQaFF2dmpLNVc4WVM3UXI4MExsYmpWQVczdGtrUE5tTTNwQmJ4cUQweHFVeFF2cm5TODV5eHl6WjhFcEpZRjVMdjA2VXhRd05JZmFBb0FhYnZlT3NUWkI0QTZ0NXNHNU9jaVRQcGhDak1yZ19wN25KbE5ZdUwwdlgxX3RMYk5PTXZaWGJyYUhEYzhpeE5RQ0ZQQXVWS1NSbThaUEJxS1dWc3dYcm4xSTFTS1FXTjVlaDg4Yy03VE41RFhuTGZnWTJWMnNIR2pidWNiZEotYW1qQnEtcm9YMGJLRElxVmgtenphUkt1aHhoTU56UUNYZU1JS01qZlA3MHZiUmZMZmZ2UVhibUN5VmJsSzZ3Rm8xN2FhSVh5eHRiRWUwNl9yV056Mmxya1VzSlJTdW5ua1JUZ0hfc0NpbUxGXzllYklvVkhGOUlmUGxtbjdzZlE4QUtBNEw3d3lfMFczd2Y?oc=5",
-      "published": "Wed, 25 Nov 2026 07:00:00 GMT",
+      "title": "مهارة: نعمل على آثار تطبيق نظام ضريبة الحد الأدنى المحلية وتحديد الأثر المالي المحتمل - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUdmpUVWlocWRyUlZickRIbVMtLTUyVnRBOUwxZ0FmNVAxMlE3LXhLeTl4V0g4QXNCVy1nVVhMWFdJZkRUVlRVY1lQdHdXQkFzOTNCcVBiNHBsbUFPLW1HWjVtUnFGbU1PQUE?oc=5",
+      "published": "Thu, 26 Nov 2026 13:48:58 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: نائب الرئيس الإيراني يقلل من آثار الحصار البحري الأميركي"
+      "suggestedTitleAr": "خلف الخبر: مهارة: نعمل على آثار تطبيق نظام ضريبة الحد الأدنى المحلية وتحديد الأثر المالي المحتمل - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
     },
     {
       "category": "science",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟",
-      "source": "CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUdCWl82UXBWakg1N2hENUhCTzRYQlZ1cnU4czhhdnptVDZQaWZ3YWVwcndDOXBDdXFRNVF1YXVhcEJWNzUxT1FpdDIzcDdSSC14S0t6ZXZKa20wemF6dy1iaGlHMVhqVEgxemREa0VfV2Nldm9FMnlpakgwRHVoOVRXS0hHaDBOWHVRcGlYcWpOSXRhQXhYcGV6WF9uQ3lrNFIzWkhqME5CQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 13:39:27 GMT",
+      "title": "دخول اقتصاد فرنسا في ركود يشدد الضغوط على الحكومة",
+      "source": "الجزيرة نت",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOSFh6NGhnT0V0S1hzbk5ocGcxMFd4TURCWmJfWUZUTEtGVEhVYlNwM2VfNkFuY2NxLVpCNURTVnpzT0lZTlVsZE9EX2ZWNC05UjZOV1EyWkJXTjFycE1iUzJNbEhidHdiWGVBOWpvaDJzc2JrZTZXNWExckcwTklRTHNUQXFqS0plRldXX1R1UVlSeDM3NkRuaWc4NUsxaHU1QXZpdVRiR3QwUFRiMDluNjVBYml0NE9waUdQTnkzZ1g4OXhSMHd3aWJrVzFWcHJILUszTVpLY2RLeTNXeW8wbE1ubTI5MEFqSTc3ME9hSzRFZTNET2hmdHJlVTVQRy1wMk1paUltcDRQV0hiWG1LNi1XM2FCVXQwakxLblZ0YzV6NlhBaGJvSVZQTjhxeGRnR3oxVmhTYm1jWWNlalI4WkJKaWtTNU03bFdWR1h0dzQwNFJzU3FDN2xHWQ?oc=5",
+      "published": "Fri, 27 Nov 2026 19:34:30 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟"
+      "suggestedTitleAr": "خلف الخبر: دخول اقتصاد فرنسا في ركود يشدد الضغوط على الحكومة"
     },
     {
       "category": "environment",
@@ -95,24 +95,24 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "arab",
-      "title": "ثقافي / مكتبة الملك عبدالعزيز العامة توثق ذاكرة المجتمع ومرويات الثقافة",
-      "source": "وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vZkpQZjlDSXVxMDRLNU9IVE1QRXZfT2JKeVFGS2xwUk5GdkZoblZ2MnBMd0hNa0hMU2R6bFJWdVZudDhYdVE?oc=5",
-      "published": "Wed, 25 Nov 2026 17:46:56 GMT",
+      "title": "وزارة الثقافة تطلق خدمة الاستشارات التأمينية الثقافية",
+      "source": "جريدة المدينة",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ta19ReUpGcXdSVFZzNlJ5Zm5FLTZ1Rk1LYVlheEEzODRvMDV2SldVclJseDEybVJQcUxsYVNhYjBKU3I0cE9RdEZOZ0dWMF9FNG5UaG1MONIBV0FVX3lxTE5ta19ReUpGcXdSVFZzNlJ5Zm5FLTZ1Rk1LYVlheEEzODRvMDV2SldVclJseDEybVJQcUxsYVNhYjBKU3I0cE9RdEZOZ0dWMF9FNG5UaG1MOA?oc=5",
+      "published": "Tue, 24 Nov 2026 11:53:00 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: ثقافي / مكتبة الملك عبدالعزيز العامة توثق ذاكرة المجتمع ومرويات الثقافة"
+      "suggestedTitleAr": "خلف الخبر: وزارة الثقافة تطلق خدمة الاستشارات التأمينية الثقافية"
     },
     {
       "category": "mystery",
       "categoryAr": "الغموض والتحقيقات",
       "categoryEn": "Mystery & investigations",
       "region": "arab",
-      "title": "4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي",
+      "title": "لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟",
       "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMlYxSU5vMzNJV1lMdS0xRGJiakNTYklpSXFzQXlKeVN0NlNHRXRJSWZFRG1RTlE1SXhRRjl6bG9LMVRzMWgzU3p2VHRoYXBiWGpoUi1HenhkVXdlOFZXd2lTYXlJb2lDZGZQbXdCa05fUGpuYVUzWWJCZnhvZUVQOXRHaHZRU0QwOVU4SFdubm1MWkdNM3BVdWxwcUEyYmpHTzI4ZFRRSk9HbDdmMTFNWk5QSU10X1c0XzBBOS1xYm1ZbGNRZzNtS09QaEFNOVRJbV83MzBVcFJfS0hSQUtHZG9NWlBvbUNtQ2hDckNyZXQwdWFSVk9Vc1QycnlCRXFFUHJLd3o2dWNEQllLWUY0THlBTnBTUXp0dk5DOWFpMFdJRTlxaWh0Mjd0UnRweE1NUUU3dGt2Tm5BcWxpNlJndTE1TUtHS0piNGZvRFNaVTBDcHc?oc=5",
-      "published": "Sun, 22 Nov 2026 18:48:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSUZmZ2ZGcDd2ZFoyWXlVVE42ZF81UlpGWldQMmIteXlsNURhRXJDNTNZX0RqS2lVdWxGU2FKZmtoYzBQU1JjX1ZTSWJrbklvNWpUbXJ4eVBrZ3JSNjk4Q2pZSVFLdXU1UFJKTGZfZ2x0X3RJSGcwUnZ2UDhjdlFlRXZSVnVYVGt1NUZvSWFFYjhYNnl4VGFfVmZDNm9naVFHclJ5dTVlVHF5eTRmLU9GRmxRRGVNVTJVUXItTjBlZ0dkY1JiU01LaXdUNmN4WEI4TTlKSzQ3ZEMxTUlDdzdadG1nWUdCcGF5ZFBWU2lXQTNXUWtGQ1g5R01HSmZ6clpyZWJKRGpwVm5XbmtZa2s0WGgzY1VGZjNsYUFEekFCc3JPZ2tZRnJ1Ry00dzY3SE9HLVVjcEh4djZUTXFGNkhid2FUT0ZpTGRNVk4yaTU4SmNlUQ?oc=5",
+      "published": "Thu, 26 Nov 2026 18:16:47 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: 4 أسئلة تفكك لغز تعثر \"أنثروبيك\" ومستقبل الذكاء الاصطناعي"
+      "suggestedTitleAr": "خلف الخبر: لغز عام 1980 يطارد إلهان عمر.. من هو والدها الراحل؟ ولماذا تعود التحقيقات الفدرالية؟"
     },
     {
       "category": "space",
@@ -131,11 +131,11 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "global",
-      "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnBfNktZWjVzamNjaUtVdV9VcGxHN290SzFDVzlZNVc3YXJ2dHVXSnZwLVdiVXVNalR3Z2NiTzlLTldnaGVWSVVTSzJ5LWZEQ2t2Q0VMYVdVbmg5QlVweFlvZEpNTzYxTFk3bFBreGw3WDRoV19XSXdPeEktNkJMdEg0LXVYaGY2Zm1Ka3FOUGNERURNc0JwbUkybWRqT3pOZXkwRm9BSDRWdlpwb0o4?oc=5",
-      "published": "Fri, 27 Nov 2026 23:55:12 GMT",
-      "suggestedTitleEn": "Behind the story: News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+      "title": "Zelenskyy questions Trump’s ‘strange’ reference to Putin as a friend",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRW5wU0Y2dGxTVjZGcGpMdjJnbTN1YlpiWndOUUxNdmUxQS01RTZ5S3JIclhmbWZUV2hTUXpPWG5TQXJlZ20weTlLXzUyZEZBMHcwX1F1aU9Yd2R3SkZKcDByTHpaOEtaRW9lRVR5Y0VBeGpFVi1HLU4tVmtUWTZ1S3M5MXBtck5oQnhfY2huUDNQLTZIcmxkemR5NXVYd0hRUTNqb2FNdDRGQQ?oc=5",
+      "published": "Sat, 28 Nov 2026 09:16:01 GMT",
+      "suggestedTitleEn": "Behind the story: Zelenskyy questions Trump’s ‘strange’ reference to Putin as a friend",
       "suggestedTitleAr": ""
     },
     {
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Bombshell Discoveries At Wyoming Mammoth Site Could Change Human History — Again",
-      "source": "Cowboy State Daily",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejZQcWMyQWR0YU1FcWllYjdyMnB2WUJXUVEzbGNrRWY1U3NHYVdjeEZCS2hZQ1pVN1puWmFja2JwUEZ0NkFKUDFUYjJ0YXRKQ2dSaWNMOXhLRGxEcU5aeVQ1dW1ZUzF6RWg1NEZWWTJTZXBBcENFc2JrMVRXdEV3aHJIQ1h2bVV6amEzYlVBU2d3M2R6bHNLV2oycmJGeDhmQjc5RDZQRk5LRHR0WC1lZ05WRlJBQmt5NlVZ?oc=5",
-      "published": "Fri, 27 Nov 2026 22:47:00 GMT",
-      "suggestedTitleEn": "Behind the story: Bombshell Discoveries At Wyoming Mammoth Site Could Change Human History — Again",
+      "title": "Meet the local archeologist who helped unearth Kansas City’s Indigenous history",
+      "source": "Kansas City Star",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QRHkyLXhLNUlZeFVCd0JIUFY2VE4ybDh6Yjc0c0lCbmFtZWNHN3IzZlNaSVN4OXp4UGFRLURzRW02bzlaeUZZSHpBNFhVWVdSRHFuZXVEa0JOcWVsaHBURFk0LVNGQTV1ZDFEdWxZNNIBb0FVX3lxTE9IUEZKekhZdEJxdUdEX1JHY1dwcXlTVE83WFc3emM1aEd3UkkzbDZ1OXhpc2l1c2NmNGZOc24xcng5LWxfdDhWT2ZBWUtEN2FSZzg4UngyaVNzWlJTZWtreHNjbTNOLWNuanVHbFY4bw?oc=5",
+      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Meet the local archeologist who helped unearth Kansas City’s Indigenous history",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Trump’s tariffs have become America’s new normal",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkRXTlVRWkRPclk0V1VrRkJ5eVIwUlh3YzdSVVQxb3FaLW9seFBGZEVGTVY4TzZMTFl4QU0zOURPSGdEQTBXdnUxaVNnOWdUNm03dk9CdTA5SUIxaGd1Q3BkS0t0d1ptdVlDeWV6WUtsdTZ2X0p6VUVBa1EtQ0NTVmU4RnpsVUg4UWZVTkk3TGVuN25ZWXdV0gGcAUFVX3lxTE1CbzQ4NGhaaDhwODNKdjZmT2JVaTRmTTVpQUZjVTBaYTNaVGJIbWdZVE04LUVQUkxwWlduN1VJc3dkNzRfcUIzU29FSmd4N084N1B5OUNrMzNkZlJ6LTYzMnlnRDVpRmN6S2ttdFpGRVp0Wm5OOU9sYkw2Mmpkc2dyeUpLSVhpLVpNMEc5WFJZOUc1bnhnUWZhNkJRaA?oc=5",
-      "published": "Sat, 28 Nov 2026 06:58:24 GMT",
-      "suggestedTitleEn": "Behind the story: Trump’s tariffs have become America’s new normal",
+      "title": "Small business Saturday trend has big benefits for Michigan economy, group says",
+      "source": "Michigan Public",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVBYblVHUXFxQnByYTI0MUliQ3VzcjJxd3l2M202WEExNlZwSWtUdTJMX3FmMHhUZ0tRLUNpakJ0UlZQSDd5X2hYbFkwQmNaaVFwc01pcDJzV2hnM2hEcHdmaVctamV3a0N0ZkFmWVI2T0k0bExHc1ZLOW5QaW1oVGNWME1qYXFOSEFQeVFOUGlyN2tNT0FPQVpUaEd3TWh4ZTJwbm12ZnI1aWRqMVFHVVpkRU9Nd3Qxc0pSR2g2OFVTVHBvZnFj?oc=5",
+      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
+      "suggestedTitleEn": "Behind the story: Small business Saturday trend has big benefits for Michigan economy, group says",
       "suggestedTitleAr": ""
     },
     {
@@ -191,11 +191,11 @@
       "categoryAr": "الطبيعة والبيئة",
       "categoryEn": "Nature & environment",
       "region": "global",
-      "title": "Genetic frontiers of Himalayan treeline: how climate shapes evolutionary potential in alpine species, Betula utilis",
+      "title": "Subtropical island vegetation in southern Central Europe during Middle Miocene global cooling",
       "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xbTZTa2d5NHc0ZHJ1XzFneFFYaHRHQjMyN0dFc1EwQ0gxRVdCTkFlblQtX3FOVWpKekQ1Ujl3QkxrNG53LW9qOFA2RzZ5RFdTVmNiYVVhN0d5UkR0MmVj?oc=5",
-      "published": "Fri, 27 Nov 2026 10:22:07 GMT",
-      "suggestedTitleEn": "Behind the story: Genetic frontiers of Himalayan treeline: how climate shapes evolutionary potential in alpine species, Betula utilis",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSUhBMlRseGRZRm9fNWdPMVdGeW02WmVLUm1rbHlHWVpGZTRUa3FtN05WdTRieDdGbF9FQXpydGpBNURRajZ6b2hQb25qTWIyUWtDcmY1R0lIZjVaRGl3?oc=5",
+      "published": "Sat, 28 Nov 2026 11:16:09 GMT",
+      "suggestedTitleEn": "Behind the story: Subtropical island vegetation in southern Central Europe during Middle Miocene global cooling",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Sam Bankman-Fried: Why are we so fascinated by the fallen crypto billionaire?",
-      "source": "The National",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanZabGJNLTRqZnlEOGZKRXdldUxnc3k0U08yLUZKUk00aVNLRk9wRWhJVC1XQXBNZUZvRGhhVzB5cHVHQUo4Rkk1TExseGoza2R4dUFYTnE0OGwyUlF0cEZZWFJfYjdNVG9nb3dKSVNqcHNyTkxyR2FNQUFiWEhkSE9xVkpsRHNLWElwNmtVTHdrY1ZYRk1JbGpGbWI0TVhHSDhsV3R6ZWZvclAxOHQwVXBLZXlic3M?oc=5",
-      "published": "Fri, 27 Nov 2026 17:46:56 GMT",
-      "suggestedTitleEn": "Behind the story: Sam Bankman-Fried: Why are we so fascinated by the fallen crypto billionaire?",
+      "title": "Schools and hospitals to display government art",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lSWFxeldyOGFEeGpaaWl3WG1rTWVHSFJNei1KLXl3cWxyYXhlTmNVY1llekNHRVlIYmRYRE9NZ3lEU0JRVGlyZW5RaHNUUHQyWFY4d295SkpNV28?oc=5",
+      "published": "Sat, 28 Nov 2026 07:28:21 GMT",
+      "suggestedTitleEn": "Behind the story: Schools and hospitals to display government art",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "James Webb discovers a nearly pristine galaxy from 13 billion years ago",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aRjIwZld2TVc3Rm5MYjJ1dEFRUGlDcC1yX0FHTTVPZDdmVm5UZV9kMGtNOHp3SmJTVVdseFFEY2hLMEV1V0ZPRGkyOHpGdm1OTzRMSjc4T3FRYW5HZnhMQ3U0Q3AwcTh5M0s0bTNPVQ?oc=5",
-      "published": "Sat, 28 Nov 2026 01:32:13 GMT",
-      "suggestedTitleEn": "Behind the story: James Webb discovers a nearly pristine galaxy from 13 billion years ago",
+      "title": "Astronomers Have Found a Star System That “Should Not Exist”",
+      "source": "Nautilus | Science Connected",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnZkZXFoT1JQdElVWWR5djlNLVVCOWx5UTB2Nmx2bkJfaGFydmtzd0NwSDBOVXc0OGlVWUNBVnFZR3ktOWlhSkdPRXRXSWQ5WF91NFBPYUpBMmNKbklISUJMbEotYjRxME8zTGVKeVAtdllYMm9GVmppdEt6T245UTRQajg5bnFfZ0s0VA?oc=5",
+      "published": "Sat, 28 Nov 2026 13:01:22 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers Have Found a Star System That “Should Not Exist”",
       "suggestedTitleAr": ""
     }
   ],
