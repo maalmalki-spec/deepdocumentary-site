@@ -3,7 +3,7 @@
     "arab": 10,
     "global": 10
   },
-  "updatedAt": "2026-11-27T19:10:42.906460+00:00",
+  "updatedAt": "2026-11-28T01:28:01.785352+00:00",
   "method": "Google News RSS editorial discovery; one Arabic-region and one international headline per category when available. Not search-volume rankings. Titles are unverified suggestions; verify original sources before publishing.",
   "items": [
     {
@@ -11,12 +11,12 @@
       "categoryAr": "العالم",
       "categoryEn": "World",
       "region": "arab",
-      "title": "السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNeEpQYTlmdGpfZHRUclBfcldjNnlUMmVHYy0yY1JZUkUtR0hpLXJGOVlhYTNjZWN0c0pCQkVvdUs5LTdmOVV5MXBYT0xTQTF4RmhKYTRQcUdOMUo5cFBuSk1jSzRPXzlKMmw0X3lUWG8yUnVmeGR4OVBHQTkyQkpiTVEzS3V2T3pOYlh2T2lhcHY2emU4U2ZhQ2xJUXdnZXBiN3ZMZkFjSXZDWF9hbmhpMXV6YzZnbFU5NWdaVWFucG9NRTJzVUJ5SmdvZjdtbFh3dFRTa3VrUnlXZ2R3Y25zb2JBXzFWcGlfd3dweGNjZWswel9sd0xHS19PUXdjOWFHVVpvUU1kT3pySmYyT21Yc0plNXFqSjQ3RjdVeENHVm1yYUlrV3pscVp1YVY2STF5WDZYU0FPYjhPczhMVGdLcWVjZU1HaEgwTm1CTXZuS2VWc3VXLTQyaXVUcklTdw?oc=5",
-      "published": "Tue, 24 Nov 2026 13:09:20 GMT",
+      "title": "ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXN4TFAtS0h1U1ZMWlpVc24xM2JNQ09VU04xakk4RGZCVE14VEJ3OVkweU9PdGZoQ0lSQlladWxTRHZBYmhJWnE2TC1HTlVmSi1UZzQ2aTdVWUJ5Y0RqN2xxLW9ucTFxdlVrS1I1ZldEVzhaR1pzUWJuVVBYam9yQzllelZnUGRGQjM4eEpLN3F3cU84cEotV1JPWW9OaUFZNkRUWHN1TlNxdw?oc=5",
+      "published": "Fri, 27 Nov 2026 05:59:01 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: السعودية تتوقع عجزا في ميزانية 2027 يفوق 190 مليار ريال"
+      "suggestedTitleAr": "خلف الخبر: ما عليك معرفته عن الهجمات الحوثية الأخيرة في السعودية ورد الرياض قبيل زيارة محمد بن سلمان لأمريكا وفقا لمصدر"
     },
     {
       "category": "history",
@@ -59,12 +59,12 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "arab",
-      "title": "اقتصاد فرنسا ينكمش 0.2% في الربع الثالث",
-      "source": "الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNQS1vUXk3Uy1PR09GTmVBTXY2TFQyQ3FnSTNGRXV5aE5SNGtJNnJ1VEtIZzdzVWV5UDN5TUxpSXE3VUFOSUxzWWNWOEZncGxSbE1LSjhrVndVV3E0aW9GcE91c24xRUVUUkNhRjVTSGc3WllndWxfR09qZml5Q0c1REZEaXdfZjA3ZXBSbE0wOGx6WjNfdEEtQWlWSFRsdWJKM3pweUJxSFN0d0tRb0ozN3hCRlhKMURuUDhMaElpczM1MmNBLVkxT0JtdHFSZ3JiNHNoS3dWdXVuQWZPbWpVR2twSTVnMko3bGZYVG9aOUVNNHNkcnFfbUw3eWxnTDFtc0VKRHBuMFlFV3MzT0hyY3VuUzFvdkZhYUxEREQ0WEF4UGxkSkNManp0M2FzcVVlcDhhYVAxdFlkMlk3LWx4a1NURFpwLTZzVGFZSFBlWVBiRGxYWVIySVVZcmJQMFE?oc=5",
-      "published": "Fri, 27 Nov 2026 09:03:46 GMT",
+      "title": "مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟",
+      "source": "CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUdCWl82UXBWakg1N2hENUhCTzRYQlZ1cnU4czhhdnptVDZQaWZ3YWVwcndDOXBDdXFRNVF1YXVhcEJWNzUxT1FpdDIzcDdSSC14S0t6ZXZKa20wemF6dy1iaGlHMVhqVEgxemREa0VfV2Nldm9FMnlpakgwRHVoOVRXS0hHaDBOWHVRcGlYcWpOSXRhQXhYcGV6WF9uQ3lrNFIzWkhqME5CQQ?oc=5",
+      "published": "Tue, 24 Nov 2026 13:39:27 GMT",
       "suggestedTitleEn": "",
-      "suggestedTitleAr": "خلف الخبر: اقتصاد فرنسا ينكمش 0.2% في الربع الثالث"
+      "suggestedTitleAr": "خلف الخبر: مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟"
     },
     {
       "category": "environment",
@@ -143,11 +143,11 @@
       "categoryAr": "التاريخ والآثار",
       "categoryEn": "History & archaeology",
       "region": "global",
-      "title": "Digging into 90 Years of archaeological discovery",
-      "source": "China Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZWDR0Wmxac2wtaklsbklDdVp0QWl5bmxxdGpCNUFwMU1tdHMxRWs3VG0zLURlVENpdUktOEE4MUY0bGQ1NjRTb0laOVZXaW01OEp6Q2F3YlgyaHF0OGpuRVA5NVFoQmloV2JBMXlvZE5fUVA4ek8xeWN1dllPZw?oc=5",
-      "published": "Fri, 27 Nov 2026 06:05:31 GMT",
-      "suggestedTitleEn": "Behind the story: Digging into 90 Years of archaeological discovery",
+      "title": "Bombshell Discoveries At Wyoming Mammoth Site Could Change Human History — Again",
+      "source": "Cowboy State Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejZQcWMyQWR0YU1FcWllYjdyMnB2WUJXUVEzbGNrRWY1U3NHYVdjeEZCS2hZQ1pVN1puWmFja2JwUEZ0NkFKUDFUYjJ0YXRKQ2dSaWNMOXhLRGxEcU5aeVQ1dW1ZUzF6RWg1NEZWWTJTZXBBcENFc2JrMVRXdEV3aHJIQ1h2bVV6amEzYlVBU2d3M2R6bHNLV2oycmJGeDhmQjc5RDZQRk5LRHR0WC1lZ05WRlJBQmt5NlVZ?oc=5",
+      "published": "Fri, 27 Nov 2026 22:47:00 GMT",
+      "suggestedTitleEn": "Behind the story: Bombshell Discoveries At Wyoming Mammoth Site Could Change Human History — Again",
       "suggestedTitleAr": ""
     },
     {
@@ -167,11 +167,11 @@
       "categoryAr": "التقنية والذكاء الاصطناعي",
       "categoryEn": "Technology & AI",
       "region": "global",
-      "title": "Nvidia Corporation: Strategic AI Technology Front-Runner (NASDAQ:NVDA)",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZQQ0c2MEdQbDd0WGUxUlBsVXhuTS1EOVlMMV9acXB0QTdBeW5ZVm5fV090VWwyN2VMZ0RQNS1sN2N1MVhCUzlfT0ptOUNjdUF3dzlmb19YUi03dkUyNnl1WFVTTDF4U3d3eUdYVC1jUDYzYjdjQTlya0I5S0dOSm1yMHN6SVBCbmE2ZmlYOGRBbEo2c0UxTmdZNkg?oc=5",
-      "published": "Fri, 27 Nov 2026 16:18:04 GMT",
-      "suggestedTitleEn": "Behind the story: Nvidia Corporation: Strategic AI Technology Front-Runner (NASDAQ:NVDA)",
+      "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDNCYVhQbUE2MU94UkxyalQyWkk3aFNpSk53aTRTaG5YZVp4ME5CdU1wcEVIaFhmam9NdVRweks0Q1M4ZUpMTV9pcnVEWlcwT0NKVUNySE9WcHJLYTd1TVpzZXVGdWQ1eUFhQmFTakVZZkNpelIxa2xVdkxZNFJ6eExEN3ZZQQ?oc=5",
+      "published": "Fri, 27 Nov 2026 19:21:00 GMT",
+      "suggestedTitleEn": "Behind the story: ‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
       "suggestedTitleAr": ""
     },
     {
@@ -179,11 +179,11 @@
       "categoryAr": "الاقتصاد والأعمال",
       "categoryEn": "Economy & business",
       "region": "global",
-      "title": "Executive Summary: Helping Americans Build Wealth Through Small-Business Growth",
-      "source": "Center for American Progress",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHVkQmtDcTBYWHY3VU9WQ1Y1SEZLWVBxaWM5c0VtakthZllEMkZxWGFiR0kwWUFXcW1SbE5EV0RrX0Nsd0ZiWDR5X2hlcW9nMGhFUWU0bnQ0TndNWFNKTllNa3o0UmZJaXpTd0VXWWtEQzRENWVsV1RLd09OeU1xZDA1WTJ6ZThNUU9nb1g5dHZ6U1FFSlJMbEFYVWUtWjFUOWI4QmVYRDFrajROZGpZdmdOcGVrbHBkbGpodQ?oc=5",
-      "published": "Fri, 27 Nov 2026 14:02:12 GMT",
-      "suggestedTitleEn": "Behind the story: Executive Summary: Helping Americans Build Wealth Through Small-Business Growth",
+      "title": "Economic Rundown: Stronger Growth, a Brighter Consumer Outlook, and Stubborn Cost Pressures",
+      "source": "Small Business & Entrepreneurship Council",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUFNwaWVpRm01alQyUTgtdWthTmFJZW05a3R5SVhSLW5TblFDaXZZSHlscG5Za250Q3Y0MFR0WlBrY3pKbGNUV3Z3Z093VmtSU3c?oc=5",
+      "published": "Fri, 27 Nov 2026 18:54:24 GMT",
+      "suggestedTitleEn": "Behind the story: Economic Rundown: Stronger Growth, a Brighter Consumer Outlook, and Stubborn Cost Pressures",
       "suggestedTitleAr": ""
     },
     {
@@ -215,11 +215,11 @@
       "categoryAr": "الثقافة والفنون",
       "categoryEn": "Culture & arts",
       "region": "global",
-      "title": "Football and WWII Collide in a New Movie by the ‘Friday Night Lights’ Team",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXA1eDhyRzF3cDN1WFllTURhVmxobmdDejlQNTlEOTBVVklicXowVm50QlpKUmdrVU9tRGZBSDFjcUw1MUNBZERxWGpWSUhHUlpweTFHeDdkMUxEVEVFcDY5VFFPQVcwR3BpeFlPLXNyWGZkVDJWdWtfRWNuLXRvWUlhaGxpejhVUEl6R19SZjJTeEdCUzNnQWh4WkFUYTFf?oc=5",
-      "published": "Fri, 27 Nov 2026 18:11:22 GMT",
-      "suggestedTitleEn": "Behind the story: Football and WWII Collide in a New Movie by the ‘Friday Night Lights’ Team",
+      "title": "Protesters clashed outside a Jewish Brooklyn Deli",
+      "source": "Jewish Telegraphic Agency",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzBQVWFYNjVKRWlFMHQwX1VjdjRtX2FlV0MtNVhMWDZxY0xJT0l1Ujd2ZXVfY3dkVHpjWVpyd1hWa2FyMEJ5NEJBaTl6UW5WWmxSNEVHQnNHZktNdmRDdWRzLTRlR01mRkFsemxDMG1aSVNTQlZjS0NCbU5wSjFJd2dhSEF4Wm1CN05j?oc=5",
+      "published": "Fri, 27 Nov 2026 21:30:00 GMT",
+      "suggestedTitleEn": "Behind the story: Protesters clashed outside a Jewish Brooklyn Deli",
       "suggestedTitleAr": ""
     },
     {
@@ -239,11 +239,11 @@
       "categoryAr": "الفضاء",
       "categoryEn": "Space",
       "region": "global",
-      "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRWlGWUJRWHFFc2tQaWE2T0lJWVJvOHlwYTFzYkNueWY4YThybDllSFdEbUtGVHFQU1N2MkVEdXNwWGIwbG9ZTGRERG90LU9oNXlLSlA5R3BBUFVCckJZNVVxbnlrVHJSTVNDMjVINjliSEpRUE96elV6eF9XUExuWmxLYS14Yk5DWFg4RDBLbWhoenRxTG1jUFlKQ1RTUWxQa0xVQ0h5TVFsZ0V1Nmp3aWdaMHFTVlc0S2FFYzNwTVFMSE5rcGtsYVFad1lta09JLXJ4ZWp1R2FodTN4RVppOXEtZzRBS3FMaGliVA?oc=5",
-      "published": "Fri, 27 Nov 2026 11:00:00 GMT",
-      "suggestedTitleEn": "Behind the story: Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
+      "title": "Astronomers Discover the Sun Contains 55% More Silver Than Previously Thought",
+      "source": "SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzcwYlcwT3dTZXR2ZS1Cb3lBSGV0WTlTRzRnVzdCREpfOWZUN0FCWGtTbUY1NUxKdTMzYWUtbVluUzJiYkVMODhoVzBVUHRCbk53VE12bXFmcGdibEtBRWktc3hna3FhdXl4WEdOTndRdWVlNnY2LUdUcnc0SUdrTTdRVDJxYTBNMk5MRnNNVzZUb084Q3haaFoxM2tVcm15bF8wTg?oc=5",
+      "published": "Fri, 27 Nov 2026 16:59:47 GMT",
+      "suggestedTitleEn": "Behind the story: Astronomers Discover the Sun Contains 55% More Silver Than Previously Thought",
       "suggestedTitleAr": ""
     }
   ],
